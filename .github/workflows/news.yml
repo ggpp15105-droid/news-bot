@@ -20,10 +20,39 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.11"
+
+      - name: Кэш pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-newsbot-v1
+
+      - name: Кэш модели перевода
+        uses: actions/cache@v4
+        with:
+          path: ~/.local/share/argos-translate
+          key: argos-en-ru-v1
 
       - name: Установка зависимостей
-        run: pip install feedparser requests deep-translator
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install argostranslate feedparser requests trafilatura
+
+      - name: Установка модели перевода en→ru
+        run: |
+          python - <<'EOF'
+          from argostranslate import package
+          installed = {(p.from_code, p.to_code) for p in package.get_installed_packages()}
+          if ("en", "ru") not in installed:
+              print("Скачиваю модель en→ru (~100 МБ, только при первом запуске)...")
+              package.update_package_index()
+              for pkg in package.get_available_packages():
+                  if pkg.from_code == "en" and pkg.to_code == "ru":
+                      package.install_from_path(pkg.download())
+                      break
+          print("Модель перевода готова")
+          EOF
 
       - name: Запуск бота
         run: python news_bot.py
