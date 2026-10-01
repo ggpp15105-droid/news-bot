@@ -287,3 +287,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790886385|https://lenta.ru/news/2026/10/01/putin-poshutil-posle-voprosa-o-zhelanii-rossiey-peregovorov/|Путин шуткой ответил на вопрос о желании России добиться переговоров
 1790886394|https://lenta.ru/news/2026/10/01/lyudi-postradali-pri-atake-vsu-na-rossiyskiy-region/|Люди пострадали при атаке ВСУ на российский регион
 1790886399|https://lenta.ru/news/2026/10/01/polyanskiy-zayavil-o-nagnetanii-evropoy-eskalatsii-protiv-rossii/|Полянский заявил о нагнетании Европой эскалации против России
+1790887343|https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss|ICC ends contract with French insurer amid US sanctions threat
+1790887351|https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss|Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move
+1790887358|https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss|UK Parliament told answers on tax implications are needed in Manchester City ruling
+1790887365|https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss|Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye
+1790887371|https://lenta.ru/news/2026/10/01/putin-raskryl-otnoshenie-merkel-k-minskim-soglasheniyami/|Путин раскрыл отношение Меркель к Минским соглашениям
