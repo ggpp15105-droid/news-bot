@@ -192,3 +192,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790869905|https://www.dw.com/en/finland-probes-suspected-break-ins-at-politicians-homes/a-79506236?maca=en-rss-en-all-1573-rdf|Finland probes suspected break-ins at politicians' homes
 1790869912|https://www.euronews.com/2026/10/01/woody-allen-presents-new-film-in-madrid-funded-with-3m-in-public-money|Woody Allen presents new film in Madrid, funded with €3m in public money
 1790869918|https://www.euronews.com/2026/10/01/greece-pitches-suspension-of-the-eus-right-to-asylum-during-migration-crises|Greece pitches suspension of the EU’s right to asylum during migration crises
+1790870536|https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss|Flydubai attack gives Netanyahu new security message ahead of Israel vote
+1790870543|https://www.aa.com.tr/en/eurasia/putin-expects-global-conflicts-to-continue-in-near-future/4075308|Putin expects global conflicts to continue in near future
+1790870549|https://www.aa.com.tr/en/africa/ethiopia-closes-embassy-in-eritrea-expels-10-eritrean-diplomats/4075305|Ethiopia closes embassy in Eritrea, expels 10 Eritrean diplomats
+1790870556|https://www.aa.com.tr/en/europe/european-greens-urge-eu-leaders-to-back-uks-potential-return-to-bloc/4075299|European Greens urge EU leaders to back UK's potential return to bloc
+1790870561|https://www.aa.com.tr/en/asia-pacific/japanese-ambassador-praises-turkiye-s-defense-technology-drive-at-teknofest/4075292|Japanese ambassador praises Türkiye’s defense technology drive at TEKNOFEST
