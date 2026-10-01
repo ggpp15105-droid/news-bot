@@ -34,6 +34,12 @@ RSS_FEEDS = {
     "Euronews":     "https://www.euronews.com/rss",
     "NHK World":    "https://www3.nhk.or.jp/nhkworld/en/news/rss/all.xml",
     "Anadolu":      "https://www.aa.com.tr/en/rss/default?cat=world",
+    "IGN":          "https://feeds.ign.com/ign/games-all",
+    "GameSpot":     "https://www.gamespot.com/feeds/news/",
+    "PC Gamer":     "https://www.pcgamer.com/feed/",
+    "Eurogamer":    "https://www.eurogamer.net/feed",
+    "Rock Paper Shotgun": "https://www.rockpapershotgun.com/feed",
+    "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
 }
 
 MAX_PER_SOURCE = 5
@@ -222,10 +228,23 @@ CATEGORIES = {
         "festival", "art", "museum", "exhibition", "book", "novel", "celebrity",
         "actor", "actress", "singer", "oscar", "grammy", "cannes", "netflix",
         "fashion", "theatre"],
+    "игры": ["video game", "videogame", "gaming", "gamescom", "playstation",
+        "xbox", "nintendo", "switch 2", "steam deck", "epic games", "steam",
+        "gameplay", "dlc", "patch notes", "early access", "open world", "esports",
+        "gta", "elden ring", "call of duty", "fortnite", "minecraft", "valorant",
+        "counter-strike", "dota", "cyberpunk", "witcher", "baldur", "zelda",
+        "mario", "release date", "sequel", "remake", "remaster", "game developer"],
+    "железо": ["gpu", "graphics card", "cpu", "processor", "rtx", "radeon",
+        "geforce", "nvidia", "amd", "intel", "ryzen", "monitor", "keyboard",
+        "mouse", "headset", "ssd", "motherboard", "gaming laptop", "gaming pc",
+        "razer", "logitech", "hyperx", "steelseries", "overclock", "vram", "ddr5"],
 }
 
 
-def detect_tags(title: str, summary: str) -> str:
+GAME_SOURCES = {"IGN", "GameSpot", "PC Gamer", "Eurogamer", "Rock Paper Shotgun"}
+
+
+def detect_tags(source: str, title: str, summary: str) -> str:
     tl = " " + re.sub(r"[^\w\s]", " ", f"{title} {title} {summary}").lower() + " "
     scores = {}
     for cat, words in CATEGORIES.items():
@@ -238,6 +257,8 @@ def detect_tags(title: str, summary: str) -> str:
                 s += 1
         if s > 0:
             scores[cat] = s
+    if source in GAME_SOURCES:
+        scores["игры"] = scores.get("игры", 0) + 3
     if not scores:
         return "#мир"
     top = sorted(scores.items(), key=lambda x: (-x[1], x[0]))[:2]
@@ -471,7 +492,7 @@ def post_item(item) -> bool:
 
     title_ru = translate_text(item["title"])
     body_ru = translate_text(body).strip()
-    tags = detect_tags(item["title"], item["summary"])
+        tags = detect_tags(item["source"], item["title"], item["summary"])
     text = build_post(item["source"], title_ru, body_ru, item["link"], tags)
 
     if send_message(text):
