@@ -118,6 +118,66 @@ def argos_ready() -> bool:
 
 ARGOS_OK = argos_ready()
 
+# ---------- ЗАЩИТА НАЗВАНИЙ ОТ ПЕРЕВОДА ----------
+PROTECT_TERMS = sorted([
+    # игровые студии
+    "Naughty Dog", "Rockstar Games", "CD Projekt Red", "FromSoftware",
+    "Insomniac Games", "Santa Monica Studio", "Guerrilla Games",
+    "Kojima Productions", "Larian Studios", "Respawn Entertainment",
+    "Riot Games", "Epic Games", "Team Cherry", "PlatinumGames",
+    "Square Enix", "Bandai Namco", "id Software", "Infinity Ward",
+    "Rockstar", "Bethesda", "Ubisoft", "Blizzard", "Valve", "Bungie",
+    "Remedy", "Capcom", "BioWare", "Arkane", "Crytek", "Techland",
+    "Mojang", "Gearbox", "Atlus", "Sega", "Nintendo", "Activision",
+    # игры и франшизы
+    "Intergalactic: The Heretic Prophet", "The Last of Us",
+    "Red Dead Redemption", "Grand Theft Auto", "Baldur's Gate",
+    "The Legend of Zelda", "The Elder Scrolls", "Assassin's Creed",
+    "Ghost of Tsushima", "God of War", "Horizon Forbidden West",
+    "Horizon Zero Dawn", "Metal Gear Solid", "Cyberpunk 2077",
+    "Counter-Strike", "League of Legends", "Monster Hunter",
+    "Call of Duty", "Animal Crossing", "Silent Hill", "Hollow Knight",
+    "Super Mario", "Street Fighter", "Mortal Kombat", "Final Fantasy",
+    "Resident Evil", "Death Stranding", "The Witcher", "Elden Ring",
+    "Dark Souls", "Gears of War", "Gran Turismo", "Watch Dogs",
+    "Stardew Valley", "Apex Legends", "Rainbow Six", "Dragon Quest",
+    "Star Wars", "Indiana Jones", "Starfield", "Silksong", "Fortnite",
+    "Minecraft", "Terraria", "Pokémon", "Persona", "Sekiro", "Halo",
+    "Doom", "Fallout", "Uncharted", "Sonic", "Zelda", "Hades",
+    # компании, платформы, бренды
+    "PlayStation", "Nintendo Switch", "Steam Deck", "Xbox Series",
+    "Take-Two", "Warner Bros", "OpenAI", "ChatGPT", "SpaceX",
+    "Telegram", "YouTube", "Instagram", "Facebook", "TikTok",
+    "Netflix", "Spotify", "WhatsApp", "Discord", "Twitch", "Reddit",
+    "Nvidia", "GeForce", "Radeon", "Snapdragon", "Ryzen", "Huawei",
+    "Xiaomi", "OnePlus", "iPhone", "iPad", "MacBook", "Samsung",
+    "Google", "Microsoft", "Apple", "Amazon", "Tesla", "Sony", "EA",
+], key=len, reverse=True)   # длинные названия проверяем первыми
+
+_PROTECT_PATTERNS = [
+    (term, re.compile(r"\b" + re.escape(term) + r"\b", re.IGNORECASE))
+    for term in PROTECT_TERMS
+]
+
+
+def protect_terms(text: str):
+    """Заменяем защищённые названия на метки XQ..ZX перед переводом."""
+    holders = {}
+    for i, (term, pat) in enumerate(_PROTECT_PATTERNS, 1):
+        m = pat.search(text)
+        if m:
+            key = f"XQ{i}ZX"
+            text = pat.sub(key, text)
+            holders[key] = m.group(0)   # как написано в оригинале
+    return text, holders
+
+
+def restore_terms(text: str, holders: dict) -> str:
+    """Возвращаем настоящие названия на место меток."""
+    for key, name in holders.items():
+        text = re.sub(r" *" + re.escape(key) + r" *", f" {name} ", text)
+    return re.sub(r" +", " ", text)
+
 
 # ---------- ПЕРЕВОД ----------
 def is_russian(text: str) -> bool:
@@ -171,16 +231,17 @@ def translate_text(text: str) -> str:
     text = (text or "").strip()
     if not text or is_russian(text):
         return text
-    t = translate_argos(text)
+    protected, holders = protect_terms(text)
+    t = translate_argos(protected)
     if t:
-        return t
-    if len(text) <= 480:
-        t = translate_mymemory(text)
+        return restore_terms(t, holders)
+    if len(protected) <= 480:
+        t = translate_mymemory(protected)
         if t:
-            return t
-    t = translate_google(text)
+            return restore_terms(t, holders)
+    t = translate_google(protected)
     if t:
-        return t
+        return restore_terms(t, holders)
     return text
 
 
