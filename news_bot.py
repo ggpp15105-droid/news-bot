@@ -9,8 +9,9 @@ import feedparser
 from deep_translator import GoogleTranslator
 
 # ========== НАСТРОЙКИ ==========
-BOT_TOKEN = os.getenv("BOT_TOKEN")                 # секрет из GitHub
-CHANNEL_ID = os.getenv("CHANNEL_ID", "@world_1news_bot")
+BOT_TOKEN = os.getenv("BOT_TOKEN")                        # секрет GitHub
+CHANNEL_ID = os.getenv("CHANNEL_ID", "@world_1news_bot")  # секрет GitHub
+MM_EMAIL = os.getenv("MM_EMAIL", "")  # почта для MyMemory: лимит 50 000 симв/день вместо 5 000
 
 RSS_FEEDS = {
     "BBC World":    "http://feeds.bbci.co.uk/news/world/rss.xml",
@@ -20,9 +21,9 @@ RSS_FEEDS = {
     "The Guardian": "https://www.theguardian.com/world/rss",
 }
 
-MAX_PER_SOURCE = 5       # сколько последних новостей брать с источника
+MAX_PER_SOURCE = 5       # последних новостей с каждого источника
 MAX_POSTS_PER_RUN = 5    # максимум постов за один запуск
-POST_DELAY = 3           # пауза между постами, сек
+POST_DELAY = 3           # пауза между постами (сек)
 POSTED_FILE = "posted_news.txt"
 
 # ========== ЛОГИКА ==========
@@ -34,8 +35,8 @@ if not BOT_TOKEN:
     raise SystemExit("BOT_TOKEN не задан! Проверь секреты GitHub")
 
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
-translator = GoogleTranslator(source="auto", target="ru")
-google_blocked = False   # Google упёрся в лимит — дальше не дёргаем
+google = GoogleTranslator(source="auto", target="ru")
+google_off = False
 
 
 def load_posted() -> set:
@@ -55,20 +56,47 @@ def clean_html(raw: str) -> str:
     return html.unescape(re.sub(r"<[^<]+?>", "", raw or ""))
 
 
-def translate_text(text: str) -> str:
-    """Перевод на русский. Если Google упёрся в лимит — публикуем оригинал."""
-    global google_blocked
-    if not text or google_blocked:
-        return text
-    for attempt in range(1, 4):
+# ---------- ПЕРЕВОД ----------
+# №1 MyMemory — без ключей (основной), №2 Google — запасной, №3 оригинал
+
+def translate_mymemory(text: str):
+    try:
+        params = {"q": text[:480], "langpair": "en|ru"}  # все источники на английском
+        if MM_EMAIL:
+            params["de"] = MM_EMAIL
+        r = requests.get("https://api.mymemory.translated.net/get",
+                         params=params, timeout=20)
+        data = r.json()
+        if str(data.get("responseStatus")) == "200":
+            t = (data.get("responseData") or {}).get("translatedText", "")
+            if t and "MYMEMORY WARNING" not in t:
+                return t
+    except Exception as e:
+        log.warning(f"MyMemory: {e}")
+    return None
+
+
+def translate_google(text: str):
+    global google_off
+    if google_off:
+        return None
+    for attempt in range(1, 3):
         try:
-            return translator.translate(text[:4000]) or text
+            result = google.translate(text[:4000])
+            if result:
+                return result
         except Exception as e:
-            log.warning(f"Перевод, попытка {attempt}/3 не удалась: {e}")
-            time.sleep(8 * attempt)
-    google_blocked = True
-    log.error("Google ограничил запросы — остальные посты уйдут без перевода")
-    return text
+            log.warning(f"Google, попытка {attempt}/2: {e}")
+            time.sleep(4)
+    google_off = True
+    log.warning("Google отключён до конца запуска — лимит IP")
+    return None
+
+
+def translate_text(text: str) -> str:
+    if not text:
+        return text
+    return translate_mymemory(text) or translate_google(text) or text
 
 
 def fetch_news() -> list:
@@ -91,7 +119,6 @@ def fetch_news() -> list:
 
 
 def send_message(text: str) -> bool:
-    """Отправка в канал. При ошибке показываем ПОЛНЫЙ ответ Telegram."""
     try:
         r = requests.post(
             f"{API_URL}/sendMessage",
@@ -99,7 +126,7 @@ def send_message(text: str) -> bool:
             timeout=30,
         )
         if r.status_code != 200:
-            log.error(f"Telegram ответил {r.status_code}: {r.text[:500]}")
+            log.error(f"Telegram ответил {r.status_code}: {r.text[:300]}")
             return False
         return True
     except Exception as e:
