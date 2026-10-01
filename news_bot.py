@@ -9,7 +9,7 @@ import feedparser
 import trafilatura
 from deep_translator import GoogleTranslator
 
-# Argos — офлайн-переводчик: работает без интернета и без лимитов
+# Argos — офлайн-переводчик: без интернета и лимитов
 try:
     import argostranslate.translate as argo_translate
     from argostranslate import package as argo_package
@@ -33,7 +33,8 @@ RSS_FEEDS = {
 MAX_PER_SOURCE = 5       # последних новостей с каждого источника
 MAX_POSTS_PER_RUN = 5    # максимум постов за один запуск
 POST_DELAY = 3           # пауза между постами (сек)
-MAX_BODY_CHARS = 6000    # максимум символов полного текста статьи
+PRE_CUT_CHARS = 4200     # обрезка оригинала перед переводом (скорость)
+TG_LIMIT = 4096          # жёсткий лимит Telegram на одно сообщение
 POSTED_FILE = "posted_news.txt"
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -53,7 +54,6 @@ google_off = False
 
 
 def argos_ready() -> bool:
-    """Установлена ли офлайн-модель перевода en→ru."""
     if argo_package is None:
         return False
     try:
@@ -115,56 +115,61 @@ def translate_text(text: str) -> str:
     t = translate_argos(text)
     if t:
         return t
-    if len(text) <= 480:            # MyMemory работает только с короткими кусками
+    if len(text) <= 480:
         t = translate_mymemory(text)
         if t:
             return t
     t = translate_google(text)
     if t:
         return t
-    return text                      # крайний случай — публикуем оригинал
+    return text
 
 
-# ---------- ПОЛУЧЕНИЕ НОВОСТЕЙ ----------
+# ---------- СТАТЬЯ ----------
 def clean_html(raw: str) -> str:
     return html.unescape(re.sub(r"<[^<]+?>", "", raw or ""))
 
 
-def image_from_entry(entry) -> str:
-    """Достаём картинку из самой RSS-ленты."""
-    for key in ("media_content", "media_thumbnail"):
-        for m in entry.get(key, []) or []:
-            if m.get("url"):
-                return m["url"]
-    for l in entry.get("links", []) or []:
-        if l.get("rel") == "enclosure" and str(l.get("type", "")).startswith("image"):
-            return l.get("href")
-    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', entry.get("summary", "") or "")
-    return html.unescape(m.group(1)) if m else None
-
-
-def image_from_html(page: str) -> str:
-    """Достаём og:image со страницы статьи (обычно лучшая картинка)."""
-    if not page:
-        return None
-    m = (re.search(r'property=["\']og:image["\'][^>]*content=["\']([^"\']+)["\']', page)
-         or re.search(r'content=["\']([^"\']+)["\'][^>]*property=["\']og:image["\']', page))
-    return html.unescape(m.group(1)) if m else None
-
-
-def get_article(link: str):
-    """Скачиваем статью и вытаскиваем чистый полный текст + картинку."""
-    body, image = "", None
+def get_article(link: str) -> str:
+    """Скачиваем страницу и вытаскиваем чистый полный текст статьи."""
     try:
         r = requests.get(link, headers=HEADERS, timeout=15)
         if r.ok and r.text:
             body = trafilatura.extract(r.text, include_comments=False,
                                        include_tables=False) or ""
-            body = re.sub(r"\n{3,}", "\n\n", body).strip()[:MAX_BODY_CHARS]
-            image = image_from_html(r.text)
+            body = re.sub(r"\n{3,}", "\n\n", body).strip()
+            return body[:12000]
     except Exception as e:
         log.warning(f"Статья не скачалась: {e}")
-    return body, image
+    return ""
+
+
+def smart_cut(s: str, limit: int) -> str:
+    """Обрезка по концу предложения, не ломая HTML-сущности."""
+    if len(s) <= limit:
+        return s
+    cut = s[:limit]
+    amp = cut.rfind("&")                       # не режем &amp; и подобные посередине
+    if amp != -1 and ";" not in cut[amp:]:
+        cut = cut[:amp]
+    ends = [m.end() for m in re.finditer(r"[.!?…]", cut)]
+    if ends and ends[-1] > len(cut) * 0.5:
+        cut = cut[:ends[-1]]                   # режем по последнему предложению
+    return cut.rstrip() + " …"
+
+
+def build_post(source: str, title: str, body: str, link: str) -> str:
+    """Всё в одном сообщении: источник, заголовок, текст, ссылка в конце."""
+    link_html = f"🔗 <a href=\"{html.escape(link, quote=True)}\">📰 Читать в оригинале</a>"
+    header = f"🌍 <b>{html.escape(source)}</b>\n\n<b>{html.escape(title)}</b>"
+    if body:
+        body_esc = html.escape(body).strip()
+        # бюджет: лимит Telegram минус шапка, ссылка и разделители
+        budget = TG_LIMIT - len(header) - len(link_html) - 20
+        if len(body_esc) > budget:
+            body_esc = smart_cut(body_esc, budget)
+        return f"{header}\n\n{body_esc}\n\n{link_html}"
+    return f"{header}\n\n{link_html}"
 
 
 def fetch_news() -> list:
@@ -179,7 +184,6 @@ def fetch_news() -> list:
                     "title": clean_html(entry.get("title", "")),
                     "summary": clean_html(entry.get("summary", ""))[:1000],
                     "link": entry.link,
-                    "rss_image": image_from_entry(entry),
                 })
             log.info(f"{source}: получено {len(feed.entries)}")
         except Exception as e:
@@ -205,8 +209,7 @@ def send_message(text: str) -> bool:
     try:
         r = requests.post(
             f"{API_URL}/sendMessage",
-            json={"chat_id": CHANNEL_ID, "text": text[:4000],
-                  "parse_mode": "HTML", "disable_web_page_preview": True},
+            json={"chat_id": CHANNEL_ID, "text": text, "parse_mode": "HTML"},
             timeout=30,
         )
         if r.status_code != 200:
@@ -218,80 +221,19 @@ def send_message(text: str) -> bool:
         return False
 
 
-def send_photo(photo_url: str, caption: str) -> bool:
-    try:
-        r = requests.post(
-            f"{API_URL}/sendPhoto",
-            json={"chat_id": CHANNEL_ID, "photo": photo_url,
-                  "caption": caption[:1024], "parse_mode": "HTML"},
-            timeout=40,
-        )
-        if r.status_code != 200:
-            log.warning(f"sendPhoto {r.status_code}: {r.text[:200]}")
-            return False
-        return True
-    except Exception as e:
-        log.warning(f"sendPhoto: {e}")
-        return False
-
-
-def split_text(text: str, limit: int = 3500) -> list:
-    """Режем длинный текст на части по абзацам (лимит Telegram — 4096)."""
-    parts, cur = [], ""
-    for para in text.split("\n\n"):
-        if len(cur) + len(para) + 2 <= limit:
-            cur = f"{cur}\n\n{para}".strip()
-        else:
-            if cur:
-                parts.append(cur)
-            while len(para) > limit:
-                parts.append(para[:limit])
-                para = para[limit:]
-            cur = para
-    if cur:
-        parts.append(cur)
-    return parts
-
-
 # ---------- ПУБЛИКАЦИЯ ----------
 def post_item(item) -> bool:
     log.info(f"Обрабатываю: {item['title'][:60]}")
-
-    body, img = get_article(item["link"])
+    body = get_article(item["link"])
     if not body:
-        body = item["summary"]        # сайт не отдал текст — берём описание из RSS
-    image = img or item.get("rss_image")
+        body = item["summary"]                 # сайт не отдал текст — берём описание из RSS
+    if len(body) > PRE_CUT_CHARS:
+        body = smart_cut(body, PRE_CUT_CHARS)  # режем оригинал до перевода (скорость)
 
     title_ru = translate_text(item["title"])
-    body_ru = translate_text(body)
-    paras = [p.strip() for p in body_ru.split("\n\n") if p.strip()]
-    lead = paras[0] if paras else ""
-
-    caption = f"🌍 <b>{html.escape(item['source'])}</b>\n\n<b>{html.escape(title_ru)}</b>"
-    if lead:
-        caption += f"\n\n{html.escape(lead)}"
-    caption = caption[:1020]
-
-    sent = False
-    if image:
-        sent = send_photo(image, caption)
-    if not sent:
-        sent = send_message(caption)
-
-    link_line = f"🔗 <a href=\"{html.escape(item['link'])}\">📰 Читать в оригинале</a>"
-    rest = "\n\n".join(paras[1:]).strip()
-    if rest:
-        chunks = split_text(rest)[:4]
-        chunks[-1] += "\n\n" + link_line
-        for chunk in chunks:
-            if send_message(chunk):
-                sent = True
-            time.sleep(1)
-    else:
-        if send_message(link_line):
-            sent = True
-
-    return sent
+    body_ru = translate_text(body).strip()
+    text = build_post(item["source"], title_ru, body_ru, item["link"])
+    return send_message(text)
 
 
 def post_news():
