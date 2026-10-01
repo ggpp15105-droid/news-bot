@@ -47,7 +47,6 @@ RSS_FEEDS = {
     "Коммерсантъ":  "https://www.kommersant.ru/RSS/news.xml",
     "ТАСС":         "https://tass.ru/rss/v2.xml",
     "Ведомости":    "https://www.vedomosti.ru/rss/news",
-    "Shazoo":       "https://www.shazoo.ru/rss/",
     "Игромания":    "https://www.igromania.ru/rss/news.xml",
     "3DNews":       "https://www.3dnews.ru/news/rss/",
     # --- спорт ---
@@ -55,7 +54,6 @@ RSS_FEEDS = {
     "Sky Sports":     "https://www.skysports.com/rss/12040",
     "CBS Sports":     "https://www.cbssports.com/rss/headlines/",
     "Guardian Sport": "https://www.theguardian.com/uk/sport/rss",
-    "Eurosport":    "https://www.eurosport.com/rss.xml",
 }
 
 MAX_PER_SOURCE = 5
@@ -77,7 +75,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"}
 logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s | %(levelname)s | %(message)s")
-logging.getLogger().setLevel(logging.WARNING)   # глушим отладку Argos в корневом логгере
+logging.getLogger().setLevel(logging.WARNING)
 log = logging.getLogger("news-bot")
 log.setLevel(logging.INFO)
 
@@ -381,6 +379,9 @@ def make_lead(body: str, summary: str, limit: int) -> str:
     paras = [p.strip() for p in src.split("\n\n") if p.strip()]
     out, total = [], 0
     for p in paras:
+        # пропускаем мусорные строки вроде "- Published" или "October 1, 2026"
+        if out and len(p.split()) < 4:
+            continue
         if out and total + len(p) + 2 > limit:
             break
         out.append(p)
