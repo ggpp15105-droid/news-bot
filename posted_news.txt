@@ -247,3 +247,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790879147|https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss|Palestinian children in Israeli military detention
 1790879153|https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss|US Supreme Court agrees to take up Trump’s ICE detention policy
 1790879161|https://www.euronews.com/2026/10/01/france-mediapart-publishes-new-antisemitic-screenshots-attributed-to-jordan-bardella|France: Mediapart publishes new antisemitic screenshots attributed to Jordan Bardella
+1790880256|https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss|School protests spread as fires, blockades deepen unrest in France
+1790880264|https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html|Google unveils latest AI model, but Wall Street wants a breakout personal agent
+1790880271|https://www.euronews.com/2026/10/01/kyrylo-budanov-european-security-without-the-us-would-be-very-dangerous|Kyrylo Budanov: European security without the US would be ‘very dangerous’
+1790880278|https://www.euronews.com/2026/10/01/jose-sevilla-resigns-as-unicaja-chair-and-declines-to-remain-at-the-bank|José Sevilla resigns as Unicaja chair and declines to remain at the bank
+1790880285|https://www.euronews.com/2026/10/01/europe-went-all-in-on-soft-power-for-too-long-belgian-defence-minister-says|Europe went all in on soft power for too long, Belgian defence minister says
