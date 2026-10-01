@@ -434,10 +434,12 @@ def is_junk(p: str) -> bool:
         return True
     if p.startswith(("-", "–", "—", "•")):       # буллеты-списки (Anadolu и др.)
         return True
-    if "Update:" in p:                           # метки обновления
+    if "Update:" in p:                           # метки обновления (Anadolu)
         return True
     digits = sum(ch.isdigit() for ch in p)
     if digits > len(p) * 0.3:                    # больше 30% цифр — не текст
+        return True
+    if re.match(r"^\s*\d{1,2}[./]\d{1,2}[./]\d{2,4}\b", p):   # начинается с даты 01.10.2026
         return True
     return False
 
@@ -456,10 +458,14 @@ def make_lead(body: str, summary: str, limit: int) -> str:
         total += len(p) + 2
         if total >= limit * 0.85:
             break
-    text = "\n\n".join(out) if out else src[:limit]
+    text = "\n\n".join(out)
+    if not text:
+        return ""        # лучше пост без лида, чем пост с мусором
     if len(text) > limit:
         text = smart_cut(text, limit, mark=False)
     return text
+
+
 
 
 
