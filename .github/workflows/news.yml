@@ -26,7 +26,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: pip-newsbot-v1
+          key: pip-newsbot-v2
 
       - name: Кэш модели перевода
         uses: actions/cache@v4
@@ -37,7 +37,7 @@ jobs:
       - name: Установка зависимостей
         run: |
           pip install torch --index-url https://download.pytorch.org/whl/cpu
-          pip install argostranslate feedparser requests trafilatura
+          pip install argostranslate feedparser requests trafilatura deep-translator
 
       - name: Установка модели перевода en→ru
         run: |
