@@ -357,3 +357,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790897511|https://tass.ru/obschestvo/28173839|Терапию "Аллергардой" следует начинать за полгода до сезона пыления
 1790897515|https://tass.ru/mezhdunarodnaya-panorama/28173843|Трамп заявил, что Европу "пожирают заживо" из-за кризиса
 1790897519|https://tass.ru/ekonomika/28173845|Нефтегазовые доходы РФ снизятся до 2,7% ВВП в 2029 году
+1790898333|https://lenta.ru/news/2026/10/02/raskryto-znachenie-osvobozhdeniya-vs-rossii-sela-rublenoe/|Раскрыто значение освобождения ВС России села Рубленое
+1790898337|https://lenta.ru/news/2026/10/02/paren-obnaruzhil-u-dveri-konvert-ot-neznakomtsa-i-udivilsya-ego-soderzhimomu/|Парень обнаружил у двери конверт от незнакомца и удивился его содержимому
+1790898342|https://lenta.ru/news/2026/10/02/18prosales/|Стоимость нового iPhone 18 Pro рухнула в России
+1790898347|https://lenta.ru/news/2026/10/02/v-mid-rossii-zayavili-o-postavlennoy-na-grani-vyzhivaniya-kuby/|В МИД России заявили о поставленной на грани выживания Кубы
+1790898351|https://www.kommersant.ru/doc/8991826|Во аэропорту Внуково ввели временные ограничения на полеты
