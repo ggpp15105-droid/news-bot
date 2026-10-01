@@ -47,7 +47,7 @@ RSS_FEEDS = {
     "Коммерсантъ":  "https://www.kommersant.ru/RSS/news.xml",
     "ТАСС":         "https://tass.ru/rss/v2.xml",
     "Ведомости":    "https://www.vedomosti.ru/rss/news",
-    "DTF":          "https://dtf.ru/rss/news",
+    "Shazoo":       "https://www.shazoo.ru/rss/",
     "Игромания":    "https://www.igromania.ru/rss/news.xml",
     "3DNews":       "https://www.3dnews.ru/news/rss/",
     # --- спорт ---
@@ -55,7 +55,7 @@ RSS_FEEDS = {
     "Sky Sports":     "https://www.skysports.com/rss/12040",
     "CBS Sports":     "https://www.cbssports.com/rss/headlines/",
     "Guardian Sport": "https://www.theguardian.com/uk/sport/rss",
-    "Чемпионат":      "https://www.championat.com/rss/news.xml",
+    "Eurosport":    "https://www.eurosport.com/rss.xml",
 }
 
 MAX_PER_SOURCE = 5
@@ -92,10 +92,10 @@ def _digest_hours() -> list:
 DIGEST_HOURS_MSK = _digest_hours()
 
 # ========== ЛОГИКА ==========
-logging.basicConfig(level=logging.INFO,
+logging.basicConfig(level=logging.WARNING,
                     format="%(asctime)s | %(levelname)s | %(message)s")
-logging.getLogger("argostranslate").setLevel(logging.WARNING)   # тишина в логе
 log = logging.getLogger("news-bot")
+log.setLevel(logging.INFO)   # наш бот пишет как обычно, отладка Argos — тишина
 
 if not BOT_TOKEN:
     raise SystemExit("BOT_TOKEN не задан! Проверь секреты GitHub")
