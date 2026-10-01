@@ -212,3 +212,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790873399|https://www.aa.com.tr/en/eurasia/zelenskyy-announces-1st-combat-use-of-ukraines-fp-7-missile/4075367|Zelenskyy announces 1st combat use of Ukraine's FP-7 missile
 1790873405|https://www.aa.com.tr/en/science-technology/tech-giants-eye-orbit-for-ai-data-centers-as-energy-demand-soars/4075353|Tech giants eye orbit for AI data centers as energy demand soars
 1790873411|https://www.aa.com.tr/en/turkiye/turkiye-ukraine-free-trade-agreement-takes-effect/4075329|Türkiye, Ukraine free trade agreement takes effect
+1790874161|https://www.aljazeera.com/economy/2026/10/1/chinese-hackers-impersonated-ai-experts-to-target-us-policy-minds?traffic_source=rss|Chinese hackers impersonated AI experts to target US policy minds
+1790874168|https://www.dw.com/en/after-2-years-in-office-how-has-claudia-sheinbaum-changed-mexico/a-79506055?maca=en-rss-en-all-1573-rdf|After 2 years in office, how has Claudia Sheinbaum changed Mexico?
+1790874176|https://www.euronews.com/2026/10/01/uzbekistans-rich-cultural-heritage-on-display-in-qatar|Uzbekistan’s rich cultural heritage on display in Qatar
+1790874182|https://www.euronews.com/2026/10/01/elon-musk-returns-to-trump-administration-to-co-lead-pentagon-war-study|Elon Musk returns to Trump administration to co-lead Pentagon war study
+1790874189|https://www.aa.com.tr/en/eurasia/russia-warns-of-rigid-response-to-any-actions-threatening-kaliningrad/4075376|Russia warns of 'rigid response' to 'any' actions threatening Kaliningrad
