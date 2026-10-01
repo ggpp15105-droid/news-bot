@@ -207,3 +207,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790872552|https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-evening|Latest news bulletin | October 1st, 2026 – Evening
 1790872558|https://www.aa.com.tr/en/turkiye/turkish-defense-firm-highlights-production-modernization-collaboration-with-azerbaijan/4075340|Turkish defense firm highlights production, modernization collaboration with Azerbaijan
 1790872565|https://www.aa.com.tr/en/eurasia/former-chess-champion-kasparov-told-to-take-precautions-amid-alleged-russian-assassination-plot/4075337|Former chess champion Kasparov told to take precautions amid alleged Russian assassination plot
+1790873386|https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss|Jerusalem Daily: Netanyahu calls flight incident another 9/11
+1790873393|https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss|Who is Man City whistleblower Rui Pinto and what has become of him?
+1790873399|https://www.aa.com.tr/en/eurasia/zelenskyy-announces-1st-combat-use-of-ukraines-fp-7-missile/4075367|Zelenskyy announces 1st combat use of Ukraine's FP-7 missile
+1790873405|https://www.aa.com.tr/en/science-technology/tech-giants-eye-orbit-for-ai-data-centers-as-energy-demand-soars/4075353|Tech giants eye orbit for AI data centers as energy demand soars
+1790873411|https://www.aa.com.tr/en/turkiye/turkiye-ukraine-free-trade-agreement-takes-effect/4075329|Türkiye, Ukraine free trade agreement takes effect
