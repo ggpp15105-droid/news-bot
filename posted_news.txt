@@ -347,3 +347,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790895890|https://lenta.ru/news/2026/10/02/uchitelnitsa-vykrikivala-imya-muzha-vo-vremya-iznasilovaniya-10-letnego-shkolnika/|Учительница выкрикивала имя мужа во время изнасилования 10-летнего школьника
 1790895895|https://tass.ru/armiya-i-opk/28173823|Марочко: освобождение Рубленого обеспечило ВС РФ огневой контроль реки Козинки
 1790895898|https://tass.ru/obschestvo/28173821|GFCN: стелы в Буче содержат имена 198 лиц, не относящихся к "мирным жителям"
+1790896738|https://lenta.ru/news/2026/10/02/zaharova-otvetila-na-slova-makrona-o-rossiyskom-gaze-frazoy-iz-sovetskoy-komedii/|Захарова ответила на слова Макрона о российском газе фразой из советской комедии
+1790896742|https://lenta.ru/news/2026/10/02/v-nato-otchitali-evrokomissara-posle-ugroz-v-adres-rossii/|В НАТО отчитали еврокомиссара после угроз в адрес России
+1790896750|https://www.kommersant.ru/doc/8991825|В Петербурге ликвидировали открытое горение в особняке Миллера
+1790896754|https://www.kommersant.ru/doc/8991823|«Известия» сообщили о крушении вертолета в Воронежской области
+1790896758|https://tass.ru/kosmos/28173835|Crew Dragon с космонавтом Тетерятниковым пристыковался к МКС
