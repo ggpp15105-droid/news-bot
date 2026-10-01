@@ -187,3 +187,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790868884|https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss|Western militaries are undermining Ukraine’s defence, experts say
 1790868891|https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html|10-year Treasury yield climbs to a 24-year high amid relentless global bond sell-off
 1790868899|https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html|GM reports 5.5% decline in third-quarter U.S. sales as EV sales drop
+1790869891|https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss|Netanyahu says flight attacker 'underwent Islamist radical indoctrination'
+1790869897|https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss|LIVE: Denmark vs Portugal – UEFA Nations League
+1790869905|https://www.dw.com/en/finland-probes-suspected-break-ins-at-politicians-homes/a-79506236?maca=en-rss-en-all-1573-rdf|Finland probes suspected break-ins at politicians' homes
+1790869912|https://www.euronews.com/2026/10/01/woody-allen-presents-new-film-in-madrid-funded-with-3m-in-public-money|Woody Allen presents new film in Madrid, funded with €3m in public money
+1790869918|https://www.euronews.com/2026/10/01/greece-pitches-suspension-of-the-eus-right-to-asylum-during-migration-crises|Greece pitches suspension of the EU’s right to asylum during migration crises
