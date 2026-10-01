@@ -9,3 +9,8 @@
 1790858633|DW|Жестокое нападение разжигает страхи за безопасность женщин в Индии|https://www.dw.com/en/a-brutal-assault-reignites-fears-over-women-s-safety-in-india/a-79501471?maca=en-rss-en-all-1573-rdf
 1790858639|Euronews|Молодые мастера боевых искусств тренируются в древних горных школах Китая|https://www.euronews.com/video/2026/10/01/young-martial-artists-train-in-chinas-ancient-mountain-schools
 1790858651|Anadolu|Швейцарские ледники потеряют более 5% объема льда в 2026 году|https://www.aa.com.tr/en/europe/swiss-glaciers-lose-over-5-of-ice-volume-in-2026/4075013
+1790859493|Euronews|Никакого облегчения на насосе: дизельный двигатель ЕС достиг нового рекорда в 2,24 евро за литр|https://www.euronews.com/2026/10/01/no-relief-at-the-pump-eu-diesel-hits-new-record-of-224-a-litre
+1790859504|Anadolu|Специальный докладчик ООН призвал Малайзию прекратить репатриацию граждан Мьянмы|https://www.aa.com.tr/en/asia-pacific/un-special-rapporteur-urges-malaysia-to-halt-repatriation-of-myanmar-nationals/4075062
+1790859518|Anadolu|Чиновник ООН предупреждает, что бездействие по потокам удобрений в Ормуз может привести к нехватке продовольствия|https://www.aa.com.tr/en/middle-east/un-official-warns-inaction-on-hormuz-fertilizer-flows-could-push-millions-into-food-insecurity/4075061
+1790859532|Anadolu|WhatsApp вводит дополнительный родительский контроль для подростков|https://www.aa.com.tr/en/world/whatsapp-introduces-optional-parental-controls-for-teenagers/4075004
+1790859547|Anadolu|Трамп отказался поддержать Нетаньяху в преддверии выборов в Израиле|https://www.aa.com.tr/en/world/trump-declines-to-endorse-netanyahu-ahead-of-israeli-elections/4074936
