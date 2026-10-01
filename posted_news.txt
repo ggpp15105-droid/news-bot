@@ -282,3 +282,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790885255|https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss|What’s driving Israeli settler violence in the occupied West Bank?
 1790885260|https://news.sky.com/story/french-schools-set-alight-by-students-in-violent-protests-over-teacher-shortages-and-run-down-buildings-13594112|French schools set alight by students in protests over cuts
 1790885267|https://www.tomshardware.com/desktops/gaming-pcs/maingears-new-program-offers-instant-trade-ins-for-gaming-pc-buyers-delivers-quotes-for-old-laptops-phones-tablets-smartwatches-headphones-cameras-lenses-and-microphones-in-minutes|Maingear’s new program offers instant trade-ins for gaming PC buyers
+1790886375|https://lenta.ru/news/2026/10/01/v-mirotvorcheskih-initsiativah-evropy-obnaruzhili-ogovorku/|В миротворческих инициативах Европы обнаружили оговорку
+1790886380|https://lenta.ru/news/2026/10/01/futbolist-sbornoy-danii-zabil-gol-v-vorota-portugalii-i-otmetil-ego-v-stile-ronaldu/|Футболист сборной Дании забил гол в ворота Португалии и отметил его в стиле Роналду
+1790886385|https://lenta.ru/news/2026/10/01/putin-poshutil-posle-voprosa-o-zhelanii-rossiey-peregovorov/|Путин шуткой ответил на вопрос о желании России добиться переговоров
+1790886394|https://lenta.ru/news/2026/10/01/lyudi-postradali-pri-atake-vsu-na-rossiyskiy-region/|Люди пострадали при атаке ВСУ на российский регион
+1790886399|https://lenta.ru/news/2026/10/01/polyanskiy-zayavil-o-nagnetanii-evropoy-eskalatsii-protiv-rossii/|Полянский заявил о нагнетании Европой эскалации против России
