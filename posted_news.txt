@@ -107,3 +107,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790861948|https://www.france24.com/en/video/20261001-students-face-riot-police-as-protests-over-school-conditions-escalate-in-france|Students face riot police as protests over school conditions escalate in France
 1790861954|https://www.france24.com/en/video/20261001-hundreds-held-dozens-wounded-as-french-school-protests-escalate|Hundreds held, dozens wounded as French school protests escalate
 1790861960|https://www.france24.com/en/tv-shows/french-connections/20261001-the-hunting-lobby-behind-france-s-rural-power|The hunting lobby: Behind France's rural power
+1790862672|https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss|Blasts heard in Addis Ababa as Ethiopia conflict widens in the north
+1790862678|https://www.france24.com/en/video/20261001-uk-france-end-on-in-one-out-channel-migrant-exchange-deal|UK, France end 'on in, one out' Channel migrant exchange deal
+1790862684|https://www.france24.com/en/video/20261001-france-demands-belt-tightening-in-2027-budget-as-investors-sour-on-its-debt|France demands belt-tightening in 2027 budget as investors sour on its debt
+1790862690|https://www.france24.com/en/video/20261001-france-s-2027-budget-plan-puts-pressure-on-local-services|France’s 2027 budget plan puts pressure on local services
+1790862695|https://www.france24.com/en/video/20261001-pink-october-raising-awareness-about-breast-cancer|Pink October: Raising awareness about breast cancer
