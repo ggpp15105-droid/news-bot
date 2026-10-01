@@ -75,6 +75,11 @@ MSK = timezone(timedelta(hours=3))
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"}
+logging.basicConfig(level=logging.INFO,
+                    format="%(asctime)s | %(levelname)s | %(message)s")
+logging.getLogger().setLevel(logging.WARNING)   # глушим отладку Argos в корневом логгере
+log = logging.getLogger("news-bot")
+log.setLevel(logging.INFO)
 
 
 def _digest_hours() -> list:
