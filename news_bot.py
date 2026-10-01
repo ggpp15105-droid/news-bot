@@ -38,7 +38,6 @@ RSS_FEEDS = {
     # --- игры и железо ---
     "IGN":          "https://feeds.ign.com/ign/games-all",
     "GameSpot":     "https://www.gamespot.com/feeds/news/",
-    "VG247":        "https://www.vg247.com/feed",
     "Eurogamer":    "https://www.eurogamer.net/feed",
     "Rock Paper Shotgun": "https://www.rockpapershotgun.com/feed",
     "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
@@ -448,8 +447,8 @@ def make_lead(body: str, summary: str, limit: int) -> str:
     src = body or summary or ""
     paras = [p.strip() for p in src.split("\n\n") if p.strip()]
     out, total = [], 0
-    for p in paras:
-        if out and is_junk(p):                   # первый абзац берём всегда
+        for p in paras:
+        if is_junk(p):                           # мусор пропускаем ВСЕГДА, включая первый
             continue
         if out and total + len(p) + 2 > limit:
             break
