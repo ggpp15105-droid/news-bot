@@ -40,12 +40,21 @@ RSS_FEEDS = {
     "Eurogamer":    "https://www.eurogamer.net/feed",
     "Rock Paper Shotgun": "https://www.rockpapershotgun.com/feed",
     "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
+    "Lenta.ru":     "https://lenta.ru/rss/news",
+    "РИА Новости":  "https://ria.ru/export/rss2/archive/index.rss",
+    "ТАСС":         "https://tass.ru/rss/v2.xml",
+    "РБК":          "https://www.rbc.ru/v10/news.rss",
+    "StopGame":     "https://stopgame.ru/rss/news",
+    "Игромания":    "https://www.igromania.ru/rss/news.xml",
+    "3DNews":       "https://www.3dnews.ru/news/rss/",
 }
 
 MAX_PER_SOURCE = 5
 MAX_POSTS_PER_RUN = 5
 POST_DELAY = 3
-PRE_CUT_CHARS = 4200
+LEAD_SRC_CHARS = 2500   # сколько символов статьи забираем для перевода (лид)
+LEAD_LIMIT = 650        # максимум знаков на «главную мысль»
+CAPTION_LIMIT = 1024    # лимит подписи к фото/видео в Telegram
 TG_LIMIT = 4096
 POSTED_FILE = "posted_news.txt"
 DIGEST_FILE = "digest.txt"
@@ -97,6 +106,14 @@ ARGOS_OK = argos_ready()
 
 
 # ---------- ПЕРЕВОД ----------
+def is_russian(text: str) -> bool:
+    if not text:
+        return False
+    cyr = len(re.findall(r"[а-яё]", text.lower()))
+    lat = len(re.findall(r"[a-z]", text.lower()))
+    return cyr > lat
+
+
 def translate_argos(text: str):
     if not (ARGOS_OK and text):
         return None
@@ -138,8 +155,8 @@ def translate_google(text: str):
 
 def translate_text(text: str) -> str:
     text = (text or "").strip()
-    if not text:
-        return ""
+    if not text or is_russian(text):
+        return text
     t = translate_argos(text)
     if t:
         return t
@@ -197,50 +214,70 @@ CATEGORIES = {
     "конфликты": ["war", "military", "attack", "missile", "drone", "airstrike",
         "troops", "ceasefire", "killed", "clash", "clashes", "terror", "explosion",
         "bomb", "bombing", "army", "militant", "shelling", "hostage", "weapon",
-        "invasion", "soldier", "ukraine", "gaza", "rebel", "insurgent"],
+        "invasion", "soldier", "ukraine", "gaza", "rebel", "insurgent",
+        "война", "военный", "армия", "обстрел", "ракета", "дрон", "беспилотник",
+        "теракт", "взрыв", "перемирие", "заложник", "наступление", "бои"],
     "политика": ["election", "president", "minister", "government", "parliament",
         "senate", "vote", "sanctions", "summit", "diplomat", "diplomacy", "court",
         "judge", "protest", "referendum", "coup", "opposition", "treaty", "policy",
         "immigration", "border", "asylum", "embassy", "kremlin", "white house",
-        "north korea", "prime minister", "presidential", "mayor", "governor"],
+        "north korea", "prime minister", "presidential", "mayor", "governor",
+        "выборы", "президент", "министр", "правительство", "парламент", "санкции",
+        "саммит", "дипломат", "суд", "протест", "госдума", "кремль", "законопроект"],
     "экономика": ["economy", "inflation", "gdp", "market", "markets", "stocks",
         "shares", "oil", "tariff", "tariffs", "trade", "export", "bank", "banks",
         "central bank", "currency", "dollar", "euro", "recession", "unemployment",
         "jobs", "budget", "tax", "taxes", "investment", "investor", "crypto",
         "bitcoin", "opec", "imf", "world bank", "interest rate", "stock market",
-        "prices", "permanent residency", "visa"],
+        "prices", "permanent residency", "visa",
+        "экономика", "инфляция", "рынок", "акции", "нефть", "рубль", "доллар",
+        "банк", "тариф", "торговля", "бюджет", "налог", "инвестиции", "безработица"],
     "технологии": ["ai", "artificial intelligence", "tech", "technology",
         "software", "startup", "google", "apple", "microsoft", "amazon", "openai",
         "chatgpt", "chip", "chips", "semiconductor", "robot", "cyber", "hacker",
         "hacking", "internet", "spacex", "nasa", "satellite", "rocket", "lunar",
         "mars", "quantum", "smartphone", "tiktok", "youtube", "facebook",
-        "instagram", "elon musk", "tesla", "app"],
+        "instagram", "elon musk", "tesla", "app",
+        "искусственный интеллект", "нейросеть", "технологии", "смартфон",
+        "интернет", "хакер", "взлом", "спутник", "робот", "приложение"],
     "спорт": ["football", "soccer", "match", "tournament", "cup", "league",
         "olympic", "olympics", "championship", "player", "coach", "goal", "final",
         "semifinal", "cricket", "tennis", "basketball", "nba", "fifa", "uefa",
         "stadium", "striker", "formula 1", "world cup", "champions league",
-        "grand slam", "medal", "fixture"],
+        "grand slam", "medal", "fixture",
+        "футбол", "матч", "турнир", "кубок", "лига", "хоккей", "олимпиада",
+        "чемпионат", "игрок", "тренер", "гол", "финал", "теннис"],
     "наука": ["study", "research", "scientists", "discovery", "climate",
         "emissions", "warming", "energy", "solar", "physics", "biology",
         "genetics", "fossil", "dinosaur", "brain", "asteroid", "vaccine", "virus",
-        "health", "disease", "outbreak", "cancer", "space telescope"],
+        "health", "disease", "outbreak", "cancer", "space telescope",
+        "исследование", "ученые", "учёные", "климат", "энергия", "космос",
+        "вакцина", "вирус", "здоровье", "болезнь"],
     "культура": ["film", "movie", "cinema", "music", "album", "song", "concert",
         "festival", "art", "museum", "exhibition", "book", "novel", "celebrity",
         "actor", "actress", "singer", "oscar", "grammy", "cannes", "netflix",
-        "fashion", "theatre"],
+        "fashion", "theatre",
+        "фильм", "кино", "музыка", "альбом", "концерт", "фестиваль", "выставка",
+        "книга", "сериал", "актёр", "актер", "мода", "премьера"],
     "игры": ["video game", "videogame", "gaming", "gamescom", "playstation",
         "xbox", "nintendo", "switch 2", "steam deck", "epic games", "steam",
         "gameplay", "dlc", "patch notes", "early access", "open world", "esports",
         "gta", "elden ring", "call of duty", "fortnite", "minecraft", "valorant",
         "counter-strike", "dota", "cyberpunk", "witcher", "baldur", "zelda",
-        "mario", "release date", "sequel", "remake", "remaster", "game developer"],
+        "mario", "release date", "sequel", "remake", "remaster", "game developer",
+        "игра", "игры", "игру", "игровой", "геймер", "шутер", "рпг", "консоль",
+        "патч", "дополнение", "релиз", "геймплей", "киберспорт", "ранний доступ"],
     "железо": ["gpu", "graphics card", "cpu", "processor", "rtx", "radeon",
         "geforce", "nvidia", "amd", "intel", "ryzen", "monitor", "keyboard",
         "mouse", "headset", "ssd", "motherboard", "gaming laptop", "gaming pc",
-        "razer", "logitech", "hyperx", "steelseries", "overclock", "vram", "ddr5"],
+        "razer", "logitech", "hyperx", "steelseries", "overclock", "vram", "ddr5",
+        "видеокарта", "процессор", "материнская плата", "монитор", "клавиатура",
+        "мышь", "наушники", "накопитель", "оперативная память", "разгон",
+        "игровой ноутбук", "игровой компьютер", "жёсткий диск", "жесткий диск"],
 }
 
-GAME_SOURCES = {"IGN", "GameSpot", "PC Gamer", "Eurogamer", "Rock Paper Shotgun"}
+GAME_SOURCES = {"IGN", "GameSpot", "PC Gamer", "Eurogamer", "Rock Paper Shotgun",
+                "StopGame", "Игромания"}
 
 
 def detect_tags(source: str, title: str, summary: str) -> str:
@@ -263,22 +300,71 @@ def detect_tags(source: str, title: str, summary: str) -> str:
     top = sorted(scores.items(), key=lambda x: (-x[1], x[0]))[:2]
     tags = [c for c, s in top if s >= 2]
     return " ".join("#" + t for t in tags) if tags else "#мир"
-    # ---------- СТАТЬЯ ----------
+    # ---------- СТАТЬЯ И МЕДИА ----------
 def clean_html(raw: str) -> str:
     return html.unescape(re.sub(r"<[^<]+?>", "", raw or ""))
 
 
-def get_article(link: str) -> str:
+def get_article(link: str):
+    """Скачиваем страницу: текст статьи (начало) и картинку-превью."""
+    body, image = "", None
     try:
         r = requests.get(link, headers=HEADERS, timeout=15)
         if r.ok and r.text:
-            body = trafilatura.extract(r.text, include_comments=False,
+            text = trafilatura.extract(r.text, include_comments=False,
                                        include_tables=False) or ""
-            body = re.sub(r"\n{3,}", "\n\n", body).strip()
-            return body[:12000]
+            body = re.sub(r"\n{3,}", "\n\n", text).strip()
+            m = (re.search(r'property=["\']og:image["\'][^>]*content=["\']([^"\']+)["\']', r.text)
+                 or re.search(r'content=["\']([^"\']+)["\'][^>]*property=["\']og:image["\']', r.text))
+            if m:
+                image = html.unescape(m.group(1))
     except Exception as e:
         log.warning(f"Статья не скачалась: {e}")
-    return ""
+    return body[:LEAD_SRC_CHARS], image
+
+
+def image_from_entry(entry) -> str:
+    """Картинка из самой RSS-ленты (если есть)."""
+    for key in ("media_content", "media_thumbnail"):
+        for m in entry.get(key, []) or []:
+            if m.get("url"):
+                return m["url"]
+    for l in entry.get("links", []) or []:
+        if l.get("rel") == "enclosure" and str(l.get("type", "")).startswith("image"):
+            return l.get("href")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', entry.get("summary", "") or "")
+    return html.unescape(m.group(1)) if m else None
+
+
+def video_from_entry(entry) -> str:
+    """Прямая ссылка на видеофайл из RSS (если есть)."""
+    for m in entry.get("media_content", []) or []:
+        url = m.get("url") or ""
+        if url and (str(m.get("type", "")).startswith("video") or ".mp4" in url.lower()):
+            return url
+    for l in entry.get("links", []) or []:
+        url = l.get("href") or ""
+        if str(l.get("type", "")).startswith("video") or url.lower().endswith(".mp4"):
+            return url
+    return None
+
+
+def make_lead(body: str, summary: str, limit: int) -> str:
+    """Главная мысль: первые 1-3 абзаца статьи (или описание из ленты)."""
+    src = body or summary or ""
+    paras = [p.strip() for p in src.split("\n\n") if p.strip()]
+    out, total = [], 0
+    for p in paras:
+        if out and total + len(p) + 2 > limit:
+            break
+        out.append(p)
+        total += len(p) + 2
+        if total >= limit * 0.85:
+            break
+    text = "\n\n".join(out) if out else src[:limit]
+    if len(text) > limit:
+        text = smart_cut(text, limit, mark=False)
+    return text
 
 
 def smart_cut(s: str, limit: int, mark: bool = True) -> str:
@@ -295,16 +381,17 @@ def smart_cut(s: str, limit: int, mark: bool = True) -> str:
     return cut.rstrip() + (" …" if mark else "")
 
 
-def build_post(source: str, title: str, body: str, link: str, tags: str) -> str:
+def build_caption(source: str, title: str, lead: str, link: str, tags: str) -> str:
+    """Весь пост одной подписью: заголовок + главная мысль + теги + ссылка."""
     link_html = f"🔗 <a href=\"{html.escape(link, quote=True)}\">📰 Читать в оригинале</a>"
     header = f"🌍 <b>{html.escape(source)}</b>\n\n<b>{html.escape(title)}</b>"
     tags_html = f"\n\n{html.escape(tags)}" if tags else ""
-    if body:
-        body_esc = html.escape(body).strip()
-        budget = TG_LIMIT - len(header) - len(link_html) - len(tags_html) - 30
-        if len(body_esc) > budget:
-            body_esc = smart_cut(body_esc, budget)
-        return f"{header}\n\n{body_esc}{tags_html}\n\n{link_html}"
+    budget = CAPTION_LIMIT - len(header) - len(link_html) - len(tags_html) - 30
+    lead_esc = html.escape((lead or "").strip())
+    if len(lead_esc) > budget:
+        lead_esc = smart_cut(lead_esc, budget)
+    if lead_esc:
+        return f"{header}\n\n{lead_esc}{tags_html}\n\n{link_html}"
     return f"{header}{tags_html}\n\n{link_html}"
 
 
@@ -321,6 +408,8 @@ def fetch_news() -> list:
                     "title": clean_html(entry.get("title", "")),
                     "summary": clean_html(entry.get("summary", ""))[:1000],
                     "link": entry.link,
+                    "image": image_from_entry(entry),
+                    "video": video_from_entry(entry),
                 })
             log.info(f"{source}: получено {len(entries)}")
             if not entries:
@@ -449,7 +538,7 @@ def send_message(text: str, preview: bool = True) -> bool:
     try:
         r = requests.post(
             f"{API_URL}/sendMessage",
-            json={"chat_id": CHANNEL_ID, "text": text[:4000], "parse_mode": "HTML",
+            json={"chat_id": CHANNEL_ID, "text": text[:TG_LIMIT], "parse_mode": "HTML",
                   "disable_web_page_preview": not preview},
             timeout=30,
         )
@@ -463,6 +552,40 @@ def send_message(text: str, preview: bool = True) -> bool:
         msg = f"Сетевая ошибка: {e}"
         log.error(msg)
         ALERTS.append(msg)
+        return False
+
+
+def send_photo(photo_url: str, caption: str) -> bool:
+    try:
+        r = requests.post(
+            f"{API_URL}/sendPhoto",
+            json={"chat_id": CHANNEL_ID, "photo": photo_url,
+                  "caption": caption[:CAPTION_LIMIT], "parse_mode": "HTML"},
+            timeout=40,
+        )
+        if r.status_code != 200:
+            log.warning(f"sendPhoto {r.status_code}: {r.text[:150]}")
+            return False
+        return True
+    except Exception as e:
+        log.warning(f"sendPhoto: {e}")
+        return False
+
+
+def send_video(video_url: str, caption: str) -> bool:
+    try:
+        r = requests.post(
+            f"{API_URL}/sendVideo",
+            json={"chat_id": CHANNEL_ID, "video": video_url,
+                  "caption": caption[:CAPTION_LIMIT], "parse_mode": "HTML"},
+            timeout=60,
+        )
+        if r.status_code != 200:
+            log.warning(f"sendVideo {r.status_code}: {r.text[:150]}")
+            return False
+        return True
+    except Exception as e:
+        log.warning(f"sendVideo: {e}")
         return False
 
 
@@ -485,19 +608,20 @@ def send_alerts():
 # ---------- ПУБЛИКАЦИЯ ----------
 def post_item(item) -> bool:
     log.info(f"Обрабатываю: {item['title'][:60]}")
-    body = get_article(item["link"]) or item["summary"]
-    if len(body) > PRE_CUT_CHARS:
-        body = smart_cut(body, PRE_CUT_CHARS, mark=False)
+    body, page_image = get_article(item["link"])
+    image = page_image or item.get("image")
+    video = item.get("video")
 
     title_ru = translate_text(item["title"])
-    body_ru = translate_text(body).strip()
+    lead_ru = translate_text(make_lead(body, item["summary"], LEAD_LIMIT))
     tags = detect_tags(item["source"], item["title"], item["summary"])
-    text = build_post(item["source"], title_ru, body_ru, item["link"], tags)
+    caption = build_caption(item["source"], title_ru, lead_ru, item["link"], tags)
 
-    if send_message(text):
-        digest_add(item["source"], title_ru, item["link"])
+    if video and send_video(video, caption):
         return True
-    return False
+    if image and send_photo(image, caption):
+        return True
+    return send_message(caption, preview=False)
 
 
 def post_news():
