@@ -14,3 +14,8 @@
 1790859518|Anadolu|Чиновник ООН предупреждает, что бездействие по потокам удобрений в Ормуз может привести к нехватке продовольствия|https://www.aa.com.tr/en/middle-east/un-official-warns-inaction-on-hormuz-fertilizer-flows-could-push-millions-into-food-insecurity/4075061
 1790859532|Anadolu|WhatsApp вводит дополнительный родительский контроль для подростков|https://www.aa.com.tr/en/world/whatsapp-introduces-optional-parental-controls-for-teenagers/4075004
 1790859547|Anadolu|Трамп отказался поддержать Нетаньяху в преддверии выборов в Израиле|https://www.aa.com.tr/en/world/trump-declines-to-endorse-netanyahu-ahead-of-israeli-elections/4074936
+1790859690|Al Jazeera|Нигерия обвинила мужчину в подделке правительственного агентства|https://www.aljazeera.com/video/newsfeed/2026/10/1/nigeria-charges-man-accused-of-faking-government-agency?traffic_source=rss
+1790859712|Al Jazeera|Бизнесмен из Зимбабве Викнелл Чивайо погиб в авиакатастрофе|https://www.aljazeera.com/news/2026/10/1/zimbabwe-businessman-wicknell-chivayo-killed-in-helicopter-crash?traffic_source=rss
+1790859733|IGN|После «жесткого сжатия» в последние месяцы Gears of War: E-Day разработчики, как сообщается, теперь ожидают увольнений|https://www.ign.com/articles/after-crunching-hard-through-their-final-months-gears-of-war-e-day-developers-are-reportedly-now-expecting-layoffs
+1790859751|IGN|Gears of War: E-Day пропускает классические игры|https://www.ign.com/articles/gears-of-war-e-day-missing-meat-shields
+1790859770|IGN|«Extraction is Still a Major Part of Marathon» — директор игры Marathon убеждает фанатов, что основной режим игры никуда не денется|https://www.ign.com/articles/extraction-is-still-a-major-part-of-marathon-marathon-game-director-reassures-fans-main-game-mode-isnt-going-anywhere
