@@ -30,33 +30,32 @@ RSS_FEEDS = {
     "DW":           "https://rss.dw.com/rdf/rss-en-all",
     "France 24":    "https://www.france24.com/en/rss",
     "The Guardian": "https://www.theguardian.com/world/rss",
-    "Reuters":      "https://www.reuters.com/rssFeed/world",
-    "AP News":      "https://apnews.com/index.rss",
+    "Sky News":     "https://feeds.skynews.com/feeds/rss/world.xml",
+    "CNBC":         "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
     "Euronews":     "https://www.euronews.com/rss",
-    "NHK World":    "https://www3.nhk.or.jp/nhkworld/en/news/rss/all.xml",
+    "Japan Times":  "https://www.japantimes.co.jp/feed/",
     "Anadolu":      "https://www.aa.com.tr/en/rss/default?cat=world",
     # --- игры и железо ---
     "IGN":          "https://feeds.ign.com/ign/games-all",
     "GameSpot":     "https://www.gamespot.com/feeds/news/",
-    "PC Gamer":     "https://www.pcgamer.com/feed/",
+    "VG247":        "https://www.vg247.com/feed",
     "Eurogamer":    "https://www.eurogamer.net/feed",
     "Rock Paper Shotgun": "https://www.rockpapershotgun.com/feed",
     "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
     # --- русские ---
     "Lenta.ru":     "https://lenta.ru/rss/news",
-    "РИА Новости":  "https://ria.ru/export/rss2/archive/index.rss",
+    "Коммерсантъ":  "https://www.kommersant.ru/RSS/news.xml",
     "ТАСС":         "https://tass.ru/rss/v2.xml",
-    "РБК":          "https://www.rbc.ru/v10/news.rss",
-    "StopGame":     "https://stopgame.ru/rss/news",
+    "Ведомости":    "https://www.vedomosti.ru/rss/news",
+    "DTF":          "https://dtf.ru/rss/news",
     "Игромания":    "https://www.igromania.ru/rss/news.xml",
     "3DNews":       "https://www.3dnews.ru/news/rss/",
     # --- спорт ---
     "BBC Sport":      "http://feeds.bbci.co.uk/sport/rss.xml",
     "Sky Sports":     "https://www.skysports.com/rss/12040",
-    "ESPN":           "https://www.espn.com/espn/rss/news",
+    "CBS Sports":     "https://www.cbssports.com/rss/headlines/",
     "Guardian Sport": "https://www.theguardian.com/uk/sport/rss",
-    "Спорт-Экспресс": "https://www.sport-express.ru/services/materials/rss/all/",
-    "Sports.ru":      "https://www.sports.ru/rss/feed/",
+    "Чемпионат":      "https://www.championat.com/rss/news.xml",
 }
 
 MAX_PER_SOURCE = 5
@@ -95,6 +94,7 @@ DIGEST_HOURS_MSK = _digest_hours()
 # ========== ЛОГИКА ==========
 logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s | %(levelname)s | %(message)s")
+logging.getLogger("argostranslate").setLevel(logging.WARNING)   # тишина в логе
 log = logging.getLogger("news-bot")
 
 if not BOT_TOKEN:
@@ -292,11 +292,11 @@ CATEGORIES = {
         "игровой ноутбук", "игровой компьютер", "жёсткий диск", "жесткий диск"],
 }
 
-GAME_SOURCES = {"IGN", "GameSpot", "PC Gamer", "Eurogamer", "Rock Paper Shotgun",
-                "StopGame", "Игромания"}
+GAME_SOURCES = {"IGN", "GameSpot", "VG247", "Eurogamer", "Rock Paper Shotgun",
+                "DTF", "Игромания"}
 
-SPORT_SOURCES = {"BBC Sport", "Sky Sports", "ESPN", "Guardian Sport",
-                 "Спорт-Экспресс", "Sports.ru"}
+SPORT_SOURCES = {"BBC Sport", "Sky Sports", "CBS Sports", "Guardian Sport",
+                 "Чемпионат"}
 
 
 def detect_tags(source: str, title: str, summary: str) -> str:
