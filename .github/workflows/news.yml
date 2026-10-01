@@ -30,6 +30,7 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          MM_EMAIL: ${{ secrets.MM_EMAIL }}
 
       - name: Сохранить список опубликованного
         run: |
