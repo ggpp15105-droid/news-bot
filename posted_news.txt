@@ -352,3 +352,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790896750|https://www.kommersant.ru/doc/8991825|В Петербурге ликвидировали открытое горение в особняке Миллера
 1790896754|https://www.kommersant.ru/doc/8991823|«Известия» сообщили о крушении вертолета в Воронежской области
 1790896758|https://tass.ru/kosmos/28173835|Crew Dragon с космонавтом Тетерятниковым пристыковался к МКС
+1790897503|https://www.france24.com/en/middle-east/20261001-netanyahu-flydubai-co-pilot-uae-terror-link|Netanyahu says flydubai co-pilot was radicalised as UAE probes terror link
+1790897507|https://lenta.ru/news/2026/10/02/organizatoram-kontsertov-kanie-uesta-v-peterburge-vynesli-preduprezhdenie/|Организаторам концертов Канье Уэста в Петербурге вынесли предупреждение
+1790897511|https://tass.ru/obschestvo/28173839|Терапию "Аллергардой" следует начинать за полгода до сезона пыления
+1790897515|https://tass.ru/mezhdunarodnaya-panorama/28173843|Трамп заявил, что Европу "пожирают заживо" из-за кризиса
+1790897519|https://tass.ru/ekonomika/28173845|Нефтегазовые доходы РФ снизятся до 2,7% ВВП в 2029 году
