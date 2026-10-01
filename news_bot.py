@@ -447,7 +447,7 @@ def make_lead(body: str, summary: str, limit: int) -> str:
     src = body or summary or ""
     paras = [p.strip() for p in src.split("\n\n") if p.strip()]
     out, total = [], 0
-        for p in paras:
+    for p in paras:
         if is_junk(p):                           # мусор пропускаем ВСЕГДА, включая первый
             continue
         if out and total + len(p) + 2 > limit:
@@ -460,6 +460,8 @@ def make_lead(body: str, summary: str, limit: int) -> str:
     if len(text) > limit:
         text = smart_cut(text, limit, mark=False)
     return text
+
+
 
 
 def smart_cut(s: str, limit: int, mark: bool = True) -> str:
