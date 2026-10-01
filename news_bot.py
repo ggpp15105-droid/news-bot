@@ -240,7 +240,6 @@ CATEGORIES = {
         "razer", "logitech", "hyperx", "steelseries", "overclock", "vram", "ddr5"],
 }
 
-
 GAME_SOURCES = {"IGN", "GameSpot", "PC Gamer", "Eurogamer", "Rock Paper Shotgun"}
 
 
@@ -492,7 +491,7 @@ def post_item(item) -> bool:
 
     title_ru = translate_text(item["title"])
     body_ru = translate_text(body).strip()
-        tags = detect_tags(item["source"], item["title"], item["summary"])
+    tags = detect_tags(item["source"], item["title"], item["summary"])
     text = build_post(item["source"], title_ru, body_ru, item["link"], tags)
 
     if send_message(text):
