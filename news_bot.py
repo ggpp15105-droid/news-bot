@@ -41,7 +41,7 @@ MAX_POSTS_PER_RUN = 5
 POST_DELAY = 3
 PRE_CUT_CHARS = 4200
 TG_LIMIT = 4096
-POSTED_FILE = "posted_news.txt"   # формат: ts|url|заголовок (старые строки-ссылки тоже читаются)
+POSTED_FILE = "posted_news.txt"
 DIGEST_FILE = "digest.txt"
 DIGEST_ITEMS = 8
 KEEP_DAYS = 7          # сколько дней помнить ссылки
@@ -58,6 +58,7 @@ def _int_env(name, default):
         return int(os.getenv(name, "") or default)
     except ValueError:
         return default
+
 
 DIGEST_HOUR_MSK = _int_env("DIGEST_HOUR", 8)   # час утреннего дайджеста по МСК
 
@@ -84,6 +85,7 @@ def argos_ready() -> bool:
                    for p in argo_package.get_installed_packages())
     except Exception:
         return False
+
 
 ARGOS_OK = argos_ready()
 
@@ -170,7 +172,7 @@ def norm_tokens(text: str) -> set:
 
 def similar(a: set, b: set) -> bool:
     inter = a & b
-    if len(inter) < 3:          # совпадения 1-2 слов не считаем
+    if len(inter) < 3:
         return False
     return len(inter) / len(a | b) >= 0.5
 
@@ -241,9 +243,7 @@ def detect_tags(title: str, summary: str) -> str:
     top = sorted(scores.items(), key=lambda x: (-x[1], x[0]))[:2]
     tags = [c for c, s in top if s >= 2]
     return " ".join("#" + t for t in tags) if tags else "#мир"
-
-
-# ---------- СТАТЬЯ ----------
+    # ---------- СТАТЬЯ ----------
 def clean_html(raw: str) -> str:
     return html.unescape(re.sub(r"<[^<]+?>", "", raw or ""))
 
@@ -288,7 +288,6 @@ def build_post(source: str, title: str, body: str, link: str, tags: str) -> str:
     return f"{header}{tags_html}\n\n{link_html}"
 
 
-# ---------- RSS ----------
 def fetch_news() -> list:
     news, empty_sources = [], []
     for source, url in RSS_FEEDS.items():
@@ -356,4 +355,176 @@ def prune_posted():
     for line in lines:
         parts = line.split("|", 2)
         if len(parts) == 3 and parts[0].isdigit():
-            if
+            if now - int(parts[0]) <= KEEP_DAYS * 86400:
+                kept.append(line)
+        else:
+            kept.append(line)
+    if len(kept) > MAX_LINES:
+        kept = kept[-MAX_LINES:]
+    if len(kept) < len(lines):
+        with open(POSTED_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(kept) + ("\n" if kept else ""))
+        log.info(f"Очистка памяти: {len(lines)} → {len(kept)} записей")
+
+
+# ---------- ДАЙДЖЕСТ ----------
+def digest_add(source: str, title_ru: str, url: str):
+    title_ru = " ".join(title_ru.split())
+    with open(DIGEST_FILE, "a", encoding="utf-8") as f:
+        f.write(f"{int(time.time())}|{source}|{title_ru}|{url}\n")
+
+
+def maybe_send_digest():
+    now = datetime.now(MSK)
+    if now.hour < DIGEST_HOUR_MSK:
+        return
+    today = now.strftime("%Y-%m-%d")
+    try:
+        with open(DIGEST_FILE, encoding="utf-8") as f:
+            lines = [l.rstrip("\n") for l in f if l.strip()]
+    except FileNotFoundError:
+        return
+    last = ""
+    if lines and lines[0].startswith("#last="):
+        last = lines[0][6:]
+    if last == today:
+        return
+
+    cutoff = time.time() - 24 * 3600
+    entries = []
+    for line in lines:
+        if line.startswith("#"):
+            continue
+        parts = line.split("|", 3)
+        if len(parts) == 4 and parts[0].isdigit() and int(parts[0]) >= cutoff:
+            entries.append(parts)
+    entries.sort(key=lambda p: -int(p[0]))
+
+    picked, picked_tokens = [], []
+    for ts, source, title, url in entries:
+        tk = norm_tokens(title)
+        if not tk or any(similar(tk, o) for o in picked_tokens):
+            continue
+        picked.append((source, title, url))
+        picked_tokens.append(tk)
+        if len(picked) >= DIGEST_ITEMS:
+            break
+
+    ok = True
+    if picked:
+        items = "\n".join(
+            f"• {html.escape(t)} — <a href=\"{html.escape(u, quote=True)}\">{html.escape(s)}</a>"
+            for s, t, u in picked)
+        ok = send_message(f"☕ <b>Доброе утро! Главное за сутки:</b>\n\n{items}",
+                          preview=False)
+        if ok:
+            log.info("Дайджест отправлен")
+    if ok:
+        with open(DIGEST_FILE, "w", encoding="utf-8") as f:
+            f.write(f"#last={today}\n")
+
+
+# ---------- ОТПРАВКА ----------
+def send_message(text: str, preview: bool = True) -> bool:
+    try:
+        r = requests.post(
+            f"{API_URL}/sendMessage",
+            json={"chat_id": CHANNEL_ID, "text": text[:4000], "parse_mode": "HTML",
+                  "disable_web_page_preview": not preview},
+            timeout=30,
+        )
+        if r.status_code != 200:
+            msg = f"Telegram {r.status_code}: {r.text[:150]}"
+            log.error(msg)
+            ALERTS.append(msg)
+            return False
+        return True
+    except Exception as e:
+        msg = f"Сетевая ошибка: {e}"
+        log.error(msg)
+        ALERTS.append(msg)
+        return False
+
+
+def send_alerts():
+    if not ALERTS:
+        return
+    if not ADMIN_ID:
+        log.warning("Есть проблемы, но ADMIN_ID не задан — алерт не отправлен")
+        return
+    text = ("🚨 <b>News Bot — проблемы за запуск:</b>\n\n"
+            + "\n".join(f"• {html.escape(a[:200])}" for a in ALERTS[:10]))
+    try:
+        requests.post(f"{API_URL}/sendMessage",
+                      json={"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"},
+                      timeout=30)
+    except Exception as e:
+        log.error(f"Не удалось отправить алерт: {e}")
+
+
+# ---------- ПУБЛИКАЦИЯ ----------
+def post_item(item) -> bool:
+    log.info(f"Обрабатываю: {item['title'][:60]}")
+    body = get_article(item["link"]) or item["summary"]
+    if len(body) > PRE_CUT_CHARS:
+        body = smart_cut(body, PRE_CUT_CHARS, mark=False)
+
+    title_ru = translate_text(item["title"])
+    body_ru = translate_text(body).strip()
+    tags = detect_tags(item["title"], item["summary"])
+    text = build_post(item["source"], title_ru, body_ru, item["link"], tags)
+
+    if send_message(text):
+        digest_add(item["source"], title_ru, item["link"])
+        return True
+    return False
+
+
+def post_news():
+    now = int(time.time())
+    posted, titles = load_state()
+    news = fetch_news()
+
+    fresh, seen = [], set()
+    for item in news:
+        if item["id"] in posted or item["id"] in seen:
+            continue
+        tk = norm_tokens(item["title"])
+        if is_dup(tk, titles, now):
+            continue
+        fresh.append(item)
+        seen.add(item["id"])
+        titles.append((now, tk))
+    log.info(f"Всего: {len(news)}, новых после дедупликации: {len(fresh)}")
+
+    published = 0
+    for item in fresh[:MAX_POSTS_PER_RUN]:
+        try:
+            if post_item(item):
+                save_posted(item["id"], item["title"])
+                published += 1
+        except Exception as e:
+            msg = f"Ошибка обработки «{item['title'][:50]}»: {e}"
+            log.error(msg)
+            ALERTS.append(msg)
+        time.sleep(POST_DELAY)
+
+    prune_posted()
+    log.info(f"Итог запуска: опубликовано {published}")
+
+
+def main():
+    ensure_files()
+    maybe_send_digest()
+    post_news()
+    send_alerts()
+
+
+if __name__ == "__main__":
+    log.info(f"Переводчик: {'Argos (офлайн, без лимитов)' if ARGOS_OK else 'запасной'}")
+    try:
+        main()
+    except Exception as e:
+        ALERTS.append(f"Критическая ошибка: {e!r}")
+        send_alerts()
+        raise
