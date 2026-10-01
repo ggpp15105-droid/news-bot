@@ -73,11 +73,6 @@ MSK = timezone(timedelta(hours=3))
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"}
-logging.basicConfig(level=logging.INFO,
-                    format="%(asctime)s | %(levelname)s | %(message)s")
-logging.getLogger().setLevel(logging.WARNING)   # глушим отладку Argos (root logger)
-log = logging.getLogger("news-bot")
-log.setLevel(logging.INFO)
 
 
 def _digest_hours() -> list:
@@ -95,10 +90,11 @@ def _digest_hours() -> list:
 DIGEST_HOURS_MSK = _digest_hours()
 
 # ========== ЛОГИКА ==========
-logging.basicConfig(level=logging.WARNING,
+logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s | %(levelname)s | %(message)s")
+logging.getLogger().setLevel(logging.WARNING)   # глушим отладку Argos (root logger)
 log = logging.getLogger("news-bot")
-log.setLevel(logging.INFO)   # наш бот пишет как обычно, отладка Argos — тишина
+log.setLevel(logging.INFO)
 
 if not BOT_TOKEN:
     raise SystemExit("BOT_TOKEN не задан! Проверь секреты GitHub")
@@ -296,10 +292,9 @@ CATEGORIES = {
 }
 
 GAME_SOURCES = {"IGN", "GameSpot", "VG247", "Eurogamer", "Rock Paper Shotgun",
-                "DTF", "Игромания"}
+                "Игромания"}
 
-SPORT_SOURCES = {"BBC Sport", "Sky Sports", "CBS Sports", "Guardian Sport",
-                 "Чемпионат"}
+SPORT_SOURCES = {"BBC Sport", "Sky Sports", "CBS Sports", "Guardian Sport"}
 
 
 def detect_tags(source: str, title: str, summary: str) -> str:
@@ -374,13 +369,15 @@ def video_from_entry(entry) -> str:
 
 
 def is_junk(p: str) -> bool:
-    """Мусорные обрывки: даты, имена авторов, '- Published', 'Update: ...' и т.п."""
-    if len(p.split()) < 5:              # слишком короткий абзац
+    """Мусорные обрывки: даты, имена авторов, буллеты, '- Published', 'Update: ...'"""
+    if len(p.split()) < 5:                       # слишком короткий абзац
         return True
-    if "Update:" in p:                  # метки обновления
+    if p.startswith(("-", "–", "—", "•")):       # буллеты-списки (Anadolu и др.)
+        return True
+    if "Update:" in p:                           # метки обновления
         return True
     digits = sum(ch.isdigit() for ch in p)
-    if digits > len(p) * 0.3:           # больше 30% цифр — это не текст
+    if digits > len(p) * 0.3:                    # больше 30% цифр — не текст
         return True
     return False
 
@@ -391,7 +388,7 @@ def make_lead(body: str, summary: str, limit: int) -> str:
     paras = [p.strip() for p in src.split("\n\n") if p.strip()]
     out, total = [], 0
     for p in paras:
-        if out and is_junk(p):          # первый абзац берём всегда
+        if out and is_junk(p):                   # первый абзац берём всегда
             continue
         if out and total + len(p) + 2 > limit:
             break
