@@ -337,3 +337,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790894644|https://www.france24.com/en/france/20261001-jordan-bardella-antisemitic-messages-authenticated-french-outlet|Antisemitic messages attributed to John Bardella authenticated, French outlet says
 1790894650|https://www.france24.com/en/video/20261001-migration-deal-really-a-scheme-around-political-diplomacy-between-uk-france-in-post-brexit-era-1|Migration deal: 'Really a scheme around political diplomacy between UK & France in post-Brexit era'
 1790894654|https://lenta.ru/news/2026/10/02/v-mid-rf-rasskazali-o-printsipialnoy-pozitsii-po-povodu-rasshireniya-nato/|В МИД РФ рассказали о принципиальной позиции по поводу расширения НАТО
+1790895325|https://lenta.ru/news/2026/10/02/byvshiy-diplomat-obratilsya-k-rossii-i-evrope/|Бывший дипломат обратился к России и Европе
+1790895329|https://www.kommersant.ru/doc/8991822|Пожар на химическом заводе в Подмосковье локализовали
+1790895338|https://www.kommersant.ru/doc/8991821|Трамп: казнь не должна быть сложной // Дональд Трамп выразил недоумение из-за неудавшейся казни Кристы Пайк
+1790895342|https://www.kommersant.ru/doc/8991818|Путин призвал выйти на мирные договоренности по Украине без новых потерь
+1790895346|https://tass.ru/obschestvo/28173807|Врач Сергачева рассказала, чем грозит сухой воздух в квартире для ребенка
