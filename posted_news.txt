@@ -302,3 +302,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790888668|https://lenta.ru/news/2026/10/01/devis-vystupila-na-turnire-v-gruzii-s-travmoy/|Дэвис выступила на турнире в Грузии с травмой
 1790888678|https://www.kommersant.ru/doc/8991803|При пожаре на Краснозаводском химическом заводе пропали пять человек
 1790888682|https://www.kommersant.ru/doc/8991802|Агент Дзюбы опроверг информацию о завершении карьеры футболиста
+1790889665|https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss|Funeral held for Palestinian man killed in the occupied West Bank
+1790889672|https://www.euronews.com/2026/10/01/danish-military-admits-flaws-in-report-about-2025-drone-incursions|Danish military admits flaws in report about 2025 drone incursions
+1790889679|https://www.ign.com/articles/riot-games-co-founder-says-2xko-needed-hundreds-of-thousands-if-not-millions-of-monthly-active-players-to-survive|Riot Games Co-Founder Says 2XKO Needed ‘Hundreds of Thousands, if Not Millions’ of Monthly Active Players to Survive
+1790889684|https://lenta.ru/news/2026/10/02/tramp-posovetovalsya-s-ii-o-zahvate-maduro/|На Западе уличили Трампа в общении с ИИ о захвате Мадуро
+1790889691|https://lenta.ru/news/2026/10/02/2-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/|2 октября: какой праздник отмечают в России и мире
