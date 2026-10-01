@@ -24,6 +24,7 @@ ADMIN_ID = os.getenv("ADMIN_ID", "").strip()   # алерты о проблем�
 MM_EMAIL = os.getenv("MM_EMAIL", "")
 
 RSS_FEEDS = {
+    # --- мир ---
     "BBC World":    "http://feeds.bbci.co.uk/news/world/rss.xml",
     "Al Jazeera":   "https://www.aljazeera.com/xml/rss/all.xml",
     "DW":           "https://rss.dw.com/rdf/rss-en-all",
@@ -34,12 +35,14 @@ RSS_FEEDS = {
     "Euronews":     "https://www.euronews.com/rss",
     "NHK World":    "https://www3.nhk.or.jp/nhkworld/en/news/rss/all.xml",
     "Anadolu":      "https://www.aa.com.tr/en/rss/default?cat=world",
+    # --- игры и железо ---
     "IGN":          "https://feeds.ign.com/ign/games-all",
     "GameSpot":     "https://www.gamespot.com/feeds/news/",
     "PC Gamer":     "https://www.pcgamer.com/feed/",
     "Eurogamer":    "https://www.eurogamer.net/feed",
     "Rock Paper Shotgun": "https://www.rockpapershotgun.com/feed",
     "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
+    # --- русские ---
     "Lenta.ru":     "https://lenta.ru/rss/news",
     "РИА Новости":  "https://ria.ru/export/rss2/archive/index.rss",
     "ТАСС":         "https://tass.ru/rss/v2.xml",
@@ -47,6 +50,13 @@ RSS_FEEDS = {
     "StopGame":     "https://stopgame.ru/rss/news",
     "Игромания":    "https://www.igromania.ru/rss/news.xml",
     "3DNews":       "https://www.3dnews.ru/news/rss/",
+    # --- спорт ---
+    "BBC Sport":      "http://feeds.bbci.co.uk/sport/rss.xml",
+    "Sky Sports":     "https://www.skysports.com/rss/12040",
+    "ESPN":           "https://www.espn.com/espn/rss/news",
+    "Guardian Sport": "https://www.theguardian.com/uk/sport/rss",
+    "Спорт-Экспресс": "https://www.sport-express.ru/services/materials/rss/all/",
+    "Sports.ru":      "https://www.sports.ru/rss/feed/",
 }
 
 MAX_PER_SOURCE = 5
@@ -68,14 +78,19 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"}
 
 
-def _int_env(name, default):
-    try:
-        return int(os.getenv(name, "") or default)
-    except ValueError:
-        return default
+def _digest_hours() -> list:
+    """Часы дайджестов по МСК. По умолчанию: утро 8 и вечер 20.
+    Можно переопределить переменной репозитория DIGEST_HOURS, например: 9,14,21"""
+    raw = os.getenv("DIGEST_HOURS", "") or "8,20"
+    hours = []
+    for part in raw.split(","):
+        part = part.strip()
+        if part.isdigit() and 0 <= int(part) <= 23:
+            hours.append(int(part))
+    return sorted(set(hours)) if hours else [8, 20]
 
 
-DIGEST_HOUR_MSK = _int_env("DIGEST_HOUR", 8)   # час утреннего дайджеста по МСК
+DIGEST_HOURS_MSK = _digest_hours()
 
 # ========== ЛОГИКА ==========
 logging.basicConfig(level=logging.INFO,
@@ -244,9 +259,10 @@ CATEGORIES = {
         "olympic", "olympics", "championship", "player", "coach", "goal", "final",
         "semifinal", "cricket", "tennis", "basketball", "nba", "fifa", "uefa",
         "stadium", "striker", "formula 1", "world cup", "champions league",
-        "grand slam", "medal", "fixture",
+        "grand slam", "medal", "fixture", "hockey", "volleyball", "boxing",
         "футбол", "матч", "турнир", "кубок", "лига", "хоккей", "олимпиада",
-        "чемпионат", "игрок", "тренер", "гол", "финал", "теннис"],
+        "чемпионат", "игрок", "тренер", "гол", "финал", "теннис", "бокс",
+        "плей-офф", "сезон", "сборная", "трансфер", "вратарь", "форвард"],
     "наука": ["study", "research", "scientists", "discovery", "climate",
         "emissions", "warming", "energy", "solar", "physics", "biology",
         "genetics", "fossil", "dinosaur", "brain", "asteroid", "vaccine", "virus",
@@ -279,6 +295,9 @@ CATEGORIES = {
 GAME_SOURCES = {"IGN", "GameSpot", "PC Gamer", "Eurogamer", "Rock Paper Shotgun",
                 "StopGame", "Игромания"}
 
+SPORT_SOURCES = {"BBC Sport", "Sky Sports", "ESPN", "Guardian Sport",
+                 "Спорт-Экспресс", "Sports.ru"}
+
 
 def detect_tags(source: str, title: str, summary: str) -> str:
     tl = " " + re.sub(r"[^\w\s]", " ", f"{title} {title} {summary}").lower() + " "
@@ -295,6 +314,8 @@ def detect_tags(source: str, title: str, summary: str) -> str:
             scores[cat] = s
     if source in GAME_SOURCES:
         scores["игры"] = scores.get("игры", 0) + 3
+    if source in SPORT_SOURCES:
+        scores["спорт"] = scores.get("спорт", 0) + 3
     if not scores:
         return "#мир"
     top = sorted(scores.items(), key=lambda x: (-x[1], x[0]))[:2]
@@ -484,26 +505,33 @@ def digest_add(source: str, title_ru: str, url: str):
 
 
 def maybe_send_digest():
+    """Дайджесты по расписанию DIGEST_HOURS_MSK (по умолчанию 8:00 и 20:00 МСК).
+    Каждый дайджест — новости с момента предыдущего дайджеста."""
     now = datetime.now(MSK)
-    if now.hour < DIGEST_HOUR_MSK:
-        return
     today = now.strftime("%Y-%m-%d")
     try:
         with open(DIGEST_FILE, encoding="utf-8") as f:
-            lines = [l.rstrip("\n") for l in f if l.strip()]
+            raw_lines = [l.rstrip("\n") for l in f if l.strip()]
     except FileNotFoundError:
-        return
-    last = ""
-    if lines and lines[0].startswith("#last="):
-        last = lines[0][6:]
-    if last == today:
-        return
+        raw_lines = []
 
+    marker, data_lines = "", []
+    for line in raw_lines:
+        if line.startswith("#last="):
+            marker = line[6:]
+        else:
+            data_lines.append(line)
+
+    # новости собираем с момента прошлого дайджеста (или за последние 24 часа)
     cutoff = time.time() - 24 * 3600
+    if "|" in marker:
+        try:
+            cutoff = float(marker.split("|", 1)[1])
+        except ValueError:
+            pass
+
     entries = []
-    for line in lines:
-        if line.startswith("#"):
-            continue
+    for line in data_lines:
         parts = line.split("|", 3)
         if len(parts) == 4 and parts[0].isdigit() and int(parts[0]) >= cutoff:
             entries.append(parts)
@@ -519,18 +547,26 @@ def maybe_send_digest():
         if len(picked) >= DIGEST_ITEMS:
             break
 
-    ok = True
-    if picked:
-        items = "\n".join(
-            f"• {html.escape(t)} — <a href=\"{html.escape(u, quote=True)}\">{html.escape(s)}</a>"
-            for s, t, u in picked)
-        ok = send_message(f"☕ <b>Доброе утро! Главное за сутки:</b>\n\n{items}",
-                          preview=False)
-        if ok:
-            log.info("Дайджест отправлен")
-    if ok:
+    # идём от позднего слота к раннему — отправляем максимум один за запуск
+    for hour in sorted(DIGEST_HOURS_MSK, reverse=True):
+        slot = f"{today}-{hour}"
+        if now.hour < hour or marker.split("|", 1)[0] == slot:
+            continue
+        if picked:
+            greeting = ("☕ <b>Доброе утро! Главное за сутки:</b>" if hour < 12
+                        else "🌆 <b>Добрый вечер! Главное за день:</b>")
+            items = "\n".join(
+                f"• {html.escape(t)} — <a href=\"{html.escape(u, quote=True)}\">{html.escape(s)}</a>"
+                for s, t, u in picked)
+            if not send_message(f"{greeting}\n\n{items}", preview=False):
+                return   # не отправилось — повторим в следующий запуск
+            log.info(f"Дайджест ({slot}) отправлен: {len(picked)} новостей")
+        else:
+            log.info(f"Дайджест ({slot}): новых новостей не было")
+        data_lines.insert(0, f"#last={slot}|{int(time.time())}")
         with open(DIGEST_FILE, "w", encoding="utf-8") as f:
-            f.write(f"#last={today}\n")
+            f.write("\n".join(data_lines) + ("\n" if data_lines else ""))
+        return
 
 
 # ---------- ОТПРАВКА ----------
@@ -666,6 +702,7 @@ def main():
 
 if __name__ == "__main__":
     log.info(f"Переводчик: {'Argos (офлайн, без лимитов)' if ARGOS_OK else 'запасной'}")
+    log.info(f"Дайджесты по МСК в часы: {DIGEST_HOURS_MSK}")
     try:
         main()
     except Exception as e:
