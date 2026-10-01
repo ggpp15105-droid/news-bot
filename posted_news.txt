@@ -322,3 +322,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790892071|https://www.france24.com/en/ethiopia-and-eritrea-break-diplomatic-ties-over-conflict|Ethiopia and Eritrea break diplomatic ties over conflict
 1790892076|https://lenta.ru/news/2026/10/02/putin-rasskazal-o-vstreche-s-tigrom/|Путин рассказал о встрече с тигром
 1790892081|https://lenta.ru/news/2026/10/02/miroshnik-nazval-prichinu-nezhelaniya-evropy-voevat-s-rossiey-napryamuyu/|Мирошник назвал причину нежелания Европы воевать с Россией напрямую
+1790892943|https://www.aljazeera.com/sports/2026/10/1/tyson-fury-vs-anthony-joshua-fight-confirmed-but-is-the-bout-too-late?traffic_source=rss|Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?
+1790892950|https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss|Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe
+1790892959|https://lenta.ru/news/2026/10/02/long-moschnyy-pozhar-proizoshel-v-osobnyake-u-isaakievskogo-sobora-chto-izvestno/|Мощный пожар произошел в особняке у Исаакиевского собора. Что известно?
+1790892967|https://lenta.ru/news/2026/10/02/pozhar-v-osobnyake-millera-v-tsentre-peterburga-lokalizovan/|Пожар в особняке Миллера в центре Петербурга локализован
+1790892976|https://lenta.ru/news/2026/10/02/dmitriev-rasskazal-o-nervnom-sostoyanii-zapada-iz-za-odnogo-izvestnogo-politika/|Дмитриев рассказал о нервном состоянии Запада из-за одного известного политика
