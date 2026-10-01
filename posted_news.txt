@@ -297,3 +297,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790888094|https://lenta.ru/news/2026/10/01/portugaliya-obygrala-daniyu-posle-ot-ezda-iz-sbornoy-ronaldu/|Португалия обыграла Данию после отъезда из сборной Роналду
 1790888099|https://lenta.ru/news/2026/10/01/na-ukraine-zayavili-o-kriticheskom-snizhenii-naseleniya/|На Украине заявили о критическом снижении населения
 1790888107|https://lenta.ru/news/2026/10/01/putin-otvetil-na-predlozhenie-porazvalivat-evrosoyuz/|Путин ответил на предложение «поразваливать» Евросоюз
+1790888650|https://lenta.ru/news/2026/10/01/stalo-izvestno-o-planah-restavratsii-zagorevshegosya-v-peterburge-osobnyaka-millera/|Стало известно о планах реставрации загоревшегося в Петербурге особняка Миллера
+1790888659|https://lenta.ru/news/2026/10/01/v-rade-obratilis-k-zelenskomu-s-prizyvom-nam-nuzhen-mir/|В Раде обратились к Зеленскому с призывом «нам нужен мир!»
+1790888668|https://lenta.ru/news/2026/10/01/devis-vystupila-na-turnire-v-gruzii-s-travmoy/|Дэвис выступила на турнире в Грузии с травмой
+1790888678|https://www.kommersant.ru/doc/8991803|При пожаре на Краснозаводском химическом заводе пропали пять человек
+1790888682|https://www.kommersant.ru/doc/8991802|Агент Дзюбы опроверг информацию о завершении карьеры футболиста
