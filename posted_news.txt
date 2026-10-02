@@ -777,3 +777,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790974883|https://lenta.ru/news/2026/10/02/frantsiya-vpervye-poteryala-ochki-pri-zidane/|Франция впервые потеряла очки при Зидане
 1790974887|https://lenta.ru/news/2026/10/02/byvshiy-ministr-ekonomiki-rossii-podtverdil-gospitalizatsiyu/|Бывший министр экономики России подтвердил госпитализацию
 1790974892|https://lenta.ru/news/2026/10/02/vo-fsin-rossii-sdelali-zayavlenie-posle-chp-v-poezde-s-zaklyuchennymi/|Во ФСИН России сделали заявление после ЧП в поезде с заключенными
+1790975841|https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss|FlyDubai pilot hailed as ‘national hero’ as he describes attack
+1790975847|https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss|Latin America sees China as more positive global influence than US: Poll
+1790975856|https://lenta.ru/news/2026/10/02/rossiyskiy-posol-rasskazal-o-planah-avstrii-po-nato/|Российский посол рассказал о планах Австрии по НАТО
+1790975860|https://lenta.ru/news/2026/10/03/long-ark/|Охотники за Ноевым ковчегом уверены, что наконец нашли его. Какие доказательства они приводят?
+1790975865|https://lenta.ru/news/2026/10/02/chp-v-poezde-s-zaklyuchennymi-pod-vladikavkazom-kvalifitsirovali-po-trem-statyam/|ЧП в поезде с заключенными под Владикавказом квалифицировали по трем статьям
