@@ -407,3 +407,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790906488|https://www.kommersant.ru/doc/8991830|При пожаре в доме на юге Петербурга погиб ребенок
 1790906492|https://tass.ru/mezhdunarodnaya-panorama/28173971|Трамп уверен, что ему вынесут импичмент при победе демократов на выборах
 1790906497|https://tass.ru/ekonomika/28173967|В аэропортах Нижнекамска и Чебоксар приостановили прием и выпуск самолетов
+1790907471|https://www.aljazeera.com/video/newsfeed/2026/10/2/the-price-europe-pays-for-keeping-ai-under-control?traffic_source=rss|The price Europe pays for keeping AI under control
+1790907476|https://www.aljazeera.com/video/newsfeed/2026/10/2/pot-banging-protests-across-spain-over-housing-crisis?traffic_source=rss|Pot banging protests across Spain over housing crisis
+1790907485|https://www.japantimes.co.jp/culture/2026/10/02/film/mitani-sushi-documentary-san-sebastian/|After ‘Jiro Dreams of Sushi,’ ‘Mitani’ tells a different sushi story in San Sebastian
+1790907493|https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/ukraine-official-south-korea/|Ukrainian minister hopes to heal ‘misunderstanding’ with South Korea, media reports
+1790907497|https://lenta.ru/news/2026/10/02/rossiyanam-rasskazali-o-vozmozhnosti-dat-rebenku-matchestvo/|Россиянам рассказали о возможности дать ребенку матчество
