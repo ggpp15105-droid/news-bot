@@ -522,3 +522,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790927938|https://lenta.ru/news/2026/10/02/opublikovan-reyting-putina-sredi-rossiyan/|Опубликован рейтинг Путина среди россиян
 1790927942|https://lenta.ru/news/2026/10/02/sotrudnitsa-rossiyskogo-instituta-zarazilas-legochnoy-chumoy-i-ne-vyzhila/|Сотрудница российского института заразилась легочной чумой и не выжила
 1790927950|https://lenta.ru/news/2026/10/02/andreeva-ustanovila-rekord-wta-po-chislu-baranok-v-sezone/|Андреева установила рекорд WTA по числу «баранок» в сезоне
+1790928871|https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss|Russia tries to freeze Ukraine as it suffers record casualties and retreats
+1790928877|https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss|Indian police detain politicians at protests over election chief
+1790928883|https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss|Lawyers for US inmate who survived lethal injections demand release
+1790928889|https://www.france24.com/en/tv-shows/business/20261002-france-unveils-cost-cutting-budget-amid-protests|France unveils cost-cutting budget amid protests
+1790928897|https://www.euronews.com/2026/10/02/uzbekistan-wins-home-gold-at-record-breaking-chess-olympiad-in-samarkand|Uzbekistan wins home gold at record-breaking Chess Olympiad in Samarkand
