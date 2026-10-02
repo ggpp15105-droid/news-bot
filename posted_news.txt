@@ -482,3 +482,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790920037|https://www.japantimes.co.jp/news/2026/10/02/japan/tepco-investigation-start/|Tepco begins long-delayed probe of Fukushima reactor’s interior
 1790920045|https://lenta.ru/news/2026/10/02/deputat-rady-ob-yasnil-melkim-fraerstvom-vstrechi-zelenskogo-v-evrope/|Депутат Рады объяснил «мелким фраерством» встречи Зеленского в Европе
 1790920049|https://lenta.ru/news/2026/10/02/glavnyy-onkolog-minzdrava-otsenil-riski-razvitiya-raka-ot-implantatov-i-botoksa/|Главный онколог Минздрава оценил риски развития рака от имплантатов и ботокса
+1790920732|https://www.euronews.com/2026/10/02/new-airstream-caravan-retreat-opens-in-the-uaes-hajar-mountains|New Airstream caravan retreat opens in the UAE’s Hajar Mountains
+1790920739|https://www.euronews.com/2026/10/02/where-in-europe-is-data-centre-hiring-growing-fastest-and-why-do-these-jobs-pay-more|Where in Europe is data centre hiring growing fastest – and why do these jobs pay more?
+1790920747|https://lenta.ru/news/2026/10/02/nazvana-vozmozhnaya-prichina-pozhara-v-osobnyake-millera-v-sankt-peterburge/|Названа возможная причина пожара в особняке Миллера в Санкт-Петербурге
+1790920752|https://lenta.ru/news/2026/10/02/v-kieve-perekryli-strategicheski-vazhnyy-most/|В Киеве перекрыли стратегически важный мост
+1790920761|https://lenta.ru/news/2026/10/02/v-rossii-raskryli-sovershennuyu-v-1999-godu-zakaznuyu-raspravu/|В России раскрыли совершенную в 1999 году заказную расправу
