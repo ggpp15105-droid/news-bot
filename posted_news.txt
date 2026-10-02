@@ -732,3 +732,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790967391|https://lenta.ru/news/2026/10/03/glava-minprosvescheniya-obosnoval-vvedenie-otsenok-za-povedenie-v-shkolah/|Глава Минпросвещения обосновал введение оценок за поведение в школах
 1790967400|https://lenta.ru/news/2026/10/02/v-rossii-prokommentirovali-soobscheniya-ob-evakuatsii-posolstv-iz-kieva-frazoy-iz-kvn/|В России прокомментировали сообщения об эвакуации посольств из Киева фразой из КВН
 1790967405|https://lenta.ru/news/2026/10/02/rianna-v-otkrovennoy-poze-snyalas-dlya-sobstvennogo-brenda-nizhnego-belya/|Рианна в откровенной позе снялась для собственного бренда нижнего белья
+1790968122|https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html|FAA says Boeing 737 Max software glitch not a flight-safety issue
+1790968126|https://lenta.ru/news/2026/10/02/prezident-brazilii-lula-da-silva-rasskazal-o-planah-dozhit-do-120-let/|Президент Бразилии Лула да Силва рассказал о своих планах на ближайшие 40 лет
+1790968135|https://lenta.ru/news/2026/10/02/anfisa-chehova-pohvastalas-sadom-s-eyvoy/|Анфиса Чехова похвасталась огородом и садом с «Эйвой»
+1790968139|https://www.kommersant.ru/doc/9005229|Евгений Кузнецов приостановил спортивную карьеру
+1790968148|https://www.kommersant.ru/doc/9005226|США оставили в силе пошлины на углеродистую сталь из России
