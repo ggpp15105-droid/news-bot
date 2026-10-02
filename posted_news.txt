@@ -547,3 +547,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790932633|https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin|Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin
 1790932640|https://www.euronews.com/2026/10/02/did-trump-order-maduros-kidnapping-based-on-groks-advice|Did Trump order Maduro’s kidnapping based on Grok’s advice?
 1790932647|https://www.euronews.com/2026/10/02/traffic-gridlocked-in-ukraines-capital-as-russian-drone-strikes-close-key-bridge|Traffic gridlocked in Ukraine's capital as Russian drone strikes close key bridge
+1790933730|https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss|NBA closes sole Africa training academy in blow to young players
+1790933736|https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss|Arab party leader forced to withdraw from Israeli elections
+1790933743|https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss|Manchester City to launch appeal as financial breach fallout grows
+1790933749|https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss|Israeli court ruling a ‘new threshold’ in Palestinian suppression
+1790933757|https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss|UK arrests British-Iranian suspect over RAF ‘plot’: What we know
