@@ -802,3 +802,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790978986|https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss|Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator
 1790978992|https://www.dw.com/en/north-korea-fires-projectile-toward-sea-seoul-military-says/a-79526243?maca=en-rss-en-all-1573-rdf|North Korea fires projectile toward sea, Seoul military says
 1790979000|https://lenta.ru/news/2026/10/03/avstriyu-obvinili-v-iskazhenii-statusa-neytraliteta/|Австрию обвинили в искажении статуса нейтралитета
+1790979885|https://www.japantimes.co.jp/news/2026/10/03/japan/north-korea-missile-october-3/|North Korea fired off apparent ballistic missile amid landmine row with South
+1790979893|https://lenta.ru/news/2026/10/03/bryussel-obvinili-vo-lzhi-o-chlenstve-ukrainy-v-es/|Евросоюз обвинили во лжи насчет вступления Украины в объединение
+1790979901|https://lenta.ru/news/2026/10/02/v-federatsii-futbola-portugalii-zahoteli-vernut-ronaldu-v-sbornuyu/|В Федерации футбола Португалии захотели вернуть Роналду в сборную
+1790979905|https://www.kommersant.ru/doc/9005532|Минюст США не возобновит расследование против бывшего главы ФРС Пауэлла
+1790979910|https://www.kommersant.ru/doc/9005249|ФСИН опровергла информацию о бунте в поезде с заключенными в Кабардино-Балкарии
