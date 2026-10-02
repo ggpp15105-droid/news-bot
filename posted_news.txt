@@ -587,3 +587,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790939709|https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-sv-ireland-austria-game-tennis-balls-ie?traffic_source=rss|Protests disrupt Ireland football match with ‘Palestine tennis balls’
 1790939717|https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html|The secret signs the bond sell-off might be ending
 1790939724|https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html|Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?
+1790940649|https://www.aljazeera.com/features/2026/10/2/containerabad-pakistans-capital-and-truckers-bleed-money-amid-lockdown?traffic_source=rss|‘Containerabad’: Pakistan’s capital and truckers bleed money amid lockdown
+1790940657|https://www.aljazeera.com/sports/2026/10/2/india-pakistan-cricket-final-asian-games-cricket-gold-medal?traffic_source=rss|India vs Pakistan cricket: Asian Games gold medal final – all to know
+1790940665|https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf|ARD-Deutschlandtrend survey: Germans unite in frustration over the government
+1790940670|https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks|EU ‘fully rejects’ US threat to ban diesel exports unless bloc releases more fuel stocks
+1790940677|https://www.france24.com/en/tv-shows/press-review/20261002-brazil-s-election-lula-or-bolsonaro-jr|Brazil's election: Lula or Bolsonaro Jr?
