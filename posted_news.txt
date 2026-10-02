@@ -842,3 +842,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790984932|https://tass.ru/obschestvo/28177681|Более 50 тестов для диагностики заболеваний может появиться в РФ до 2030 года
 1790984950|https://www.vedomosti.ru/society/news/2026/10/02/1233952-zaklyuchennii-ubil-sotrudnika|Заключенный убил сотрудника ФСИН в поезде «Владикавказ – Адлер»
 1790984961|https://www.igromania.ru/news/169037/star-wars-galactic-racer-gta-6-gears-of-war-e-day-i-ne-tolko-glavnyie-igrovyie-novosti-za-2-oktyabrya/|Star Wars: Galactic Racer, GTA 6, Gears of War: E-Day и не только — главные игровые новости за 2 октября
+1790985463|https://lenta.ru/news/2026/10/03/v-yuzhnoy-koree-soobschili-o-zapuske-neopoznannogo-snaryada-kndr/|В Южной Корее сообщили о запуске неопознанного снаряда КНДР
+1790985471|https://lenta.ru/news/2026/10/03/grossi-vyskazalsya-o-naznachenii-na-post-genseka-oon/|Гросси высказался о назначении на пост генсека ООН
+1790985480|https://lenta.ru/news/2026/10/03/v-rossii-obvinili-zapad-v-sozdanii-u-naseleniya-vrazhdebnogo-obraza-rossii/|В России обвинили Запад в создании у населения враждебного образа России
+1790985489|https://www.igromania.ru/news/169036/europa-universalis-v-poluchila-syuzhetnyij-trejler-i-detali-dopolneniya-across-the-pillars/|Europa Universalis V получила сюжетный трейлер и детали дополнения Across the Pillars
+1790985497|https://www.igromania.ru/news/169035/svezhij-valor-mortis-posvyatili-bodi-horroru-i-mutatsiyam-vragov/|Свежий Valor Mortis посвятили боди-хоррору и мутациям врагов
