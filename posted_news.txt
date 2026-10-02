@@ -582,3 +582,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790938831|https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates|Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates
 1790938838|https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards|The 10 Most Valuable Cards in Magic: The Gathering Reality Fracture
 1790938847|https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist|Person Behind Viral AI-Generated Fallout: New York Game Hauls It Offline, Says Bethesda Issued Cease and Desist
+1790939697|https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss|Explosions reported near military airport in Syria’s Idlib province
+1790939704|https://www.aljazeera.com/news/2026/10/2/indian-authorities-clamp-down-as-cockroach-movement-launches-new-protests?traffic_source=rss|Indian authorities clamp down as ‘cockroach’ movement launches new protests
+1790939709|https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-sv-ireland-austria-game-tennis-balls-ie?traffic_source=rss|Protests disrupt Ireland football match with ‘Palestine tennis balls’
+1790939717|https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html|The secret signs the bond sell-off might be ending
+1790939724|https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html|Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?
