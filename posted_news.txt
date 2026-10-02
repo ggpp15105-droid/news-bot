@@ -812,3 +812,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790980718|https://www.kommersant.ru/doc/9005247|Трамп: США не будут вводить запрет на экспорт дизельного топлива
 1790980723|https://tass.ru/obschestvo/28177667|Осужденный за мошенничество Врублевский создал в колонии "бумажный интернет"
 1790980727|https://tass.ru/obschestvo/28177665|Юрист Гребнева рассказала, когда Алысханова могут признать безвестно отсутствующим
+1790981477|https://lenta.ru/news/2026/10/03/opublikovany-pervye-kadry-poezda-vladikavkaz-adler-posle-chp-za-zaklyuchennymi/|Опубликованы первые кадры поезда Владикавказ — Адлер после ЧП за заключенными
+1790981486|https://lenta.ru/news/2026/10/03/deputat-gosdumy-nazval-ukrainu-krupneyshim-tsentrom-kontrabandy-oruzhiya-v-evrope/|Депутат Госдумы назвал Украину крупнейшим центром контрабанды оружия в Европе
+1790981490|https://www.kommersant.ru/doc/9005534|Один из раненых в поезде сотрудников ФСИН находится в тяжелом состоянии
+1790981495|https://tass.ru/proisshestviya/28177671|В Ставропольском крае водитель врезался в дерево и погиб
+1790981499|https://tass.ru/mezhdunarodnaya-panorama/28177663|Журналист Ндиамахазо расскажет об убийствах Киевом жителей Донбасса
