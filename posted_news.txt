@@ -382,3 +382,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790902360|https://lenta.ru/news/2026/10/02/v-evrosoyuze-otsenili-preduprezhdenie-rossii-naschet-kaliningrada/|В Евросоюзе оценили предупреждение России насчет Калининграда
 1790902364|https://lenta.ru/news/2026/10/02/umer-frontmen-izvestnoy-hevi-metal-gruppy/|Умер фронтмен известной хеви-метал-группы
 1790902369|https://lenta.ru/news/2026/10/02/putin-rezko-vyskazalsya-ob-ubiystve-laridzhani/|Путин высказался об убийстве Лариджани
+1790903066|https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf|EU ministers mull new ways to curb irregular migration
+1790903071|https://lenta.ru/news/2026/10/02/stalo-izvestno-o-serieznyh-posledstviyah-ataki-bpla-na-volgograd/|Стало известно о серьезных последствиях атаки БПЛА на Волгоград
+1790903080|https://lenta.ru/news/2026/10/02/v-polshe-oprovergli-soobscheniya-o-loshadyah-dlya-navrotskogo/|В Польше опровергли сообщения о лошадях для Навроцкого
+1790903089|https://www.kommersant.ru/doc/8991829|При ударе беспилотников по Волгограду загорелся многоквартирный дом
+1790903100|https://www.kommersant.ru/doc/8991828|Нетаньяху: совершивший нападение на рейс Flydubai просил о смерти
