@@ -592,3 +592,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790940665|https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf|ARD-Deutschlandtrend survey: Germans unite in frustration over the government
 1790940670|https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks|EU ‘fully rejects’ US threat to ban diesel exports unless bloc releases more fuel stocks
 1790940677|https://www.france24.com/en/tv-shows/press-review/20261002-brazil-s-election-lula-or-bolsonaro-jr|Brazil's election: Lula or Bolsonaro Jr?
+1790941597|https://www.aljazeera.com/news/2026/10/2/just-one-in-10-germans-thinks-merz-is-up-to-the-job-after-election-wipeout?traffic_source=rss|Just one in 10 Germans thinks Merz is up to the job after election wipeout
+1790941602|https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack?traffic_source=rss|FlyDubai pilot describes opening cockpit door during attack
+1790941609|https://www.dw.com/en/lost-aviator-amelia-earhart-can-the-mystery-be-solved/a-79517455?maca=en-rss-en-all-1573-rdf|Lost aviator Amelia Earhart: Can the mystery be solved?
+1790941615|https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race|What's real and what's fake? How AI is impacting Brazil's election race
+1790941621|https://www.france24.com/en/video/20261002-nigeria-rolls-out-digital-postcodes|Nigeria rolls out digital postcodes
