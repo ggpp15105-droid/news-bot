@@ -562,3 +562,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790935238|https://www.france24.com/en/video/20261002-matisse-comes-to-amsterdam-in-major-new-show|Matisse comes to Amsterdam in major new show
 1790935243|https://www.france24.com/en/video/20261002-french-website-publishes-evidence-for-antisemitism-claims-against-bardella|French website publishes evidence for antisemitism claims against Bardella
 1790935248|https://news.sky.com/story/imran-khan-supporters-to-be-kept-out-of-pakistans-capital-by-shipping-containers-seized-from-distressed-lorry-drivers-13594249|Pakistan seizes shipping containers to keep Imran Khan supporters out of capital
+1790936176|https://news.sky.com/story/more-than-4000-deaths-recorded-in-dr-congo-ebola-outbreak-13594285|More than 4,000 deaths recorded in DR Congo Ebola outbreak
+1790936182|https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html|Eurozone inflation hits its highest level in three years at 3.8% as energy costs soar
+1790936189|https://www.euronews.com/video/2026/10/02/european-diesel-reserves-cover-10-days-of-the-worlds-demands-expert-says|European diesel reserves cover 10 days of the world's demands, expert says
+1790936196|https://www.euronews.com/2026/10/02/eu-adds-130-million-to-drone-funding-in-border-security-push|EU adds €130 million to drone funding in border security push
+1790936202|https://www.euronews.com/2026/10/02/hundreds-of-high-schools-in-france-close-as-new-protests-against-conditions-erupt|Hundreds of high schools in France close as new protests against conditions erupt
