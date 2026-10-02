@@ -727,3 +727,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790966486|https://www.aa.com.tr/en/world/russia-welcomes-withdrawal-of-us-military-presence-in-iraq/4076504|Russia welcomes withdrawal of US military presence in Iraq
 1790966494|https://lenta.ru/news/2026/10/03/v-minprosvescheniya-rasskazali-o-glavnom-pedagogicheskom-vyzove/|В Минпросвещения рассказали о главном педагогическом вызове
 1790966499|https://lenta.ru/news/2026/10/02/sotrudniki-minfina-rossii-vpervye-poluchili-zarplatu-v-tsifrovyh-rublyah/|Сотрудники Минфина России впервые получили зарплату в цифровых рублях
+1790967378|https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss|Sudan’s army says it captured RSF stronghold in North Kordofan
+1790967382|https://lenta.ru/news/2026/10/02/v-rossiyskom-regione-zafiksirovali-silnoe-zemletryasenie/|В российском регионе зафиксировали сильное землетрясение
+1790967391|https://lenta.ru/news/2026/10/03/glava-minprosvescheniya-obosnoval-vvedenie-otsenok-za-povedenie-v-shkolah/|Глава Минпросвещения обосновал введение оценок за поведение в школах
+1790967400|https://lenta.ru/news/2026/10/02/v-rossii-prokommentirovali-soobscheniya-ob-evakuatsii-posolstv-iz-kieva-frazoy-iz-kvn/|В России прокомментировали сообщения об эвакуации посольств из Киева фразой из КВН
+1790967405|https://lenta.ru/news/2026/10/02/rianna-v-otkrovennoy-poze-snyalas-dlya-sobstvennogo-brenda-nizhnego-belya/|Рианна в откровенной позе снялась для собственного бренда нижнего белья
