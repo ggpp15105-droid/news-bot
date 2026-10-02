@@ -402,3 +402,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790905814|https://lenta.ru/news/2026/10/02/ran-otsenila-effektivnost-lazernogo-oruzhiya-rossii/|РАН оценила эффективность лазерного оружия России
 1790905818|https://lenta.ru/news/2026/10/02/muzhchina-zhestoko-otpinal-svoego-mopsa-i-popal-na-video-v-rossiyskom-gorode/|Мужчина жестоко отпинал своего мопса и попал на видео в российском городе
 1790905827|https://lenta.ru/news/2026/10/02/stalo-izvestno-ob-organizatsii-turtsiey-novyh-peregovorov-s-rossiey-i-ukrainoy/|Стало известно об организации Турцией новых переговоров с Россией и Украиной
+1790906472|https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss|Trump launches midterms campaign blitz amidst record low approval ratings
+1790906478|https://www.japantimes.co.jp/news/2026/10/02/world/hormuz-oil-risky-job/|No lights and no radio: Getting oil through Hormuz is a risky job
+1790906488|https://www.kommersant.ru/doc/8991830|При пожаре в доме на юге Петербурга погиб ребенок
+1790906492|https://tass.ru/mezhdunarodnaya-panorama/28173971|Трамп уверен, что ему вынесут импичмент при победе демократов на выборах
+1790906497|https://tass.ru/ekonomika/28173967|В аэропортах Нижнекамска и Чебоксар приостановили прием и выпуск самолетов
