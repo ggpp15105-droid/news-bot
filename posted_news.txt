@@ -602,3 +602,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790942320|https://www.cnbc.com/2026/10/02/novartis-abogen-china-biotech-deal.html|Big Pharma turns to China for new drugs as patent cliff drives multibillion-dollar deals
 1790942327|https://www.euronews.com/2026/10/02/man-city-lodges-comprehensive-appeal-after-being-found-guilty-of-financial-rule-breaking|Man City lodges 'comprehensive' appeal after being found guilty of financial rule-breaking
 1790942334|https://www.euronews.com/2026/10/02/us-sends-third-carrier-strike-group-to-middle-east-in-biggest-buildup-since-2003|US sends third carrier strike group to Middle East in biggest buildup since 2003
+1790943316|https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss|Tunisia softens its ‘false news’ penalty. What really changed, and why now?
+1790943321|https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss|What’s behind France’s school protests?
+1790943327|https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss|Washington’s diplomacy in Sudan has backfired
+1790943334|https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-rdf|Manchester City Premier League charges: What do they mean?
+1790943341|https://www.dw.com/en/expedition-hopes-to-finally-solve-the-amelia-earhart-mystery/a-79517455?maca=en-rss-en-all-1573-rdf|Expedition hopes to finally solve the Amelia Earhart mystery
