@@ -747,3 +747,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790970068|https://www.euronews.com/2026/10/02/russia-tearing-kyiv-apart-mayor-says-as-strikes-paralyse-traffic|Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic
 1790970072|https://lenta.ru/news/2026/10/02/v-poezde-vladikavkaz-adler-proizoshel-bunt-zaklyuchennyh/|В поезде Владикавказ-Адлер произошел бунт заключенных
 1790970077|https://lenta.ru/news/2026/10/02/v-chelyabinskoy-oblasti-rasskazali-o-vosstanovlenii-ob-ektov-na-podshefnyh-territoriyah-v-dnr/|Глава Челябинской области рассказал о восстановлении объектов в ДНР
+1790970876|https://lenta.ru/news/2026/10/02/pri-atake-bespilotnikov-na-rossiyskiy-region-postradal-rebenok/|При атаке беспилотников на российский регион пострадал ребенок
+1790970881|https://lenta.ru/news/2026/10/02/veteran-gru-rasskazal-o-naraschivanii-aktivnosti-ukrainskoy-voennoy-razvedki-v-afrike/|Ветеран ГРУ рассказал о наращивании активности украинской военной разведки в Африке
+1790970886|https://lenta.ru/news/2026/10/02/u-byanki-nashli-kvartiru-s-vidom-na-kreml-i-trehetazhnyy-dom/|У Бьянки нашли трехэтажный дом и квартиру с видом на Кремль
+1790970890|https://www.kommersant.ru/doc/9005239|В России предложили облагать ПВЗ налогом на имущество по кадастровой стоимости
+1790970899|https://www.kommersant.ru/doc/9005237|Марину Влади кремировали во Франции
