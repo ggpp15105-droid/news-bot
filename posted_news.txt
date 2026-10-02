@@ -367,3 +367,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790898941|https://tass.ru/ekonomika/28173859|Расходы бюджета РФ на нацпроекты в 2027 году составят 6,3 трлн рублей
 1790898945|https://tass.ru/obschestvo/28173851|AFP: OpenAI уволила трех разработчиков за передачу данных третьим лицам
 1790898949|https://tass.ru/obschestvo/28173853|В ГД предложили освободить детей от налога за проезд на форумы
+1790899683|https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss|Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank
+1790899689|https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html|INTERPOL says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch
+1790899694|https://lenta.ru/news/2026/10/02/raskryty-sem-priznakov-trebuyuschego-perezagruzki-seksa/|Раскрыты семь признаков требующего «перезагрузки» секса
+1790899699|https://www.kommersant.ru/doc/8991827|Лионель Месси купил футбольный клуб из второго дивизиона Испании
+1790899703|https://tass.ru/armiya-i-opk/28173869|Герой РФ Колесов заявил, что до СВО 25 лет жил с чувством невыполненного долга
