@@ -472,3 +472,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790918137|https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html|Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large
 1790918144|https://www.euronews.com/2026/10/02/how-many-birds-are-killed-by-offshore-wind-turbines-scientists-use-thermal-cameras-to-find|How many birds are killed by offshore wind turbines? Scientists use thermal cameras to find out
 1790918151|https://www.euronews.com/2026/10/02/four-hidden-trails-with-medieval-roots-in-the-eastern-alps|Four hidden trails with medieval roots in the Eastern Alps
+1790919083|https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss|How Switzerland lost 20 percent of its ice in five years
+1790919089|https://www.euronews.com/2026/10/02/swedish-researchers-create-an-ai-scientist-that-designs-and-runs-its-own-experiments|Swedish researchers create an ‘AI scientist’ that designs and runs its own experiments
+1790919094|https://www.japantimes.co.jp/sports/2026/10/02/asian-games/virtual-taekwondo-asian-games/|Virtual taekwondo makes Asian Games debut
+1790919098|https://www.japantimes.co.jp/news/2026/10/02/japan/akane-icc-ex-students-petition/|Sanctioned ICC head’s former students demand action from Tokyo
+1790919107|https://lenta.ru/news/2026/10/02/kupivshaya-detyam-igrushki-rossiyanka-vyslushala-prigovor/|Купившая детям игрушки россиянка выслушала приговор
