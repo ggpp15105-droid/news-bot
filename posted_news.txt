@@ -757,3 +757,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790971421|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-sposoby-usilit-zaschitu-bankovskogo-prilozheniya/|Россиянам назвали способы усилить защиту банковского приложения
 1790971426|https://lenta.ru/news/2026/10/02/taker-karlson-vyskazalsya-o-yadernom-oruzhii-i-korruptsii-na-ukraine/|Такер Карлсон высказался о ядерном оружии и коррупции на Украине
 1790971430|https://lenta.ru/news/2026/10/02/syna-ronaldu/|Сына Роналду не вызвали в сборную Португалии
+1790972392|https://lenta.ru/news/2026/10/02/long-v-poezde-vladikavkaz-adler-proizoshel-bunt-zaklyuchennyh-pogib-sotrudnik-fsin-chto-izvestno-k-etoy-minute/|В поезде Владикавказ — Адлер произошел бунт заключенных, погиб сотрудник ФСИН. Что известно к этой минуте?
+1790972400|https://lenta.ru/news/2026/10/02/odin-zaklyuchennyy-byl-likvidirovan-pri-bunte-v-poezde-vladikavkaz-adler/|Один заключенный был ликвидирован при бунте в поезде Владикавказ — Адлер
+1790972404|https://www.kommersant.ru/doc/9005245|The Guardian узнала о планах западных стран перенести посольства из Киева
+1790972413|https://www.kommersant.ru/doc/9005244|Минздрав предложил новый порядок медосвидетельствования водителей
+1790972417|https://www.kommersant.ru/doc/9005241|Глава Пентагона поручил ускорить внедрение в армию систем борьбы с БПЛА
