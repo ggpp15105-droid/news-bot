@@ -782,3 +782,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790975856|https://lenta.ru/news/2026/10/02/rossiyskiy-posol-rasskazal-o-planah-avstrii-po-nato/|Российский посол рассказал о планах Австрии по НАТО
 1790975860|https://lenta.ru/news/2026/10/03/long-ark/|Охотники за Ноевым ковчегом уверены, что наконец нашли его. Какие доказательства они приводят?
 1790975865|https://lenta.ru/news/2026/10/02/chp-v-poezde-s-zaklyuchennymi-pod-vladikavkazom-kvalifitsirovali-po-trem-statyam/|ЧП в поезде с заключенными под Владикавказом квалифицировали по трем статьям
+1790976787|https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss|US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
+1790976794|https://www.aa.com.tr/en/world/putin-to-escalate-attacks-on-ukraine-as-us-midterm-elections-approach-zelenskyy-says/4076626|Putin to escalate attacks on Ukraine as US midterm elections approach, Zelenskyy says
+1790976808|https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now|Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'
+1790976816|https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week|Vibe-Coded Mashup Mods Have Taken Over X This Week
+1790976821|https://lenta.ru/news/2026/10/03/fsin-rossii-otreagirovala-na-gibel-sotrudnika-vo-vremya-chp-s-zaklyuchennymi-v-poezde/|ФСИН России отреагировала на гибель сотрудника во время ЧП с заключенными в поезде
