@@ -397,3 +397,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790905006|https://www.japantimes.co.jp/press/2026/10/02/noticeransomware-incident-jp/|当社グループ管理サーバーへの不正アクセスに関するお知らせ
 1790905013|https://www.japantimes.co.jp/news/2026/10/02/world/crime-legal/cornell-rape-investigation/|What we know about the Cornell University rape investigation
 1790905020|https://www.japantimes.co.jp/news/2026/10/02/world/politics/iran-nuclear-inspector-offer/|Iran offers to allow nuclear inspectors if sanctions are eased
+1790905798|https://www.cnbc.com/2026/10/02/cnbc-daily-open-us-third-carrier-iran.html|CNBC Daily Open: Three’s a crowd: U.S. carrier buildup in Middle East sends oil spiking
+1790905806|https://lenta.ru/news/2026/10/02/marochko-otsenil-operatsiyu-vsu-vivaldi/|Марочко оценил операцию ВСУ «Вивальди»
+1790905814|https://lenta.ru/news/2026/10/02/ran-otsenila-effektivnost-lazernogo-oruzhiya-rossii/|РАН оценила эффективность лазерного оружия России
+1790905818|https://lenta.ru/news/2026/10/02/muzhchina-zhestoko-otpinal-svoego-mopsa-i-popal-na-video-v-rossiyskom-gorode/|Мужчина жестоко отпинал своего мопса и попал на видео в российском городе
+1790905827|https://lenta.ru/news/2026/10/02/stalo-izvestno-ob-organizatsii-turtsiey-novyh-peregovorov-s-rossiey-i-ukrainoy/|Стало известно об организации Турцией новых переговоров с Россией и Украиной
