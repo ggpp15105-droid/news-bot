@@ -752,3 +752,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790970886|https://lenta.ru/news/2026/10/02/u-byanki-nashli-kvartiru-s-vidom-na-kreml-i-trehetazhnyy-dom/|У Бьянки нашли трехэтажный дом и квартиру с видом на Кремль
 1790970890|https://www.kommersant.ru/doc/9005239|В России предложили облагать ПВЗ налогом на имущество по кадастровой стоимости
 1790970899|https://www.kommersant.ru/doc/9005237|Марину Влади кремировали во Франции
+1790971408|https://www.euronews.com/2026/10/02/sanchez-begins-reflection-on-early-election-as-protesters-call-for-general-strike|Sánchez begins reflection on early election as protesters call for general strike
+1790971414|https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/|GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References
+1790971421|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-sposoby-usilit-zaschitu-bankovskogo-prilozheniya/|Россиянам назвали способы усилить защиту банковского приложения
+1790971426|https://lenta.ru/news/2026/10/02/taker-karlson-vyskazalsya-o-yadernom-oruzhii-i-korruptsii-na-ukraine/|Такер Карлсон высказался о ядерном оружии и коррупции на Украине
+1790971430|https://lenta.ru/news/2026/10/02/syna-ronaldu/|Сына Роналду не вызвали в сборную Португалии
