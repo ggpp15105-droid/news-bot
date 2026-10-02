@@ -427,3 +427,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790909933|https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss|OpenAI fires workers for mishandling 'sensitive information'
 1790909940|https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/nepal-dna-flood-dead-identify/|Nepal’s grim DNA puzzle to identify flood dead
 1790909949|https://lenta.ru/news/2026/10/02/rossiyanam-rasskazali-kakuyu-poderzhannuyu-mashinu-brat-luchshe-vsego/|Россиянам назвали правила выбора подержанной машины
+1790910812|https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss|Row between Ukraine, South Korea mounts over North Korean POWs
+1790910818|https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html|U.S. market regulator seeks to make it easier for funds, advisers to hold crypto
+1790910825|https://www.japantimes.co.jp/business/2026/10/02/companies/nidec-news-conference-recovery-plan/|Nidec lays out recovery plan with unit sales and investments for AI
+1790910832|https://www.japantimes.co.jp/news/2026/10/02/japan/crime-legal/beneficial-owners-information-reporting/|Japan to require corporations to report details of beneficial owners
+1790910841|https://lenta.ru/news/2026/10/02/odnoy-strane-predrekli-novuyu-volnu-migratsii-s-ukrainy/|Одной стране предрекли новую волну миграции с Украины
