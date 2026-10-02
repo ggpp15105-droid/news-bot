@@ -477,3 +477,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790919094|https://www.japantimes.co.jp/sports/2026/10/02/asian-games/virtual-taekwondo-asian-games/|Virtual taekwondo makes Asian Games debut
 1790919098|https://www.japantimes.co.jp/news/2026/10/02/japan/akane-icc-ex-students-petition/|Sanctioned ICC head’s former students demand action from Tokyo
 1790919107|https://lenta.ru/news/2026/10/02/kupivshaya-detyam-igrushki-rossiyanka-vyslushala-prigovor/|Купившая детям игрушки россиянка выслушала приговор
+1790920025|https://www.france24.com/en/europe/20261002-live-russia-hits-kyiv-s-southern-bridge-as-moscow-continues-to-pound-capital|Live: Russia hits Kyiv’s Southern Bridge as Moscow continues to pound capital
+1790920031|https://www.euronews.com/2026/10/02/south-korea-warns-of-further-measures-if-ukraine-refuses-public-apology-over-pow-transfer-|South Korea warns of 'further measures' if Ukraine refuses public apology over POW transfer disclosure
+1790920037|https://www.japantimes.co.jp/news/2026/10/02/japan/tepco-investigation-start/|Tepco begins long-delayed probe of Fukushima reactor’s interior
+1790920045|https://lenta.ru/news/2026/10/02/deputat-rady-ob-yasnil-melkim-fraerstvom-vstrechi-zelenskogo-v-evrope/|Депутат Рады объяснил «мелким фраерством» встречи Зеленского в Европе
+1790920049|https://lenta.ru/news/2026/10/02/glavnyy-onkolog-minzdrava-otsenil-riski-razvitiya-raka-ot-implantatov-i-botoksa/|Главный онколог Минздрава оценил риски развития рака от имплантатов и ботокса
