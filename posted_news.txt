@@ -762,3 +762,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790972404|https://www.kommersant.ru/doc/9005245|The Guardian узнала о планах западных стран перенести посольства из Киева
 1790972413|https://www.kommersant.ru/doc/9005244|Минздрав предложил новый порядок медосвидетельствования водителей
 1790972417|https://www.kommersant.ru/doc/9005241|Глава Пентагона поручил ускорить внедрение в армию систем борьбы с БПЛА
+1790973292|https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss|Could conflict in Ethiopia expand across the region?
+1790973301|https://lenta.ru/news/2026/10/02/zhena-safonova-rasskazala-ob-otnoshenii-k-brachnomu-kontraktu/|Жена Сафонова рассказала об отношении к брачному контракту
+1790973305|https://lenta.ru/news/2026/10/02/v-rossii-izmenitsya-poryadok-medosvidetelstvovaniya-voditeley/|В России изменится порядок медосвидетельствования водителей
+1790973309|https://lenta.ru/news/2026/10/02/spetspredstavitel-putina-prizval-nato-prekratit-razzhiganie-voyny/|Спецпредставитель Путина призвал НАТО прекратить разжигание войны
+1790973314|https://lenta.ru/news/2026/10/02/poyavilis-podrobnosti-o-chp-v-poezde-s-zaklyuchennymi-pod-vladikavkazom/|Появились подробности о ЧП в поезде с заключенными под Владикавказом
