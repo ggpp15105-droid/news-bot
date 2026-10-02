@@ -772,3 +772,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790974212|https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf|UK: Man charged with planning to attack Nigel Farage
 1790974219|https://www.euronews.com/2026/10/02/tension-rises-in-ceuta-two-migrant-children-stabbed-and-bacteria-contaminated-beach|Tension rises in Ceuta: two migrant children stabbed and bacteria-contaminated beach
 1790974226|https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election|US suspends consular services in Brazil as Lula and Bolsonaro fight for election
+1790974873|https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels|Ethiopian army pushes back Tigrayan rebels
+1790974878|https://news.sky.com/story/nepal-plans-to-drain-four-dangerous-glacial-lakes-after-deadly-flash-flood-13594475|Nepal plans to drain four dangerous glacial lakes after deadly flood
+1790974883|https://lenta.ru/news/2026/10/02/frantsiya-vpervye-poteryala-ochki-pri-zidane/|Франция впервые потеряла очки при Зидане
+1790974887|https://lenta.ru/news/2026/10/02/byvshiy-ministr-ekonomiki-rossii-podtverdil-gospitalizatsiyu/|Бывший министр экономики России подтвердил госпитализацию
+1790974892|https://lenta.ru/news/2026/10/02/vo-fsin-rossii-sdelali-zayavlenie-posle-chp-v-poezde-s-zaklyuchennymi/|Во ФСИН России сделали заявление после ЧП в поезде с заключенными
