@@ -467,3 +467,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790917214|https://lenta.ru/news/2026/10/02/robert-pattinson-nazval-kulminatsionnyy-film-2000-h-godov/|Роберт Паттинсон назвал «кульминационный» фильм 2000-х годов
 1790917222|https://lenta.ru/news/2026/10/02/peregovory-britanii-i-es-o-merah-po-predotvrascheniyu-defitsita-dizelya-proshli-bezrezultatno/|Переговоры Британии и ЕС о мерах по предотвращению дефицита дизеля прошли безрезультатно
 1790917226|https://lenta.ru/news/2026/10/02/poslanie-napoleona-rasshifrovali-spustya-217-let/|Послание Наполеона расшифровали спустя 217 лет
+1790918122|https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss|Nepal avalanche kills at least 15 expedition workers
+1790918130|https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html|A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake
+1790918137|https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html|Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large
+1790918144|https://www.euronews.com/2026/10/02/how-many-birds-are-killed-by-offshore-wind-turbines-scientists-use-thermal-cameras-to-find|How many birds are killed by offshore wind turbines? Scientists use thermal cameras to find out
+1790918151|https://www.euronews.com/2026/10/02/four-hidden-trails-with-medieval-roots-in-the-eastern-alps|Four hidden trails with medieval roots in the Eastern Alps
