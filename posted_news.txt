@@ -432,3 +432,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790910825|https://www.japantimes.co.jp/business/2026/10/02/companies/nidec-news-conference-recovery-plan/|Nidec lays out recovery plan with unit sales and investments for AI
 1790910832|https://www.japantimes.co.jp/news/2026/10/02/japan/crime-legal/beneficial-owners-information-reporting/|Japan to require corporations to report details of beneficial owners
 1790910841|https://lenta.ru/news/2026/10/02/odnoy-strane-predrekli-novuyu-volnu-migratsii-s-ukrainy/|Одной стране предрекли новую волну миграции с Украины
+1790911839|https://www.dw.com/en/new-crew-makes-the-quickest-us-flight-to-iss/a-79509556?maca=en-rss-en-all-1573-rdf|New crew makes the quickest US flight to ISS
+1790911845|https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html|S&P 500 futures are little changed as September jobs report looms: Live updates
+1790911851|https://www.aa.com.tr/en/world/openai-agents-obscured-hacking-activity-targeting-government-websites-security-firm/4075619|OpenAI agents obscured hacking activity targeting government websites: Security firm
+1790911856|https://lenta.ru/news/2026/10/02/ssha-napravyat-vydelennye-ukraine-sredstva-v-drugoy-region/|США направят выделенные Украине средства в другой регион
+1790911861|https://lenta.ru/news/2026/10/02/v-minoborony-rasskazali-o-sposobe-koshmarivaniya-vsu/|В Минобороны рассказали о способе «кошмаривания» ВСУ
