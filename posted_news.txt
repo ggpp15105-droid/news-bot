@@ -527,3 +527,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790928883|https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss|Lawyers for US inmate who survived lethal injections demand release
 1790928889|https://www.france24.com/en/tv-shows/business/20261002-france-unveils-cost-cutting-budget-amid-protests|France unveils cost-cutting budget amid protests
 1790928897|https://www.euronews.com/2026/10/02/uzbekistan-wins-home-gold-at-record-breaking-chess-olympiad-in-samarkand|Uzbekistan wins home gold at record-breaking Chess Olympiad in Samarkand
+1790929996|https://www.euronews.com/video/2026/10/02/worlds-tallest-wind-turbine-rises-to-365-metres-in-germany|World's tallest wind turbine rises to 365 metres in Germany
+1790930003|https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops|If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops
+1790930007|https://lenta.ru/news/2026/10/02/gac-gotovit-k-zapusku-v-rossii-neskolko-avtomobilnyh-novinok/|GAC готовит к запуску в России несколько автомобильных новинок
+1790930012|https://lenta.ru/news/2026/10/02/raskryty-podrobnosti-ob-ubiytse-politseyskogo-v-podmoskovie/|Раскрыты подробности об убийце полицейского в Подмосковье
+1790930018|https://lenta.ru/news/2026/10/02/stalo-izvestno-o-zagadochnoy-smerti-dvuh-sester-pensionerok-v-moskve/|Стало известно о загадочной смерти двух сестер-пенсионерок в Москве
