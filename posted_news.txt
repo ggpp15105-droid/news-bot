@@ -437,3 +437,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790911851|https://www.aa.com.tr/en/world/openai-agents-obscured-hacking-activity-targeting-government-websites-security-firm/4075619|OpenAI agents obscured hacking activity targeting government websites: Security firm
 1790911856|https://lenta.ru/news/2026/10/02/ssha-napravyat-vydelennye-ukraine-sredstva-v-drugoy-region/|США направят выделенные Украине средства в другой регион
 1790911861|https://lenta.ru/news/2026/10/02/v-minoborony-rasskazali-o-sposobe-koshmarivaniya-vsu/|В Минобороны рассказали о способе «кошмаривания» ВСУ
+1790912852|https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss|Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
+1790912859|https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss|US to send third aircraft carrier towards Iran: US official to Al Jazeera
+1790912866|https://www.japantimes.co.jp/news/2026/10/02/world/us-carrier-troops-mideast/|U.S. may add carrier and 10,000 troops to Middle East, official says
+1790912875|https://www.aa.com.tr/en/world/us-sends-additional-patriot-batteries-to-protect-saudi-qatari-energy-sites-report/4075620|US sends additional Patriot batteries to protect Saudi, Qatari energy sites: Report
+1790912880|https://lenta.ru/news/2026/10/02/pyanaya-rossiyanka-nasmert-zadavila-mat/|Пьяная россиянка насмерть задавила мать
