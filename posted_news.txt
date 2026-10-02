@@ -792,3 +792,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790977681|https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss|Israeli general: Gaza captives could have been freed a year earlier
 1790977687|https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet|French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet
 1790977692|https://lenta.ru/news/2026/10/03/cnn-raskryl-sostoyanie-vyzhivshey-posle-kazni-v-ssha-zaklyuchennoy/|Раскрыто состояние выжившей после казни в США заключенной
+1790978262|https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss|France held 1-1 by Italy in Zidane home debut after Olise stunner
+1790978266|https://lenta.ru/news/2026/10/03/stali-izvestny-podrobnosti-o-sostoyanii-sotrudnikov-fsin-posle-chp-pod-vladikavkazom/|Стали известны подробности о состоянии сотрудников ФСИН после ЧП под Владикавказом
+1790978271|https://lenta.ru/news/2026/10/03/tramp-sdelal-zayavlenie-o-svoem-impichmente/|Трамп сделал заявление о своем импичменте
+1790978279|https://lenta.ru/news/2026/10/03/prokuratura-podtverdila-likvidatsiyu-zaklyuchennogo-vo-vremya-chp-v-poezde-vladikavkaz-adler/|Прокуратура подтвердила ликвидацию заключенного во время ЧП в поезде Владикавказ — Адлер
+1790978283|https://www.kommersant.ru/doc/9005526|Генсек ОДКБ заявил об обострении ситуации в зоне ответственности организации
