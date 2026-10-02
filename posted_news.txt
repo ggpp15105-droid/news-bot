@@ -392,3 +392,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790904116|https://lenta.ru/news/2026/10/02/muzhchina-pereputal-adres-i-sluchayno-stal-prestupnikom/|Мужчина перепутал адрес и случайно стал преступником
 1790904121|https://lenta.ru/news/2026/10/02/39-letnyaya-pevitsa-v-bikini-popala-v-ob-ektiv-paparatstsi-spustya-polgoda-posle-rodov/|39-летняя певица в бикини попала в объектив папарацци спустя полгода после родов
 1790904126|https://lenta.ru/news/2026/10/02/v-evroparlamente-zanervnichali-iz-za-azova/|В Европарламенте занервничали из-за «Азова»
+1790904980|https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer|G20 trade ministers deadlocked over industrial overcapacity, says US trade chief
+1790904989|https://www.japantimes.co.jp/press/2026/10/02/notice-ransomware-incident/|Notice Regarding Unauthorized Access to Servers Managed by Our Group
+1790905006|https://www.japantimes.co.jp/press/2026/10/02/noticeransomware-incident-jp/|当社グループ管理サーバーへの不正アクセスに関するお知らせ
+1790905013|https://www.japantimes.co.jp/news/2026/10/02/world/crime-legal/cornell-rape-investigation/|What we know about the Cornell University rape investigation
+1790905020|https://www.japantimes.co.jp/news/2026/10/02/world/politics/iran-nuclear-inspector-offer/|Iran offers to allow nuclear inspectors if sanctions are eased
