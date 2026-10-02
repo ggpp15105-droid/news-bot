@@ -517,3 +517,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790927154|https://www.france24.com/en/americas/20261002-lula-and-bolsonaro-s-mudslinging-heats-up-ahead-of-weekend-vote|Lula and Bolsonaro’s mudslinging heats up ahead of weekend vote
 1790927161|https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html|U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes
 1790927170|https://www.aa.com.tr/en/world/morning-briefing-oct-2-2026/4075660|Morning Briefing: Oct. 2, 2026
+1790927922|https://www.euronews.com/2026/10/02/christa-pike-in-critical-condition-after-tennessee-botched-execution-lawyer-says|Christa Pike in critical condition after Tennessee botched execution, lawyer says
+1790927929|https://lenta.ru/news/2026/10/02/vospitatelnitsa-rossiyskogo-detsada-privyazyvala-i-izbivala-detey/|Воспитательница российского детсада привязывала и избивала детей
+1790927938|https://lenta.ru/news/2026/10/02/opublikovan-reyting-putina-sredi-rossiyan/|Опубликован рейтинг Путина среди россиян
+1790927942|https://lenta.ru/news/2026/10/02/sotrudnitsa-rossiyskogo-instituta-zarazilas-legochnoy-chumoy-i-ne-vyzhila/|Сотрудница российского института заразилась легочной чумой и не выжила
+1790927950|https://lenta.ru/news/2026/10/02/andreeva-ustanovila-rekord-wta-po-chislu-baranok-v-sezone/|Андреева установила рекорд WTA по числу «баранок» в сезоне
