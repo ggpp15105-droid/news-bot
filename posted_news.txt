@@ -817,3 +817,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790981490|https://www.kommersant.ru/doc/9005534|Один из раненых в поезде сотрудников ФСИН находится в тяжелом состоянии
 1790981495|https://tass.ru/proisshestviya/28177671|В Ставропольском крае водитель врезался в дерево и погиб
 1790981499|https://tass.ru/mezhdunarodnaya-panorama/28177663|Журналист Ндиамахазо расскажет об убийствах Киевом жителей Донбасса
+1790982024|https://lenta.ru/news/2026/10/03/karlson-otsenil-vozmozhnosti-britanii-protivostoyat-rossii/|Карлсон оценил возможности Британии противостоять России
+1790982028|https://tass.ru/mezhdunarodnaya-panorama/28177669|Такер Карлсон заявил, что Украина продала бы ядерное оружие при его наличии
+1790982033|https://www.vedomosti.ru/politics/news/2026/10/03/1233955-izrail-otkril-ogon|Израиль открыл огонь по демилитаризованной зоне на юге Сирии
+1790982037|https://www.vedomosti.ru/society/news/2026/10/03/1233954-sk-vozbudil-delo|СК возбудил дело после нападения заключенного на конвоиров в Кабардино-Балкарии
+1790982042|https://www.vedomosti.ru/politics/news/2026/10/02/1233953-tramp-otkazalsya|Трамп отказался от запрета на экспорт дизельного топлива
