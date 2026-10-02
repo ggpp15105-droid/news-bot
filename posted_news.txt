@@ -387,3 +387,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790903080|https://lenta.ru/news/2026/10/02/v-polshe-oprovergli-soobscheniya-o-loshadyah-dlya-navrotskogo/|В Польше опровергли сообщения о лошадях для Навроцкого
 1790903089|https://www.kommersant.ru/doc/8991829|При ударе беспилотников по Волгограду загорелся многоквартирный дом
 1790903100|https://www.kommersant.ru/doc/8991828|Нетаньяху: совершивший нападение на рейс Flydubai просил о смерти
+1790904104|https://www.japantimes.co.jp/news/2026/10/02/world/dennis-rodman-trump-kim/|Rodman joins Trump as he eyes meeting with North Korea’s Kim
+1790904112|https://lenta.ru/news/2026/10/02/ukrainskih-studentov-hirurgov-ulichili-v-praktike-na-naemnikah-vsu/|Украинских студентов-хирургов уличили в практике на наемниках ВСУ
+1790904116|https://lenta.ru/news/2026/10/02/muzhchina-pereputal-adres-i-sluchayno-stal-prestupnikom/|Мужчина перепутал адрес и случайно стал преступником
+1790904121|https://lenta.ru/news/2026/10/02/39-letnyaya-pevitsa-v-bikini-popala-v-ob-ektiv-paparatstsi-spustya-polgoda-posle-rodov/|39-летняя певица в бикини попала в объектив папарацци спустя полгода после родов
+1790904126|https://lenta.ru/news/2026/10/02/v-evroparlamente-zanervnichali-iz-za-azova/|В Европарламенте занервничали из-за «Азова»
