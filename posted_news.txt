@@ -417,3 +417,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790908344|https://www.japantimes.co.jp/sports/2026/10/02/tennis/kei-nishikori-retires/|Nishikori bows out for final time in Tokyo as crowd salutes Japanese trailblazer
 1790908350|https://www.japantimes.co.jp/business/2026/10/02/companies/regional-banks-merger-consideration/|Regional banks in northern Japan to consider three-way merger
 1790908357|https://lenta.ru/news/2026/10/02/v-rossii-vyskazalis-o-voyne-s-nato/|В России высказались о войне с НАТО
+1790909216|https://www.japantimes.co.jp/business/2026/10/02/companies/softbank-ai-return-investors/|SoftBank stock investors see past credit risks to AI returns
+1790909221|https://www.japantimes.co.jp/business/2026/10/02/companies/apollo-japan-ai/|Apollo to back $15 billion AI infrastructure project in Japan
+1790909227|https://www.aa.com.tr/en/middle-east/saudi-arabia-denies-reports-of-suicide-bomber-at-grand-mosque-in-mecca/4075613|Saudi Arabia denies reports of suicide bomber at Grand Mosque in Mecca
+1790909232|https://lenta.ru/news/2026/10/02/bloger-opisal-odnu-stranu-slovami-latinoamerikanskaya-rossiya/|Блогер описал одну страну словами «латиноамериканская Россия»
+1790909236|https://lenta.ru/news/2026/10/02/stala-izvestna-prichina-rezonansnogo-pohischeniya-devochki-v-smolenske/|Стала известна возможная причина резонансного похищения девочки в Смоленске
