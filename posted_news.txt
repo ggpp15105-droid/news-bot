@@ -922,3 +922,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791001011|https://www.kommersant.ru/doc/9005547|Главные новости к утру 3 октября // В Кабардино-Балкарии арестант убил конвоира и ранил троих силовиков
 1791001016|https://www.kommersant.ru/doc/9005549|Трамп предложил назвать мост в Алабаме в его честь
 1791001025|https://www.igromania.ru/news/169040/v-studii-sozdatelej-kingdom-come-deliverance-nadeyutsya-chto-gta-6-pomozhet-povyisit-tsenyi-na-igryi/|В студии создателей Kingdom Come: Deliverance надеются, что GTA 6 поможет повысить цены на игры
+1791001933|https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss|Two Iranians charged over alleged plot targeting Jewish community in UK
+1791001940|https://www.dw.com/en/australia-car-crashes-into-rugby-fans-10-injured/a-79526643?maca=en-rss-en-all-1573-rdf|Australia: Car crashes into rugby fans, 10 injured
+1791001945|https://lenta.ru/news/2026/10/03/v-rossiyskom-regione-shest-chelovek-otravilis-ugarnym-gazom/|В российском регионе шесть человек отравились угарным газом
+1791001949|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-samyy-nevygodnyy-mesyats-dlya-otpuska/|Россиянам назвали самый невыгодный месяц для отпуска
+1791001954|https://lenta.ru/news/2026/10/03/rossiyan-predupredili-o-moshennikah-s-feykovym-prilozheniem-dlya-poiska-po-kartinke/|Россиян предупредили о мошенниках с фейковым приложением для поиска по картинке
