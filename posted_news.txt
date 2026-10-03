@@ -1027,3 +1027,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791021556|https://lenta.ru/news/2026/10/03/ferstappen-vyigral-kvalifikatsiyu-na-etape-formuly-1-v-bahreyne/|Ферстаппен выиграл квалификацию на этапе «Формулы-1» в Бахрейне
 1791021565|https://lenta.ru/news/2026/10/03/v-minoborony-zayavili-ob-uspehah-armii-rossii-v-harkovskoy-oblasti/|В Минобороны заявили об успехах армии России в Харьковской области
 1791021570|https://www.kommersant.ru/doc/9005621|«Газпром» заявил о рекордно низком запасе газа в хранилище Прибалтики
+1791022385|https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss|Red Bull’s Verstappen grabs pole position for Bahrain GP in Malaysia
+1791022392|https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks|China opens anti-dumping probe into EU days before Beijing trade talks
+1791022400|https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data|ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths
+1791022404|https://lenta.ru/news/2026/10/03/poyavilis-podrobnosti-o-sostoyanii-suprugi-kashpirovskogo-posle-ego-smerti/|Появились подробности о состоянии супруги Кашпировского после его смерти
+1791022408|https://lenta.ru/news/2026/10/03/na-ucheniyah-tsentr-pokazali-izdelie-347-s-upravlyaemoy-raketoy/|На учениях «Центр» показали «Изделие 347» с управляемой ракетой
