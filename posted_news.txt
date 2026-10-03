@@ -997,3 +997,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791016583|https://lenta.ru/news/2026/10/03/stolitsa-litvy-okazalas-na-grani-chp-gosudarstvennogo-urovnya-iz-za-musora/|Столица Литвы оказалась на грани ЧП государственного уровня из-за мусора
 1791016590|https://www.kommersant.ru/doc/9005608|Андрей Рублев вышел в четвертьфинал турнира ATP в Пекине
 1791016594|https://www.kommersant.ru/doc/9005609|СКР возбудил дело после гибели горняка при обрушении в шахте на Урале // Почти 100 человек остаются в шахте в Свердловской области после обрушения породы
+1791017607|https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss|Polls open in Latvia against backdrop of perceived Russia threat
+1791017614|https://www.aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss|Turkish court detains football refereeing chief pending corruption trial
+1791017621|https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss|India beat arch-rivals Pakistan to win Asian Games T20 cricket gold
+1791017627|https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss|Floods sweep cars through streets after intense rain in Spain
+1791017631|https://www.france24.com/en/live-news/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-as-govt-advances-journalist|Ethiopia's Tigray rebels abandon regional capital as govt advances: journalist
