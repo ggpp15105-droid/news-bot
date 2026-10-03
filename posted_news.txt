@@ -907,3 +907,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790997197|https://lenta.ru/news/2026/10/03/nazvano-imya-podozrevaemogo-v-napadenii-na-pilota-flydubai/|Названо имя подозреваемого в нападении на пилота Flydubai
 1790997201|https://www.kommersant.ru/doc/9005545|Стала известна предполагаемая личность напавшего на командира самолета Flydubai // ABC: подозреваемым в нападении на пилота Flydubai оказался 29-летний оманец
 1790997206|https://tass.ru/armiya-i-opk/28177843|ксперт Коротченко объяснил смену тактики ВС РФ по логистике Украины
+1790998498|https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral|Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral
+1790998503|https://lenta.ru/news/2026/10/03/long-vyshe-skorost-i-bolshe-boevaya-chast-putinu-pokazali-obnovlennye-bespilotniki-geran-4-i-geran-5-s-reaktivnymi-dvigatelyami/|Выше скорость и больше боевая часть: Путину показали обновленные беспилотники «Герань-4» и «Герань-5» с реактивными двигателями
+1790998507|https://lenta.ru/news/2026/10/03/v-minzdrave-zayavili-o-kolossalnom-progresse-v-onkologii/|В Минздраве заявили о колоссальном прогрессе в онкологии
+1790998512|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-konfuze-mezhdu-prezidentami-finlyandii-i-moldavii/|Стало известно о конфузе между президентами Финляндии и Молдавии
+1790998516|https://www.kommersant.ru/doc/9005546|Один погиб и пятеро пострадали при ДТП в Приморском крае
