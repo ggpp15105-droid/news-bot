@@ -1022,3 +1022,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791020993|https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests|Barricades & the blame game: the French school protests
 1791020997|https://lenta.ru/news/2026/10/03/ryadom-s-universitetom-v-los-andzhelese-proizoshla-strelba/|Рядом с университетом в Лос-Анджелесе произошла стрельба
 1791021002|https://lenta.ru/news/2026/10/03/kamaz-s-geranyami-nazvali-glavnoy-novinkoy-ucheniy-tsentr/|КамАЗ с «Геранями» назвали главной новинкой учений «Центр»
+1791021547|https://www.dw.com/en/germany-next-president-should-come-from-east-says-official/live-79528092?maca=en-rss-en-all-1573-rdf|Germany: Next president should come from east, says official
+1791021551|https://lenta.ru/news/2026/10/03/karpin-nazval-komandy-s-kotorymi-hochet-sygrat/|Карпин назвал команды, с которыми хочет сыграть
+1791021556|https://lenta.ru/news/2026/10/03/ferstappen-vyigral-kvalifikatsiyu-na-etape-formuly-1-v-bahreyne/|Ферстаппен выиграл квалификацию на этапе «Формулы-1» в Бахрейне
+1791021565|https://lenta.ru/news/2026/10/03/v-minoborony-zayavili-ob-uspehah-armii-rossii-v-harkovskoy-oblasti/|В Минобороны заявили об успехах армии России в Харьковской области
+1791021570|https://www.kommersant.ru/doc/9005621|«Газпром» заявил о рекордно низком запасе газа в хранилище Прибалтики
