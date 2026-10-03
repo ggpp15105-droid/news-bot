@@ -847,3 +847,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790985480|https://lenta.ru/news/2026/10/03/v-rossii-obvinili-zapad-v-sozdanii-u-naseleniya-vrazhdebnogo-obraza-rossii/|В России обвинили Запад в создании у населения враждебного образа России
 1790985489|https://www.igromania.ru/news/169036/europa-universalis-v-poluchila-syuzhetnyij-trejler-i-detali-dopolneniya-across-the-pillars/|Europa Universalis V получила сюжетный трейлер и детали дополнения Across the Pillars
 1790985497|https://www.igromania.ru/news/169035/svezhij-valor-mortis-posvyatili-bodi-horroru-i-mutatsiyam-vragov/|Свежий Valor Mortis посвятили боди-хоррору и мутациям врагов
+1790986402|https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss|Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
+1790986408|https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss|North Korea fires ballistic missile towards the sea, South Korea says
+1790986415|https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss|Dutch royal house helped slave trade to survive, study finds
+1790986420|https://lenta.ru/news/2026/10/03/v-rossii-zayavili-o-serieznom-otnoshenii-k-ugrozam-zapada-v-adres-kaliningradskoy-oblasti/|В России заявили о серьезном отношении к угрозам Запада в адрес Калининградской области
+1790986424|https://tass.ru/mezhdunarodnaya-panorama/28177703|Трамп допустил окончание конфликта с Ираном после выборов в Конгресс
