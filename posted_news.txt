@@ -1032,3 +1032,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791022400|https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data|ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths
 1791022404|https://lenta.ru/news/2026/10/03/poyavilis-podrobnosti-o-sostoyanii-suprugi-kashpirovskogo-posle-ego-smerti/|Появились подробности о состоянии супруги Кашпировского после его смерти
 1791022408|https://lenta.ru/news/2026/10/03/na-ucheniyah-tsentr-pokazali-izdelie-347-s-upravlyaemoy-raketoy/|На учениях «Центр» показали «Изделие 347» с управляемой ракетой
+1791023233|https://lenta.ru/news/2026/10/03/knyaz-veschiy-oleg-prokontroliroval-porazhenie-zhivoy-sily-vsu/|«Князь Вещий Олег» проконтролировал поражение живой силы ВСУ
+1791023242|https://lenta.ru/news/2026/10/03/long-armiya-rossii-prodolzhila-ataki-na-infrastrukturu-vsu-atakovan-most-v-kieve-i-sledovavshiy-v-odessu-suhogruz-chto-izvestno/|Армия России продолжила атаки на инфраструктуру ВСУ. Атакован мост в Киеве и следовавший в Одессу сухогруз. Что известно?
+1791023247|https://lenta.ru/news/2026/10/03/na-zapade-zayavili-o-prizyve-kieva-k-otvetu-za-goloslovnost-v-adres-rossii-po-buche/|На Западе заявили о призыве Киева к ответу за голословность в адрес России по Буче
+1791023251|https://www.kommersant.ru/doc/9005630|NYT: Россия и США обсуждают «многомиллиардную сделку» с активами ЛУКОЙЛа
+1791023256|https://www.kommersant.ru/doc/9005629|Токаев уволил главнокомандующего ВМС после гибели военных на морских учениях
