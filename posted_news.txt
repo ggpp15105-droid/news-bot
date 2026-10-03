@@ -857,3 +857,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790987769|https://lenta.ru/news/2026/10/03/byvshaya-soratnitsa-zelenskogo-prizvala-kiev-k-deeskalatsii/|Бывшая соратница Зеленского призвала Киев к деэскалации
 1790987778|https://lenta.ru/news/2026/10/03/vrach-nazval-opasnoe-posledstvie-grippa/|Врач назвал опасное последствие гриппа
 1790987782|https://www.kommersant.ru/doc/9005538|Суд зарегистрировал иск Самойловой об ограничении Джигана в родительских правах
+1790988841|https://lenta.ru/news/2026/10/03/evrope-napomnili-o-yadernoy-triade-rossii/|Европе напомнили о ядерной триаде России
+1790988846|https://lenta.ru/news/2026/10/03/v-rossii-povysyat-vse-vidy-pensiy/|В России повысят все виды пенсий
+1790988850|https://tass.ru/obschestvo/28177737|В Уссурийске подсчитали причиненный из-за поджога цирка ущерб
+1790988854|https://tass.ru/mezhdunarodnaya-panorama/28177735|В Сеуле утверждают, что запущенная КНДР ракета пролетела 700 км
+1790988857|https://tass.ru/obschestvo/28177733|В Сибири и на Дальнем Востоке ожидаются дожди со снегом и сильным ветром
