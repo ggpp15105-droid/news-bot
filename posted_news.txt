@@ -947,3 +947,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791005731|https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand|North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts
 1791005737|https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html|America’s data center fight is a preview of what's to come for the rest of the world
 1791005742|https://www.euronews.com/2026/10/03/the-disney-generation-what-unites-baby-boomers-millennials-and-gen-z|The Disney generation: What unites Baby Boomers, millennials and Gen Z
+1791006737|https://www.japantimes.co.jp/business/2026/10/03/tech/ai-transform-world-money/|AI’s race to transform the world before the money runs out
+1791006744|https://www.aa.com.tr/en/middle-east/1st-israeli-flight-departs-dubai-to-repatriate-stranded-passengers-after-flydubai-incident/4076678|1st Israeli flight departs Dubai to repatriate stranded passengers after Flydubai incident
+1791006753|https://lenta.ru/news/2026/10/03/glava-ran-otsenil-tempy-potepleniya-v-rossii/|Глава РАН оценил темпы потепления в России
+1791006758|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-postradavshih-pri-atake-bespilotnikov-na-donetsk/|Стало известно о пострадавших при атаке беспилотников на Донецк
+1791006762|https://lenta.ru/news/2026/10/03/rossiyanam-napomnili-o-srokah-uplaty-nalogov/|Россиянам напомнили о сроках уплаты налогов
