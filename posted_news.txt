@@ -927,3 +927,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791001945|https://lenta.ru/news/2026/10/03/v-rossiyskom-regione-shest-chelovek-otravilis-ugarnym-gazom/|В российском регионе шесть человек отравились угарным газом
 1791001949|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-samyy-nevygodnyy-mesyats-dlya-otpuska/|Россиянам назвали самый невыгодный месяц для отпуска
 1791001954|https://lenta.ru/news/2026/10/03/rossiyan-predupredili-o-moshennikah-s-feykovym-prilozheniem-dlya-poiska-po-kartinke/|Россиян предупредили о мошенниках с фейковым приложением для поиска по картинке
+1791002841|https://www.aljazeera.com/video/newsfeed/2026/10/3/indias-cockroach-party-headlines-day-of-anti-establishment-protests?traffic_source=rss|India’s Cockroach Party headlines day of anti-establishment protests
+1791002847|https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/politics/taiwan-fm-visit-arizona/|Taiwanese foreign minister to visit Arizona to deepen economic ties
+1791002852|https://www.japantimes.co.jp/news/2026/10/03/japan/politics/police-toyama-census-inflation/|Police search Toyama City Hall over census inflation claims
+1791002861|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-sredniy-srok-poiska-raboty/|Россиянам назвали средний срок поиска работы
+1791002869|https://lenta.ru/news/2026/10/03/v-rossii-zayavili-o-shantazhe-evropeytsev-trampom/|В России заявили о шантаже европейцев Трампом
