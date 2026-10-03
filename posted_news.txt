@@ -1042,3 +1042,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791025071|https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-all-1573-rdf|On German Unity Day, Steinmeier laments 'bitter setbacks'
 1791025077|https://www.aa.com.tr/en/africa/rsf-attack-in-sudan-killed-more-than-25-civilians-in-north-kordofan-says-medical-group/4076923|RSF attack in Sudan killed more than 25 civilians in North Kordofan, says medical group
 1791025083|https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand|Memory shortages set to persist into 2028, warns Micron CEO
+1791031814|https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss|South Africa’s Pretorius smashes Gayle’s T20 cricket record score
+1791031820|https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss|Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters
+1791031827|https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss|World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers
+1791031833|https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss|The double standards of a failed execution
+1791031840|https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss|Ethiopia’s government forces retake airport from Tigray rebels in Mekelle
