@@ -902,3 +902,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790995885|https://lenta.ru/news/2026/10/03/gosdolg-ukrainy-za-desyat-let-vyros-bolee-chem-v-pyat-raz/|Госдолг Украины за десять лет вырос более чем в пять раз
 1790995890|https://lenta.ru/news/2026/10/03/onischenko-predupredil-rossiyan-ob-ugrozhayuschey-im-bolezni/|Онищенко предупредил россиян об угрожающей им болезни
 1790995895|https://lenta.ru/news/2026/10/03/stalo-izvestno-ob-ultimatume-es-ukraine/|Стало известно об ультиматуме ЕС Украине
+1790997184|https://www.aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss|Dominican Republic bans Haiti from its stadiums after football fans clash
+1790997192|https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/chinese-antelope-reef-south-china-sea/|Chinese work gathering pace on Antelope Reef in South China Sea
+1790997197|https://lenta.ru/news/2026/10/03/nazvano-imya-podozrevaemogo-v-napadenii-na-pilota-flydubai/|Названо имя подозреваемого в нападении на пилота Flydubai
+1790997201|https://www.kommersant.ru/doc/9005545|Стала известна предполагаемая личность напавшего на командира самолета Flydubai // ABC: подозреваемым в нападении на пилота Flydubai оказался 29-летний оманец
+1790997206|https://tass.ru/armiya-i-opk/28177843|ксперт Коротченко объяснил смену тактики ВС РФ по логистике Украины
