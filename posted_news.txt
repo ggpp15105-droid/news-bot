@@ -932,3 +932,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791002852|https://www.japantimes.co.jp/news/2026/10/03/japan/politics/police-toyama-census-inflation/|Police search Toyama City Hall over census inflation claims
 1791002861|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-sredniy-srok-poiska-raboty/|Россиянам назвали средний срок поиска работы
 1791002869|https://lenta.ru/news/2026/10/03/v-rossii-zayavili-o-shantazhe-evropeytsev-trampom/|В России заявили о шантаже европейцев Трампом
+1791003499|https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss|Brazil’s Lula and Bolsonaro draw thousands as campaigns near end
+1791003505|https://www.dw.com/en/german-reunification-how-inequality-is-shaping-a-new-east-german-identity/a-79518541?maca=en-rss-en-all-1573-rdf|German reunification: How inequality is shaping a new East German identity
+1791003513|https://lenta.ru/news/2026/10/03/voennyy-ekspert-prokommentiroval-soobscheniya-o-himicheskih-atakah-vsu-na-rossiyskiy-region/|Военный эксперт прокомментировал сообщения о химических атаках ВСУ на российский регион
+1791003518|https://lenta.ru/news/2026/10/03/long-rossiyanam-anonsirovali-povyshenie-vseh-vidov-pensiy-kakie-izmeneniya-zhdut-pensionerov-v-2027-godu/|Россиянам анонсировали повышение всех видов пенсий. Какие изменения ждут пенсионеров в 2027 году?
+1791003525|https://www.kommersant.ru/doc/9005555|Один человек погиб при обрушении горной породы на шахте в Свердловской области
