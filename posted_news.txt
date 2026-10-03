@@ -1007,3 +1007,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791018294|https://www.aa.com.tr/en/middle-east/yemeni-army-carries-out-71-operations-against-houthi-positions-in-countrys-southwest/4076832|Yemeni army carries out 71 operations against Houthi positions in country's southwest
 1791018301|https://www.aa.com.tr/en/russia-ukraine-war/at-least-4-injured-in-kyiv-region-as-russia-ukraine-exchange-overnight-strikes/4076830|At least 4 injured in Kyiv region as Russia, Ukraine exchange overnight strikes
 1791018309|https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works|"We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works
+1791019376|https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar|Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities
+1791019381|https://lenta.ru/news/2026/10/03/nazvana-prichina-smerti-kashpirovskogo/|Названа причина смерти Кашпировского
+1791019390|https://lenta.ru/news/2026/10/03/armiya-rossii-unichtozhila-mesta-hraneniya-dronov-vsu/|Армия России уничтожила места хранения дронов ВСУ
+1791019395|https://lenta.ru/news/2026/10/03/v-rade-isklyuchili-vstuplenie-ukrainy-v-es-v-blizhayshie-gody/|В Раде исключили вступление Украины в ЕС в ближайшие годы
+1791019400|https://lenta.ru/news/2026/10/03/voennyy-raskryl-posledstviya-udara-rossii-po-mostu-v-kieve/|Военный раскрыл последствия удара России по мосту в Киеве
