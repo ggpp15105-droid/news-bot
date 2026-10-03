@@ -977,3 +977,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791013041|https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402|What are we all playing this weekend?
 1791013049|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-samyy-vrednyy-dlya-zdorovya-produkt/|Россиянам назвали самый вредный для здоровья продукт
 1791013057|https://lenta.ru/news/2026/10/03/sledovateli-nashli-tela-materi-i-rebenka-v-tualete-aeroporta-v-podmoskovie/|Следователи нашли тела матери и ребенка в туалете аэропорта в Подмосковье
+1791013912|https://lenta.ru/news/2026/10/03/dve-peredachi-rossiyskogo-zaschitnika-pomogli-bostonu-obygrat-vinnipeg/|Две передачи российского защитника помогли «Бостону» обыграть «Виннипег»
+1791013920|https://lenta.ru/news/2026/10/03/v-kndr-zayavili-o-nezhelanii-vzaimodeystvovat-s-yuzhnoy-koreey/|В КНДР заявили о нежелании взаимодействовать с Южной Кореей
+1791013925|https://lenta.ru/news/2026/10/03/v-britanii-soobschili-o-silnoy-vspyshke-opasnogo-virusa/|В Британии сообщили о сильной вспышке опасного вируса
+1791013933|https://www.kommersant.ru/doc/9005586|МИД РФ призвал власти Индии освободить россиян с задержанного судна Unity
+1791013942|https://www.kommersant.ru/doc/9005580|Генпрокуратура ОАЭ назвала терактом инцидент на борту самолета Flydubai
