@@ -992,3 +992,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791015675|https://www.aljazeera.com/opinions/2026/10/3/to-reclaim-its-sovereignty-senegal-must-approach-debt-differently?traffic_source=rss|To reclaim its sovereignty, Senegal must approach debt differently
 1791015682|https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-all-1573-rdf|Morocco's first female head of government: Symbol or real reform?
 1791015686|https://news.sky.com/story/north-korea-fires-ballistic-missile-after-seoul-demands-apology-over-border-mine-blasts-13594567|North Korea 'fires ballistic missile' after Seoul demands apology
+1791016569|https://lenta.ru/news/2026/10/03/big-brother/|Участник телешоу с приступом диареи не добежал до унитаза и устроил хаос на съемках
+1791016578|https://lenta.ru/news/2026/10/03/v-sosedney-s-rossiey-strane-obschestvennym-smi-ogranichat-veschanie-na-russkom-yazyke/|В соседней с Россией стране общественным СМИ ограничат вещание на русском языке
+1791016583|https://lenta.ru/news/2026/10/03/stolitsa-litvy-okazalas-na-grani-chp-gosudarstvennogo-urovnya-iz-za-musora/|Столица Литвы оказалась на грани ЧП государственного уровня из-за мусора
+1791016590|https://www.kommersant.ru/doc/9005608|Андрей Рублев вышел в четвертьфинал турнира ATP в Пекине
+1791016594|https://www.kommersant.ru/doc/9005609|СКР возбудил дело после гибели горняка при обрушении в шахте на Урале // Почти 100 человек остаются в шахте в Свердловской области после обрушения породы
