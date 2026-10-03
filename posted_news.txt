@@ -937,3 +937,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791003513|https://lenta.ru/news/2026/10/03/voennyy-ekspert-prokommentiroval-soobscheniya-o-himicheskih-atakah-vsu-na-rossiyskiy-region/|Военный эксперт прокомментировал сообщения о химических атаках ВСУ на российский регион
 1791003518|https://lenta.ru/news/2026/10/03/long-rossiyanam-anonsirovali-povyshenie-vseh-vidov-pensiy-kakie-izmeneniya-zhdut-pensionerov-v-2027-godu/|Россиянам анонсировали повышение всех видов пенсий. Какие изменения ждут пенсионеров в 2027 году?
 1791003525|https://www.kommersant.ru/doc/9005555|Один человек погиб при обрушении горной породы на шахте в Свердловской области
+1791004293|https://www.euronews.com/2026/10/03/its-given-my-mental-health-a-massive-boost-why-everyone-should-hone-their-bushcraft-skills|‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills
+1791004300|https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why|House prices keep rising across Europe: Which countries saw the biggest increases and why?
+1791004306|https://www.euronews.com/2026/10/03/food-led-escapes-and-trip-of-a-lifetime-hotels-how-luxury-travel-has-evolved-and-doesnt-lo|From food-led escapes to trip of a lifetime hotels: How luxury travel has evolved and ‘doesn’t look one way’
+1791004314|https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays|Russia leads world in cat ownership — yet has 2.8 million strays
+1791004322|https://lenta.ru/news/2026/10/03/v-belorussii-rasskazali-ob-organizatsii-vstrechi-trampa-i-lukashenko/|В МИД Белоруссии рассказали об организации встречи Трампа и Лукашенко
