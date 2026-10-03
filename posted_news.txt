@@ -872,3 +872,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790990450|https://www.japantimes.co.jp/business/2026/10/03/economy/g7-global-energy-supply-deal/|G7 agrees on deal to ease global energy supply concerns
 1790990455|https://www.kommersant.ru/doc/9005541|Командование США прокомментировало ракетный пуск КНДР // Американское командование: пуск ракеты КНДР не угрожал США и союзникам
 1790990459|https://tass.ru/obschestvo/28177753|В РФ сделали бессрочным перечень продуктов со спиртом, не считающихся алкоголем
+1790991297|https://www.japantimes.co.jp/news/2026/10/03/japan/science-health/ibaraki-governor-nuclear-waste-survey/|Ibaraki won’t accept second-stage survey for nuclear waste site, governor says
+1790991302|https://lenta.ru/news/2026/10/03/ekspert-rasskazal-ob-opasnosti-medvedey-shatunov/|Эксперт рассказал об опасности медведей-шатунов
+1790991307|https://www.kommersant.ru/doc/9005542|МИД России выразил обеспокоенность участием Японии в военных учениях
+1790991311|https://tass.ru/proisshestviya/28177761|СК опубликовал кадры осмотра поезда, где заключенный напал на сотрудников ФСИН
+1790991314|https://tass.ru/obschestvo/28177757|В МВД рассказали о схеме мошенников с фейковым приложением поиска по картинке
