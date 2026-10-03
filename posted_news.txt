@@ -952,3 +952,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791006753|https://lenta.ru/news/2026/10/03/glava-ran-otsenil-tempy-potepleniya-v-rossii/|Глава РАН оценил темпы потепления в России
 1791006758|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-postradavshih-pri-atake-bespilotnikov-na-donetsk/|Стало известно о пострадавших при атаке беспилотников на Донецк
 1791006762|https://lenta.ru/news/2026/10/03/rossiyanam-napomnili-o-srokah-uplaty-nalogov/|Россиянам напомнили о сроках уплаты налогов
+1791007655|https://www.euronews.com/2026/10/03/hungarian-restaurants-struggle-costs-match-europe-but-revenues-lag-behind|Hungarian restaurants struggle: costs match Europe but revenues lag behind
+1791007664|https://lenta.ru/news/2026/10/03/v-ssha-obratili-vnimanie-na-reaktsiyu-pribaltiki-na-preduprezhdenie-putina/|Реакцию Прибалтики на предупреждение Путина оценили
+1791007670|https://lenta.ru/news/2026/10/03/rossiyskie-sily-pvo-unichtozhili-za-noch-sotni-bespilotnikov-vsu/|Российские силы ПВО уничтожили за ночь сотни беспилотников ВСУ
+1791007674|https://www.kommersant.ru/doc/9005561|Минобороны сообщило об уничтожении за ночь 218 беспилотников
+1791007678|https://www.kommersant.ru/doc/9005560|Минобороны отчиталось об ударах по мосту в Киеве и сухогрузу в Черном море
