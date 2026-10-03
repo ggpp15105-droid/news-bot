@@ -957,3 +957,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791007670|https://lenta.ru/news/2026/10/03/rossiyskie-sily-pvo-unichtozhili-za-noch-sotni-bespilotnikov-vsu/|Российские силы ПВО уничтожили за ночь сотни беспилотников ВСУ
 1791007674|https://www.kommersant.ru/doc/9005561|Минобороны сообщило об уничтожении за ночь 218 беспилотников
 1791007678|https://www.kommersant.ru/doc/9005560|Минобороны отчиталось об ударах по мосту в Киеве и сухогрузу в Черном море
+1791009074|https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss|Russia strikes second major bridge in Kyiv, mayor says
+1791009081|https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss|Gaza voters want jobs and security as Palestinian elections approach
+1791009088|https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf|Latvia votes in parliamentary election amid rising costs
+1791009093|https://news.sky.com/story/flydubai-co-pilot-attacked-pilot-with-axe-in-suspected-terrorist-attack-uae-says-13594565|Flydubai co-pilot 'attacked pilot with axe in suspected terrorist attack', UAE says
+1791009098|https://www.kommersant.ru/doc/9005565|В Белгородской области при атаке БПЛА погиб один человек
