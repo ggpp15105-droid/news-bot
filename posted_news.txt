@@ -887,3 +887,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790992647|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-riske-vsu-lishitsya-postavok-ot-zapada/|Стало известно о риске ВСУ лишиться поставок от Запада
 1790992652|https://www.kommersant.ru/doc/9005543|Трамп заявил о планах США наращивать стратегические запасы нефти
 1790992655|https://tass.ru/sport/28177773|"Вашингтон" Овечкина начал сезон НХЛ с победы над обладателем Кубка Стэнли
+1790993420|https://www.japantimes.co.jp/news/2026/10/03/japan/politics/hokkaido-aichi-osaka-fukuoka-secondary-capital/|Sapporo, Nagoya, Osaka and Fukuoka meet secondary capital criteria
+1790993424|https://lenta.ru/news/2026/10/03/ukrainu-predupredili-o-samom-tyazhelom-etape-v-konflikte-s-rossiey/|Украину предупредили о самом тяжелом этапе в конфликте с Россией
+1790993429|https://tass.ru/armiya-i-opk/28177803|ВС РФ уничтожили бронетранспортер Puma ВСУ
+1790993433|https://tass.ru/armiya-i-opk/28177801|Расчеты дронов "Лис" отразили атаку беспилотников ВСУ на Курскую область
+1790993437|https://tass.ru/armiya-i-opk/28177789|ВС РФ сорвали ротацию ВСУ на правом берегу Днепра
