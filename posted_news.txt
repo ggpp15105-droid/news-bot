@@ -982,3 +982,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791013925|https://lenta.ru/news/2026/10/03/v-britanii-soobschili-o-silnoy-vspyshke-opasnogo-virusa/|В Британии сообщили о сильной вспышке опасного вируса
 1791013933|https://www.kommersant.ru/doc/9005586|МИД РФ призвал власти Индии освободить россиян с задержанного судна Unity
 1791013942|https://www.kommersant.ru/doc/9005580|Генпрокуратура ОАЭ назвала терактом инцидент на борту самолета Flydubai
+1791014537|https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf|India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation
+1791014545|https://lenta.ru/news/2026/10/03/raskryty-podrobnosti-raspravy-rossiyanki-nad-novorozhdennym-v-tualete-aeroporta/|Раскрыты подробности расправы россиянки над новорожденным в туалете аэропорта
+1791014554|https://lenta.ru/news/2026/10/03/etnicheskoe-raznoobrazie-i-mirnaya-zhizn-v-rossii-vpechatlila-inostrantsev/|Этническое разнообразие и мирная жизнь в России впечатлили иностранцев
+1791014558|https://www.kommersant.ru/doc/9005596|В туалете аэропорта Шереметьево обнаружили тела женщины и младенца
+1791014562|https://www.kommersant.ru/doc/9005572|Шерпа России в G20: решение об участии Путина в саммите в США пока не принято
