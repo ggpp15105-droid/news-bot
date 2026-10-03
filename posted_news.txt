@@ -882,3 +882,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790992110|https://3dnews.ru/1149408|TDK показала экран для смарт-очков, который проецирует изображение прямо на сетчатку глаза
 1790992115|https://3dnews.ru/1149405|Хакеры взломали аккаунт Microsoft в соцсети X и потребовали вернуть «Скрепыша» ради рекламы криптовалюты
 1790992119|https://3dnews.ru/1149397|Игроки вычислили, какая настройка портит графику в ремастере The Witcher 3: Wild Hunt — CD Projekt Red пообещала разобраться с проблемой
+1790992637|https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss|Schools ablaze as student protests spread across France
+1790992642|https://www.japantimes.co.jp/news/2026/10/03/world/russia-spending-putin-years-war/|Russia’s spending plans show Putin preparing for years of war
+1790992647|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-riske-vsu-lishitsya-postavok-ot-zapada/|Стало известно о риске ВСУ лишиться поставок от Запада
+1790992652|https://www.kommersant.ru/doc/9005543|Трамп заявил о планах США наращивать стратегические запасы нефти
+1790992655|https://tass.ru/sport/28177773|"Вашингтон" Овечкина начал сезон НХЛ с победы над обладателем Кубка Стэнли
