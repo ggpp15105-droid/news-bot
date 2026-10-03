@@ -897,3 +897,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790994474|https://www.kommersant.ru/doc/9005544|Американо-украинский фонд заключил первую сделку по добыче минералов
 1790994478|https://tass.ru/obschestvo/28177819|Онищенко предупредил о нагрузке на организм после отдыха в Таиланде
 1790994482|https://tass.ru/obschestvo/28177807|Сентябрь в Москве оказался теплее нормы на 2 градуса
+1790995872|https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss|Israeli air attack on Gaza City apartment kills at least five
+1790995880|https://www.japantimes.co.jp/news/2026/10/03/world/food-medicine-shortages-ukraine-oleshky/|Food and medicine shortages deepen in Russian-occupied Oleshky
+1790995885|https://lenta.ru/news/2026/10/03/gosdolg-ukrainy-za-desyat-let-vyros-bolee-chem-v-pyat-raz/|Госдолг Украины за десять лет вырос более чем в пять раз
+1790995890|https://lenta.ru/news/2026/10/03/onischenko-predupredil-rossiyan-ob-ugrozhayuschey-im-bolezni/|Онищенко предупредил россиян об угрожающей им болезни
+1790995895|https://lenta.ru/news/2026/10/03/stalo-izvestno-ob-ultimatume-es-ukraine/|Стало известно об ультиматуме ЕС Украине
