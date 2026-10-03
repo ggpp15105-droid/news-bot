@@ -1017,3 +1017,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791020213|https://lenta.ru/news/2026/10/02/nazvana-prichina-uchastivshihsya-stolknoveniy-medvedey-s-lyudmi-v-rossii/|Стала известна причина участившихся столкновений медведей с людьми в России
 1791020218|https://lenta.ru/news/2026/10/03/raskryty-podrobnosti-sostoyaniya-kashpirovskogo-nakanune-smerti/|Раскрыты подробности состояния Кашпировского накануне смерти
 1791020227|https://lenta.ru/news/2026/10/03/armiya-rossii-vzyala-selo-v-harkovskoy-oblasti/|Армия России взяла село в Харьковской области
+1791020982|https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss|Who is the mystery co-pilot behind the Flydubai attack?
+1791020987|https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology|Flavio Bolsonaro: In the name of the father, sons, and holy ideology
+1791020993|https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests|Barricades & the blame game: the French school protests
+1791020997|https://lenta.ru/news/2026/10/03/ryadom-s-universitetom-v-los-andzhelese-proizoshla-strelba/|Рядом с университетом в Лос-Анджелесе произошла стрельба
+1791021002|https://lenta.ru/news/2026/10/03/kamaz-s-geranyami-nazvali-glavnoy-novinkoy-ucheniy-tsentr/|КамАЗ с «Геранями» назвали главной новинкой учений «Центр»
