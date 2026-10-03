@@ -1037,3 +1037,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791023247|https://lenta.ru/news/2026/10/03/na-zapade-zayavili-o-prizyve-kieva-k-otvetu-za-goloslovnost-v-adres-rossii-po-buche/|На Западе заявили о призыве Киева к ответу за голословность в адрес России по Буче
 1791023251|https://www.kommersant.ru/doc/9005630|NYT: Россия и США обсуждают «многомиллиардную сделку» с активами ЛУКОЙЛа
 1791023256|https://www.kommersant.ru/doc/9005629|Токаев уволил главнокомандующего ВМС после гибели военных на морских учениях
+1791025058|https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss|UK-Iranian dual national bailed after RAF Fairford incident arrest
+1791025064|https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss|What is FC Barcelona’s Negreira case, and what are the charges?
+1791025071|https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-all-1573-rdf|On German Unity Day, Steinmeier laments 'bitter setbacks'
+1791025077|https://www.aa.com.tr/en/africa/rsf-attack-in-sudan-killed-more-than-25-civilians-in-north-kordofan-says-medical-group/4076923|RSF attack in Sudan killed more than 25 civilians in North Kordofan, says medical group
+1791025083|https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand|Memory shortages set to persist into 2028, warns Micron CEO
