@@ -917,3 +917,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790999932|https://www.japantimes.co.jp/business/2026/10/03/companies/asian-carmakers-us-china/|Asian carmakers besting U.S. rivals at home, China poised to strike
 1790999940|https://lenta.ru/news/2026/10/03/rossiyskiy-akademik-predupredil-o-problemah-so-zdoroviem-posle-otdyha-v-tailande/|Российский академик предупредил о проблемах со здоровьем после отдыха в Таиланде
 1790999945|https://lenta.ru/news/2026/10/03/raskryta-reaktsiya-zelenskogo-na-begstvo-ukraintsev-iz-kieva/|Раскрыта реакция Зеленского на бегство украинцев из Киева
+1791001002|https://news.sky.com/story/horrible-incident-at-least-nine-injured-as-car-hits-crowd-in-australia-13594555|'Horrible incident': At least nine injured as car hits crowd in Australia
+1791001007|https://lenta.ru/news/2026/10/03/vrach-predupredil-ob-opasnosti-zatyanuvshegosya-nasmorka/|Врач предупредил об опасности затянувшегося насморка
+1791001011|https://www.kommersant.ru/doc/9005547|Главные новости к утру 3 октября // В Кабардино-Балкарии арестант убил конвоира и ранил троих силовиков
+1791001016|https://www.kommersant.ru/doc/9005549|Трамп предложил назвать мост в Алабаме в его честь
+1791001025|https://www.igromania.ru/news/169040/v-studii-sozdatelej-kingdom-come-deliverance-nadeyutsya-chto-gta-6-pomozhet-povyisit-tsenyi-na-igryi/|В студии создателей Kingdom Come: Deliverance надеются, что GTA 6 поможет повысить цены на игры
