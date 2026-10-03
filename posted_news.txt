@@ -892,3 +892,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1790993429|https://tass.ru/armiya-i-opk/28177803|ВС РФ уничтожили бронетранспортер Puma ВСУ
 1790993433|https://tass.ru/armiya-i-opk/28177801|Расчеты дронов "Лис" отразили атаку беспилотников ВСУ на Курскую область
 1790993437|https://tass.ru/armiya-i-opk/28177789|ВС РФ сорвали ротацию ВСУ на правом берегу Днепра
+1790994456|https://lenta.ru/news/2026/10/03/resursy-ukrainy-dlya-konflikta-s-rossiey-otsenili/|Ресурсы Украины для конфликта с Россией оценили
+1790994465|https://lenta.ru/news/2026/10/03/dvuh-postradavshih-pri-napadenii-v-poezde-vladikavkaz-adler-dostavili-v-bolnitsu-nalchika/|Двух пострадавших при нападении в поезде Владикавказ — Адлер доставили в больницу Нальчика
+1790994474|https://www.kommersant.ru/doc/9005544|Американо-украинский фонд заключил первую сделку по добыче минералов
+1790994478|https://tass.ru/obschestvo/28177819|Онищенко предупредил о нагрузке на организм после отдыха в Таиланде
+1790994482|https://tass.ru/obschestvo/28177807|Сентябрь в Москве оказался теплее нормы на 2 градуса
