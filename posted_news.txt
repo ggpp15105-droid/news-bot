@@ -1127,3 +1127,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791156190|https://www.aa.com.tr/en/science-technology/openai-ceo-warns-giving-ai-religious-force-poses-real-safety-issue/4077770|OpenAI CEO warns giving AI 'religious force' poses 'real safety issue'
 1791156197|https://www.aa.com.tr/en/africa/dr-congo-sentences-27-soldiers-to-death-for-cowardice/4077769|DR Congo sentences 27 soldiers to death for 'cowardice'
 1791156204|https://www.aa.com.tr/en/middle-east/over-800-palestinian-teachers-killed-by-israel-since-gaza-war-education-ministry/4077723|Over 800 Palestinian teachers killed by Israel since Gaza war: Education Ministry
+1791156997|https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-rdf|Trump names AI czar to head White House task force
+1791157004|https://www.france24.com/en/environment/20261004-pacific-leaders-climate-action-un-pre-cop-talks-fiji|Pacific leaders urge climate action as UN pre-COP talks open in Fiji
+1791157009|https://www.aa.com.tr/en/world/angelina-jolie-highlights-gaza-destruction-with-google-earth-satellite-images/4077703|Angelina Jolie highlights Gaza destruction with Google Earth satellite images
+1791157014|https://www.aa.com.tr/en/europe/zelenskyy-says-germany-provides-ukraine-with-146b-support-package/4077652|Zelenskyy says Germany provides Ukraine with $1.46B support package
+1791157020|https://www.ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner|Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner
