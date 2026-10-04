@@ -1082,3 +1082,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791147872|https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss|Imran Khan’s party launches march to Islamabad demanding his release
 1791147879|https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss|Will elections bring change to multi-ethnic Bosnia and Herzegovina?
 1791147885|https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss|France to shutter up to 500 schools as more student protests called
+1791149756|https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss|Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck
+1791149763|https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss|Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’
+1791149770|https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf|Brazil election: Early count puts Bolsonaro ahead of Lula
+1791149777|https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf|Polls close in Bosnia-Herzegovina's divisive election
+1791149784|https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf|Pakistan: Imran Khan supporters demand ex-PM's release
