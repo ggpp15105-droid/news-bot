@@ -1077,3 +1077,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791134512|https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss|Ethiopian rebel forces withdraw from Tigray regional capital
 1791134519|https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss|Christa Pike's prognosis still unclear after failed execution, lawyer says
 1791134526|https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss|Mass protests demanding poll chief resignation shake India for third day
+1791147858|https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss|Debris found near Nantucket believed to be from missing medical plane
+1791147865|https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss|Brazil election results live: Lula and Bolsonaro locked in a tight race
+1791147872|https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss|Imran Khan’s party launches march to Islamabad demanding his release
+1791147879|https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss|Will elections bring change to multi-ethnic Bosnia and Herzegovina?
+1791147885|https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss|France to shutter up to 500 schools as more student protests called
