@@ -1087,3 +1087,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791149770|https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf|Brazil election: Early count puts Bolsonaro ahead of Lula
 1791149777|https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf|Polls close in Bosnia-Herzegovina's divisive election
 1791149784|https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf|Pakistan: Imran Khan supporters demand ex-PM's release
+1791150758|https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss|Cornell case puts New York’s progressive image at odds with its rape laws
+1791150764|https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss|Ireland refuse handshake with Israel and don armbands in Nations League tie
+1791150770|https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss|Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals
+1791150776|https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-rdf|Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?
+1791150783|https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf|Germany's Merz visits Kyiv as Russia strikes bridge
