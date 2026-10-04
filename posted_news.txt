@@ -1057,3 +1057,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791062449|https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss|Funeral held at Gaza church for mother and daughter killed in Gaza strike
 1791062455|https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss|Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years
 1791062462|https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss|Is the CJP changing India’s political landscape?
+1791082154|https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss|Cornell president says university 'must do better' after frat house rape allegations
+1791082159|https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss|Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa
+1791082164|https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss|Ethiopian government troops seize Tigray’s capital Mekelle
+1791082170|https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss|Cornell president vows transparency amid outrage over fraternity rape case
+1791082174|https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss|Serbian populist leader Vucic launches campaign for prime minister
