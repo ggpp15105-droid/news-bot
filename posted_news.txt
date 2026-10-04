@@ -1067,3 +1067,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791088301|https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss|Pick-up truck overturns trying to carry military chopper in Russia
 1791088309|https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss|Houthis claim strike on Saudi energy facility as Yemen fighting intensifies
 1791088314|https://www.aljazeera.com/video/newsfeed/2026/10/4/ballots-reach-remote-indigenous-brazilians-ahead-of-presidential-election?traffic_source=rss|Ballots reach remote Indigenous Brazilians ahead of presidential election
+1791111134|https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss|Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+1791111141|https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss|Australia investigating Flydubai co-pilot's links to country
+1791111148|https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss|Spain protests flare after housing bill rejected: Will it cause snap poll?
+1791111154|https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss|Netanyahu’s fight to own the election narrative
+1791111159|https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss|Tributes as Bosnian football star Edin Dzeko retires
