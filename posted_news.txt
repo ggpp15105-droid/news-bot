@@ -1352,3 +1352,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791205001|https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss|Lionel Messi to join Argentina for farewell match against Benin
 1791205007|https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss|In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines
 1791205013|https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss|Students continue to protest in France as hundreds of schools close
+1791205954|https://www.aljazeera.com/news/2026/10/5/before-uk-greens-who-else-has-equated-zionism-with-racism?traffic_source=rss|Before UK Greens, who else has equated Zionism with racism?
+1791205962|https://www.france24.com/en/video/20261005-trump-heads-to-nebraska-as-republicans-fear-strongholds-could-flip|Trump heads to Nebraska as Republicans fear strongholds could flip
+1791205968|https://www.france24.com/en/video/20261005-france-high-school-protests-can-the-government-regain-control|France high school protests: Can the government regain control?
+1791205974|https://www.france24.com/en/video/20261005-japan-bids-farewell-to-asian-games-after-fortnight-of-turmoil-and-records|Japan bids farewell to Asian Games after fortnight of turmoil and records
+1791205980|https://www.france24.com/en/video/20261005-us-bombers-leave-uk-air-base-amid-new-threats-what-we-know-so-far|US bombers leave UK air base amid 'new threats': What we know so far
