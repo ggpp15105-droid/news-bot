@@ -1227,3 +1227,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791177186|https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html|The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances
 1791177192|https://www.euronews.com/2026/10/05/coral-reefs-are-bleaching-in-extreme-heat-could-underwater-umbrellas-save-them|Coral reefs are bleaching in extreme heat. Could underwater umbrellas save them?
 1791177197|https://www.euronews.com/2026/10/05/the-best-road-trips-to-spot-europes-most-impressive-wildlife|The best road trips to spot Europe’s most impressive wildlife
+1791178427|https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss|Middle East oil exports surpass pre-war levels despite tensions, data shows
+1791178434|https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss|Who were the top teen athletes at the Asian Games?
+1791178442|https://www.aljazeera.com/news/2026/10/5/samoa-pm-apologises-after-nazi-salute-video-emerges?traffic_source=rss|Samoa PM apologises after Nazi salute video emerges
+1791178448|https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss|Bolsonaro beats expectations in Brazil vote, faces Lula in runoff
+1791178452|https://www.france24.com/en/live-news/20261005-rubio-visits-iceland-as-us-boosts-arctic-presence|Rubio visits Iceland as US boosts Arctic presence
