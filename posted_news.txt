@@ -1347,3 +1347,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791203576|https://www.euronews.com/2026/10/05/ukraine-warns-of-fake-government-and-media-sites-tied-to-russian-intelligence|Ukraine warns of fake government and media sites tied to Russian intelligence
 1791203584|https://www.euronews.com/2026/10/05/eu-monitors-very-closely-suspected-outbreak-of-pneumonic-plague-in-russia|EU monitors 'very closely' suspected outbreak of pneumonic plague in Russia
 1791203591|https://www.eurogamer.net/witcher-3-remastered-steam-players-sales|Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket
+1791204988|https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss|Teenager's hand blown off during confrontation between France school protesters and police
+1791204994|https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss|Bolsonaro favourite to win: What Brazil’s first round of elections tells us
+1791205001|https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss|Lionel Messi to join Argentina for farewell match against Benin
+1791205007|https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss|In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines
+1791205013|https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss|Students continue to protest in France as hundreds of schools close
