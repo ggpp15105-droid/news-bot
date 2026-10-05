@@ -1307,3 +1307,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791195330|https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss|Yemen war: What’s the latest, as government forces claim advances?
 1791195337|https://www.euronews.com/2026/10/05/middle-east-oil-exports-return-to-pre-war-levels-excluding-iran|Middle East oil exports return to pre-war levels, excluding Iran
 1791195344|https://www.euronews.com/2026/10/05/new-molecule-restores-memory-in-animals-with-alzheimers-disease|New molecule restores memory in animals with Alzheimer's' disease
+1791196495|https://www.aljazeera.com/opinions/2026/10/5/the-republican-consensus-on-israel-is-starting-to-fracture?traffic_source=rss|The Republican consensus on Israel is starting to fracture
+1791196504|https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-all-1573-rdf|Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged
+1791196510|https://www.france24.com/en/tv-shows/business/20261005-trump-names-jay-clayton-as-ai-czar-to-lead-super-intelligence-force|Trump names Jay Clayton as AI czar to lead 'Super Intelligence Force'
+1791196516|https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html|China shuts hundreds of banks as Beijing moves to shore up its financial system
+1791196525|https://www.euronews.com/video/2026/10/05/medieval-ruler-tsar-samuels-remains-return-home-to-bulgaria-after-60-years|Medieval ruler Tsar Samuel’s remains return home to Bulgaria after 60 years
