@@ -1272,3 +1272,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791187677|https://www.japantimes.co.jp/commentary/2026/10/05/world/ai-world-war/|Preventing artificial intelligence from triggering a world war
 1791187684|https://www.aa.com.tr/en/europe/spain-s-sanchez-calls-early-elections-after-housing-measures-rejected/4078089|Spain’s Sanchez calls early elections after housing measures rejected
 1791187690|https://www.aa.com.tr/en/turkiye/ahead-of-cop31-in-turkiye-fiji-hosts-pacific-leaders-with-focus-on-oceans-blue-economy/4078039|Ahead of COP31 in Türkiye, Fiji hosts Pacific leaders with focus on oceans, blue economy
+1791188957|https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss|France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format
+1791188963|https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory|Yemen launches more than 1,000 strikes in bid to retake territory lost to Houthi rebels
+1791188969|https://www.france24.com/en/tv-shows/press-review/20261005-mum-if-you-see-this-it-s-for-my-future|"Mum if you see this it's for my future"
+1791188976|https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html|Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks
+1791188983|https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html|Treasury yields inch lower as investors pare back Fed rate hike bets
