@@ -1147,3 +1147,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791159362|https://www.cnbc.com/2026/10/04/yemen-launches-offensive-to-seize-all-areas-from-iran-backed-houthis.html|Yemeni government launches offensive to seize all areas from Iran-backed Houthis
 1791159368|https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal|Fourth RuneScape officially revealed
 1791159374|https://www.rockpapershotgun.com/the-sunday-papers-830|The Sunday Papers
+1791160998|https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula|🔴 Brazil presidential election heads to runoff with Bolsonaro ahead of Lula
+1791161005|https://www.japantimes.co.jp/news/2026/10/05/world/flydubai-co-pilot-extremism/|Flydubai co-pilot lost earlier job for dabbling in extremism
+1791161012|https://www.ign.com/articles/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-refunds-for-ai-shirts|Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts
+1791161019|https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras|The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras
+1791161028|https://www.tomshardware.com/pc-components/gpus/modder-fixes-melting-rtx-5090-power-connectors-with-custom-distributor-dual-8-pin-mod-peaks-at-just-40c-during-a-48-hour-550w-stress-test|Modder 'fixes' melting RTX 5090 power connectors with custom distributor
