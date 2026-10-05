@@ -1397,3 +1397,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791215073|https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss|What happened between Ireland and Israel in their Nations League match?
 1791215078|https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss|A drive through the West Bank
 1791215083|https://www.france24.com/en/video/20261005-yemen-government-forces-announce-offensive-on-houthi-held-territory|Yemen government forces announce offensive on Houthi-held territory
+1791216002|https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-all-1573-rdf|Ukraine says Russian drones behind Turkish ship sinking
+1791216009|https://www.france24.com/en/video/20261005-isis-suspects-face-outsourced-justice-in-iraq-as-hrw-warns-of-collective-global-detention-crisis-1|ISIS suspects face 'outsourced' justice in Iraq as HRW warns of 'collective global detention crisis'
+1791216017|https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html|Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?
+1791216025|https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html|Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged
+1791216033|https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html|Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency
