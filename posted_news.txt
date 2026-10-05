@@ -1267,3 +1267,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791186923|https://www.japantimes.co.jp/business/2026/10/05/companies/daiwa-securities-clients-info-stolen/|Daiwa Securities says info on 110,000 clients may have been leaked
 1791186930|https://www.japantimes.co.jp/news/2026/10/05/japan/hokkaido-top-prefecture-ranking/|Hokkaido ranked most attractive prefecture for 18th year in a row
 1791186938|https://www.japantimes.co.jp/news/2026/10/05/japan/crime-legal/okinawa-murder-us-marine-arrest-japan-protest/|Takaichi mentions Okinawa murder in parliament speech as U.S. military weighs response
+1791187666|https://www.euronews.com/2026/10/05/nobel-prize-2026-kicks-off-who-will-win-the-medicine-award|Nobel Prize 2026 kicks off: Who will win the medicine award?
+1791187671|https://www.japantimes.co.jp/commentary/2026/10/05/japan/japan-wants-pharma-boom/|Japan wants a pharma boom. It needs a new strategy.
+1791187677|https://www.japantimes.co.jp/commentary/2026/10/05/world/ai-world-war/|Preventing artificial intelligence from triggering a world war
+1791187684|https://www.aa.com.tr/en/europe/spain-s-sanchez-calls-early-elections-after-housing-measures-rejected/4078089|Spain’s Sanchez calls early elections after housing measures rejected
+1791187690|https://www.aa.com.tr/en/turkiye/ahead-of-cop31-in-turkiye-fiji-hosts-pacific-leaders-with-focus-on-oceans-blue-economy/4078039|Ahead of COP31 in Türkiye, Fiji hosts Pacific leaders with focus on oceans, blue economy
