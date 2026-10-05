@@ -1187,3 +1187,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791167785|https://www.japantimes.co.jp/environment/2026/10/05/climate-change/heat-pregnant-women-babies-risk/|Extreme heat putting pregnant women and newborns at risk, U.N. says
 1791167789|https://lenta.ru/news/2026/10/05/rossiyanam-nazvali-tri-glavnyh-riska-v-ispolzovanii-kreditnyh-kart/|Россиянам назвали три главных риска в использовании кредитных карт
 1791167798|https://lenta.ru/news/2026/10/05/devyatidnevnaya-devochka-otravilas-kokainom-v-otele-evropy/|Девятидневная девочка отравилась кокаином в отеле Европы
+1791168711|https://www.japantimes.co.jp/news/2026/10/05/world/europe-china-trade-war/|EU and China to hold two-day talks in Beijing to avert trade war
+1791168717|https://www.japantimes.co.jp/news/2026/10/05/japan/japan-mayor-reelect-nuclear-fuel-facility-push/|Mayor pushing for spent nuclear-fuel facility reelected in Yamaguchi
+1791168724|https://www.japantimes.co.jp/news/2026/10/05/japan/north-korea-abductee-megumi-yokota-birthday/|On daughter’s birthday, mother of abductee Megumi Yokota prays for reunion
+1791168733|https://lenta.ru/news/2026/10/05/stalo-izvestno-o-nezhelanii-polyakov-prinimat-bezhentsev-s-ukrainy/|Стало известно о нежелании поляков принимать беженцев с Украины
+1791168741|https://lenta.ru/news/2026/10/05/politolog-nazval-prichastnogo-k-popadaniyu-es-i-frg-v-tupik/|Политолог назвал причастного к попаданию ЕС и ФРГ в тупик
