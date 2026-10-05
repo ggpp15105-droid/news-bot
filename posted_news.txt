@@ -1512,3 +1512,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791243613|https://www.tomshardware.com/pc-components/cpus/its-finally-a-good-time-to-buy-a-raptor-lake-cpu-during-prime-big-deals-day-chips-drop-to-all-time-low-prices-as-inventory-seemingly-stabilizes|It's finally a good time to buy a Raptor Lake CPU during Prime Big Deals Day
 1791243618|https://lenta.ru/news/2026/10/06/sobyanin-soobschil-o-13-sbityh-vblizi-moskvy-dronov-vsu/|Собянин сообщил о 13 сбитых вблизи Москвы дронах ВСУ
 1791243624|https://lenta.ru/news/2026/10/06/striptizersha-rasskazala-o-vstreche-s-seriynym-nasilnikom/|Стриптизерша рассказала о встрече с «серийным насильником»
+1791244238|https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html|CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk
+1791244243|https://lenta.ru/news/2026/10/06/v-mid-raskritikovali-zelenuyu-povestku-es/|В МИД раскритиковали зеленую повестку ЕС
+1791244247|https://lenta.ru/news/2026/10/06/minoborony-rossii-zayavilo-o-sodeystvii-rassledovaniyu-dela-gendirektora-parka-patriot/|Минобороны России заявило о содействии расследованию дела гендиректора парка «Патриот»
+1791244252|https://www.kommersant.ru/doc/9006921|Вблизи Москвы сбиты 13 беспилотников
+1791244260|https://www.kommersant.ru/doc/9006920|Все четыре аэропорта Москвы приостановили работу
