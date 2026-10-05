@@ -1207,3 +1207,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791171671|https://lenta.ru/news/2026/10/01/rossiyan-nauchili-pravilno-izbavlyatsya-ot-stroitelnyh-othodov-embargo/|Россиян научили правильно избавляться от строительных отходов
 1791171680|https://lenta.ru/news/2026/10/05/mif-o-bezgramotnoy-molodezhi-oprovergli/|Миф о безграмотной молодежи опровергли
 1791171685|https://lenta.ru/news/2026/10/05/medved-zakryl-park-kultury-i-otdyha-v-rossiyskom-gorode/|Медведь закрыл парк культуры и отдыха в российском городе
+1791172759|https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet?traffic_source=rss|US coastguard suspends search for six on board crashed medical jet
+1791172765|https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-rdf|US: FBI arrests woman accused of spying for China
+1791172770|https://lenta.ru/news/2026/10/05/kievskie-vlasti-ulichili-v-soznatelnom-zamedlenii-vosstanovleniya-interneta/|Киевские власти уличили в сознательном замедлении восстановления интернета
+1791172774|https://lenta.ru/news/2026/10/05/dmitruk/|В Раде поддержали требование мира на митинге украинцев в центре Киева
+1791172779|https://lenta.ru/news/2026/10/05/stalo-izvestno-o-massovom-ishode-bogachey-iz-britanii/|Стало известно о массовом «исходе» богачей из Британии
