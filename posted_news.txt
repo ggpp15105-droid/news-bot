@@ -1167,3 +1167,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791164186|https://www.japantimes.co.jp/news/2026/10/05/world/us-b-1-bombers-uk/|U.S. removes B-1 bombers from U.K. base amid security concerns
 1791164193|https://www.japantimes.co.jp/news/2026/10/05/japan/japan-flu-spread-quake-hit-kumamoto/|Flu spreads in quake-hit Kumamoto as Japan sees early outbreak
 1791164203|https://lenta.ru/news/2026/10/05/pevitsa-lili-allen-v-prozrachnom-kombinezone-iz-kruzheva-snyalas-v-reklame/|Певица Лили Аллен в прозрачном комбинезоне из кружева снялась в рекламе
+1791165012|https://www.japantimes.co.jp/business/2026/10/05/companies/softbank-son-ai-risks/|SoftBank’s Masayoshi Son has rare cautionary note on AI safety
+1791165020|https://www.japantimes.co.jp/sports/2026/10/05/more-sports/verstappen-wins-bahrain-gp/|Max Verstappen washes away frustrations with win at rain-soaked Bahrain Grand Prix
+1791165024|https://lenta.ru/news/2026/10/05/ekspert-minzdrava-predupredila-ob-otsutstvii-u-rossiyan-immuniteta-k-novym-shtammam-grippa/|Эксперт Минздрава предупредил об отсутствии у россиян иммунитета к новым штаммам гриппа
+1791165030|https://lenta.ru/news/2026/10/05/rossiyanam-rasskazali-o-nachislenii-pensionnyh-ballov-za-uhod-za-rebenkom/|Россиянам рассказали о начислении пенсионных баллов за уход за ребенком
+1791165034|https://lenta.ru/news/2026/10/05/paren-reshil-otmenit-platnuyu-podpisku-i-sdelal-nepriyatnoe-otkrytie/|Парень решил отменить платную подписку и сделал неприятное открытие
