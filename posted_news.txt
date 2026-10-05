@@ -1287,3 +1287,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791190957|https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html|Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments
 1791190965|https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election|Euro hits 17-month low as French debt fears mount and Spain heads for snap election
 1791190973|https://www.euronews.com/video/2026/10/05/belgian-citys-historic-canals-turn-green-after-record-hot-summer|Belgian city’s historic canals turn green after record-hot summer
+1791192252|https://www.aljazeera.com/sports/2026/10/5/formula-one-to-probe-software-bug-behind-bahrain-gp-chaos-in-sepang?traffic_source=rss|Formula One to probe software bug behind Bahrain GP chaos in Sepang
+1791192260|https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss|‘If I didn’t write what moved me, it’d be like putting myself in prison’
+1791192267|https://www.euronews.com/video/2026/10/05/bolsonaro-win-could-put-eu-brazil-ties-at-risk-says-former-mep-albuquerque|'Bolsonaro win could put EU-Brazil ties at risk,' says former MEP Albuquerque
+1791192274|https://www.japantimes.co.jp/news/2026/10/05/japan/tokyo-record-rain-end/|Tokyo’s record streak of rain comes to an end
+1791192281|https://www.japantimes.co.jp/commentary/2026/10/05/world/ai-grievance-machine/|AI is the greatest grievance machine ever
