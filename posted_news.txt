@@ -1402,3 +1402,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791216017|https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html|Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?
 1791216025|https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html|Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged
 1791216033|https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html|Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency
+1791216951|https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss|Two dead after ship sinks off Romania following fire
+1791216956|https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss|Bosnia and Herzegovina elections: Return to a nationalist political order?
+1791216960|https://www.euronews.com/2026/10/05/how-light-became-a-remote-control-for-the-brain-and-won-a-nobel-prize|How light became a remote control for the brain, and won a Nobel Prize
+1791216965|https://www.euronews.com/2026/10/05/us-meeting-in-poland-excluding-france-uk-baltic-risks-dividing-nato|US meeting in Poland excluding France, UK, Baltics risks dividing NATO
+1791216971|https://www.euronews.com/video/2026/10/05/clashes-in-french-cities-as-students-continue-to-protest-over-education-funding|Clashes in French cities as students continue to protest over education funding
