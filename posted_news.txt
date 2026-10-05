@@ -1197,3 +1197,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791169390|https://lenta.ru/news/2026/10/05/byudzhetnye-poteri-ukrainy-iz-za-vzryvov-podschitali/|Бюджетные потери Украины из-за взрывов подсчитали
 1791169395|https://www.kommersant.ru/doc/9006070|США отчитались об ударе по катеру наркоторговцев в Карибском море
 1791169399|https://www.kommersant.ru/doc/9006069|Хакеры с помощью ИИ похитили клиентские данные в банках Южной Кореи
+1791170566|https://www.japantimes.co.jp/sports/2026/10/05/asian-games/south-korea-captain-asian-games/|South Korea soccer captain apologizes for gloating about military exemption
+1791170571|https://lenta.ru/news/2026/10/05/zhenschina-nachala-ispolzovat-slengovoe-slovo-iz-interneta-i-opozorilas-pered-blizkimi/|Женщина начала использовать сленговое слово из интернета и опозорилась перед близкими
+1791170576|https://lenta.ru/news/2026/10/05/raskryty-obyazannosti-ukrainy-pered-mvf-v-2026-godu/|Раскрыты обязанности Украины перед МВФ в 2026 году
+1791170581|https://lenta.ru/news/2026/10/05/26-letnyaya-koroleva-krasoty-popala-v-smertelnoe-dtp/|26-летняя королева красоты попала в смертельное ДТП
+1791170585|https://lenta.ru/news/2026/10/05/uchenye-nashli-sposob-dobitsya-remissii-diabeta-bez-lekarstv/|Ученые нашли способ добиться ремиссии диабета без лекарств
