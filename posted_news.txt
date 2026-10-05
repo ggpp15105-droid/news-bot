@@ -1192,3 +1192,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791168724|https://www.japantimes.co.jp/news/2026/10/05/japan/north-korea-abductee-megumi-yokota-birthday/|On daughter’s birthday, mother of abductee Megumi Yokota prays for reunion
 1791168733|https://lenta.ru/news/2026/10/05/stalo-izvestno-o-nezhelanii-polyakov-prinimat-bezhentsev-s-ukrainy/|Стало известно о нежелании поляков принимать беженцев с Украины
 1791168741|https://lenta.ru/news/2026/10/05/politolog-nazval-prichastnogo-k-popadaniyu-es-i-frg-v-tupik/|Политолог назвал причастного к попаданию ЕС и ФРГ в тупик
+1791169378|https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss|Spitting allegations as Ireland and Israel fight out ill-tempered draw
+1791169385|https://www.japantimes.co.jp/business/2026/10/05/economy/boj-deputy-chief-ai-neutral-rate/|BOJ’s deputy chief flags AI’s possible impact on neutral rate
+1791169390|https://lenta.ru/news/2026/10/05/byudzhetnye-poteri-ukrainy-iz-za-vzryvov-podschitali/|Бюджетные потери Украины из-за взрывов подсчитали
+1791169395|https://www.kommersant.ru/doc/9006070|США отчитались об ударе по катеру наркоторговцев в Карибском море
+1791169399|https://www.kommersant.ru/doc/9006069|Хакеры с помощью ИИ похитили клиентские данные в банках Южной Кореи
