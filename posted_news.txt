@@ -1517,3 +1517,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791244247|https://lenta.ru/news/2026/10/06/minoborony-rossii-zayavilo-o-sodeystvii-rassledovaniyu-dela-gendirektora-parka-patriot/|Минобороны России заявило о содействии расследованию дела гендиректора парка «Патриот»
 1791244252|https://www.kommersant.ru/doc/9006921|Вблизи Москвы сбиты 13 беспилотников
 1791244260|https://www.kommersant.ru/doc/9006920|Все четыре аэропорта Москвы приостановили работу
+1791244817|https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss|What’s happening in Ethiopia?
+1791244825|https://www.aa.com.tr/en/middle-east/uk-says-raf-fairford-base-safe-after-us-withdrawal-of-bombers/4079104|UK says RAF Fairford base 'safe' after US withdrawal of bombers
+1791244833|https://lenta.ru/news/2026/10/06/rossiyan-predupredili-ob-aktivnosti-medvedey-pered-spyachkoy/|Россиян предупредили об активности медведей перед спячкой
+1791244838|https://lenta.ru/news/2026/10/06/iz-frantsuzskogo-muzeya-ukrali-odnu-iz-samyh-dorogih-knig-v-mire/|Из французского музея украли одну из самых дорогих книг в мире
+1791244846|https://www.kommersant.ru/doc/9006887|Застройщики жилья Подмосковья увеличили выручку на 30%
