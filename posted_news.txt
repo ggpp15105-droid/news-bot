@@ -1946,3 +1946,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791325438|https://lenta.ru/news/2026/10/07/putin-vstretit-den-rozhdeniya-za-gosudarstvennymi-delami/|Путин встретит день рождения за государственными делами
 1791325443|https://www.kommersant.ru/doc/9007738|Матвиенко: для России лучше стабильная и спокойная Европа
 1791325452|https://www.kommersant.ru/doc/9007733|Трамп анонсировал новый телефонный разговор с Путиным // Трамп сообщил о планах очень скоро пообщаться с Путиным по телефону
+1791326266|https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss|Fans flood Buenos Aires ahead of Messi’s final international match
+1791326275|https://lenta.ru/news/2026/10/07/kim-chen-yn-obratilsya-k-putinu/|Ким Чен Ын обратился к Путину
+1791326284|https://www.kommersant.ru/doc/9007731|The Intercept: США могут не восстановить военное присутствие на Ближнем Востоке
+1791326288|https://www.kommersant.ru/doc/9007732|Минпромторг сообщил о стабильных поставках «Атаракса» в России // Минпромторг: в российских аптеках в наличии более 500 тысяч упаковок «Атаракса»
+1791326293|https://www.kommersant.ru/doc/9007710|Верховный суд разберет спор «Русала» с его акционером СУАЛом
