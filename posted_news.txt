@@ -1561,3 +1561,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791252746|https://www.japantimes.co.jp/news/2026/10/06/japan/japan-climate-change-tree-cover-tokyo/|‘Act before it’s too late’: Tokyo residents fight for more trees
 1791252751|https://lenta.ru/news/2026/10/06/nesmytye-fekalii-v-unitazah-finskih-deputatov-ob-yasnili-proiskami-rossiyskoy-razvedki/|Несмытые фекалии в унитазах финских депутатов объяснили происками российской разведки
 1791252757|https://lenta.ru/news/2026/10/06/veroyatnost-prekrascheniya-finansirovaniya-ukrainy-evrosoyuzom-otsenili/|Вероятность прекращения финансирования Украины Евросоюзом оценили
+1791253736|https://lenta.ru/news/2026/10/06/sily-pvo-unichtozhili-bolee-sta-bespilotnikov-na-podlete-k-moskve/|Силы ПВО уничтожили более ста беспилотников на подлете к Москве
+1791253741|https://lenta.ru/news/2026/10/06/stalo-izvestno-o-vliyanii-el-nino-na-milliony-detey-po-vsemu-miru/|Стало известно о влиянии Эль-Ниньо на миллионы детей по всему миру
+1791253747|https://lenta.ru/news/2026/10/06/tramp-dopustil-unichtozhenie-dvuh-amerikanskih-gorodov-v-konflikte-s-iranom/|Трамп допустил уничтожение двух американских городов в конфликте с Ираном
+1791253752|https://www.kommersant.ru/doc/9006927|Сьерра-Леоне готова предоставить России земли для выращивания кофе
+1791253757|https://www.kommersant.ru/doc/9006929|Bloomberg: OpenAI обсуждает привлечение $10 млрд от фондов из ОАЭ
