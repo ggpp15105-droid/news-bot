@@ -1841,3 +1841,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791307251|https://www.aa.com.tr/en/middle-east/iran-summons-french-ambassador-over-student-protests/4080106|Iran summons French ambassador over student protests
 1791307258|https://www.aa.com.tr/en/middle-east/tanker-attacks-continue-in-hormuz-as-gulf-shipping-rates-remain-elevated/4080104|Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated
 1791307264|https://www.gamespot.com/articles/warhammer-survivors-is-launching-mere-days-before-gta-6-and-i-respect-the-audacity/|Warhammer Survivors Is Launching Mere Days Before GTA 6, And I Respect The Audacity
+1791308150|https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss|Kenya confirms first Ebola case as man dies in Nairobi after DRC return
+1791308158|https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss|Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
+1791308163|https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss|Ship sinks off Bulgaria after drone attack in Black Sea
+1791308171|https://www.aa.com.tr/en/middle-east/6-civilians-killed-4-injured-in-houthi-shelling-south-of-taiz-yemen-state-media/4080139|6 civilians killed, 4 injured in Houthi shelling south of Taiz, Yemen: State media
+1791308178|https://www.aa.com.tr/en/health/who-urges-countries-not-to-impose-travel-trade-restrictions-for-ebola/4080132|WHO urges countries not to impose travel, trade restrictions for Ebola
