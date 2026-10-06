@@ -1891,3 +1891,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791316317|https://www.cnbc.com/2026/10/06/emmy-awards-prime-video.html|Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal
 1791316323|https://www.aa.com.tr/en/economy/iata-official-calls-turkiye-aviation-powerhouse/4080241|IATA official calls Türkiye aviation powerhouse
 1791316330|https://www.tomshardware.com/desktops/gaming-pcs/hp-takes-usd2200-off-a-ryzen-7-9800x3d-and-rtx-5080-prebuilt-at-usd2-799-sale-slashes-44-percent-off-an-omen-system-thats-ready-to-game-however-you-want|HP takes $2200 off a Ryzen 7 9800X3D and RTX 5080 prebuilt at $2,799
+1791316870|https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss|Yemen’s government is on the attack against the Houthis. What has changed?
+1791316876|https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss|The new players in space
+1791316884|https://www.dw.com/en/french-ai-company-announces-new-private-model/a-79569597?maca=en-rss-en-all-1573-rdf|French AI company announces new, private model
+1791316890|https://www.france24.com/en/calls-to-block-social-media-platforms-for-minors-in-france-amid-school-protests|Calls to block social media platforms for minors in France amid school protests
+1791316895|https://news.sky.com/story/paramount-completes-81bn-takeover-of-warner-bros-discovery-13595899|Paramount completes $81bn takeover of Warner Bros Discovery
