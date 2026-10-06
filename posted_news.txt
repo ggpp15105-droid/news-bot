@@ -1596,3 +1596,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791259167|https://lenta.ru/news/2026/10/06/rossiyanam-raskryli-nyuansy-ispolzovaniya-matkapitala/|Россиянам раскрыли нюансы использования маткапитала
 1791259172|https://www.kommersant.ru/doc/9006931|Непал завершил поиски пропавших после обвала ледника в августе
 1791259176|https://tass.ru/obschestvo/28184939|В Мьянме задержали 87 человек по делу о кибермошенничестве
+1791260086|https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html|World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%
+1791260092|https://www.japantimes.co.jp/sports/2026/10/06/baseball/yankees-rays-game-2/|Rays race past error-prone Yankees for 2-0 ALDS advantage
+1791260097|https://lenta.ru/news/2026/10/06/raskryt-gonorar-15-letnim-shkolnikam-za-diversiyu-na-rossiyskoy-zheleznoy-doroge/|Раскрыт гонорар 15-летним школьникам за диверсию на российской железной дороге
+1791260101|https://lenta.ru/news/2026/10/06/popytka-ataki-dronov-vsu-na-moskvu-stala-odnoy-iz-samyh-krupnyh-za-dva-goda/|Попытка атаки дронов ВСУ на Москву стала одной из самых крупных за два года
+1791260106|https://lenta.ru/news/2026/10/06/proktolog-otsenil-vozmozhnost-vychislit-na-prieme-lyubiteley-analnogo-seksa/|Проктолог оценил возможность вычислить на приеме любителей анального секса
