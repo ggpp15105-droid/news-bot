@@ -1766,3 +1766,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791292691|https://www.france24.com/en/video/20261006-heavy-police-presence-as-students-set-to-march-in-paris|'Heavy police presence' as students set to march in Paris
 1791292697|https://www.france24.com/en/tv-shows/focus/20261006-mexico-makes-push-for-fracking-despite-environmental-concerns|Mexico makes push for fracking despite environmental concerns
 1791292705|https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html|Anduril lands $2.9 billion Navy submarine shipyard contract days after CEO joins Pentagon weapons group
+1791293798|https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-all-1573-rdf|Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric
+1791293805|https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-all-1573-rdf|Germany's far-right AfD makes history again in Saxony-Anhalt
+1791293810|https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf|Nobel Literature Prize: How the winner is secretly chosen
+1791293814|https://news.sky.com/story/plane-crashes-in-nigeria-killing-all-25-people-on-board-13595764|Plane carrying 25 crashes with no survivors
+1791293821|https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html|Mistral unveils new AI model it says rivals best open systems from China
