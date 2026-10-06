@@ -1971,3 +1971,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791329384|https://www.ign.com/articles/hideo-kojima-acknowledges-fan-made-pt-port-that-runs-natively-on-pc|Hideo Kojima Acknowledges Fan-Made P.T. Port That Runs Natively on PC
 1791329391|https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch|Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch
 1791329400|https://lenta.ru/news/2026/10/07/psiholog-raskryl-opasnost-popytok-samostoyatelno-spravitsya-s-trevogoy/|Психолог раскрыл опасность попыток самостоятельно справиться с тревогой
+1791330230|https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss|A beautiful Himalayan bird is changing its voice due to human activity, research shows
+1791330239|https://lenta.ru/news/2026/10/07/raskryty-harakteristiki-russkogo-starlinka/|Раскрыты характеристики «российского Starlink»
+1791330245|https://lenta.ru/news/2026/10/07/rossiyankam-nazvali-prichiny-sokrascheniya-reproduktivnogo-vozrasta/|Россиянкам назвали причины сокращения репродуктивного возраста
+1791330250|https://lenta.ru/news/2026/10/07/strannaya-nahodka-vo-dvore-doma-postavila-v-tupik-polzovateley-seti/|Странная находка во дворе дома поставила в тупик пользователей сети
+1791330255|https://lenta.ru/news/2026/10/07/rossiyskiy-region-atakovali-drony/|Российский регион атаковали дроны
