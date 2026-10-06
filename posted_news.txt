@@ -1527,3 +1527,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791245810|https://lenta.ru/news/2026/10/06/na-podlete-k-moskve-sbili-pochti-40-bpla/|На подлете к Москве сбили почти 40 БПЛА
 1791245816|https://lenta.ru/news/2026/10/06/kitayskiy-istorik-sprognoziroval-obostrenie-konflikta-na-ukraine/|Китайский историк спрогнозировал обострение конфликта на Украине
 1791245821|https://lenta.ru/news/2026/10/06/long-my-im-pomozhem-nastolko-naskolko-vozmozhno-v-ssha-prokommentirovali-soobscheniya-o-vyyavlenii-infektsii-v-irkutskoy-oblasti-rossii/|«Мы им поможем настолько, насколько возможно». В США прокомментировали сообщения о выявлении инфекции в Иркутской области России
+1791247454|https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss|Syrian Airlines unveils laser-sharp look for the future
+1791247459|https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss|Moroccan journalists recount years of surveillance amid new Amnesty claim
+1791247465|https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss|Police clash with Kosovo protesters over bid to curb Hague war crimes court
+1791247470|https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss|Trump officials pursue record number of cases to strip US citizenship
+1791247475|https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss|New York state declares measles disaster amid resurgence of disease in US
