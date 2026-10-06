@@ -1771,3 +1771,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791293810|https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf|Nobel Literature Prize: How the winner is secretly chosen
 1791293814|https://news.sky.com/story/plane-crashes-in-nigeria-killing-all-25-people-on-board-13595764|Plane carrying 25 crashes with no survivors
 1791293821|https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html|Mistral unveils new AI model it says rivals best open systems from China
+1791294824|https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss|Defence lawyer in Cornell University case calls for special prosecutor to be removed
+1791294830|https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss|Demonstrators clash with riot police in France as education protests mount
+1791294837|https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf|As more Iranian women reject hijab rules, regime looks at new ways to force compliance
+1791294843|https://www.dw.com/en/southeast-asia-s-haze-crisis-have-lessons-been-learned/a-79564992?maca=en-rss-en-all-1573-rdf|Southeast Asia's haze crisis: Have lessons been learned?
+1791294848|https://news.sky.com/story/ukhsa-says-risk-of-plague-very-low-after-russian-laboratory-worker-dies-of-suspected-pneumonic-plague-13595782|Plague risk to UK 'very low', officials say after Russian woman's death
