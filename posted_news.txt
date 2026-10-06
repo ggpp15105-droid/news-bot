@@ -1926,3 +1926,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791322255|https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1|Russian lab worker’s death sparks plague fears as unverified claims spread online
 1791322261|https://www.france24.com/en/tv-shows/business/20261006-how-much-does-france-spend-on-education|How much does France spend on education?
 1791322268|https://www.ign.com/articles/wizards-of-the-coast-union-demands-company-stop-pushing-generative-ai|Wizards of the Coast Union Demands Company Stop Pushing Generative AI
+1791323122|https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss|Harry Kane equals England record, scores twice in 3-0 win over Czechia
+1791323129|https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss|CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
+1791323135|https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss|US arrests suspect in connection with Tumbler Ridge school shooting
+1791323142|https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss|Merino scores twice as Spain beat Croatia 2-1 in Nations League
+1791323148|https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss|Tokyo protests US military presence after Okinawa killing
