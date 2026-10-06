@@ -1781,3 +1781,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791295566|https://www.euronews.com/2026/10/06/paramount-and-warner-bros-complete-merger-to-form-hollywood-giant-skydance|Paramount and Warner Bros complete merger to form Hollywood giant Skydance
 1791295573|https://www.euronews.com/2026/10/06/burnout-at-work-meps-call-for-stronger-eu-protections|Burnout at work: MEPs call for stronger EU protections
 1791295579|https://www.euronews.com/2026/10/06/from-desalination-to-irrigation-how-countries-are-adapting-to-water-scarcity|From desalination to irrigation: How countries are adapting to water scarcity
+1791296754|https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss|Hormuz ship attacks surge: Are increased oil exports sustainable?
+1791296761|https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss|‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy
+1791296768|https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf|Paramount and Warner Bros merge into one Hollywood giant
+1791296776|https://www.dw.com/en/spain-court-lifts-puigdemont-arrest-warrant-clearing-way-for-his-return-home-ahead-of-november-elections/a-79565853?maca=en-rss-en-all-1573-rdf|Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections
+1791296781|https://www.france24.com/en/tv-shows/entre-nous/20261006-french-students-what-do-they-want|French students: What do they want?
