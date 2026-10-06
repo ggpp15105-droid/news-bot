@@ -1576,3 +1576,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791255496|https://lenta.ru/news/2026/10/06/rossiya-akademik-rasskazal-ob-opasnosti-novyh-shtammov-grippa/|Российский академик рассказал об опасности новых штаммов гриппа
 1791255501|https://lenta.ru/news/2026/10/06/husity-zahvatili-dom-glavy-yemena/|Хуситы захватили дом главы Йемена
 1791255505|https://lenta.ru/news/2026/10/06/rossiyanka-perechislila-dorogostoyaschie-oshibki-turistov-v-turtsii/|Россиянка перечислила дорогостоящие ошибки туристов в Турции
+1791256287|https://www.france24.com/en/americas/20261006-trump-targets-tax-free-diesel-as-republicans-approach-midterms|Trump targets tax-free diesel as Republicans approach midterms
+1791256293|https://www.japantimes.co.jp/business/2026/10/06/moonshot-ai-ipo-plans/|Moonshot said to eye early 2027 IPO after value hits $50 billion
+1791256301|https://www.japantimes.co.jp/sports/2026/10/06/soccer/man-city-liverpool-anfield/|Liverpool match looms but Man City will know what to expect at Anfield
+1791256309|https://www.japantimes.co.jp/news/2026/10/06/japan/politics/japan-pm-takaichi-defends-g7-absence/|Takaichi defends absence from ‘last-minute’ G7 online call after criticism
+1791256313|https://lenta.ru/news/2026/10/06/nazvan-samyy-ranniy-vozmozhnyy-srok-provedeniya-vyborov-na-ukraine/|Назван самый ранний возможный срок проведения выборов на Украине
