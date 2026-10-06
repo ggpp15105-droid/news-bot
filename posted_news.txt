@@ -1686,3 +1686,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791276962|https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis|Yemen government forces advance on Bab el-Mandeb in offensive against Houthis
 1791276969|https://www.euronews.com/2026/10/06/pneumonic-plague-in-russia-what-do-experts-say-about-the-risk|Pneumonic plague in Russia: What do experts say about the risk?
 1791276974|https://www.japantimes.co.jp/news/2026/10/06/japan/politics/yana-scandal/|Takaichi starts Diet session having to deal with agriculture minister’s scandal
+1791277686|https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss|Yemeni military says it has 'secured' Red Sea waterway
+1791277693|https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss|Kenya confirms its first Ebola death as outbreak spreads
+1791277700|https://www.aljazeera.com/sports/2026/10/6/sahibzada-farhan-named-pakistans-t20-captain-as-naseem-shah-returns?traffic_source=rss|Sahibzada Farhan named Pakistan’s T20 captain as Naseem Shah returns
+1791277706|https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss|Yemen war: What’s the latest on the battlefield?
+1791277713|https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc|Kenya confirms first Ebola case imported from Congo and says patient has died
