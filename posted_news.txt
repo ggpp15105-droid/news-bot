@@ -1551,3 +1551,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791251266|https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html|Trump offers U.S. help after plague death in Russia; WHO assesses the situation as low risk
 1791251273|https://www.japantimes.co.jp/news/2026/10/06/world/terror-threat-us-uk-base/|Trump says U.S. moved bombers from U.K. base after ‘threats’
 1791251281|https://lenta.ru/news/2026/10/06/ukrainu-predupredili-o-poslednem-shanse-na-mir/|Украину предупредили о последнем шансе на мир
+1791251952|https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss|Trump says taxpayers will no longer fund TV ads that praise him
+1791251958|https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss|Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows
+1791251966|https://lenta.ru/news/2026/10/06/long-neterpimost-k-korruptsii-yavlyaetsya-prioritetom-gendirektora-parka-patriot-zaderzhali-po-podozreniyu-v-poluchenii-vzyatki/|«Нетерпимость к коррупции является приоритетом». Гендиректора парка «Патриот» задержали по подозрению в получении взятки
+1791251971|https://lenta.ru/news/2026/10/06/vertolet-mi-8-sovershil-zhestkuyu-posadku-v-rossiyskom-regione/|Вертолет Ми-8 совершил жесткую посадку в российском регионе
+1791251975|https://lenta.ru/news/2026/10/06/tramp-nazval-vozmozhnye-sroki-okonchaniya-konflikta-s-iranom/|Трамп назвал возможные сроки окончания конфликта с Ираном
