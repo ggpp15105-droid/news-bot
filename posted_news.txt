@@ -1751,3 +1751,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791289176|https://www.euronews.com/2026/10/06/caves-castles-and-domes-the-countries-with-the-most-unusual-places-to-stay|Caves, castles and domes: The countries with the most unusual places to stay
 1791289183|https://www.aa.com.tr/en/world/un-chief-urges-us-iran-to-return-to-diplomacy-end-war-hails-pakistan-s-pivotal-role-/4079754|UN chief urges US, Iran to return to diplomacy, end war, hails Pakistan’s ‘pivotal role’
 1791289190|https://www.aa.com.tr/en/europe/three-years-of-genocide-how-has-britain-s-policy-shifted-on-israel/4079746|Three years of genocide: How has Britain’s policy shifted on Israel?
+1791290582|https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss|Mapping where US bombers are based around the world
+1791290588|https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss|Pakistan, Turkiye join Saudi deterrence against Houthis: What that means
+1791290593|https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss|Qatar and India among seven countries bidding for 2036 Olympics, IOC says
+1791290598|https://www.aljazeera.com/sports/2026/10/6/tennis-world-number-one-sinner-will-not-play-in-2026-due-to-knee-injury?traffic_source=rss|Tennis: World number one Sinner will not play in 2026 due to knee injury
+1791290604|https://www.euronews.com/2026/10/06/the-death-of-back-office-jobs-office-work-in-the-ai-storm|The 'death' of back-office jobs: office work in the AI storm
