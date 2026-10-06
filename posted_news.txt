@@ -1626,3 +1626,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791264902|https://www.japantimes.co.jp/news/2026/10/06/world/society/france-students-unrest/|French student unrest spreads nationwide as teachers walk out
 1791264909|https://www.tomshardware.com/pc-components/samsung-9100-pro-ssds-slashed-up-to-41-percent-while-supplies-last-huge-price-cuts-hit-all-capacities-from-1tb-to-8tb|Samsung 9100 Pro SSDs slashed up to 41% while supplies last — huge price cuts hit all capacities from 1TB to 8TB
 1791264918|https://lenta.ru/news/2026/10/06/son-na-odnom-boku/|Любителей всю ночь спать на одном боку предупредили об угрозе здоровью
+1791265772|https://www.japantimes.co.jp/sports/2026/10/06/soccer/japan-new-zealand-doan/|Japan beats New Zealand in Asian Cup warmup
+1791265779|https://www.japantimes.co.jp/sports/2026/10/06/more-sports/falcons-saints-katrina-anniversary/|Falcons thump Saints 45-24 as New Orleans marks Katrina anniversary
+1791265788|https://lenta.ru/news/2026/10/06/rossiyskiy-voennyy-rasskazal-ob-opredelenii-pozitsiy-vsu-po-zapahu-gotovyaschegosya-shashlyka/|Российский военный рассказал об определении позиций ВСУ по запаху готовящегося шашлыка
+1791265796|https://lenta.ru/news/2026/10/06/drug-usoltsevyh-sdelal-zayavlenie-o-mestonahozhdenii-semi/|Исследователь сделал заявление о местонахождении семьи Усольцевых
+1791265803|https://lenta.ru/news/2026/10/06/mirovye-tseny-na-zoloto-upali-do-minimuma/|Мировые цены на золото упали до минимума
