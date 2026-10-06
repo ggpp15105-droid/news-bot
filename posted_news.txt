@@ -1961,3 +1961,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791327646|https://tass.ru/ekonomika/28188455|Аэропорт Ульяновска приостановил прием и выпуск самолетов
 1791327650|https://tass.ru/proisshestviya/28188447|Минздрав Приморья рассказал о состоянии пострадавшего при обрушении на руднике
 1791327655|https://www.vedomosti.ru/politics/news/2026/10/07/1234885-tramp-anonsiroval-razgovor|Трамп анонсировал телефонный разговор с Путиным
+1791328444|https://lenta.ru/news/2026/10/07/kanadu-predupredili-v-svyazi-s-vozmozhnym-resheniem-po-rossii/|Канаду предупредили о последствиях связанного с Россией решения
+1791328453|https://lenta.ru/news/2026/10/07/charging/|Названа подходящая зарядка для ноутбука
+1791328459|https://lenta.ru/news/2026/10/07/v-ssha-nazvali-mesto-dlya-evakuatsii-zelenskogo-iz-kieva/|В США назвали место для эвакуации Зеленского из Киева
+1791328464|https://lenta.ru/news/2026/10/07/mat-odinochka-zaregistrirovalas-na-onlyfans-i-skoro-pozhalela-ob-etom/|Мать-одиночка зарегистрировалась на OnlyFans и скоро пожалела об этом
+1791328468|https://tass.ru/obschestvo/28188473|В ОП рассказали как защитить ребенка от травли одноклассниками
