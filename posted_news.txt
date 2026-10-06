@@ -1976,3 +1976,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791330245|https://lenta.ru/news/2026/10/07/rossiyankam-nazvali-prichiny-sokrascheniya-reproduktivnogo-vozrasta/|Россиянкам назвали причины сокращения репродуктивного возраста
 1791330250|https://lenta.ru/news/2026/10/07/strannaya-nahodka-vo-dvore-doma-postavila-v-tupik-polzovateley-seti/|Странная находка во дворе дома поставила в тупик пользователей сети
 1791330255|https://lenta.ru/news/2026/10/07/rossiyskiy-region-atakovali-drony/|Российский регион атаковали дроны
+1791330929|https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss|Electric car bursts into flames at charging station in Turkiye
+1791330935|https://www.france24.com/en/americas/20261006-christa-pike-regains-consciousness-after-botched-tennessee-execution-attempt|Christa Pike regains consciousness after botched Tennessee execution attempt
+1791330939|https://www.kommersant.ru/doc/9007714|Экспорт сырья стран Персидского залива вернулся к довоенному уровню
+1791330948|https://www.kommersant.ru/doc/9007717|Госкомпаниям разрешили закупки разработанных для них технологий без торгов
+1791330952|https://www.kommersant.ru/doc/9007721|Партийцы обсудили с политтехнологами свои успехи и неудачи на минувших выборах
