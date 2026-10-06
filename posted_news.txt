@@ -1631,3 +1631,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791265788|https://lenta.ru/news/2026/10/06/rossiyskiy-voennyy-rasskazal-ob-opredelenii-pozitsiy-vsu-po-zapahu-gotovyaschegosya-shashlyka/|Российский военный рассказал об определении позиций ВСУ по запаху готовящегося шашлыка
 1791265796|https://lenta.ru/news/2026/10/06/drug-usoltsevyh-sdelal-zayavlenie-o-mestonahozhdenii-semi/|Исследователь сделал заявление о местонахождении семьи Усольцевых
 1791265803|https://lenta.ru/news/2026/10/06/mirovye-tseny-na-zoloto-upali-do-minimuma/|Мировые цены на золото упали до минимума
+1791266453|https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss|Widowed twice: A Gaza mother’s story of loss and survival
+1791266460|https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool?traffic_source=rss|Erling Haaland faces injury scare ahead of Man City vs Liverpool
+1791266468|https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html|How quant funds beat the market by being 'early, contrarian and right'
+1791266477|https://lenta.ru/news/2026/10/06/v-rossii-nazvali-tsel-ataki-vsu-na-moskovskuyu-oblast/|В России назвали цель атаки ВСУ на Московскую область
+1791266483|https://lenta.ru/news/2026/10/06/v-podpolie-raskryli-pomosch-zhiteley-ukrainy-armii-rossii/|В подполье раскрыли помощь жителей Украины армии России
