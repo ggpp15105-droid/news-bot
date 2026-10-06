@@ -1586,3 +1586,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791257307|https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss|Europe is pouring billions into space. Can Glasgow's satellite industry keep up?
 1791257312|https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss|UN rights council condemns attacks on civilians in Sudan, calls for truce
 1791257318|https://www.japantimes.co.jp/news/2026/10/06/japan/japan-transport-safety-human-error/|Japan marks 20 years of tackling human error in public transportation
+1791258299|https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada?traffic_source=rss|Secessionist party wins Quebec election in Canada
+1791258303|https://news.sky.com/story/my-heart-is-broken-michael-flatley-announces-death-of-wife-niamh-obrien-13595593|'My heart is broken': Michael Flatley announces his wife has died
+1791258309|https://www.japantimes.co.jp/news/2026/10/06/asia-pacific/politics/south-korea-north-korea-response-apology/|South Korea preparing to force North Korea to apologize over DMZ mine blast
+1791258314|https://lenta.ru/news/2026/10/06/vrach-nazval-ukazyvayuschie-na-anemiyu-sostoyaniya-organizma/|Врач назвал указывающие на анемию состояния организма
+1791258318|https://lenta.ru/news/2026/10/06/ilon-mask-nazval-glavnuyu-slozhnost-dlya-bespilotnyh-mashin-po-nocham/|Илон Маск назвал главную сложность для беспилотных машин по ночам
