@@ -1691,3 +1691,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791277700|https://www.aljazeera.com/sports/2026/10/6/sahibzada-farhan-named-pakistans-t20-captain-as-naseem-shah-returns?traffic_source=rss|Sahibzada Farhan named Pakistan’s T20 captain as Naseem Shah returns
 1791277706|https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss|Yemen war: What’s the latest on the battlefield?
 1791277713|https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc|Kenya confirms first Ebola case imported from Congo and says patient has died
+1791278831|https://www.aljazeera.com/news/2026/10/6/malaysias-anwar-to-host-myanmar-leader-as-repatriations-surpass-10000?traffic_source=rss|Malaysia’s Anwar to host Myanmar leader as repatriations near 10,000
+1791278837|https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss|Gaza woman rescues books from rubble to keep education alive
+1791278844|https://www.aljazeera.com/news/2026/10/6/malnutrition-among-yemens-children?traffic_source=rss|How hunger is devastating Yemen’s children
+1791278852|https://www.euronews.com/2026/10/06/bulgarian-pm-condemns-absolutely-unacceptable-drone-attack-as-sunken-ships-crew-remain-mis|Bulgarian PM condemns drone attack as 'absolutely unacceptable' while search for missing crew continues
+1791278860|https://www.euronews.com/2026/10/06/moonshot-ai-eyes-hong-kong-ipo-after-50-billion-valuation-as-deepseek-raises-capital|Moonshot AI eyes Hong Kong IPO after $50 billion valuation as DeepSeek raises capital
