@@ -1571,3 +1571,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791254715|https://www.japantimes.co.jp/news/2026/10/06/japan/fukushima-futaba-town-evacuation-order-lift/|Evacuation order to be partially lifted in Fukushima town
 1791254723|https://lenta.ru/news/2026/10/06/rossiyskiy-haker-poluchil-dostup-k-dokumentam-vsu/|Российский хакер получил доступ к документам ВСУ
 1791254727|https://lenta.ru/news/2026/10/06/dva-avtobrenda-ulichili-v-samoy-chastoy-peredache-lichnyh-dannyh-tretim-litsam/|Два автобренда уличили в самой частой передаче личных данных третьим лицам
+1791255486|https://www.japantimes.co.jp/news/2026/10/06/japan/japan-elderly-care-pets/|Elderly people find ways to keep living with pets
+1791255491|https://www.japantimes.co.jp/news/2026/10/06/world/cornell-students-rally/|Cornell students stage anti-rape rally in support of ‘Jane Doe’
+1791255496|https://lenta.ru/news/2026/10/06/rossiya-akademik-rasskazal-ob-opasnosti-novyh-shtammov-grippa/|Российский академик рассказал об опасности новых штаммов гриппа
+1791255501|https://lenta.ru/news/2026/10/06/husity-zahvatili-dom-glavy-yemena/|Хуситы захватили дом главы Йемена
+1791255505|https://lenta.ru/news/2026/10/06/rossiyanka-perechislila-dorogostoyaschie-oshibki-turistov-v-turtsii/|Россиянка перечислила дорогостоящие ошибки туристов в Турции
