@@ -1,8 +1,3 @@
-1790876190|https://www.ign.com/articles/gta-6-gets-official-esrb-rating-and-its-as-mature-as-youd-expect|GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect
-1790877095|https://www.ign.com/articles/mega-man-dual-override-developers-dish-on-designing-for-new-and-old-players-alike|Mega Man: Dual Override Developers Dish on Designing for New and Old Players Alike
-1790877101|https://www.gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet/|PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet
-1790877108|https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/|The Xbox Cloud Gaming Controller Is Dead, Apparently
-1790877114|https://www.gamespot.com/articles/gears-of-war-e-day-has-a-clever-solution-to-one-of-pc-gamings-biggest-annoyances/|Gears Of War: E-Day Has A Clever Solution To One Of PC Gaming’s Biggest Annoyances
 1790877122|https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/|GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says
 1790877759|https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf|Latvians head to the polls with Russia on their minds
 1790877766|https://www.aa.com.tr/en/middle-east/gaza-documentary-naza-tops-italian-box-office-extends-cinema-run/4075430|Gaza documentary NAZA tops Italian box office, extends cinema run
@@ -1998,3 +1993,8 @@
 1791382109|https://www.euronews.com/2026/10/07/italians-and-czechs-push-brussels-to-ease-green-rules-as-energy-crisis-hits-industry|Italians and Czechs push Brussels to ease green rules as energy crisis hits industry
 1791382115|https://www.euronews.com/2026/10/07/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran|Iran threatens pre-emptive strikes as US questions who runs Tehran
 1791382121|https://www.euronews.com/2026/10/07/longevity-why-do-poles-live-shorter-than-western-europeans|Longevity: why do Poles live shorter than Western Europeans?
+1791383302|https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss|Millions of Pakistanis get government fuel relief but some miss out
+1791383309|https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss|Why Paramount-Warner merger has sparked fears about press freedom
+1791383315|https://www.france24.com/en/video/20261007-scars-from-oct-7-fuel-deep-divisions-over-netanyahu-ahead-of-israeli-election|Scars from Oct. 7 fuel deep divisions over Netanyahu ahead of Israeli election
+1791383321|https://www.france24.com/en/video/20261007-african-tourists-cancelling-trip-as-xenophobia-shadows-south-africa-s-appeal|African tourists cancelling trip as xenophobia shadows South Africa's appeal
+1791383327|https://www.france24.com/en/video/20261007-brit-adventurer-back-on-uk-soil-after-28-year-round-the-world-walk|Brit adventurer back on UK soil after 28-year round-the-world walk
