@@ -1,8 +1,3 @@
-1790883087|https://www.ign.com/articles/ahead-of-metro-2039-metro-2033-and-metro-last-light-are-getting-next-gen-updates|Ahead of Metro 2039, Metro 2033 and Metro Last Light Are Getting Next-Gen Updates
-1790883928|https://www.dw.com/en/ethiopia-and-eritrea-sever-ties-amid-tigray-fighting/a-79507052?maca=en-rss-en-all-1573-rdf|Ethiopia and Eritrea sever ties amid Tigray fighting
-1790883933|https://news.sky.com/story/russia-moves-to-control-bear-population-after-22-people-killed-in-attacks-13594068|Russia moves to control bear population after 22 people killed
-1790883940|https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html|Boeing engineers and technical workers approve new contract, avoiding strike
-1790883949|https://www.ign.com/articles/legend-of-zelda-mini-backpack-deal|Save 44% Off the Officially Licensed The Legend of Zelda Mini Backpack
 1790883956|https://www.gamespot.com/articles/ps5s-exciting-new-zelda-like-kena-game-just-got-delayed/|PS5’s Exciting New Zelda-Like Kena Game Just Got Delayed
 1790884572|https://www.dw.com/en/on-october-3-latvians-will-elect-a-new-parliament-―-with-russia-looming-large-over-the-campaign/a-79477614?maca=en-rss-en-all-1573-rdf|On October 3, Latvians will elect a new parliament ― with Russia looming large over the campaign
 1790884581|https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals|First Intel Panther Lake mini PC cooled with solid-state AirJet tech operates at less than 21 dBA
@@ -1998,3 +1993,8 @@
 1791390398|https://www.euronews.com/2026/10/07/knife-attack-at-polish-school-in-ostroleka-a-student-injures-seven-two-are-in-critical-con|Knife attack at Polish school: in Ostroleka a student injures seven, two are in critical condition
 1791390407|https://www.euronews.com/video/2026/10/07/fantasy-worlds-come-to-life-on-nails-at-london-nail-art-competition|Fantasy worlds come to life on nails at London nail art competition
 1791390414|https://www.euronews.com/2026/10/07/rebranded-jaguar-unveils-its-first-electric-sportscar-the-type-01ev|Rebranded Jaguar unveils its first electric sportscar: The Type 01EV
+1791391479|https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss|Canada suspends plans to expand assisted dying to people with mental illness
+1791391484|https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss|More than 200,000 displaced as fighting escalates in Yemen, UN says
+1791391489|https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-rdf|Gerhard Schröder visits latest Russian employer, Hyperglobus
+1791391494|https://www.france24.com/en/france/20261007-what-france-s-student-protesters-want-%E2%80%93-and-what-the-government-is-offering|What France's student protesters want – and what the government is offering
+1791391500|https://www.aa.com.tr/en/world/zuckerberg-s-biohub-teams-with-google-us-government-in-18b-push-to-model-human-cells-with-ai/4081297|Zuckerberg’s Biohub teams with Google, US government in $1.8B push to model human cells with AI
