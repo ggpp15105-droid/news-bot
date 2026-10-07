@@ -1,8 +1,3 @@
-1790896758|https://tass.ru/kosmos/28173835|Crew Dragon с космонавтом Тетерятниковым пристыковался к МКС
-1790897503|https://www.france24.com/en/middle-east/20261001-netanyahu-flydubai-co-pilot-uae-terror-link|Netanyahu says flydubai co-pilot was radicalised as UAE probes terror link
-1790897507|https://lenta.ru/news/2026/10/02/organizatoram-kontsertov-kanie-uesta-v-peterburge-vynesli-preduprezhdenie/|Организаторам концертов Канье Уэста в Петербурге вынесли предупреждение
-1790897511|https://tass.ru/obschestvo/28173839|Терапию "Аллергардой" следует начинать за полгода до сезона пыления
-1790897515|https://tass.ru/mezhdunarodnaya-panorama/28173843|Трамп заявил, что Европу "пожирают заживо" из-за кризиса
 1790897519|https://tass.ru/ekonomika/28173845|Нефтегазовые доходы РФ снизятся до 2,7% ВВП в 2029 году
 1790898333|https://lenta.ru/news/2026/10/02/raskryto-znachenie-osvobozhdeniya-vs-rossii-sela-rublenoe/|Раскрыто значение освобождения ВС России села Рубленое
 1790898337|https://lenta.ru/news/2026/10/02/paren-obnaruzhil-u-dveri-konvert-ot-neznakomtsa-i-udivilsya-ego-soderzhimomu/|Парень обнаружил у двери конверт от незнакомца и удивился его содержимому
@@ -1998,3 +1993,8 @@
 1791407913|https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games|Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games
 1791407921|https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space|My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space
 1791407928|https://www.tomshardware.com/peripherals/gaming-mice/do-you-need-a-mouse-with-an-8k-polling-rate|Do you need a mouse with an 8K polling rate?
+1791408942|https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss|South Africa host Australia who battle more than ‘Sandpapergate’ memories
+1791408946|https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss|Gaza child’s autoimmune condition triggered amid Israel’s war
+1791408953|https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf|Christa Pike 'angry and confused' after botched execution
+1791408958|https://www.france24.com/en/french-pm-vows-to-address-debt-despite-student-protests|French PM vows to address debt despite student protests
+1791408963|https://www.france24.com/en/africa-joins-the-data-center-backlash|Africa joins the data center backlash
