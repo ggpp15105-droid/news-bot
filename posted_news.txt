@@ -1,8 +1,3 @@
-1790866829|https://www.eurogamer.net/gears-of-war-eday-campaign-review|Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks
-1790867126|https://www.aljazeera.com/video/witness/2026/10/1/sunday-in-japan-a-ugandan-asylum-seeker-turns-to-filmmaking?traffic_source=rss|Sunday in Japan: A Ugandan asylum seeker turns to filmmaking
-1790867131|https://www.france24.com/en/video/20261001-cameroon-govt-announces-payments-as-teachers-strike-continues|Cameroon govt announces payments as teachers strike continues
-1790867136|https://www.france24.com/en/tv-shows/focus/20261001-a-blessing-or-a-curse-new-caledonia-s-dwindling-nickel-industry|A blessing or a curse? New Caledonia's dwindling nickel industry
-1790867141|https://www.france24.com/en/sheer-devastation-80-percent-of-gazan-infrastructure-has-been-destroyed|Sheer devastation: '80 percent of Gazan infrastructure has been destroyed'
 1790867146|https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered|Witcher 3 Remastered patch addressing "various lighting adjustments" rolls out
 1790867779|https://www.euronews.com/2026/10/01/greece-to-set-up-a-new-national-dementia-centre-for-patients-families-and-caretakers|Greece to set up a new national dementia centre for patients, families and caretakers
 1790867786|https://www.euronews.com/2026/10/01/releasing-strategic-reserves-is-a-possibility-eu-energy-chief-tells-euronews-as-diesel-squ|‘Releasing strategic reserves is a possibility,’ EU energy chief tells Euronews as diesel squeeze bites
@@ -1998,3 +1993,8 @@
 1791369665|https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss|Bulgaria ends search for missing crew after drone strike sinks cargo ship
 1791369670|https://www.france24.com/en/video/20261007-paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance|Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance
 1791369675|https://www.euronews.com/2026/10/07/fuel-government-ends-duty-discount-and-waits-for-eu|Fuel: government ends duty discount and waits for EU
+1791370591|https://www.france24.com/en/video/20261007-french-government-scrambles-to-calm-nationwide-student-protests|French government scrambles to calm nationwide student protests
+1791370597|https://www.euronews.com/video/2026/10/07/kyiv-residents-take-refuge-underground-during-overnight-russian-attacks|Kyiv residents take refuge underground during overnight Russian attacks
+1791370601|https://www.euronews.com/2026/10/07/french-and-japanese-scientists-win-2026-nobel-prize-in-chemistry-for-what-could-change-how|French and Japanese scientists win 2026 Nobel Prize in Chemistry for what could change how medicines are made
+1791370608|https://www.euronews.com/2026/10/07/eu-to-put-energy-security-at-heart-of-cop31-push-for-faster-green-transition|EU to put energy security at heart of COP31 push for faster green transition
+1791370614|https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition|İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition
