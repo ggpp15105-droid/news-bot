@@ -1,6 +1,3 @@
-https://www.france24.com/en/americas/20261001-execution-of-convicted-us-killer-christa-pike-fails-despite-two-lethal-injections
-https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss
-https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf
 https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico
 https://www.dw.com/en/germany-news-berlin-leftists-seek-to-pave-way-for-coalition/live-79496180?maca=en-rss-en-all-1573-rdf
 https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts
@@ -1996,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791334788|https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html|Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next
 1791334796|https://www.japantimes.co.jp/news/2026/10/07/world/politics/trump-california-los-angeles-iran/|Californians blast Trump remark that Iran could ‘take out’ Los Angeles, San Diego
 1791334804|https://www.ign.com/articles/best-pokemon-deals-amazon-october-prime-day-2026|Amazon Is Discounting All Things Pokémon for October Prime Day This Year
+1791335777|https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss|What’s behind Israel’s growing shift to the right?
+1791335783|https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations|Haiti postpones elections indefinitely as gang violence hampers preparations
+1791335789|https://www.cnbc.com/2026/10/07/trump-hormuz-oil-diesel-iran-anthropic-ai.html|CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz
+1791335797|https://www.japantimes.co.jp/business/2026/10/07/paramount-warner-merger-deal/|Paramount closes Warner merger in historic Hollywood deal
+1791335806|https://www.tomshardware.com/desktops/gaming-pcs/get-usd500-off-this-sweet-ryzen-7-7800x3d-and-rtx-5070-powered-gaming-pc-at-just-usd1799-32gb-of-ddr5-6000-comes-standard-too-at-a-22-percent-discount|Get 22% off this sweet Ryzen 7 7800X3D and RTX 5070-powered gaming PC at just $1799
