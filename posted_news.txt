@@ -1,8 +1,3 @@
-1790895898|https://tass.ru/obschestvo/28173821|GFCN: стелы в Буче содержат имена 198 лиц, не относящихся к "мирным жителям"
-1790896738|https://lenta.ru/news/2026/10/02/zaharova-otvetila-na-slova-makrona-o-rossiyskom-gaze-frazoy-iz-sovetskoy-komedii/|Захарова ответила на слова Макрона о российском газе фразой из советской комедии
-1790896742|https://lenta.ru/news/2026/10/02/v-nato-otchitali-evrokomissara-posle-ugroz-v-adres-rossii/|В НАТО отчитали еврокомиссара после угроз в адрес России
-1790896750|https://www.kommersant.ru/doc/8991825|В Петербурге ликвидировали открытое горение в особняке Миллера
-1790896754|https://www.kommersant.ru/doc/8991823|«Известия» сообщили о крушении вертолета в Воронежской области
 1790896758|https://tass.ru/kosmos/28173835|Crew Dragon с космонавтом Тетерятниковым пристыковался к МКС
 1790897503|https://www.france24.com/en/middle-east/20261001-netanyahu-flydubai-co-pilot-uae-terror-link|Netanyahu says flydubai co-pilot was radicalised as UAE probes terror link
 1790897507|https://lenta.ru/news/2026/10/02/organizatoram-kontsertov-kanie-uesta-v-peterburge-vynesli-preduprezhdenie/|Организаторам концертов Канье Уэста в Петербурге вынесли предупреждение
@@ -1998,3 +1993,8 @@
 1791406880|https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion|Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode
 1791406888|https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis|Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis
 1791406895|https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls|Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls
+1791407899|https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss|Inside SpaceX’s new look for AI data centres in orbit
+1791407906|https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter|Hackers steal millions of Discord IDs and email addresses in "deliberate, multi-stage attack" on security service Double Counter
+1791407913|https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games|Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games
+1791407921|https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space|My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space
+1791407928|https://www.tomshardware.com/peripherals/gaming-mice/do-you-need-a-mouse-with-an-8k-polling-rate|Do you need a mouse with an 8K polling rate?
