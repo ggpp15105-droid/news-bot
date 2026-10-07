@@ -1,8 +1,3 @@
-1790860903|https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261001-the-us-continue-to-be-a-very-significant-partner-un-peacekeeping-chief|US continues to be 'a very significant partner', UN peacekeeping chief says
-1790860988|https://www.euronews.com/2026/10/01/shakira-and-amazon-music-stream-madrid-concert-live-and-free|Shakira and Amazon Music stream Madrid concert live and free
-1790860997|https://www.aa.com.tr/en/asia-pacific/dangerous-path-india-warns-citizens-against-joining-russian-army-amid-ukraine-war/4075106|'Dangerous path': India warns citizens against joining Russian army amid Ukraine war
-1790861007|https://www.aa.com.tr/en/eurasia/kremlin-says-states-hosting-nuclear-weapons-near-russian-borders-fuel-escalation/4075096|Kremlin says states hosting nuclear weapons near Russian borders fuel escalation
-1790861013|https://www.ign.com/articles/gears-of-war-e-day-review|Gears of War: E-Day Review
 1790861020|https://www.ign.com/articles/escape-from-playtime-is-its-own-uniquely-twisted-multiplayer-toy-story-ign-preview|Escape from Playtime Is its Own Uniquely Twisted Multiplayer Toy Story | IGN Preview
 1790861937|https://www.dw.com/en/trump-unveils-south-korean-investment-in-us-energy-projects/a-79502998?maca=en-rss-en-all-1573-rdf|Trump unveils South Korean investment in US energy projects
 1790861943|https://www.france24.com/en/video/20261001-gender-based-violence-french-proposed-bill-aims-to-strengthen-protections|Gender-based violence: French proposed bill aims to strengthen protections
@@ -1998,3 +1993,8 @@
 1791354120|https://www.dw.com/en/germany-news-government-presents-plan-for-railroad-revamp/live-79570924?maca=en-rss-en-all-1573-rdf|Germany news: Government presents plan for railroad revamp
 1791354128|https://www.euronews.com/2026/10/07/christa-pike-awake-a-week-after-lethal-injection-as-her-lawyers-seek-answers|Christa Pike awake a week after lethal injection as her lawyers seek answers
 1791354136|https://www.euronews.com/2026/10/07/invasive-plant-spreads-across-portugal-and-lengthens-allergy-season|Invasive plant spreads across Portugal and lengthens allergy season
+1791355488|https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss|At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine
+1791355496|https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss|Yemen’s displaced children dream of returning to school
+1791355502|https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss|Finland orders halt to work on Google data centre sites
+1791355509|https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html|Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva
+1791355516|https://www.euronews.com/2026/10/07/spat-over-israeli-flag-removal-engulfs-the-european-parliament-on-october-7-anniversary|Spat over Israeli flag removal engulfs the European Parliament on October 7 anniversary
