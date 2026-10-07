@@ -1,8 +1,3 @@
-1790905020|https://www.japantimes.co.jp/news/2026/10/02/world/politics/iran-nuclear-inspector-offer/|Iran offers to allow nuclear inspectors if sanctions are eased
-1790905798|https://www.cnbc.com/2026/10/02/cnbc-daily-open-us-third-carrier-iran.html|CNBC Daily Open: Three’s a crowd: U.S. carrier buildup in Middle East sends oil spiking
-1790905806|https://lenta.ru/news/2026/10/02/marochko-otsenil-operatsiyu-vsu-vivaldi/|Марочко оценил операцию ВСУ «Вивальди»
-1790905814|https://lenta.ru/news/2026/10/02/ran-otsenila-effektivnost-lazernogo-oruzhiya-rossii/|РАН оценила эффективность лазерного оружия России
-1790905818|https://lenta.ru/news/2026/10/02/muzhchina-zhestoko-otpinal-svoego-mopsa-i-popal-na-video-v-rossiyskom-gorode/|Мужчина жестоко отпинал своего мопса и попал на видео в российском городе
 1790905827|https://lenta.ru/news/2026/10/02/stalo-izvestno-ob-organizatsii-turtsiey-novyh-peregovorov-s-rossiey-i-ukrainoy/|Стало известно об организации Турцией новых переговоров с Россией и Украиной
 1790906472|https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss|Trump launches midterms campaign blitz amidst record low approval ratings
 1790906478|https://www.japantimes.co.jp/news/2026/10/02/world/hormuz-oil-risky-job/|No lights and no radio: Getting oil through Hormuz is a risky job
@@ -1998,3 +1993,8 @@
 1791415529|https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-manga-is-on-sale-for-prime-big-deal-days-2026|The Legend of Zelda: Ocarina of Time Manga Is on Sale at Amazon Today
 1791415534|https://lenta.ru/news/2026/10/08/raskryt-razryv-mezhdu-sredney-pensiey-nerabotayuschih-v-rossiyskih-regionah/|Раскрыт разрыв между средней пенсией неработающих в российских регионах
 1791415544|https://www.kommersant.ru/doc/9008701|На самой глубокой шахте России произошла авария // На угольной шахте «Комсомольская» в Коми произошла авария
+1791416416|https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss|Christa Pike was nearly taken off life support before waking, lawyers say
+1791416421|https://lenta.ru/news/2026/10/08/pohabnaya-prosba-muzha-vselila-razdrazhenie-i-paniku-v-ego-zhenu/|Похабная просьба мужа вселила раздражение и панику в его жену
+1791416426|https://www.kommersant.ru/doc/9008693|Иран и Оман направят договор по Ормузскому проливу в международный орган
+1791416435|https://www.kommersant.ru/doc/9008582|Греф призвал государство не подавлять стимулы компаний к инновациям
+1791416439|https://www.vedomosti.ru/politics/news/2026/10/08/1235252-siriya-obsuzhdayut-otpravku|Саудовская Аравия и Сирия обсуждают отправку сирийских войск в Йемен
