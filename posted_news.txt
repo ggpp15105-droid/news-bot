@@ -1,8 +1,3 @@
-1790890622|https://lenta.ru/news/2026/10/02/fetisov-zayavil-ob-izdevatelstvah-nad-valievoy-so-storony-isu/|Фетисов заявил об издевательствах над Валиевой со стороны ISU
-1790891454|https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss|Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow
-1790891461|https://lenta.ru/news/2026/10/02/politolog-raskryl-prichiny-raskola-nato/|Политолог раскрыл причины раскола НАТО
-1790891470|https://lenta.ru/news/2026/10/01/long-est-li-smysl-tseplyatsya-putin-nazval-neizbezhnym-ishod-svo-i-obratilsya-k-vlastyam-ukrainy/|«Есть ли смысл цепляться?» Путин назвал неизбежным исход СВО и обратился к властям Украины
-1790891474|https://lenta.ru/news/2026/10/02/pornozvezda-rasskazala-o-lyubvi-muzhchin-k-odnoy-osobennosti-zhenschin/|Порнозвезда рассказала о любви мужчин к одной особенности женщин
 1790891479|https://www.kommersant.ru/doc/8991820|Трамп не исключил возможность создания военной базы США в Венесуэле
 1790892058|https://www.france24.com/en/fake-bbc-report-falsely-implicates-indian-passenger-and-pilot-in-flydubai-hijacking-attempt|Fake BBC report falsely implicates Indian passenger and pilot in Flydubai hijacking attempt
 1790892065|https://www.france24.com/en/fundamental-demand-saint-denis-students-seek-same-opportunity-as-those-in-more-privileged-areas|'Fundamental demand': Saint-Denis students seek same opportunity as those in 'more privileged areas'
@@ -1998,3 +1993,8 @@
 1791400672|https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss|Saudi Arabia says Houthi attacks on airports killed three foreign nationals
 1791400677|https://www.aljazeera.com/video/newsfeed/2026/10/7/lsd-from-counterculture-to-clinical-trials?traffic_source=rss|LSD – from counterculture to clinical trials
 1791400683|https://www.euronews.com/2026/10/07/polands-economic-rise-can-it-last-the-ring-in-warsaw|Poland’s economic rise - Can it last? The Ring in Warsaw
+1791401676|https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss|Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row
+1791401681|https://www.france24.com/en/trump-says-we-don-t-think-russian-plague-is-bio-weapon|Trump says 'we don't think' Russian plague is bio-weapon
+1791401688|https://www.euronews.com/2026/10/07/trump-mocks-sheinbaum-over-gulf-of-mexico-and-imitates-her-alleged-reaction-no-no-please|Trump mocks Sheinbaum over Gulf of Mexico and imitates her alleged reaction: 'No, no, please'
+1791401694|https://www.ign.com/articles/call-of-duty-e-sports-commentator-resigns-after-pursuing-relationship-with-co-commentators-ex-wife|Call of Duty e-Sports Commentator Resigns After Pursuing Relationship With Co-Commentator's Ex-Wife
+1791401700|https://www.ign.com/articles/gears-of-war-e-day-is-a-natural-choice-to-be-an-exclusive-studio-head-mike-crump-claims-series-carries-the-banner-for-xbox|Gears of War E-Day is a 'Natural Choice to Be an Exclusive' – Studio Head Mike Crump Claims Series Carries The Banner For Xbox
