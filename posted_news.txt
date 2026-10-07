@@ -1,8 +1,3 @@
-1790869918|https://www.euronews.com/2026/10/01/greece-pitches-suspension-of-the-eus-right-to-asylum-during-migration-crises|Greece pitches suspension of the EU’s right to asylum during migration crises
-1790870536|https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss|Flydubai attack gives Netanyahu new security message ahead of Israel vote
-1790870543|https://www.aa.com.tr/en/eurasia/putin-expects-global-conflicts-to-continue-in-near-future/4075308|Putin expects global conflicts to continue in near future
-1790870549|https://www.aa.com.tr/en/africa/ethiopia-closes-embassy-in-eritrea-expels-10-eritrean-diplomats/4075305|Ethiopia closes embassy in Eritrea, expels 10 Eritrean diplomats
-1790870556|https://www.aa.com.tr/en/europe/european-greens-urge-eu-leaders-to-back-uks-potential-return-to-bloc/4075299|European Greens urge EU leaders to back UK's potential return to bloc
 1790870561|https://www.aa.com.tr/en/asia-pacific/japanese-ambassador-praises-turkiye-s-defense-technology-drive-at-teknofest/4075292|Japanese ambassador praises Türkiye’s defense technology drive at TEKNOFEST
 1790871618|https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss|Tennessee halts executions after death row inmate Christa Pike survives hers
 1790871625|https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf|Ethiopia: Who could bring the warring sides to the negotiation table?
@@ -1998,3 +1993,8 @@
 1791373370|https://www.euronews.com/2026/10/07/finland-orders-pause-on-google-ai-data-centre-over-environmental-concerns|Finland orders pause on Google AI data centres over environmental concerns
 1791373377|https://www.euronews.com/video/2026/10/07/tokyo-sleep-competition-offers-2-million-yen-prize-to-best-sleeper|Tokyo sleep competition offers 2 million yen prize to best sleeper
 1791373383|https://www.euronews.com/2026/10/07/trump-to-talk-plague-with-putin-as-russia-plays-down-fears-of-outbreak|Trump to talk plague with Putin as Russia plays down fears of outbreak
+1791374229|https://www.aljazeera.com/sports/2026/10/7/arsenal-boss-mikel-arteta-signs-new-contract-with-premier-league-champions?traffic_source=rss|Arsenal boss Mikel Arteta signs new contract with Premier League champions
+1791374236|https://www.aljazeera.com/sports/2026/10/7/lionel-messi-farewell-friendly-benin-india-fans-kerala-kolkata-mumbai?traffic_source=rss|Miles away from Argentina, Messi’s farewell hits home for his Indian fans
+1791374243|https://www.aljazeera.com/news/2026/10/7/justina-shiroka-pula-kosovos-new-president-elected-during-a-crisis?traffic_source=rss|Justina Shiroka Pula: Kosovo’s new president, elected during a crisis
+1791374249|https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss|US military aid to Israel continues three years into Gaza genocide
+1791374257|https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-rdf|Germany: Ex-spy chief sent to pretrial detention on treason charges
