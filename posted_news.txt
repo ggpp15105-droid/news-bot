@@ -1,8 +1,3 @@
-1790875269|https://www.aa.com.tr/en/europe/latvia-says-it-detained-couple-on-suspicion-of-spying-for-russia/4075374|Latvia says it detained couple on suspicion of spying for Russia
-1790875464|https://www.france24.com/en/tv-shows/spotlight/20261001-guilty-of-all-charges-man-city-at-centre-of-biggest-scandal-in-football-history-vows-to-appeal|'Guilty of all charges': Man City at centre of 'biggest scandal in football history', vows to appeal
-1790875472|https://www.aa.com.tr/en/middle-east/emirates-dubai-london-flight-diverts-to-frankfurt-for-medical-emergency/4075373|Emirates Dubai-London flight diverts to Frankfurt for medical emergency
-1790875479|https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5|Sony Finally Brings AI Upscaling To Base PS5
-1790875487|https://www.ign.com/articles/art-of-metaphor-refantazio-book-where-to-buy|The Art of Metaphor: ReFantazio Book Is Now Available To Preorder, Out Next March
 1790875493|https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus|007 First Light's First DLC Out Now, Adds New Game Plus
 1790876167|https://www.aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu?traffic_source=rss|Despite praise and White House visits, Trump avoids endorsing Netanyahu
 1790876174|https://www.aljazeera.com/news/2026/10/1/death-penalty-bill-for-forest-arsonists-clears-algeria-lower-house?traffic_source=rss|Death penalty bill for forest arsonists clears Algeria lower house
@@ -1998,3 +1993,8 @@
 1791380398|https://www.france24.com/en/tv-shows/business/20261007-three-years-after-october-7-attacks-israel-s-economy-shows-its-strength|Three years after October 7 attacks, Israel's economy shows its strength
 1791380403|https://news.sky.com/story/seven-injured-in-attack-with-sharp-object-at-polish-school-say-police-13596114|Seven injured in attack with 'sharp object' at Polish school, say police
 1791380410|https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html|France is caught between angry students and unforgiving bond markets
+1791381348|https://www.aljazeera.com/news/2026/10/7/okinawa-governor-urges-japan-action-after-us-marine-arrested-over-killing?traffic_source=rss|Okinawa governor urges Japan action after US Marine arrested over killing
+1791381355|https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss|Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown
+1791381361|https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf|South Sudan's road to elections remains uncertain
+1791381366|https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case|Russia warns against spreading 'false information' as reports emerge of second plague case
+1791381372|https://www.france24.com/en/tv-shows/focus/20261007-china-s-evolving-funeral-practices-from-traditional-burials-to-cremation|China's evolving funeral practices: From traditional burials to cremation
