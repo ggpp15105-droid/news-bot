@@ -1,8 +1,3 @@
-1790862961|https://news.sky.com/story/kim-jong-uns-sister-issues-warning-as-she-denies-south-korea-land-mine-claims-13593551|Kim Jong Un's sister issues warning as she denies South Korea land mine claims
-1790863172|https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html|Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude near $100
-1790863178|https://www.cnbc.com/2026/10/01/q3-markets-stocks-oil-iran-war.html|These charts show how volatile the last quarter was for stocks and bonds
-1790863184|https://www.cnbc.com/2026/10/01/hostile-takeovers-mergers-acquisitions-uk.html|Bargain Britain lures foreign buyers as hostile takeovers surge
-1790863189|https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html|The U.S. just made it much easier for retail investors to access private markets
 1790863196|https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html|Russia launches massive strikes on Ukraine’s energy grid, forcing power cuts ahead of winter
 1790863693|https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss|Russian dissident Garry Kasparov says US warned him of danger to his life
 1790863698|https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf|North and South Korea trade accusations over landmines that injured three soldiers
@@ -1998,3 +1993,8 @@
 1791358960|https://www.japantimes.co.jp/business/2026/10/07/companies/australia-data-center-japan-tension/|Goodman’s Japanese data center under fire following Sydney site setback
 1791358968|https://www.japantimes.co.jp/news/2026/10/07/world/society/sushi-tuna-omakase-us/|$200 tuna-cutting dining events offer ‘point of connection’ with sushi culture
 1791358977|https://www.aa.com.tr/en/world/morning-briefing-oct-7-2026/4080363|Morning Briefing: Oct. 7, 2026
+1791359700|https://www.dw.com/en/the-solar-boom-is-rapidly-transforming-emerging-economies/a-79474847?maca=en-rss-en-all-1573-rdf|The solar boom is rapidly transforming emerging economies
+1791359705|https://www.euronews.com/video/2026/10/07/israels-ambassador-zarka-france-has-a-serious-antisemitism-problem|Israel's ambassador Zarka: France has a serious antisemitism problem
+1791359711|https://www.tomshardware.com/live/news/amazon-prime-big-deal-days-2026-day-two|Best Amazon Prime Day tech deals live
+1791359720|https://lenta.ru/news/2026/10/07/sozdannyy-pri-pomoschi-neyroseti-film-bogi-ne-delayut-podarkov-obzavelsya-treylerom/|Созданный при помощи нейросети фильм «Боги не делают подарков» обзавелся трейлером
+1791359725|https://lenta.ru/news/2026/10/07/v-rossii-zayavili-ob-izmenenii-v-strategii-vedeniya-svo/|В России заявили об изменении в стратегии ведения СВО
