@@ -1,8 +1,3 @@
-1790887371|https://lenta.ru/news/2026/10/01/putin-raskryl-otnoshenie-merkel-k-minskim-soglasheniyami/|Путин раскрыл отношение Меркель к Минским соглашениям
-1790888083|https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss|The filmmaker taking on Kenya’s colonised tea plantations
-1790888089|https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html|Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit
-1790888094|https://lenta.ru/news/2026/10/01/portugaliya-obygrala-daniyu-posle-ot-ezda-iz-sbornoy-ronaldu/|Португалия обыграла Данию после отъезда из сборной Роналду
-1790888099|https://lenta.ru/news/2026/10/01/na-ukraine-zayavili-o-kriticheskom-snizhenii-naseleniya/|На Украине заявили о критическом снижении населения
 1790888107|https://lenta.ru/news/2026/10/01/putin-otvetil-na-predlozhenie-porazvalivat-evrosoyuz/|Путин ответил на предложение «поразваливать» Евросоюз
 1790888650|https://lenta.ru/news/2026/10/01/stalo-izvestno-o-planah-restavratsii-zagorevshegosya-v-peterburge-osobnyaka-millera/|Стало известно о планах реставрации загоревшегося в Петербурге особняка Миллера
 1790888659|https://lenta.ru/news/2026/10/01/v-rade-obratilis-k-zelenskomu-s-prizyvom-nam-nuzhen-mir/|В Раде обратились к Зеленскому с призывом «нам нужен мир!»
@@ -1998,3 +1993,8 @@
 1791396002|https://www.aa.com.tr/en/americas/un-holds-5th-straw-poll-in-race-to-succeed-antonio-guterres/4081348|UN holds 5th straw poll in race to succeed Antonio Guterres
 1791396007|https://www.aa.com.tr/en/russia-ukraine-war/un-chief-condemns-attacks-in-ukraine-warns-of-rising-civilian-toll/4081347|UN chief condemns attacks in Ukraine, warns of rising civilian toll
 1791396014|https://www.gamespot.com/articles/forza-horizon-6-for-ps5-apparently-delayed-to-2027-and-its-getting-a-disc-release/|Forza Horizon 6 For PS5 Apparently Delayed To 2027, And It’s Getting A Disc Release
+1791397116|https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss|Over 100 arrested in Belgium student protests over education costs
+1791397123|https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html|Fed officials see another hike coming, but no sign as to when, minutes show
+1791397129|https://www.aa.com.tr/en/europe/eu-reportedly-agrees-major-expansion-of-russia-sanctions-blacklist/4081363|EU reportedly agrees major expansion of Russia sanctions blacklist
+1791397135|https://www.aa.com.tr/en/americas/trump-says-us-does-not-believe-plague-death-in-russia-is-biological-weapon/4081361|Trump says US does not believe plague death in Russia is biological weapon
+1791397140|https://www.gamespot.com/articles/star-wars-zero-company-developer-sees-portion-of-furloughed-workers-return/|Star Wars Zero Company Developer Sees Portion Of Furloughed Workers Return
