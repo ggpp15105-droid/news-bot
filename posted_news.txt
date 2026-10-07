@@ -1,8 +1,3 @@
-1790901188|https://lenta.ru/news/2026/10/02/rossiyanka-opisala-pyat-veschey-v-turtsii-slovami-vy-silno-pereplachivaete/|Россиянка описала пять вещей в Турции словами «вы сильно переплачиваете»
-1790902348|https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss|UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays
-1790902355|https://www.japantimes.co.jp/news/2026/10/02/world/crime-legal/us-inmate-critical-condition/|U.S. inmate in critical condition after botched execution
-1790902360|https://lenta.ru/news/2026/10/02/v-evrosoyuze-otsenili-preduprezhdenie-rossii-naschet-kaliningrada/|В Евросоюзе оценили предупреждение России насчет Калининграда
-1790902364|https://lenta.ru/news/2026/10/02/umer-frontmen-izvestnoy-hevi-metal-gruppy/|Умер фронтмен известной хеви-метал-группы
 1790902369|https://lenta.ru/news/2026/10/02/putin-rezko-vyskazalsya-ob-ubiystve-laridzhani/|Путин высказался об убийстве Лариджани
 1790903066|https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf|EU ministers mull new ways to curb irregular migration
 1790903071|https://lenta.ru/news/2026/10/02/stalo-izvestno-o-serieznyh-posledstviyah-ataki-bpla-na-volgograd/|Стало известно о серьезных последствиях атаки БПЛА на Волгоград
@@ -1998,3 +1993,8 @@
 1791412344|https://www.ign.com/articles/dragons-dogma-2-dark-arisen-review|Dragon's Dogma 2: Dark Arisen Review
 1791412388|https://lenta.ru/news/2026/10/08/long-v-regionah-rossii-upala-stoimost-benzina-skolko-teper-stoit-toplivo-v-raznyh-oblastyah/|В регионах России упали цены на бензин. Сколько теперь стоит топливо в разных субъектах?
 1791412432|https://www.kommersant.ru/doc/9008698|Женщина и четверо детей погибли при пожаре в Хабаровском крае
+1791413267|https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss|‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro
+1791413273|https://www.aljazeera.com/video/newsfeed/2026/10/7/judge-orders-officials-to-preserve-pike-execution-evidence?traffic_source=rss|Judge orders officials to preserve Pike execution evidence
+1791413280|https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html|Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday
+1791413288|https://www.euronews.com/2026/10/08/russian-man-who-swam-from-kaliningrad-to-lithuania-in-asylum-attempt-sentenced-to-six-year|Russian man who swam from Kaliningrad to Lithuania in asylum attempt sentenced to six years hard labour
+1791413334|https://www.aa.com.tr/en/asia-pacific/pakistani-premier-un-chief-discuss-regional-peace-security-issues-in-islamabad/4081595|Pakistani premier, UN chief discuss regional peace, security issues in Islamabad
