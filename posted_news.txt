@@ -1,8 +1,3 @@
-1790888682|https://www.kommersant.ru/doc/8991802|Агент Дзюбы опроверг информацию о завершении карьеры футболиста
-1790889665|https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss|Funeral held for Palestinian man killed in the occupied West Bank
-1790889672|https://www.euronews.com/2026/10/01/danish-military-admits-flaws-in-report-about-2025-drone-incursions|Danish military admits flaws in report about 2025 drone incursions
-1790889679|https://www.ign.com/articles/riot-games-co-founder-says-2xko-needed-hundreds-of-thousands-if-not-millions-of-monthly-active-players-to-survive|Riot Games Co-Founder Says 2XKO Needed ‘Hundreds of Thousands, if Not Millions’ of Monthly Active Players to Survive
-1790889684|https://lenta.ru/news/2026/10/02/tramp-posovetovalsya-s-ii-o-zahvate-maduro/|На Западе уличили Трампа в общении с ИИ о захвате Мадуро
 1790889691|https://lenta.ru/news/2026/10/02/2-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/|2 октября: какой праздник отмечают в России и мире
 1790890592|https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss|Renee Good: Family of US woman killed by ICE agent sues Trump officials
 1790890600|https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss|Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark
@@ -1998,3 +1993,8 @@
 1791398525|https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss|Jerusalem Daily: Gaza’s devastation, three years after October 7
 1791398531|https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss|Spanish unions call general strike over housing before snap election
 1791398538|https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html|Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip
+1791399630|https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-rdf|Evicted Spanish pensioner who sparked housing protests has died, Madrid tenant union says
+1791399635|https://news.sky.com/story/woman-87-whose-eviction-triggered-snap-election-in-spain-following-housing-protests-has-died-13596292|Woman, 87, whose eviction triggered snap election in Spain following housing protests has died
+1791399640|https://news.sky.com/story/man-to-face-trial-for-attempted-murder-of-british-girl-in-alps-knife-attack-13596277|Man to face trial for attempted murder of British girl in Alps knife attack
+1791399646|https://www.euronews.com/2026/10/07/maricarmen-symbol-of-spains-housing-protests-dies|Maricarmen, symbol of Spain's housing protests, dies
+1791399653|https://www.euronews.com/video/2026/10/07/unexpected-beach-guest-elephant-seal-draws-crowds-in-rio|Unexpected beach guest: Elephant seal draws crowds in Rio
