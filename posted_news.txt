@@ -1,8 +1,3 @@
-1790863196|https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html|Russia launches massive strikes on Ukraine’s energy grid, forcing power cuts ahead of winter
-1790863693|https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss|Russian dissident Garry Kasparov says US warned him of danger to his life
-1790863698|https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf|North and South Korea trade accusations over landmines that injured three soldiers
-1790863704|https://www.japantimes.co.jp/news/2026/10/01/japan/politics/ldp-condo-speculative-trading/|LDP proposes restrictions on speculative condo trading
-1790863709|https://www.japantimes.co.jp/news/2026/10/01/japan/politics/takaichi-ai-promote/|Takaichi says government will compile action plan to spread the use of AI
 1790863715|https://www.japantimes.co.jp/environment/2026/10/01/climate-change/heat-deaths-western-europe/|Heat deaths in Western Europe top 34,600 during hottest summer on record
 1790863797|https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss|Russian dissident Garry Kasparov says US warned him of danger to his life
 1790863805|https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf|North and South Korea trade accusations over landmines that injured three soldiers
@@ -1998,3 +1993,8 @@
 1791359711|https://www.tomshardware.com/live/news/amazon-prime-big-deal-days-2026-day-two|Best Amazon Prime Day tech deals live
 1791359720|https://lenta.ru/news/2026/10/07/sozdannyy-pri-pomoschi-neyroseti-film-bogi-ne-delayut-podarkov-obzavelsya-treylerom/|Созданный при помощи нейросети фильм «Боги не делают подарков» обзавелся трейлером
 1791359725|https://lenta.ru/news/2026/10/07/v-rossii-zayavili-ob-izmenenii-v-strategii-vedeniya-svo/|В России заявили об изменении в стратегии ведения СВО
+1791360444|https://www.france24.com/en/france/20261007-live-france-suspends-stun-grenade-use-school-protests-after-15-year-old-loses-hand|Live: France suspends stun grenade use in school protests after 15-year-old loses hand
+1791360451|https://www.euronews.com/2026/10/07/israel-pauses-in-moment-of-silence-to-remember-those-killed-on-7-october|Israel pauses in moment of silence to remember those killed on 7 October
+1791360460|https://www.aa.com.tr/en/turkiye/turkiye-czechia-explore-new-recycling-cooperation-opportunities-at-istanbul-forum/4080520|Türkiye, Czechia explore new recycling cooperation opportunities at Istanbul forum
+1791360468|https://lenta.ru/news/2026/10/07/v-gosdume-nazvali-glavnoe-otlichie-putina-ot-zapadnyh-politikov/|В Госдуме назвали главное отличие Путина от западных политиков
+1791360473|https://lenta.ru/news/2026/10/07/prezident-abhazii-nazval-glavnye-kachestva-putina-kak-gosudarstvennogo-deyatelya/|Президент Абхазии назвал главные качества Путина как государственного деятеля
