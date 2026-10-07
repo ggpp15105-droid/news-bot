@@ -1,8 +1,3 @@
-1790877122|https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/|GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says
-1790877759|https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf|Latvians head to the polls with Russia on their minds
-1790877766|https://www.aa.com.tr/en/middle-east/gaza-documentary-naza-tops-italian-box-office-extends-cinema-run/4075430|Gaza documentary NAZA tops Italian box office, extends cinema run
-1790877772|https://www.gamespot.com/articles/blizzard-isnt-fixing-diablo-4-season-15s-biggest-bug/|Blizzard Isn’t Fixing Diablo 4 Season 15’s Biggest Bug
-1790877777|https://www.eurogamer.net/aion-2-western-release-steam-player-numbers|Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar
 1790877782|https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots|Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go "back to our roots"
 1790879135|https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss|Putin warns West that Russia is ready to use every weapon to protect Kaliningrad
 1790879142|https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss|Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names
@@ -1998,3 +1993,8 @@
 1791383315|https://www.france24.com/en/video/20261007-scars-from-oct-7-fuel-deep-divisions-over-netanyahu-ahead-of-israeli-election|Scars from Oct. 7 fuel deep divisions over Netanyahu ahead of Israeli election
 1791383321|https://www.france24.com/en/video/20261007-african-tourists-cancelling-trip-as-xenophobia-shadows-south-africa-s-appeal|African tourists cancelling trip as xenophobia shadows South Africa's appeal
 1791383327|https://www.france24.com/en/video/20261007-brit-adventurer-back-on-uk-soil-after-28-year-round-the-world-walk|Brit adventurer back on UK soil after 28-year round-the-world walk
+1791384310|https://www.france24.com/en/video/20261007-us-woman-who-survived-botched-execution-is-conscious-speaking|US woman who survived botched execution is conscious, speaking
+1791384315|https://www.france24.com/en/video/20261007-new-comoros-law-bans-foreign-nationals-from-certain-jobs|New Comoros law bans foreign nationals from certain jobs
+1791384319|https://news.sky.com/story/russia-claims-there-is-no-epidemic-risk-after-death-of-plague-institute-worker-13596157|Russia claims there is no epidemic risk after death of plague institute worker
+1791384325|https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html|Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%
+1791384331|https://www.euronews.com/2026/10/07/menopause-drug-lenzetto-returns-to-spanish-pharmacies-in-november|Menopause drug Lenzetto returns to Spanish pharmacies in November
