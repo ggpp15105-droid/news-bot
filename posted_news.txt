@@ -1,8 +1,3 @@
-1790886399|https://lenta.ru/news/2026/10/01/polyanskiy-zayavil-o-nagnetanii-evropoy-eskalatsii-protiv-rossii/|Полянский заявил о нагнетании Европой эскалации против России
-1790887343|https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss|ICC ends contract with French insurer amid US sanctions threat
-1790887351|https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss|Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move
-1790887358|https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss|UK Parliament told answers on tax implications are needed in Manchester City ruling
-1790887365|https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss|Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye
 1790887371|https://lenta.ru/news/2026/10/01/putin-raskryl-otnoshenie-merkel-k-minskim-soglasheniyami/|Путин раскрыл отношение Меркель к Минским соглашениям
 1790888083|https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss|The filmmaker taking on Kenya’s colonised tea plantations
 1790888089|https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html|Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit
@@ -1998,3 +1993,8 @@
 1791395118|https://www.ign.com/articles/pokemon-tcg-destined-rivals-etb-in-stock-at-amazon-for-prime-day|Pokémon TCG Destined Rivals ETB In Stock at Amazon for Prime Day
 1791395123|https://www.gamespot.com/articles/xbox-game-pass-gets-gears-of-war-e-day-and-these-11-games-in-october/|Xbox Game Pass Gets Gears Of War: E-Day And These 11 Games In October
 1791395129|https://www.gamespot.com/articles/new-details-revealed-for-gta-6s-jason-and-lucia-including-physical-intimacy/|New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”
+1791395989|https://www.france24.com/en/video/20261007-resilience-of-israelis-as-they-the-mourn-loss-of-loved-ones-and-the-sense-that-we-can-be-safe|'Resilience' of Israelis as they mourn the loss of loved ones and 'the sense that we can be safe'
+1791395996|https://www.aa.com.tr/en/world/interpol-operation-nets-233-arrests-in-multi-nation-latin-american-environmental-crackdown/4081356|Interpol operation nets 233 arrests in multi-nation Latin American environmental crackdown
+1791396002|https://www.aa.com.tr/en/americas/un-holds-5th-straw-poll-in-race-to-succeed-antonio-guterres/4081348|UN holds 5th straw poll in race to succeed Antonio Guterres
+1791396007|https://www.aa.com.tr/en/russia-ukraine-war/un-chief-condemns-attacks-in-ukraine-warns-of-rising-civilian-toll/4081347|UN chief condemns attacks in Ukraine, warns of rising civilian toll
+1791396014|https://www.gamespot.com/articles/forza-horizon-6-for-ps5-apparently-delayed-to-2027-and-its-getting-a-disc-release/|Forza Horizon 6 For PS5 Apparently Delayed To 2027, And It’s Getting A Disc Release
