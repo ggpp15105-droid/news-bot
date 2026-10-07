@@ -1,8 +1,3 @@
-1790857626|https://www.euronews.com/2026/10/01/gaza-documentary-naza-beating-avengers-endgame-encore-at-box-office|Gaza documentary ‘NAZA’ beating ‘Avengers Endgame: Encore’ at box office
-1790858593|https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss|Funeral held for DR Congo politician killed after defending Ebola response
-1790858612|https://www.aljazeera.com/news/2026/10/1/how-was-the-flydubai-pilot-who-attacked-his-co-pilot-cleared-to-fly?traffic_source=rss|How was the Flydubai pilot who attacked his co-pilot cleared to fly?
-1790858633|https://www.dw.com/en/a-brutal-assault-reignites-fears-over-women-s-safety-in-india/a-79501471?maca=en-rss-en-all-1573-rdf|A brutal assault reignites fears over women's safety in India
-1790858639|https://www.euronews.com/video/2026/10/01/young-martial-artists-train-in-chinas-ancient-mountain-schools|Young martial artists train in China’s ancient mountain schools
 1790858651|https://www.aa.com.tr/en/europe/swiss-glaciers-lose-over-5-of-ice-volume-in-2026/4075013|Swiss glaciers lose over 5% of ice volume in 2026
 1790859493|https://www.euronews.com/2026/10/01/no-relief-at-the-pump-eu-diesel-hits-new-record-of-224-a-litre|No relief at the pump: EU diesel hits new record of €2.24 a litre
 1790859504|https://www.aa.com.tr/en/asia-pacific/un-special-rapporteur-urges-malaysia-to-halt-repatriation-of-myanmar-nationals/4075062|UN special rapporteur urges Malaysia to halt repatriation of Myanmar nationals
@@ -1998,3 +1993,8 @@
 1791350117|https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss|Israelis pause to mark October 7 Hamas-attack anniversary
 1791350123|https://www.dw.com/en/india-news-opposition-protest-clouds-modi-s-25-year-milestone/live-79570653?maca=en-rss-en-all-1573-rdf|India news: Opposition protest clouds Modi's 25-year milestone
 1791350129|https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged|The Caspian Sea has been shrinking for decades. Now, a new island has emerged
+1791351209|https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss|Ex-US spy who stashed gold bars in his home admits to $200m scam
+1791351215|https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks|How Netanyahu survived the political fallout from the October 7 attacks
+1791351220|https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary|Middle East live: Houthis target airport in Yemen as Israel marks October 7 anniversary
+1791351227|https://www.euronews.com/2026/10/07/these-are-the-best-wine-regions-in-europe-with-slovenia-claiming-top-spot-above-france-and|These are the best wine regions in Europe, with Slovenia claiming top spot above France and Italy
+1791351235|https://www.euronews.com/2026/10/07/qatar-eyes-2036-olympics-after-it-hosts-asian-games-as-f1-confirms-gulf-races|Qatar eyes 2036 Olympics after it hosts Asian Games as F1 confirms Gulf races
