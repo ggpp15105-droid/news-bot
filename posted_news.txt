@@ -1,8 +1,3 @@
-https://www.france24.com/en/middle-east/20261001-flydubai-cockpit-incident-turns-focus-to-crew-related-hijackings
-https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss
-https://www.aljazeera.com/news/2026/10/1/dr-congo-official-beaten-to-death-after-defending-ebola-response-is-buried?traffic_source=rss
-https://www.aljazeera.com/sports/liveblog/2026/10/1/india-vs-pakistan-live-asian-games-hockey-semifinal?traffic_source=rss
-https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss
 https://www.dw.com/en/tennessee-halts-woman-s-execution-after-failed-attempt/a-79496561?maca=en-rss-en-all-1573-rdf
 https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss
 https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791337773|https://lenta.ru/news/2026/10/07/nazvany-tseli-udara/|Названы цели удара российских военных по Киеву
 1791337783|https://lenta.ru/news/2026/10/07/mer-kieva-soobschil-o-posledstviyah/|Кличко сообщил о последствиях удара по Киеву
 1791337787|https://www.kommersant.ru/doc/9007761|МИД РФ: Москва готова стать посредником в решении конфликта в Йемене
+1791338516|https://www.france24.com/en/sport/20261007-messi-bids-farewell-to-argentina-fans-in-emotional-international-finale|Messi bids farewell to Argentina fans in emotional international finale
+1791338523|https://www.japantimes.co.jp/news/2026/10/07/asia-pacific/us-china-nuclear/|U.S. and China discuss reciprocal visits to nuclear sites, CNN reports
+1791338529|https://www.japantimes.co.jp/news/2026/10/07/asia-pacific/north-korea-us-taiwan-russia/|North Korea warns U.S. over Taiwan while Kim pledges support for Russia
+1791338537|https://lenta.ru/news/2026/10/07/zhenschinam-raskryli-neochevidnyy-sposob-usilit-udovolstvie-ot-seksa/|Женщинам раскрыли неочевидный способ усилить удовольствие от секса
+1791338542|https://www.kommersant.ru/doc/9007762|Полиция Британии задержала седьмого подозреваемого в подготовке теракта на базе Фэрфорд
