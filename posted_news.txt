@@ -1,8 +1,3 @@
-1790875493|https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus|007 First Light's First DLC Out Now, Adds New Game Plus
-1790876167|https://www.aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu?traffic_source=rss|Despite praise and White House visits, Trump avoids endorsing Netanyahu
-1790876174|https://www.aljazeera.com/news/2026/10/1/death-penalty-bill-for-forest-arsonists-clears-algeria-lower-house?traffic_source=rss|Death penalty bill for forest arsonists clears Algeria lower house
-1790876178|https://www.aljazeera.com/video/newsfeed/2026/10/1/how-ai-is-reshaping-everyday-life-in-china?traffic_source=rss|How AI is reshaping everyday life in China
-1790876184|https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid?traffic_source=rss|Israel’s Supreme Court advises Arab party leader to drop election bid
 1790876190|https://www.ign.com/articles/gta-6-gets-official-esrb-rating-and-its-as-mature-as-youd-expect|GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect
 1790877095|https://www.ign.com/articles/mega-man-dual-override-developers-dish-on-designing-for-new-and-old-players-alike|Mega Man: Dual Override Developers Dish on Designing for New and Old Players Alike
 1790877101|https://www.gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet/|PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet
@@ -1998,3 +1993,8 @@
 1791381361|https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf|South Sudan's road to elections remains uncertain
 1791381366|https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case|Russia warns against spreading 'false information' as reports emerge of second plague case
 1791381372|https://www.france24.com/en/tv-shows/focus/20261007-china-s-evolving-funeral-practices-from-traditional-burials-to-cremation|China's evolving funeral practices: From traditional burials to cremation
+1791382096|https://www.france24.com/en/video/20261007-from-mai-68-to-2026-france-s-long-student-protests-tradition|From Mai 68 to 2026: France’s long student protests tradition
+1791382102|https://www.france24.com/en/tv-shows/entre-nous/20261007-why-american-artist-mary-cassatt-s-legacy-still-resonates-in-france-today|Why American artist Mary Cassatt's legacy still resonates in France today
+1791382109|https://www.euronews.com/2026/10/07/italians-and-czechs-push-brussels-to-ease-green-rules-as-energy-crisis-hits-industry|Italians and Czechs push Brussels to ease green rules as energy crisis hits industry
+1791382115|https://www.euronews.com/2026/10/07/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran|Iran threatens pre-emptive strikes as US questions who runs Tehran
+1791382121|https://www.euronews.com/2026/10/07/longevity-why-do-poles-live-shorter-than-western-europeans|Longevity: why do Poles live shorter than Western Europeans?
