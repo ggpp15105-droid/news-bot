@@ -1,8 +1,3 @@
-1790885267|https://www.tomshardware.com/desktops/gaming-pcs/maingears-new-program-offers-instant-trade-ins-for-gaming-pc-buyers-delivers-quotes-for-old-laptops-phones-tablets-smartwatches-headphones-cameras-lenses-and-microphones-in-minutes|Maingear’s new program offers instant trade-ins for gaming PC buyers
-1790886375|https://lenta.ru/news/2026/10/01/v-mirotvorcheskih-initsiativah-evropy-obnaruzhili-ogovorku/|В миротворческих инициативах Европы обнаружили оговорку
-1790886380|https://lenta.ru/news/2026/10/01/futbolist-sbornoy-danii-zabil-gol-v-vorota-portugalii-i-otmetil-ego-v-stile-ronaldu/|Футболист сборной Дании забил гол в ворота Португалии и отметил его в стиле Роналду
-1790886385|https://lenta.ru/news/2026/10/01/putin-poshutil-posle-voprosa-o-zhelanii-rossiey-peregovorov/|Путин шуткой ответил на вопрос о желании России добиться переговоров
-1790886394|https://lenta.ru/news/2026/10/01/lyudi-postradali-pri-atake-vsu-na-rossiyskiy-region/|Люди пострадали при атаке ВСУ на российский регион
 1790886399|https://lenta.ru/news/2026/10/01/polyanskiy-zayavil-o-nagnetanii-evropoy-eskalatsii-protiv-rossii/|Полянский заявил о нагнетании Европой эскалации против России
 1790887343|https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss|ICC ends contract with French insurer amid US sanctions threat
 1790887351|https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss|Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move
@@ -1998,3 +1993,8 @@
 1791394120|https://www.france24.com/en/france/20261007-france-summons-iranian-ambassador-over-disinformation-on-student-protests|France summons Iranian ambassador over 'disinformation' on student protests
 1791394127|https://www.ign.com/articles/our-favorite-zelda-prime-day-deal-is-both-stylish-and-functional|The Best Zelda Merch Deal for Prime Day Is Here and Its Both Stylish and Functional
 1791394135|https://www.ign.com/articles/pokemon-tcg-mega-evolution-phantasmal-flames-booster-bundles-in-stock-on-amazon-prime-day|Pokémon TCG: Phantasmal Flames Booster Bundles In Stock on Amazon at Market Price
+1791395105|https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf|Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?
+1791395110|https://www.euronews.com/2026/10/07/rubio-in-athens-urges-europe-to-shoulder-more-of-its-defence-burden|Rubio in Athens urges Europe to shoulder more of its defence burden
+1791395118|https://www.ign.com/articles/pokemon-tcg-destined-rivals-etb-in-stock-at-amazon-for-prime-day|Pokémon TCG Destined Rivals ETB In Stock at Amazon for Prime Day
+1791395123|https://www.gamespot.com/articles/xbox-game-pass-gets-gears-of-war-e-day-and-these-11-games-in-october/|Xbox Game Pass Gets Gears Of War: E-Day And These 11 Games In October
+1791395129|https://www.gamespot.com/articles/new-details-revealed-for-gta-6s-jason-and-lucia-including-physical-intimacy/|New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”
