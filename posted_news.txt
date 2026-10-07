@@ -1,8 +1,3 @@
-1790864265|https://www.aa.com.tr/en/europe/eu-ukraine-agree-to-advance-50b-in-support-for-ukraine-in-2027/4075184|EU, Ukraine agree to advance $50B in support for Ukraine in 2027
-1790864757|https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss|HIV prevention drug hailed as breakthrough, but who gets access?
-1790864764|https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss|UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?
-1790864772|https://www.euronews.com/2026/10/01/an-alliance-against-invisibility-prado-and-rijksmuseum-unite-for-women-in-art|An alliance against invisibility: Prado and Rijksmuseum unite for women in art
-1790864779|https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era|Russia expels Hungarian diplomats as Budapest breaks with Orbán era
 1790864789|https://www.aa.com.tr/en/europe/denmark-happy-with-greenland-deal-but-wary-trump-could-change-course-lawmaker/4075179|Denmark happy with Greenland deal but wary Trump could change course: Lawmaker
 1790864955|https://www.aa.com.tr/en/asia-pacific/japan-calls-for-momentum-for-diplomacy-to-end-us-iran-war/4075182|Japan calls for 'momentum for diplomacy' to end US-Iran war
 1790864965|https://www.aa.com.tr/en/turkiye/turkiye-to-gradually-hand-over-bashiqa-zilkan-base-to-iraq-defense-ministry/4075174|Türkiye to gradually hand over Bashiqa-Zilkan base to Iraq: Defense Ministry
@@ -1998,3 +1993,8 @@
 1791362744|https://www.aljazeera.com/video/al-jazeera-world/2026/10/7/palestine-the-lost-team?traffic_source=rss|Palestine: The Lost Team
 1791362748|https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss|Israeli troops seen smashing memorial in occupied West Bank
 1791362753|https://www.france24.com/en/europe/20261007-anna-politkovskaya-the-slain-reporter-who-predicted-russia-future|Politkovskaya 'predicted' Russia's turn under Putin, editor says on 20th anniversary of her death
+1791363616|https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss|Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi
+1791363623|https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss|Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US
+1791363629|https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss|‘We’re short of resources’: France’s student protesters, in their own words
+1791363637|https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html|Treasury yields rise ahead of closely-watched 10-year auction and FOMC minutes
+1791363644|https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports|EU trade chief heads to Beijing under pressure to deliver on Chinese imports
