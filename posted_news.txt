@@ -1,8 +1,3 @@
-https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections
-https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss
-https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle
-https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town
-https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss
 https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss
 https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings
 https://www.aljazeera.com/opinions/2026/10/1/will-democrats-move-beyond-rhetoric-on-israels-illegal-settlements?traffic_source=rss
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791341518|https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss|Australia top court rules against coal mine expansion, citing climate harm
 1791341525|https://www.dw.com/en/mali-junta-forces-retake-strategic-town-of-kidal-from-separatists/a-79570617?maca=en-rss-en-all-1573-rdf|Mali: Junta forces retake strategic town of Kidal from separatists
 1791341533|https://www.japantimes.co.jp/sports/2026/10/07/soccer/messi-argentina-final-match/|Emotion, tears as Messi retires from Argentina national team
+1791342171|https://www.japantimes.co.jp/news/2026/10/07/japan/crime-legal/us-military-murder-okinawa-regulations/|U.S. military in Okinawa pauses operations and enforces curfew in wake of murder
+1791342178|https://www.japantimes.co.jp/news/2026/10/07/japan/japan-extra-disaster-budget/|Japan considering another extra budget for disaster relief, Yomiuri reports
+1791342186|https://lenta.ru/news/2026/10/07/elektrik-dal-sovet-po-otklyucheniyu-tehniki-iz-rozetki-pered-uhodom-iz-doma/|Электрик дал совет по отключению техники из розетки перед уходом из дома
+1791342195|https://lenta.ru/news/2026/10/07/nazvany-samye-vostrebovannye-i-oplachivaemye-vakansii-v-rossii/|Названы самые востребованные и оплачиваемые вакансии в России
+1791342203|https://lenta.ru/news/2026/10/07/oderzhimyy-molodostyu-millioner-prosnulsya-v-krovi-iz-za-strashnyh-snov/|Одержимый молодостью миллионер проснулся в крови из-за страшных снов
