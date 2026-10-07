@@ -1,8 +1,3 @@
-1790866669|https://www.aa.com.tr/en/middle-east/iran-summons-british-ambassador-for-claims-linking-tehran-to-raf-fairford-plot/4075255|Iran summons British ambassador for claims linking Tehran to RAF Fairford plot
-1790866798|https://www.aa.com.tr/en/turkiye/turkiyes-trade-minister-discusses-cooperation-with-officials-from-g20-member-states/4075260|Türkiye's trade minister discusses cooperation with officials from G20 member states
-1790866808|https://www.aa.com.tr/en/middle-east/algerian-parliament-approves-death-penalty-for-arson-child-kidnapping/4075251|Algerian parliament approves death penalty for arson, child kidnapping
-1790866814|https://www.eurogamer.net/007-james-bond-first-light-free-dlc|007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more
-1790866821|https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response|Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions
 1790866829|https://www.eurogamer.net/gears-of-war-eday-campaign-review|Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks
 1790867126|https://www.aljazeera.com/video/witness/2026/10/1/sunday-in-japan-a-ugandan-asylum-seeker-turns-to-filmmaking?traffic_source=rss|Sunday in Japan: A Ugandan asylum seeker turns to filmmaking
 1790867131|https://www.france24.com/en/video/20261001-cameroon-govt-announces-payments-as-teachers-strike-continues|Cameroon govt announces payments as teachers strike continues
@@ -1998,3 +1993,8 @@
 1791368737|https://www.france24.com/en/video/20261007-israel-marks-three-years-since-hamas-s-october-7-attack|Israel marks three years since Hamas's October 7 attack
 1791368744|https://www.france24.com/en/video/20261007-houthis-attack-aden-airport-as-fighting-intensifies-in-yemen|Houthis attack Aden airport as fighting intensifies in Yemen
 1791368749|https://www.france24.com/en/video/20261007-trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency|Trump to speak to Putin on plague as US, UN urge transparency
+1791369653|https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss|CAS to hear Senegal appeal over AFCON title awarded to Morocco
+1791369659|https://www.aljazeera.com/news/2026/10/7/christa-pike-is-awake-after-surviving-execution-what-happens-now?traffic_source=rss|Christa Pike is awake after surviving execution: What happens now?
+1791369665|https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss|Bulgaria ends search for missing crew after drone strike sinks cargo ship
+1791369670|https://www.france24.com/en/video/20261007-paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance|Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance
+1791369675|https://www.euronews.com/2026/10/07/fuel-government-ends-duty-discount-and-waits-for-eu|Fuel: government ends duty discount and waits for EU
