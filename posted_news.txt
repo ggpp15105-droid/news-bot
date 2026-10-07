@@ -1,8 +1,3 @@
-https://www.dw.com/en/pakistan-launches-deadly-airstrikes-on-afghanistan/a-79498092?maca=en-rss-en-all-1573-rdf
-https://www.france24.com/en/video/20261001-why-are-french-students-blocking-their-school-entrances
-https://www.france24.com/en/tv-shows/press-review/20261001-israel-s-netanyahu-says-co-pilot-tried-to-crash-tel-aviv-bound-plane
-https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters
-https://www.france24.com/en/video/20261001-burnham-reopens-brexit-debate-eu-says-uk-must-chart-its-own-path-on-future-relations
 https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt
 https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss
 https://www.aljazeera.com/news/2026/10/1/iraqs-kurdish-forces-look-to-a-new-era-after-us-withdrawal?traffic_source=rss
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791345979|https://www.aa.com.tr/en/world/nasa-s-artemis-ii-findings-ai-for-mars-missions-and-japan-deal-to-feature-on-day-3-of-global-space-congress-in-turkiye/4080359|NASA’s Artemis II findings, AI for Mars missions and Japan deal to feature on day 3 of global space congress in Türkiye
 1791345984|https://lenta.ru/news/2026/10/07/rossiyanam-nazvali-obyazatelnye-pravila-uhoda-za-mashinoy-v-oktyabre/|Россиянам назвали обязательные правила ухода за машиной в октябре
 1791345992|https://lenta.ru/news/2026/10/07/amerikanskiy-razvedchik-rasskazal-ob-unichtozhenii-reptiloidov-iz-razbivshegosya-nlo/|Американский разведчик рассказал об уничтожении рептилоидов из разбившегося НЛО
+1791347120|https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss|What Israeli schools teach
+1791347126|https://www.euronews.com/2026/10/07/former-german-foreign-intelligence-chief-august-hanning-arrested-on-suspicion-of-espionge-|Former German foreign intelligence chief August Hanning arrested on suspicion of espionge, attempted treason
+1791347134|https://www.euronews.com/2026/10/07/sanchez-announces-21-urgent-housing-measures-after-nationwide-protests-ahead-of-snap-elect|Sánchez announces 21 urgent housing measures after nationwide protests ahead of snap election
+1791347139|https://lenta.ru/news/2026/10/07/rossiyskie-boytsy-unichtozhili-krupnyy-punkt-dislokatsii-vsu/|Российские бойцы уничтожили крупный пункт дислокации ВСУ
+1791347145|https://lenta.ru/news/2026/10/07/v-germanii-obratilis-s-voprosom-k-nato-iz-za-kaliningrada/|В Германии обратились с вопросом к НАТО из-за Калининграда
