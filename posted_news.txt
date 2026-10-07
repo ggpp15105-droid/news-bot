@@ -1,8 +1,3 @@
-1790906497|https://tass.ru/ekonomika/28173967|В аэропортах Нижнекамска и Чебоксар приостановили прием и выпуск самолетов
-1790907471|https://www.aljazeera.com/video/newsfeed/2026/10/2/the-price-europe-pays-for-keeping-ai-under-control?traffic_source=rss|The price Europe pays for keeping AI under control
-1790907476|https://www.aljazeera.com/video/newsfeed/2026/10/2/pot-banging-protests-across-spain-over-housing-crisis?traffic_source=rss|Pot banging protests across Spain over housing crisis
-1790907485|https://www.japantimes.co.jp/culture/2026/10/02/film/mitani-sushi-documentary-san-sebastian/|After ‘Jiro Dreams of Sushi,’ ‘Mitani’ tells a different sushi story in San Sebastian
-1790907493|https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/ukraine-official-south-korea/|Ukrainian minister hopes to heal ‘misunderstanding’ with South Korea, media reports
 1790907497|https://lenta.ru/news/2026/10/02/rossiyanam-rasskazali-o-vozmozhnosti-dat-rebenku-matchestvo/|Россиянам рассказали о возможности дать ребенку матчество
 1790908333|https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss|Everything you need to know about Brazil’s tight presidential race
 1790908338|https://www.france24.com/en/environment/20261002-europe-summer-heat-stress-eu-monitor|More than half of Europe faced intense summer heat stress, EU monitor says
@@ -1998,3 +1993,8 @@
 1791417058|https://www.kommersant.ru/doc/9008700|Bloomberg: Ирак начнет поставлять нефть через Сирию в обход Ормузского пролива
 1791417062|https://tass.ru/obschestvo/28192101|"Врачи без границ" заявили о выходе Эболы из-под контроля в провинции ДР Конго
 1791417066|https://tass.ru/mezhdunarodnaya-panorama/28192099|Трамп назвал проплаченными протестующих на его выступлениях
+1791417563|https://lenta.ru/news/2026/10/08/vrach-rasskazala-ob-individualnyh-normah-sna-dlya-horoshego-samochuvstviya/|Врач рассказала об индивидуальных нормах сна для хорошего самочувствия
+1791417567|https://lenta.ru/news/2026/10/08/azarov-nazval-edinstvennoe-uslovie-vyzhivaniya-ukrainy/|Азаров назвал единственное условие выживания Украины
+1791417571|https://tass.ru/mezhdunarodnaya-panorama/28192111|The Times сообщила, что Израиль закроет консульство Британии 8 октября
+1791417575|https://tass.ru/ekonomika/28192097|В FT назвали основные причины сокращения бюджетного резерва Великобритании
+1791417579|https://tass.ru/obschestvo/28192103|Кения заявила об отсутствии вспышки Эболы в стране
