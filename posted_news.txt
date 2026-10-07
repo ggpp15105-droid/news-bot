@@ -1,8 +1,3 @@
-1790858651|https://www.aa.com.tr/en/europe/swiss-glaciers-lose-over-5-of-ice-volume-in-2026/4075013|Swiss glaciers lose over 5% of ice volume in 2026
-1790859493|https://www.euronews.com/2026/10/01/no-relief-at-the-pump-eu-diesel-hits-new-record-of-224-a-litre|No relief at the pump: EU diesel hits new record of €2.24 a litre
-1790859504|https://www.aa.com.tr/en/asia-pacific/un-special-rapporteur-urges-malaysia-to-halt-repatriation-of-myanmar-nationals/4075062|UN special rapporteur urges Malaysia to halt repatriation of Myanmar nationals
-1790859518|https://www.aa.com.tr/en/middle-east/un-official-warns-inaction-on-hormuz-fertilizer-flows-could-push-millions-into-food-insecurity/4075061|UN official warns inaction on Hormuz fertilizer flows could push millions into food insecurity
-1790859532|https://www.aa.com.tr/en/world/whatsapp-introduces-optional-parental-controls-for-teenagers/4075004|WhatsApp introduces optional parental controls for teenagers
 1790859547|https://www.aa.com.tr/en/world/trump-declines-to-endorse-netanyahu-ahead-of-israeli-elections/4074936|Trump declines to endorse Netanyahu ahead of Israeli elections
 1790859690|https://www.aljazeera.com/video/newsfeed/2026/10/1/nigeria-charges-man-accused-of-faking-government-agency?traffic_source=rss|Nigeria charges man accused of faking government agency
 1790859712|https://www.aljazeera.com/news/2026/10/1/zimbabwe-businessman-wicknell-chivayo-killed-in-helicopter-crash?traffic_source=rss|Zimbabwe businessman Wicknell Chivayo killed in helicopter crash
@@ -1998,3 +1993,8 @@
 1791351220|https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary|Middle East live: Houthis target airport in Yemen as Israel marks October 7 anniversary
 1791351227|https://www.euronews.com/2026/10/07/these-are-the-best-wine-regions-in-europe-with-slovenia-claiming-top-spot-above-france-and|These are the best wine regions in Europe, with Slovenia claiming top spot above France and Italy
 1791351235|https://www.euronews.com/2026/10/07/qatar-eyes-2036-olympics-after-it-hosts-asian-games-as-f1-confirms-gulf-races|Qatar eyes 2036 Olympics after it hosts Asian Games as F1 confirms Gulf races
+1791352209|https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss|What is pneumonic plague and how does it spread?
+1791352217|https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss|Libya’s parliament removes Speaker Saleh after 12 years as discontent grows
+1791352222|https://www.france24.com/en/tv-shows/sports/20261007-lionel-messi-scores-as-argentina-beat-benin-for-his-last-international-game|Lionel Messi scores as Argentina beat Benin for his last international game
+1791352230|https://www.euronews.com/2026/10/07/ubs-only-european-bank-in-top-10-of-ai-adoption-as-jpmorgan-chase-leads|UBS only European bank in top 10 of AI adoption as JPMorgan Chase leads
+1791352237|https://www.euronews.com/2026/10/07/puigdemont-welcomes-spains-amnesty-but-warns-it-is-not-the-solution-for-catalonia|Puigdemont welcomes Spain's amnesty but warns it is not the solution for Catalonia
