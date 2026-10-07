@@ -1,8 +1,3 @@
-1790861020|https://www.ign.com/articles/escape-from-playtime-is-its-own-uniquely-twisted-multiplayer-toy-story-ign-preview|Escape from Playtime Is its Own Uniquely Twisted Multiplayer Toy Story | IGN Preview
-1790861937|https://www.dw.com/en/trump-unveils-south-korean-investment-in-us-energy-projects/a-79502998?maca=en-rss-en-all-1573-rdf|Trump unveils South Korean investment in US energy projects
-1790861943|https://www.france24.com/en/video/20261001-gender-based-violence-french-proposed-bill-aims-to-strengthen-protections|Gender-based violence: French proposed bill aims to strengthen protections
-1790861948|https://www.france24.com/en/video/20261001-students-face-riot-police-as-protests-over-school-conditions-escalate-in-france|Students face riot police as protests over school conditions escalate in France
-1790861954|https://www.france24.com/en/video/20261001-hundreds-held-dozens-wounded-as-french-school-protests-escalate|Hundreds held, dozens wounded as French school protests escalate
 1790861960|https://www.france24.com/en/tv-shows/french-connections/20261001-the-hunting-lobby-behind-france-s-rural-power|The hunting lobby: Behind France's rural power
 1790862672|https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss|Blasts heard in Addis Ababa as Ethiopia conflict widens in the north
 1790862678|https://www.france24.com/en/video/20261001-uk-france-end-on-in-one-out-channel-migrant-exchange-deal|UK, France end 'on in, one out' Channel migrant exchange deal
@@ -1998,3 +1993,8 @@
 1791355502|https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss|Finland orders halt to work on Google data centre sites
 1791355509|https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html|Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva
 1791355516|https://www.euronews.com/2026/10/07/spat-over-israeli-flag-removal-engulfs-the-european-parliament-on-october-7-anniversary|Spat over Israeli flag removal engulfs the European Parliament on October 7 anniversary
+1791356561|https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss|Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh
+1791356568|https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss|Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?
+1791356576|https://www.euronews.com/video/2026/10/07/israelis-mourn-nova-festival-victims-three-years-after-hamas-attack|Israelis mourn Nova festival victims three years after Hamas attack
+1791356583|https://www.euronews.com/video/2026/10/07/tear-gas-and-fireworks-as-student-protests-turn-violent-in-paris|Tear gas and fireworks as student protests turn violent in Paris
+1791356591|https://www.euronews.com/2026/10/07/the-eu-agrees-on-new-return-order-longer-detention-and-return-hubs|The EU agrees on new Return Order, longer detention and return hubs
