@@ -1,8 +1,3 @@
-1790898949|https://tass.ru/obschestvo/28173853|В ГД предложили освободить детей от налога за проезд на форумы
-1790899683|https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss|Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank
-1790899689|https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html|INTERPOL says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch
-1790899694|https://lenta.ru/news/2026/10/02/raskryty-sem-priznakov-trebuyuschego-perezagruzki-seksa/|Раскрыты семь признаков требующего «перезагрузки» секса
-1790899699|https://www.kommersant.ru/doc/8991827|Лионель Месси купил футбольный клуб из второго дивизиона Испании
 1790899703|https://tass.ru/armiya-i-opk/28173869|Герой РФ Колесов заявил, что до СВО 25 лет жил с чувством невыполненного долга
 1790901155|https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss|Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz
 1790901163|https://www.japantimes.co.jp/business/2026/10/02/alaska-lng-cost-projection/|Alaska LNG could cost more than double Gulf Coast rivals
@@ -1998,3 +1993,8 @@
 1791410505|https://www.tomshardware.com/pc-components/grab-a-steelseries-apex-pro-keyboard-at-up-to-50-percent-off-save-up-to-usd120-on-one-of-the-best-gaming-keyboards-you-can-buy-today|Grab a SteelSeries Apex Pro keyboard at up to 50% off — save up to $120 on one of the best gaming keyboards you can buy today
 1791410513|https://www.tomshardware.com/peripherals/deep-clean-your-pc-in-seconds-with-cordless-duster-deals-from-usd19-save-hundreds-on-canned-air-with-unlimited-high-rpm-dusting-power|Deep clean your PC in seconds with cordless duster deals from $19
 1791410517|https://lenta.ru/news/2026/10/08/v-oon-obespokoilis-sudboy-rossiyan-v-usloviyah-ukrainskih-atak/|В ООН обеспокоились судьбой россиян в условиях украинских атак
+1791411399|https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil|Thousands protest Flavio Bolsonaro, fearing far-right return in Brazil
+1791411404|https://lenta.ru/news/2026/10/08/irina-sheyk-obnazhila-grud-v-s-emke-dlya-brenda-kupalnikov/|Ирина Шейк обнажила грудь в съемке для бренда купальников
+1791411408|https://lenta.ru/news/2026/10/08/zhenschiny-raskryli-chasto-upuskaemye-muzhchinami-priznaki-simpatii/|Женщины раскрыли часто упускаемые мужчинами признаки симпатии
+1791411413|https://lenta.ru/news/2026/10/08/na-ukraine-oharakterizovali-agitiruyuschih-za-prodolzhenie-konflikta/|На Украине охарактеризовали агитирующих за продолжение конфликта
+1791411417|https://lenta.ru/news/2026/10/08/fitso-frazoy-iz-izvestnogo-filma-otsenil-podgotovku-evropy-k-zime/|Фицо фразой из известного фильма оценил подготовку Европы к зиме
