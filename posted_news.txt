@@ -1,8 +1,3 @@
-1790892081|https://lenta.ru/news/2026/10/02/miroshnik-nazval-prichinu-nezhelaniya-evropy-voevat-s-rossiey-napryamuyu/|Мирошник назвал причину нежелания Европы воевать с Россией напрямую
-1790892943|https://www.aljazeera.com/sports/2026/10/1/tyson-fury-vs-anthony-joshua-fight-confirmed-but-is-the-bout-too-late?traffic_source=rss|Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?
-1790892950|https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss|Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe
-1790892959|https://lenta.ru/news/2026/10/02/long-moschnyy-pozhar-proizoshel-v-osobnyake-u-isaakievskogo-sobora-chto-izvestno/|Мощный пожар произошел в особняке у Исаакиевского собора. Что известно?
-1790892967|https://lenta.ru/news/2026/10/02/pozhar-v-osobnyake-millera-v-tsentre-peterburga-lokalizovan/|Пожар в особняке Миллера в центре Петербурга локализован
 1790892976|https://lenta.ru/news/2026/10/02/dmitriev-rasskazal-o-nervnom-sostoyanii-zapada-iz-za-odnogo-izvestnogo-politika/|Дмитриев рассказал о нервном состоянии Запада из-за одного известного политика
 1790893775|https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-all-1573-rdf|Klopp wins first game as Germany coach, without 'top dogs'
 1790893781|https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices|US presses Europe to release diesel reserves ‘immediately’ as fuel prices surge
@@ -1998,3 +1993,8 @@
 1791402546|https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs/|The New Guitar Hero-Like Game, Stage Tour, Has A Pretty Excellent Soundtrack
 1791402553|https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/|Resident Evil Movie Will Become Zach Cregger’s Biggest Ever, Surpassing Weapons
 1791402561|https://www.gamespot.com/articles/whats-next-for-halo-under-activision-probably-not-the-endless/|What’s Next For Halo Under Activision? Probably Not The Endless
+1791403161|https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss|Indian opposition leader Rahul Gandhi detained over election chief protest
+1791403168|https://www.france24.com/en/it-s-still-unclear-whether-netanyahu-will-pay-for-what-happened-during-his-time-in-office|'It's still unclear whether Netanyahu will pay for what happened during his time in office'
+1791403174|https://www.france24.com/en/white-house-promotes-trump-tv-with-an-ai-altered-photo|White House promotes 'Trump TV' with an AI-altered photo
+1791403182|https://www.euronews.com/video/2026/10/07/southern-right-whales-return-to-south-africa-drawing-crowds-to-the-coast|Southern right whales return to South Africa, drawing crowds to the coast
+1791403190|https://www.aa.com.tr/en/americas/us-embassy-warns-of-possible-long-range-attacks-targeting-ethiopian-military-installations/4081480|US embassy warns of possible long-range attacks targeting Ethiopian military installations
