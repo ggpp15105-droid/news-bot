@@ -1,8 +1,3 @@
-1790895346|https://tass.ru/obschestvo/28173807|Врач Сергачева рассказала, чем грозит сухой воздух в квартире для ребенка
-1790895877|https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss|Brazilian government calls for probe into US funding of far-right causes
-1790895882|https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss|94-year-old Jewish barrister arrested for supporting Palestine Action
-1790895890|https://lenta.ru/news/2026/10/02/uchitelnitsa-vykrikivala-imya-muzha-vo-vremya-iznasilovaniya-10-letnego-shkolnika/|Учительница выкрикивала имя мужа во время изнасилования 10-летнего школьника
-1790895895|https://tass.ru/armiya-i-opk/28173823|Марочко: освобождение Рубленого обеспечило ВС РФ огневой контроль реки Козинки
 1790895898|https://tass.ru/obschestvo/28173821|GFCN: стелы в Буче содержат имена 198 лиц, не относящихся к "мирным жителям"
 1790896738|https://lenta.ru/news/2026/10/02/zaharova-otvetila-na-slova-makrona-o-rossiyskom-gaze-frazoy-iz-sovetskoy-komedii/|Захарова ответила на слова Макрона о российском газе фразой из советской комедии
 1790896742|https://lenta.ru/news/2026/10/02/v-nato-otchitali-evrokomissara-posle-ugroz-v-adres-rossii/|В НАТО отчитали еврокомиссара после угроз в адрес России
@@ -1998,3 +1993,8 @@
 1791406165|https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania|Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania
 1791406173|https://www.eurogamer.net/xbox-game-pass-lineup-october-2026|Here are our Xbox Game Pass games for October 2026
 1791406178|https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3|Undead Labs speaks about its split from Xbox, revealing it has to "make some changes" to State of Decay 3 following layoffs
+1791406866|https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss|Spanish pensioner whose eviction sparked nationwide protests dies, union says
+1791406874|https://www.euronews.com/2026/10/07/french-prime-minister-says-government-not-indifferent-to-students-concerns-in-tv-address|French prime minister says government not indifferent to students' concerns in TV address
+1791406880|https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion|Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode
+1791406888|https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis|Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis
+1791406895|https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls|Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls
