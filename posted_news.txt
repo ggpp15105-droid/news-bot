@@ -1,8 +1,3 @@
-1790863715|https://www.japantimes.co.jp/environment/2026/10/01/climate-change/heat-deaths-western-europe/|Heat deaths in Western Europe top 34,600 during hottest summer on record
-1790863797|https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss|Russian dissident Garry Kasparov says US warned him of danger to his life
-1790863805|https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf|North and South Korea trade accusations over landmines that injured three soldiers
-1790863812|https://www.france24.com/en/tv-shows/arts24/20261001-from-billie-eilish-to-cardi-b-hassan-hajjaj-on-the-stars-who-stepped-into-his-colourful-world|From Billie Eilish to Cardi B: Hassan Hajjaj on the stars who stepped into his colourful world
-1790863818|https://www.france24.com/en/video/20261001-behind-the-scenes-of-c%C3%A9line-dion-s-high-tech-gig-tech-24|Behind the scenes of Céline Dion's high-tech gig - Tech 24
 1790863825|https://www.japantimes.co.jp/news/2026/10/01/japan/politics/ldp-condo-speculative-trading/|LDP proposes restrictions on speculative condo trading
 1790864232|https://www.dw.com/en/germany-expresses-optimism-over-montenegro-s-ambition-to-join-the-european-union/a-79504069?maca=en-rss-en-all-1573-rdf|Germany expresses optimism over Montenegro's ambition to join the European Union
 1790864239|https://www.japantimes.co.jp/news/2026/10/01/japan/politics/okinawa-governor-defense-reject/|New Okinawa governor rejects unconditional defense buildup
@@ -1998,3 +1993,8 @@
 1791360460|https://www.aa.com.tr/en/turkiye/turkiye-czechia-explore-new-recycling-cooperation-opportunities-at-istanbul-forum/4080520|Türkiye, Czechia explore new recycling cooperation opportunities at Istanbul forum
 1791360468|https://lenta.ru/news/2026/10/07/v-gosdume-nazvali-glavnoe-otlichie-putina-ot-zapadnyh-politikov/|В Госдуме назвали главное отличие Путина от западных политиков
 1791360473|https://lenta.ru/news/2026/10/07/prezident-abhazii-nazval-glavnye-kachestva-putina-kak-gosudarstvennogo-deyatelya/|Президент Абхазии назвал главные качества Путина как государственного деятеля
+1791361692|https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss|Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations
+1791361699|https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html|Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse
+1791361706|https://www.euronews.com/video/2026/10/07/removing-russian-oligarchs-from-sanctions-list-sets-a-very-bad-precedent-browder-says|Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says
+1791361713|https://www.euronews.com/2026/10/07/imf-chief-signals-austerity-is-back-as-global-public-debt-heads-for-100-of-gdp|IMF chief signals austerity is back as global public debt heads for 100% of GDP
+1791361722|https://www.euronews.com/2026/10/07/balloons-baths-and-poppy-seed-cuisine-discover-afyonkarahisar|Balloons, baths and poppy-seed cuisine: discover Afyonkarahisar
