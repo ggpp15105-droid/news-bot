@@ -1,8 +1,3 @@
-1790863825|https://www.japantimes.co.jp/news/2026/10/01/japan/politics/ldp-condo-speculative-trading/|LDP proposes restrictions on speculative condo trading
-1790864232|https://www.dw.com/en/germany-expresses-optimism-over-montenegro-s-ambition-to-join-the-european-union/a-79504069?maca=en-rss-en-all-1573-rdf|Germany expresses optimism over Montenegro's ambition to join the European Union
-1790864239|https://www.japantimes.co.jp/news/2026/10/01/japan/politics/okinawa-governor-defense-reject/|New Okinawa governor rejects unconditional defense buildup
-1790864247|https://www.japantimes.co.jp/news/2026/10/01/world/politics/uk-post-brexit-realities/|U.K.’s path back to the EU will hit hard post-Brexit realities
-1790864256|https://www.aa.com.tr/en/europe/eu-gives-final-green-light-to-stricter-rules-for-migrants-return-hubs/4075204|EU gives final green light to stricter rules for migrants, return hubs
 1790864265|https://www.aa.com.tr/en/europe/eu-ukraine-agree-to-advance-50b-in-support-for-ukraine-in-2027/4075184|EU, Ukraine agree to advance $50B in support for Ukraine in 2027
 1790864757|https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss|HIV prevention drug hailed as breakthrough, but who gets access?
 1790864764|https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss|UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?
@@ -1998,3 +1993,8 @@
 1791361706|https://www.euronews.com/video/2026/10/07/removing-russian-oligarchs-from-sanctions-list-sets-a-very-bad-precedent-browder-says|Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says
 1791361713|https://www.euronews.com/2026/10/07/imf-chief-signals-austerity-is-back-as-global-public-debt-heads-for-100-of-gdp|IMF chief signals austerity is back as global public debt heads for 100% of GDP
 1791361722|https://www.euronews.com/2026/10/07/balloons-baths-and-poppy-seed-cuisine-discover-afyonkarahisar|Balloons, baths and poppy-seed cuisine: discover Afyonkarahisar
+1791362733|https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss|India's opposition leader dragged onto bus as police break up protest
+1791362739|https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss|Three years of Israel’s mass dispossession of West Bank Palestinians
+1791362744|https://www.aljazeera.com/video/al-jazeera-world/2026/10/7/palestine-the-lost-team?traffic_source=rss|Palestine: The Lost Team
+1791362748|https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss|Israeli troops seen smashing memorial in occupied West Bank
+1791362753|https://www.france24.com/en/europe/20261007-anna-politkovskaya-the-slain-reporter-who-predicted-russia-future|Politkovskaya 'predicted' Russia's turn under Putin, editor says on 20th anniversary of her death
