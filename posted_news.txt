@@ -1,8 +1,3 @@
-https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt
-https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss
-https://www.aljazeera.com/news/2026/10/1/iraqs-kurdish-forces-look-to-a-new-era-after-us-withdrawal?traffic_source=rss
-https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss
-https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf
 https://www.aljazeera.com/sports/2026/10/1/alex-eala-loses-asian-games-semifinal-to-chinas-wang-xiyu?traffic_source=rss
 https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections
 https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791347134|https://www.euronews.com/2026/10/07/sanchez-announces-21-urgent-housing-measures-after-nationwide-protests-ahead-of-snap-elect|Sánchez announces 21 urgent housing measures after nationwide protests ahead of snap election
 1791347139|https://lenta.ru/news/2026/10/07/rossiyskie-boytsy-unichtozhili-krupnyy-punkt-dislokatsii-vsu/|Российские бойцы уничтожили крупный пункт дислокации ВСУ
 1791347145|https://lenta.ru/news/2026/10/07/v-germanii-obratilis-s-voprosom-k-nato-iz-za-kaliningrada/|В Германии обратились с вопросом к НАТО из-за Калининграда
+1791348255|https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-all-1573-rdf|Where is Spain headed after the snap election announcement?
+1791348263|https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html|Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery
+1791348270|https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html|India’s central bank hikes rates for the first time since 2023 as inflation creeps up
+1791348277|https://www.japantimes.co.jp/news/2026/10/07/japan/crime-legal/man-arrested-body-miyagi/|Man arrested after girlfriend’s body found in mountains of Miyagi Prefecture
+1791348284|https://www.japantimes.co.jp/news/2026/10/07/japan/society/tokyo-hyakudan-kaidan-building-reopens/|Tokyo’s historic Hyakudan Kaidan building reopens after one year
