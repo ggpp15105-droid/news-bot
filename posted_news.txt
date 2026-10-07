@@ -1,8 +1,3 @@
-https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico
-https://www.dw.com/en/germany-news-berlin-leftists-seek-to-pave-way-for-coalition/live-79496180?maca=en-rss-en-all-1573-rdf
-https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts
-https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss
-https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf
 https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-rdf
 https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91
 https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791335789|https://www.cnbc.com/2026/10/07/trump-hormuz-oil-diesel-iran-anthropic-ai.html|CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz
 1791335797|https://www.japantimes.co.jp/business/2026/10/07/paramount-warner-merger-deal/|Paramount closes Warner merger in historic Hollywood deal
 1791335806|https://www.tomshardware.com/desktops/gaming-pcs/get-usd500-off-this-sweet-ryzen-7-7800x3d-and-rtx-5070-powered-gaming-pc-at-just-usd1799-32gb-of-ddr5-6000-comes-standard-too-at-a-22-percent-discount|Get 22% off this sweet Ryzen 7 7800X3D and RTX 5070-powered gaming PC at just $1799
+1791336811|https://www.japantimes.co.jp/business/2026/10/07/apple-smart-home-lg-electronics/|Apple’s smart home push includes doorbell, lock and thermostat codeveloped with LG
+1791336819|https://lenta.ru/news/2026/10/07/varnava-hudoba/|Екатерина Варнава напугала фанатов худобой на фото в мини-юбке
+1791336827|https://lenta.ru/news/2026/10/07/v-britanii/|В Британии нашли способ избежать войны с Россией
+1791336832|https://lenta.ru/news/2026/10/07/usilenie-udarov-po-kievu-ob-yasnili/|Усиление ударов по Киеву объяснили
+1791336836|https://lenta.ru/news/2026/10/07/onischenko-nazval-predelnyy-vozrast-dlya-rozhdeniya-detey/|Россиянкам назвали предельный возраст для рождения детей
