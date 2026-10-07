@@ -1,8 +1,3 @@
-1790866033|https://www.vg247.com/forza-horizon-6-review|Forza Horizon 6 review - The driving game for everyone still can’t seem to escape its car-collecting legacy
-1790866640|https://www.dw.com/en/renee-good-s-family-sues-trump-admin-over-fatal-ice-shooting/a-79504836?maca=en-rss-en-all-1573-rdf|Renee Good's family sues Trump admin over fatal ICE shooting
-1790866645|https://news.sky.com/story/fifa-looks-at-us-for-new-womens-club-world-cup-13594017|FIFA looks at US for new women's Club World Cup
-1790866654|https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html|Accenture rallies more than 20% after earnings beat, heads for best day ever
-1790866659|https://www.euronews.com/2026/10/01/eu-turns-page-on-ukraines-27-billion-deficit-says-all-needs-are-covered|EU turns page on Ukraine's $27 billion deficit, says all needs are covered
 1790866669|https://www.aa.com.tr/en/middle-east/iran-summons-british-ambassador-for-claims-linking-tehran-to-raf-fairford-plot/4075255|Iran summons British ambassador for claims linking Tehran to RAF Fairford plot
 1790866798|https://www.aa.com.tr/en/turkiye/turkiyes-trade-minister-discusses-cooperation-with-officials-from-g20-member-states/4075260|Türkiye's trade minister discusses cooperation with officials from G20 member states
 1790866808|https://www.aa.com.tr/en/middle-east/algerian-parliament-approves-death-penalty-for-arson-child-kidnapping/4075251|Algerian parliament approves death penalty for arson, child kidnapping
@@ -1998,3 +1993,8 @@
 1791367584|https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html|'Get your house in order': IMF chief's stark warning for France over surging bond yields
 1791367591|https://www.euronews.com/2026/10/07/emirates-launches-helsinki-flights-as-airline-reaches-93-of-pre-disruption-capacity|Emirates launches Helsinki flights as airline reaches 93% of pre-disruption capacity
 1791367599|https://www.euronews.com/2026/10/07/hardline-iranian-mps-move-to-impeach-foreign-minister-over-un-general-assembly-talks|Hardline Iranian MPs move to impeach foreign minister over UN General Assembly talks
+1791368724|https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss|Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations
+1791368731|https://www.aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin?traffic_source=rss|Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin
+1791368737|https://www.france24.com/en/video/20261007-israel-marks-three-years-since-hamas-s-october-7-attack|Israel marks three years since Hamas's October 7 attack
+1791368744|https://www.france24.com/en/video/20261007-houthis-attack-aden-airport-as-fighting-intensifies-in-yemen|Houthis attack Aden airport as fighting intensifies in Yemen
+1791368749|https://www.france24.com/en/video/20261007-trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency|Trump to speak to Putin on plague as US, UN urge transparency
