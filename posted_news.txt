@@ -1,8 +1,3 @@
-1790874189|https://www.aa.com.tr/en/eurasia/russia-warns-of-rigid-response-to-any-actions-threatening-kaliningrad/4075376|Russia warns of 'rigid response' to 'any' actions threatening Kaliningrad
-1790875241|https://www.aljazeera.com/news/2026/10/1/british-police-arrest-uk-iranian-national-over-airbase-incident?traffic_source=rss|British police arrest UK-Iranian national over airbase incident
-1790875248|https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss|Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral
-1790875256|https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html|Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack
-1790875263|https://www.euronews.com/2026/10/01/palermo-first-coffee-grown-and-harvested-in-italy-warmer-climate-is-changing-farming|Palermo, first coffee grown and harvested in Italy: warmer climate is changing farming
 1790875269|https://www.aa.com.tr/en/europe/latvia-says-it-detained-couple-on-suspicion-of-spying-for-russia/4075374|Latvia says it detained couple on suspicion of spying for Russia
 1790875464|https://www.france24.com/en/tv-shows/spotlight/20261001-guilty-of-all-charges-man-city-at-centre-of-biggest-scandal-in-football-history-vows-to-appeal|'Guilty of all charges': Man City at centre of 'biggest scandal in football history', vows to appeal
 1790875472|https://www.aa.com.tr/en/middle-east/emirates-dubai-london-flight-diverts-to-frankfurt-for-medical-emergency/4075373|Emirates Dubai-London flight diverts to Frankfurt for medical emergency
@@ -1998,3 +1993,8 @@
 1791379258|https://www.aljazeera.com/opinions/2026/10/7/yes-zionism-is-racism?traffic_source=rss|Yes, Zionism is racism
 1791379265|https://www.dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254?maca=en-rss-en-all-1573-rdf|China's Golden Week reveals cautious consumer spending despite travel surge
 1791379269|https://www.france24.com/en/video/20261007-three-years-on-questions-remain-over-what-netanyahu-knew-before-october-7|Three years on, questions remain over what Netanyahu knew before October 7
+1791380385|https://www.france24.com/en/video/20261007-devastation-in-gaza-three-years-of-war-reshape-the-enclave-beyond-recognition|Devastation in Gaza: Three years of war reshape the enclave beyond recognition
+1791380392|https://www.france24.com/en/tv-shows/perspective/20261007-time-doesn-t-heal-parents-of-aner-shapira-killed-on-october-7-2023|'Time doesn't heal': Parents of October 7 attacks victim Aner Shapira
+1791380398|https://www.france24.com/en/tv-shows/business/20261007-three-years-after-october-7-attacks-israel-s-economy-shows-its-strength|Three years after October 7 attacks, Israel's economy shows its strength
+1791380403|https://news.sky.com/story/seven-injured-in-attack-with-sharp-object-at-polish-school-say-police-13596114|Seven injured in attack with 'sharp object' at Polish school, say police
+1791380410|https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html|France is caught between angry students and unforgiving bond markets
