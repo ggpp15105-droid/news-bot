@@ -1,8 +1,3 @@
-1790880285|https://www.euronews.com/2026/10/01/europe-went-all-in-on-soft-power-for-too-long-belgian-defence-minister-says|Europe went all in on soft power for too long, Belgian defence minister says
-1790881146|https://www.dw.com/en/uk-police-make-another-arrest-in-raf-fairford-case/a-79508050?maca=en-rss-en-all-1573-rdf|UK police make another arrest in RAF Fairford case
-1790881151|https://www.euronews.com/2026/10/01/manchester-city-not-above-the-rules-says-downing-street|Manchester City not 'above the rules', says Downing Street
-1790881159|https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/|GTA 6’s Weather System Sounds Like A Big Step Up
-1790881168|https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal|RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal
 1790881176|https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers|Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers
 1790882054|https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss|Canada to fast track oil pipeline meant to diversify economy away from US
 1790882060|https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html|Trump could target three Fed governors. Removing them may be harder than it looks
@@ -1998,3 +1993,8 @@
 1791386885|https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-rdf|Germany news: Merz rails against extremism, AfD sympathizers
 1791386891|https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-rdf|EU enlargement: European Commission tables reforms to prepare bloc for new members
 1791386897|https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html|Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023
+1791388219|https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss|The mass killing does not mean Israel’s winning
+1791388226|https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss|How Israel’s genocide in Gaza pulled Britons into the Palestine movement
+1791388232|https://www.euronews.com/2026/10/07/russia-dismisses-transparency-calls-amid-reports-of-second-siberia-plague-case|Russia dismisses transparency calls amid reports of second Siberia plague case
+1791388239|https://www.euronews.com/2026/10/07/deadly-drone-attacks-raise-questions-over-europes-black-sea-defences|Deadly drone attacks raise questions over Europe’s Black Sea defences
+1791388246|https://www.euronews.com/2026/10/07/we-will-certainly-look-at-it-trump-says-he-will-consider-permanent-us-military-base-in-lit|‘We will certainly look at it’: Trump says he will consider permanent US military base in Lithuania
