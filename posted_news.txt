@@ -1,8 +1,3 @@
-1790865144|https://www.gamespot.com/articles/how-long-is-gears-of-war-e-day-mission-list-and-hours-played/|How Long Is Gears of War: E-Day – Mission List And Hours Played
-1790865741|https://www.aa.com.tr/en/eurasia/kanye-west-s-2-stadium-concerts-in-russia-officially-canceled/4075243|Kanye West’s 2 stadium concerts in Russia officially canceled
-1790865751|https://www.aa.com.tr/en/middle-east/israel-continues-attacks-on-southern-lebanon-with-airstrikes-home-explosions-artillery-fire/4075240|Israel continues attacks on southern Lebanon with airstrikes, home explosions, artillery fire
-1790865760|https://www.aa.com.tr/en/middle-east/collapse-of-diagnostic-system-in-gaza-masks-hundreds-of-breast-cancer-cases-health-ministry/4075236|Collapse of diagnostic system in Gaza masks hundreds of breast cancer cases: Health Ministry
-1790865771|https://www.aa.com.tr/en/middle-east/palestinian-dead-after-being-shot-by-israeli-occupiers-in-northern-west-bank/4075233|Palestinian dead after being shot by Israeli occupiers in northern West Bank
 1790865778|https://www.gamespot.com/articles/xbox-is-paying-a-lot-less-than-normal-for-kojimas-physint-possibly-under-200-million-report/|Xbox Is Paying A Lot Less Than Normal For Kojima’s Physint, Possibly Under $200 Million – Report
 1790866007|https://www.vg247.com/monopoly-go-the-simpsons-crossover-details|Monopoly Go x The Simpsons crossover is almost here
 1790866014|https://www.vg247.com/honkai-star-rail-version-4-3-all-details|Honkai: Star Rail Version 4.3 will take us deeper into the World in Canvas and make Mortenax Blade playable
@@ -1998,3 +1993,8 @@
 1791365830|https://www.dw.com/en/ronaldo-stays-on-under-cloud-as-messi-exits-internationals/a-79574551?maca=en-rss-en-all-1573-rdf|Ronaldo stays on under cloud as Messi exits internationals
 1791365838|https://www.euronews.com/2026/10/07/zelensky-says-russia-missile-attack-that-killed-12-is-birthday-gift-to-putin|Zelensky says Russia missile attack that killed 12 is birthday 'gift' to Putin
 1791365844|https://www.aa.com.tr/en/science-technology/south-korea-s-astronaut-urges-girls-don-t-limit-your-dreams-or-abilities-/4080750|South Korea’s astronaut urges girls: ‘Don’t limit your dreams or abilities’
+1791366864|https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss|California pair charged with abusing at least 14 surrogate-born children
+1791366870|https://www.aljazeera.com/news/2026/10/7/france-halts-police-use-of-stun-grenades-at-student-protests?traffic_source=rss|France halts police use of stun grenades at student protests
+1791366878|https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html|Google ordered to halt work on two data centers in ‘Texas of Europe’
+1791366885|https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html|Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate
+1791366892|https://www.euronews.com/2026/10/07/why-are-melania-trump-staffers-gloating-about-digger-and-its-box-office-woes|Why are Melania Trump staffers gloating about ‘Digger’ and its box office woes?
