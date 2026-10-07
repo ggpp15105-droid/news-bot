@@ -1,8 +1,3 @@
-1790872565|https://www.aa.com.tr/en/eurasia/former-chess-champion-kasparov-told-to-take-precautions-amid-alleged-russian-assassination-plot/4075337|Former chess champion Kasparov told to take precautions amid alleged Russian assassination plot
-1790873386|https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss|Jerusalem Daily: Netanyahu calls flight incident another 9/11
-1790873393|https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss|Who is Man City whistleblower Rui Pinto and what has become of him?
-1790873399|https://www.aa.com.tr/en/eurasia/zelenskyy-announces-1st-combat-use-of-ukraines-fp-7-missile/4075367|Zelenskyy announces 1st combat use of Ukraine's FP-7 missile
-1790873405|https://www.aa.com.tr/en/science-technology/tech-giants-eye-orbit-for-ai-data-centers-as-energy-demand-soars/4075353|Tech giants eye orbit for AI data centers as energy demand soars
 1790873411|https://www.aa.com.tr/en/turkiye/turkiye-ukraine-free-trade-agreement-takes-effect/4075329|Türkiye, Ukraine free trade agreement takes effect
 1790874161|https://www.aljazeera.com/economy/2026/10/1/chinese-hackers-impersonated-ai-experts-to-target-us-policy-minds?traffic_source=rss|Chinese hackers impersonated AI experts to target US policy minds
 1790874168|https://www.dw.com/en/after-2-years-in-office-how-has-claudia-sheinbaum-changed-mexico/a-79506055?maca=en-rss-en-all-1573-rdf|After 2 years in office, how has Claudia Sheinbaum changed Mexico?
@@ -1998,3 +1993,8 @@
 1791376719|https://www.euronews.com/2026/10/07/interlaken-vs-innsbruck-how-europes-adventure-travel-hotspots-compare-for-a-winter-holiday|Interlaken vs Innsbruck: How Europe’s adventure travel hotspots compare for a winter holiday
 1791376725|https://www.euronews.com/2026/10/07/eu-agrees-to-sanction-over-1600-people-and-entities-linked-to-russias-war|EU agrees to sanction over 1,600 people and entities linked to Russia's war
 1791376733|https://www.euronews.com/2026/10/07/scientists-identify-ancient-egyptian-crocodile-whose-skull-is-missing-its-nose-like-the-sp|Scientists identify ancient Egyptian crocodile whose skull is missing its nose like the Sphinx
+1791378053|https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf|German spy scandal threatens national security
+1791378062|https://www.euronews.com/2026/10/07/judo-2026-world-championships-koga-and-yusifov-strike-gold-on-opening-day-in-baku|Judo 2026 World Championships: Koga and Yusifov Strike Gold on Opening Day in Baku
+1791378069|https://www.japantimes.co.jp/business/2026/10/07/book-firm-anthropic/|Japanese firm confirms it sold books to Anthropic
+1791378076|https://www.japantimes.co.jp/business/2026/10/07/nomura-longer-term-returns/|Nomura Asset Management shifts focus to longer-term returns
+1791378084|https://www.aa.com.tr/en/science-technology/profile-henri-kagan-and-kenso-soai-chemists-who-made-molecules-choose-a-side/4081041|PROFILE - Henri Kagan and Kenso Soai: Chemists who made molecules choose a side
