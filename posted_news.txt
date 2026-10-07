@@ -1,8 +1,3 @@
-1790894654|https://lenta.ru/news/2026/10/02/v-mid-rf-rasskazali-o-printsipialnoy-pozitsii-po-povodu-rasshireniya-nato/|В МИД РФ рассказали о принципиальной позиции по поводу расширения НАТО
-1790895325|https://lenta.ru/news/2026/10/02/byvshiy-diplomat-obratilsya-k-rossii-i-evrope/|Бывший дипломат обратился к России и Европе
-1790895329|https://www.kommersant.ru/doc/8991822|Пожар на химическом заводе в Подмосковье локализовали
-1790895338|https://www.kommersant.ru/doc/8991821|Трамп: казнь не должна быть сложной // Дональд Трамп выразил недоумение из-за неудавшейся казни Кристы Пайк
-1790895342|https://www.kommersant.ru/doc/8991818|Путин призвал выйти на мирные договоренности по Украине без новых потерь
 1790895346|https://tass.ru/obschestvo/28173807|Врач Сергачева рассказала, чем грозит сухой воздух в квартире для ребенка
 1790895877|https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss|Brazilian government calls for probe into US funding of far-right causes
 1790895882|https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss|94-year-old Jewish barrister arrested for supporting Palestine Action
@@ -1998,3 +1993,8 @@
 1791405135|https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations|France schools protests: more than 6,100 arrested since start of demonstrations
 1791405140|https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html|Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic
 1791405146|https://www.ign.com/articles/star-wars-tabletop-games-are-discounted-for-prime-day-including-unlimited|Star Wars Tabletop Games Are Discounted For Prime Day, Including Unlimited
+1791406150|https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss|US Republicans, independents express low trust in election integrity: Poll
+1791406157|https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/|Controversial Horror Series Ropes Me Back In With Silent Hill’s Original Composer And Lady Dimitrescu
+1791406165|https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania|Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania
+1791406173|https://www.eurogamer.net/xbox-game-pass-lineup-october-2026|Here are our Xbox Game Pass games for October 2026
+1791406178|https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3|Undead Labs speaks about its split from Xbox, revealing it has to "make some changes" to State of Decay 3 following layoffs
