@@ -1,8 +1,3 @@
-1790889691|https://lenta.ru/news/2026/10/02/2-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/|2 октября: какой праздник отмечают в России и мире
-1790890592|https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss|Renee Good: Family of US woman killed by ICE agent sues Trump officials
-1790890600|https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss|Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark
-1790890606|https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss|Protesters halt game as calls grow on Ireland to boycott second Israel game
-1790890613|https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss|Most Americans say US-Israel war on Iran not worth fighting: Poll
 1790890622|https://lenta.ru/news/2026/10/02/fetisov-zayavil-ob-izdevatelstvah-nad-valievoy-so-storony-isu/|Фетисов заявил об издевательствах над Валиевой со стороны ISU
 1790891454|https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss|Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow
 1790891461|https://lenta.ru/news/2026/10/02/politolog-raskryl-prichiny-raskola-nato/|Политолог раскрыл причины раскола НАТО
@@ -1998,3 +1993,8 @@
 1791399640|https://news.sky.com/story/man-to-face-trial-for-attempted-murder-of-british-girl-in-alps-knife-attack-13596277|Man to face trial for attempted murder of British girl in Alps knife attack
 1791399646|https://www.euronews.com/2026/10/07/maricarmen-symbol-of-spains-housing-protests-dies|Maricarmen, symbol of Spain's housing protests, dies
 1791399653|https://www.euronews.com/video/2026/10/07/unexpected-beach-guest-elephant-seal-draws-crowds-in-rio|Unexpected beach guest: Elephant seal draws crowds in Rio
+1791400661|https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss|Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare
+1791400666|https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss|Kenya on high alert amid concern over screening after first Ebola death
+1791400672|https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss|Saudi Arabia says Houthi attacks on airports killed three foreign nationals
+1791400677|https://www.aljazeera.com/video/newsfeed/2026/10/7/lsd-from-counterculture-to-clinical-trials?traffic_source=rss|LSD – from counterculture to clinical trials
+1791400683|https://www.euronews.com/2026/10/07/polands-economic-rise-can-it-last-the-ring-in-warsaw|Poland’s economic rise - Can it last? The Ring in Warsaw
