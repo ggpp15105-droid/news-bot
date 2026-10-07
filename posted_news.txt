@@ -1,8 +1,3 @@
-1790864789|https://www.aa.com.tr/en/europe/denmark-happy-with-greenland-deal-but-wary-trump-could-change-course-lawmaker/4075179|Denmark happy with Greenland deal but wary Trump could change course: Lawmaker
-1790864955|https://www.aa.com.tr/en/asia-pacific/japan-calls-for-momentum-for-diplomacy-to-end-us-iran-war/4075182|Japan calls for 'momentum for diplomacy' to end US-Iran war
-1790864965|https://www.aa.com.tr/en/turkiye/turkiye-to-gradually-hand-over-bashiqa-zilkan-base-to-iraq-defense-ministry/4075174|Türkiye to gradually hand over Bashiqa-Zilkan base to Iraq: Defense Ministry
-1790864972|https://www.ign.com/articles/gta-6-kaseya-center|GTA 6 Lights Up Miami's Kaseya Center
-1790864979|https://www.ign.com/articles/riftbound-radiance-tcg-exclusive-mordekaiser-card-reveal|Riftbound Radiance TCG: Exclusive Mordekaiser Card Reveal
 1790864985|https://www.gamespot.com/articles/uncharted-5-is-reportedly-in-development-and-will-feature-nathan-drake/|Uncharted 5 Is Reportedly In Development And Will Feature Nathan Drake
 1790865119|https://www.euronews.com/2026/10/01/set-jetting-trips-how-to-holiday-like-the-gilmore-girls-in-stars-hollow|‘Set-jetting’ trips: How to holiday like the Gilmore Girls in Stars Hollow
 1790865125|https://www.gamespot.com/articles/the-witcher-3-remastered-is-already-being-patched-for-being-too-bright/|The Witcher 3 Remastered Is Already Being Patched For Being Too Bright
@@ -1998,3 +1993,8 @@
 1791363629|https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss|‘We’re short of resources’: France’s student protesters, in their own words
 1791363637|https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html|Treasury yields rise ahead of closely-watched 10-year auction and FOMC minutes
 1791363644|https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports|EU trade chief heads to Beijing under pressure to deliver on Chinese imports
+1791364652|https://www.dw.com/en/nobelitis-how-winning-a-nobel-prize-can-give-you-delusions-of-grandeur/a-79525772?maca=en-rss-en-all-1573-rdf|Nobelitis — How winning a Nobel Prize can give you delusions of grandeur
+1791364657|https://www.euronews.com/2026/10/07/russia-asks-vietnam-for-planes-as-illegally-re-registered-western-fleet-falls-apart|Russia asks Vietnam for planes as illegally re-registered Western fleet falls apart
+1791364663|https://www.euronews.com/2026/10/07/czechia-withdraws-from-eurovision-song-contest-2027-citing-budget-pressures|Czechia withdraws from Eurovision Song Contest 2027 citing budget pressures
+1791364668|https://www.japantimes.co.jp/news/2026/10/07/japan/politics/koja-okinawa-koizumi-takaichi/|Takaichi meets with Okinawa’s Koja after U.S. Marine’s arrest over murder
+1791364674|https://www.japantimes.co.jp/news/2026/10/07/japan/politics/takaichi-defends-tax-cut/|Takaichi defends plan to combine consumption tax cut with income-based cash payments
