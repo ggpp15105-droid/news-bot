@@ -1,8 +1,3 @@
-1790888107|https://lenta.ru/news/2026/10/01/putin-otvetil-na-predlozhenie-porazvalivat-evrosoyuz/|Путин ответил на предложение «поразваливать» Евросоюз
-1790888650|https://lenta.ru/news/2026/10/01/stalo-izvestno-o-planah-restavratsii-zagorevshegosya-v-peterburge-osobnyaka-millera/|Стало известно о планах реставрации загоревшегося в Петербурге особняка Миллера
-1790888659|https://lenta.ru/news/2026/10/01/v-rade-obratilis-k-zelenskomu-s-prizyvom-nam-nuzhen-mir/|В Раде обратились к Зеленскому с призывом «нам нужен мир!»
-1790888668|https://lenta.ru/news/2026/10/01/devis-vystupila-na-turnire-v-gruzii-s-travmoy/|Дэвис выступила на турнире в Грузии с травмой
-1790888678|https://www.kommersant.ru/doc/8991803|При пожаре на Краснозаводском химическом заводе пропали пять человек
 1790888682|https://www.kommersant.ru/doc/8991802|Агент Дзюбы опроверг информацию о завершении карьеры футболиста
 1790889665|https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss|Funeral held for Palestinian man killed in the occupied West Bank
 1790889672|https://www.euronews.com/2026/10/01/danish-military-admits-flaws-in-report-about-2025-drone-incursions|Danish military admits flaws in report about 2025 drone incursions
@@ -1998,3 +1993,8 @@
 1791397129|https://www.aa.com.tr/en/europe/eu-reportedly-agrees-major-expansion-of-russia-sanctions-blacklist/4081363|EU reportedly agrees major expansion of Russia sanctions blacklist
 1791397135|https://www.aa.com.tr/en/americas/trump-says-us-does-not-believe-plague-death-in-russia-is-biological-weapon/4081361|Trump says US does not believe plague death in Russia is biological weapon
 1791397140|https://www.gamespot.com/articles/star-wars-zero-company-developer-sees-portion-of-furloughed-workers-return/|Star Wars Zero Company Developer Sees Portion Of Furloughed Workers Return
+1791398514|https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss|How genocide in Gaza followed Bosnia’s painful pattern
+1791398519|https://www.aljazeera.com/news/2026/10/7/us-supreme-court-hears-challenge-to-air-force-uxo-detonations-in-guam?traffic_source=rss|US Supreme Court hears challenge to air force UXO detonations in Guam
+1791398525|https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss|Jerusalem Daily: Gaza’s devastation, three years after October 7
+1791398531|https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss|Spanish unions call general strike over housing before snap election
+1791398538|https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html|Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip
