@@ -1,8 +1,3 @@
-1790868899|https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html|GM reports 5.5% decline in third-quarter U.S. sales as EV sales drop
-1790869891|https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss|Netanyahu says flight attacker 'underwent Islamist radical indoctrination'
-1790869897|https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss|LIVE: Denmark vs Portugal – UEFA Nations League
-1790869905|https://www.dw.com/en/finland-probes-suspected-break-ins-at-politicians-homes/a-79506236?maca=en-rss-en-all-1573-rdf|Finland probes suspected break-ins at politicians' homes
-1790869912|https://www.euronews.com/2026/10/01/woody-allen-presents-new-film-in-madrid-funded-with-3m-in-public-money|Woody Allen presents new film in Madrid, funded with €3m in public money
 1790869918|https://www.euronews.com/2026/10/01/greece-pitches-suspension-of-the-eus-right-to-asylum-during-migration-crises|Greece pitches suspension of the EU’s right to asylum during migration crises
 1790870536|https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss|Flydubai attack gives Netanyahu new security message ahead of Israel vote
 1790870543|https://www.aa.com.tr/en/eurasia/putin-expects-global-conflicts-to-continue-in-near-future/4075308|Putin expects global conflicts to continue in near future
@@ -1998,3 +1993,8 @@
 1791372421|https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss|Israeli attacks across Gaza kill at least four Palestinians
 1791372427|https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss|US sets new demands for Iran deal: What are they?
 1791372433|https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss|Girl pleads for world leaders to save her country from climate change
+1791373358|https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-all-1573-rdf|Germany: Did CDU lawmakers support the far-right AfD?
+1791373364|https://www.france24.com/en/tv-shows/press-review/20261007-israeli-papers-commemorate-october-7-attacks-three-years-on|Israeli papers commemorate October 7 attacks, three years on
+1791373370|https://www.euronews.com/2026/10/07/finland-orders-pause-on-google-ai-data-centre-over-environmental-concerns|Finland orders pause on Google AI data centres over environmental concerns
+1791373377|https://www.euronews.com/video/2026/10/07/tokyo-sleep-competition-offers-2-million-yen-prize-to-best-sleeper|Tokyo sleep competition offers 2 million yen prize to best sleeper
+1791373383|https://www.euronews.com/2026/10/07/trump-to-talk-plague-with-putin-as-russia-plays-down-fears-of-outbreak|Trump to talk plague with Putin as Russia plays down fears of outbreak
