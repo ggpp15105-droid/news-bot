@@ -1,8 +1,3 @@
-https://www.aljazeera.com/video/newsfeed/2026/10/1/catastrophic-year-as-swiss-glaciers-lose-5-of-ice-after-heatwaves?traffic_source=rss
-https://www.aljazeera.com/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west?traffic_source=rss
-https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss
-https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf
-https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-rdf
 https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru
 https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-rdfhttps://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss
 https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-sv-konyaspor-palestine-tifo-tr?traffic_source=rss
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791343306|https://lenta.ru/news/2026/10/07/dietolog-nazvala-pomogayuschie-sohranit-pamyat-produkty/|Диетолог назвала помогающие сохранить память продукты
 1791343315|https://www.kommersant.ru/doc/9007765|Нидерланды в случае ЧС привлекут для оказания помощи 150 тыс. резервистов
 1791343319|https://www.kommersant.ru/doc/9007764|Администрация Трампа отказалась от наблюдателей ОБСЕ на промежуточных выборах
+1791344359|https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss|Former Australian bishop jailed for sexually abusing young men
+1791344364|https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss|Oman evacuates injured crew from attacked tanker in Strait of Hormuz
+1791344371|https://www.japantimes.co.jp/business/2026/10/07/companies/kawasaki-heavy-industries-dog-robots/|Kawasaki Heavy unveils dog-shaped robot companion for older people
+1791344380|https://lenta.ru/news/2026/10/07/v-evrope-ispugalis-posledstviy-zayavleniya-minoborony-o-zelenskom/|В Европе испугались последствий заявления Минобороны о Зеленском
+1791344385|https://lenta.ru/news/2026/10/07/onkolog-raskryl-trebuyuschie-nemedlennogo-obrascheniya-k-vrachu-simptomy/|Онколог раскрыл требующие немедленного обращения к врачу симптомы
