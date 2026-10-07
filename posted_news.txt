@@ -1,8 +1,3 @@
-1790897519|https://tass.ru/ekonomika/28173845|Нефтегазовые доходы РФ снизятся до 2,7% ВВП в 2029 году
-1790898333|https://lenta.ru/news/2026/10/02/raskryto-znachenie-osvobozhdeniya-vs-rossii-sela-rublenoe/|Раскрыто значение освобождения ВС России села Рубленое
-1790898337|https://lenta.ru/news/2026/10/02/paren-obnaruzhil-u-dveri-konvert-ot-neznakomtsa-i-udivilsya-ego-soderzhimomu/|Парень обнаружил у двери конверт от незнакомца и удивился его содержимому
-1790898342|https://lenta.ru/news/2026/10/02/18prosales/|Стоимость нового iPhone 18 Pro рухнула в России
-1790898347|https://lenta.ru/news/2026/10/02/v-mid-rossii-zayavili-o-postavlennoy-na-grani-vyzhivaniya-kuby/|В МИД России заявили о поставленной на грани выживания Кубы
 1790898351|https://www.kommersant.ru/doc/8991826|Во аэропорту Внуково ввели временные ограничения на полеты
 1790898933|https://tass.ru/mezhdunarodnaya-panorama/28173863|Raytheon поставит Пентагону ракеты-перехватчики на $24,4 млрд
 1790898937|https://tass.ru/ekonomika/28173855|Аэропорт Нижнего Новгорода обслуживает рейсы по согласованию
@@ -1998,3 +1993,8 @@
 1791408953|https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf|Christa Pike 'angry and confused' after botched execution
 1791408958|https://www.france24.com/en/french-pm-vows-to-address-debt-despite-student-protests|French PM vows to address debt despite student protests
 1791408963|https://www.france24.com/en/africa-joins-the-data-center-backlash|Africa joins the data center backlash
+1791409889|https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html|Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit
+1791409897|https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon|Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon
+1791409905|https://www.ign.com/articles/marathon-pc-steam-deal-fanatical-october-2026|This Fanatical Deal Drops Marathon on PC to $19.39, Cheaper Than Steam's Autumn Sale
+1791409913|https://www.tomshardware.com/pc-components/the-logitech-g29-racing-wheel-and-pedal-set-with-real-force-feedback-is-back-on-sale-with-steep-37-percent-discount-get-a-start-to-a-racing-sim-for-usd190|The Logitech G29 racing wheel and pedal set is back on sale with steep 37% discount
+1791409921|https://www.tomshardware.com/video-games/handheld-gaming/get-a-great-deal-on-the-original-msi-claw-during-best-buy-clearance-sale-handheld-with-intel-core-ultra-7-155h-and-1tb-ssd-is-just-usd562-usd187-off-list-price|Sneak a great deal on the original MSI Claw during Best Buy clearance sale
