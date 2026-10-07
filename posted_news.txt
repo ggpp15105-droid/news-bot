@@ -1,8 +1,3 @@
-https://www.aljazeera.com/sports/2026/10/1/alex-eala-loses-asian-games-semifinal-to-chinas-wang-xiyu?traffic_source=rss
-https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections
-https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss
-https://www.aljazeera.com/news/2026/10/1/jewish-human-rights-barrister-94-arrested-for-supporting-palestine-action?traffic_source=rss
-https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-clip-shahi-mosque-demolition-minaret-in?traffic_source=rss
 https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-airstrikes-killed-women-and-children?traffic_source=rss
 1790857553|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss|UAE investigates possible ‘terrorist’ link in attack on flight to Israel
 1790857566|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say|Finland investigates suspected break-ins at several MPs homes, authorities say
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791348270|https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html|India’s central bank hikes rates for the first time since 2023 as inflation creeps up
 1791348277|https://www.japantimes.co.jp/news/2026/10/07/japan/crime-legal/man-arrested-body-miyagi/|Man arrested after girlfriend’s body found in mountains of Miyagi Prefecture
 1791348284|https://www.japantimes.co.jp/news/2026/10/07/japan/society/tokyo-hyakudan-kaidan-building-reopens/|Tokyo’s historic Hyakudan Kaidan building reopens after one year
+1791349176|https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss|Tree nearly as old as US torn down to expand Mexico border wall
+1791349183|https://www.euronews.com/2026/10/07/celebrating-the-october-7-massacre-is-inhumanity-not-solidarity|Celebrating the October 7 massacre is inhumanity, not solidarity
+1791349191|https://www.euronews.com/2026/10/07/record-bets-against-the-euro-how-low-could-it-fall-amid-frances-fiscal-crisis-and-europes-|Record bets against the euro: how low could it fall amid France's fiscal crisis and Europe's energy shock?
+1791349199|https://www.euronews.com/2026/10/07/argentina-waves-football-great-lionel-messi-off-after-3-0-win-over-benin-in-final-internat|Argentina waves football great Lionel Messi off after 3-0 win over Benin in final international appearance
+1791349207|https://www.japantimes.co.jp/sports/2026/10/07/more-sports/mckenna-first-leafs-goal/|McKenna scores first goal for Leafs in overtime win
