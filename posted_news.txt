@@ -1,8 +1,3 @@
-https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss
-https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings
-https://www.aljazeera.com/opinions/2026/10/1/will-democrats-move-beyond-rhetoric-on-israels-illegal-settlements?traffic_source=rss
-https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss
-https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund
 https://www.aljazeera.com/video/newsfeed/2026/10/1/catastrophic-year-as-swiss-glaciers-lose-5-of-ice-after-heatwaves?traffic_source=rss
 https://www.aljazeera.com/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west?traffic_source=rss
 https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791342186|https://lenta.ru/news/2026/10/07/elektrik-dal-sovet-po-otklyucheniyu-tehniki-iz-rozetki-pered-uhodom-iz-doma/|Электрик дал совет по отключению техники из розетки перед уходом из дома
 1791342195|https://lenta.ru/news/2026/10/07/nazvany-samye-vostrebovannye-i-oplachivaemye-vakansii-v-rossii/|Названы самые востребованные и оплачиваемые вакансии в России
 1791342203|https://lenta.ru/news/2026/10/07/oderzhimyy-molodostyu-millioner-prosnulsya-v-krovi-iz-za-strashnyh-snov/|Одержимый молодостью миллионер проснулся в крови из-за страшных снов
+1791343289|https://www.japantimes.co.jp/business/2026/10/07/economy/takaichi-real-wages/|Japan’s real wages rise again, aided by Takaichi’s relief
+1791343298|https://lenta.ru/news/2026/10/07/po-saudovskoy-aravii-nanesli-massirovannyy-udar/|По Саудовской Аравии нанесли массированный удар
+1791343306|https://lenta.ru/news/2026/10/07/dietolog-nazvala-pomogayuschie-sohranit-pamyat-produkty/|Диетолог назвала помогающие сохранить память продукты
+1791343315|https://www.kommersant.ru/doc/9007765|Нидерланды в случае ЧС привлекут для оказания помощи 150 тыс. резервистов
+1791343319|https://www.kommersant.ru/doc/9007764|Администрация Трампа отказалась от наблюдателей ОБСЕ на промежуточных выборах
