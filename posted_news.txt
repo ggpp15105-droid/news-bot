@@ -1,8 +1,3 @@
-1790871645|https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html|Nike is set to report earnings after the bell. Here's what to expect
-1790872538|https://www.euronews.com/2026/10/01/us-nato-troop-review-to-respect-america-first-policy-says-nato-envoy|US NATO troop review to respect 'America first' policy, says NATO envoy
-1790872545|https://www.euronews.com/2026/10/01/dont-care-about-supporting-russia-bulgarian-pm-hits-back-against-pro-moscow-label|'Don't care about supporting Russia': Bulgarian PM hits back against pro-Moscow label
-1790872552|https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-evening|Latest news bulletin | October 1st, 2026 – Evening
-1790872558|https://www.aa.com.tr/en/turkiye/turkish-defense-firm-highlights-production-modernization-collaboration-with-azerbaijan/4075340|Turkish defense firm highlights production, modernization collaboration with Azerbaijan
 1790872565|https://www.aa.com.tr/en/eurasia/former-chess-champion-kasparov-told-to-take-precautions-amid-alleged-russian-assassination-plot/4075337|Former chess champion Kasparov told to take precautions amid alleged Russian assassination plot
 1790873386|https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss|Jerusalem Daily: Netanyahu calls flight incident another 9/11
 1790873393|https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss|Who is Man City whistleblower Rui Pinto and what has become of him?
@@ -1998,3 +1993,8 @@
 1791375188|https://www.japantimes.co.jp/news/2026/10/07/japan/wang-takaichi-taiwan-remark/|China’s foreign minister suggested Takaichi resolve Taiwan remark issue
 1791375194|https://www.aa.com.tr/en/world/nasa-says-russia-china-could-join-artemis-accords-if-they-align-with-principles/4081002|NASA says Russia, China could join Artemis Accords if they align with principles
 1791375200|https://www.aa.com.tr/en/world/erdogan-putin-discuss-turkiye-russia-ties-black-sea-security/4080989|Erdogan, Putin discuss Türkiye-Russia ties, Black Sea security
+1791376704|https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss|South Korea’s military service exemption could be cut for athletes
+1791376711|https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-rdf|France suspends use of stun grenades against protesters
+1791376719|https://www.euronews.com/2026/10/07/interlaken-vs-innsbruck-how-europes-adventure-travel-hotspots-compare-for-a-winter-holiday|Interlaken vs Innsbruck: How Europe’s adventure travel hotspots compare for a winter holiday
+1791376725|https://www.euronews.com/2026/10/07/eu-agrees-to-sanction-over-1600-people-and-entities-linked-to-russias-war|EU agrees to sanction over 1,600 people and entities linked to Russia's war
+1791376733|https://www.euronews.com/2026/10/07/scientists-identify-ancient-egyptian-crocodile-whose-skull-is-missing-its-nose-like-the-sp|Scientists identify ancient Egyptian crocodile whose skull is missing its nose like the Sphinx
