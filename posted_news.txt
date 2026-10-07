@@ -1,8 +1,3 @@
-https://www.france24.com/en/middle-east/20261001-live-flydubai-suspends-flights-to-and-from-israel-after-pilot-attack
-https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola
-https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation
-https://www.france24.com/en/tv-shows/sports/20261001-portugal-ronaldo-walks-away
-https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers
 https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss
 https://www.france24.com/en/like-a-rollercoaster-passengers-describe-harrowing-flydubai-flight
 https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs?traffic_source=rss
@@ -1998,3 +1993,8 @@ https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-ai
 1791339527|https://lenta.ru/news/2026/10/07/messi-zabil-gol-v-poslednem-matche-sbornoy-argentiny/|Месси забил гол в последнем матче сборной Аргентины
 1791339532|https://www.kommersant.ru/doc/9007760|NYP: ФБР следило за поездками Мелании и Бэррона Трамп перед обыском в Мар-а-Лаго
 1791339536|https://www.kommersant.ru/doc/9007757|Американка пришла в сознание после неудачной попытки казни
+1791340596|https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss|Two Houthi missiles target Yemen’s Aden International Airport
+1791340603|https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf|Football: Lionel Messi plays final game for Argentina
+1791340610|https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html|Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia
+1791340618|https://www.japantimes.co.jp/sports/2026/10/07/tennis/alcaraz-wins-japan-open/|Alcaraz wins Japan Open for first title since injury return
+1791340626|https://www.japantimes.co.jp/news/2026/10/07/japan/crime-legal/dewi-sukarno-fined/|TV personality Dewi Sukarno fined over assaults on ex-employees
