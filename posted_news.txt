@@ -1,8 +1,3 @@
-1790904126|https://lenta.ru/news/2026/10/02/v-evroparlamente-zanervnichali-iz-za-azova/|В Европарламенте занервничали из-за «Азова»
-1790904980|https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer|G20 trade ministers deadlocked over industrial overcapacity, says US trade chief
-1790904989|https://www.japantimes.co.jp/press/2026/10/02/notice-ransomware-incident/|Notice Regarding Unauthorized Access to Servers Managed by Our Group
-1790905006|https://www.japantimes.co.jp/press/2026/10/02/noticeransomware-incident-jp/|当社グループ管理サーバーへの不正アクセスに関するお知らせ
-1790905013|https://www.japantimes.co.jp/news/2026/10/02/world/crime-legal/cornell-rape-investigation/|What we know about the Cornell University rape investigation
 1790905020|https://www.japantimes.co.jp/news/2026/10/02/world/politics/iran-nuclear-inspector-offer/|Iran offers to allow nuclear inspectors if sanctions are eased
 1790905798|https://www.cnbc.com/2026/10/02/cnbc-daily-open-us-third-carrier-iran.html|CNBC Daily Open: Three’s a crowd: U.S. carrier buildup in Middle East sends oil spiking
 1790905806|https://lenta.ru/news/2026/10/02/marochko-otsenil-operatsiyu-vsu-vivaldi/|Марочко оценил операцию ВСУ «Вивальди»
@@ -1998,3 +1993,8 @@
 1791414704|https://lenta.ru/news/2026/10/08/v-rossii-vyskazalis-ob-otnoshenii-k-trampu/|В России высказались об отношении к Трампу
 1791414709|https://lenta.ru/news/2026/10/08/pornoakter-rasskazal-o-zhelanii-videt-u-vlasti-zhenschinu-diktatora/|Порноактер рассказал о желании видеть у власти женщину-диктатора
 1791414713|https://lenta.ru/news/2026/10/08/battery/|Официальный способ защитить iPhone оказался бесполезным
+1791415513|https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html|Stock futures are little changed after S&P 500 retreats from record: Live updates
+1791415520|https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company|Bit Reactor CEO Welcomes Return of Some Furloughed Staff for 'Continued Support' of Star Wars Zero Company
+1791415529|https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-manga-is-on-sale-for-prime-big-deal-days-2026|The Legend of Zelda: Ocarina of Time Manga Is on Sale at Amazon Today
+1791415534|https://lenta.ru/news/2026/10/08/raskryt-razryv-mezhdu-sredney-pensiey-nerabotayuschih-v-rossiyskih-regionah/|Раскрыт разрыв между средней пенсией неработающих в российских регионах
+1791415544|https://www.kommersant.ru/doc/9008701|На самой глубокой шахте России произошла авария // На угольной шахте «Комсомольская» в Коми произошла авария
