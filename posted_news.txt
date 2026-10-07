@@ -1,8 +1,3 @@
-1790861960|https://www.france24.com/en/tv-shows/french-connections/20261001-the-hunting-lobby-behind-france-s-rural-power|The hunting lobby: Behind France's rural power
-1790862672|https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss|Blasts heard in Addis Ababa as Ethiopia conflict widens in the north
-1790862678|https://www.france24.com/en/video/20261001-uk-france-end-on-in-one-out-channel-migrant-exchange-deal|UK, France end 'on in, one out' Channel migrant exchange deal
-1790862684|https://www.france24.com/en/video/20261001-france-demands-belt-tightening-in-2027-budget-as-investors-sour-on-its-debt|France demands belt-tightening in 2027 budget as investors sour on its debt
-1790862690|https://www.france24.com/en/video/20261001-france-s-2027-budget-plan-puts-pressure-on-local-services|France’s 2027 budget plan puts pressure on local services
 1790862695|https://www.france24.com/en/video/20261001-pink-october-raising-awareness-about-breast-cancer|Pink October: Raising awareness about breast cancer
 1790862941|https://www.france24.com/en/video/20261001-what-to-know-about-the-terrifying-flydubai-flight-bound-for-israel|What to know about the terrifying FlyDubai flight bound for Israel
 1790862946|https://news.sky.com/story/jagtar-singh-johal-who-was-jailed-in-india-for-nine-years-is-released-on-bail-rights-group-13594003|Briton jailed in India for nine years released on bail, rights group says
@@ -1998,3 +1993,8 @@
 1791356576|https://www.euronews.com/video/2026/10/07/israelis-mourn-nova-festival-victims-three-years-after-hamas-attack|Israelis mourn Nova festival victims three years after Hamas attack
 1791356583|https://www.euronews.com/video/2026/10/07/tear-gas-and-fireworks-as-student-protests-turn-violent-in-paris|Tear gas and fireworks as student protests turn violent in Paris
 1791356591|https://www.euronews.com/2026/10/07/the-eu-agrees-on-new-return-order-longer-detention-and-return-hubs|The EU agrees on new Return Order, longer detention and return hubs
+1791357774|https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html|Jaguar unveils $130,500 electric vehicle two years after controversial rebrand
+1791357780|https://www.euronews.com/video/2026/10/07/siberia-plague-outbreak-is-an-isolated-incident-virologist-says|Siberia plague outbreak is an 'isolated incident', virologist says
+1791357785|https://www.japantimes.co.jp/news/2026/10/07/japan/society/regional-development-organizations/|Regional management organizations help residents take lead in their communities
+1791357792|https://www.japantimes.co.jp/news/2026/10/07/japan/crime-legal/man-arrest-two-women-stabbed-ibaraki/|Man held over stabbing outside Ibaraki restaurant whose owner was later found dead
+1791357799|https://www.japantimes.co.jp/news/2026/10/07/japan/japan-professors-joy-nobel-prize-physics/|Japanese professors welcome Nobel Prize for IceCube project chief
