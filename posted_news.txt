@@ -1,8 +1,3 @@
-1790960196|https://www.gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games/|Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games
-1790960810|https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/|Xbox Game Pass Loses These 9 Games In October
-1790960817|https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices|Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's "long overdue and also necessary for this business to survive"
-1790960825|https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards|Grand Theft Auto 6 may be the first GTA to have full-on "sex scenes", Hot Coffee not included
-1790960834|https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot|Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge
 1790960841|https://www.eurogamer.net/star-wars-galactic-racer-review|Star Wars: Galactic Racer review
 1790961866|https://www.dw.com/en/flydubai-hero-pilot-speaks-for-first-time/a-79524500?maca=en-rss-en-all-1573-rdf|FlyDubai 'hero' pilot speaks for first time
 1790961873|https://www.ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings|MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors
@@ -1998,3 +1993,8 @@
 1791496953|https://www.euronews.com/video/2026/10/08/hundreds-of-farmers-rally-in-paris-against-eu-mercosur-pact-and-import-fears|Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears
 1791496959|https://www.japantimes.co.jp/news/2026/10/08/japan/crime-legal/germany-arrest-qilin-japan-extradite/|Germany arrests member of Qilin hacker group who was extradited from Japan
 1791496966|https://www.aa.com.tr/en/europe/turkish-republic-of-northern-cyprus-slams-eu-over-isolation-of-turkish-cypriots/4082833|Turkish Republic of Northern Cyprus slams EU over isolation of Turkish Cypriots
+1791498036|https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss|Adidas sues Australian label White Fox over four stripes design
+1791498042|https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss|Four astronauts return to earth after an eight-month space mission
+1791498050|https://www.euronews.com/video/2026/10/09/deadly-floods-sweep-albania-and-montenegro-as-rivers-burst-banks|Deadly floods sweep Albania and Montenegro as rivers burst banks
+1791498057|https://www.aa.com.tr/en/americas/brazil-s-moraes-issues-arrest-warrant-for-eduardo-bolsonaro-orders-immediate-start-of-his-prison-sentence/4082837|Brazil’s Moraes issues arrest warrant for Eduardo Bolsonaro, orders immediate start of his prison sentence
+1791498064|https://www.aa.com.tr/en/americas/fort-hood-shooter-to-face-public-execution-by-firing-squad-us-defense-secretary/4082826|Fort Hood shooter to face public execution by firing squad: US defense secretary
