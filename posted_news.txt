@@ -1,8 +1,3 @@
-1790938146|https://www.japantimes.co.jp/news/2026/10/02/japan/politics/takaichi-trump-talks-weak-yen/|Takaichi told during Trump talks that weak yen was hurting U.S. trade
-1790938817|https://www.japantimes.co.jp/news/2026/10/02/japan/tokai-kisen-suspension-order/|Tokai Kisen subject of Japan’s first-ever ship suspension order
-1790938823|https://www.aa.com.tr/en/world/un-allocates-160m-to-12-of-the-worlds-most-underfunded-humanitarian-crises/4075954|UN allocates $160M to 12 of the world's most underfunded humanitarian crises
-1790938831|https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates|Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates
-1790938838|https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards|The 10 Most Valuable Cards in Magic: The Gathering Reality Fracture
 1790938847|https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist|Person Behind Viral AI-Generated Fallout: New York Game Hauls It Offline, Says Bethesda Issued Cease and Desist
 1790939697|https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss|Explosions reported near military airport in Syria’s Idlib province
 1790939704|https://www.aljazeera.com/news/2026/10/2/indian-authorities-clamp-down-as-cockroach-movement-launches-new-protests?traffic_source=rss|Indian authorities clamp down as ‘cockroach’ movement launches new protests
@@ -1998,3 +1993,8 @@
 1791451750|https://www.france24.com/en/video/20261008-french-students-prepare-for-more-marches-as-hundreds-of-schools-close|French students prepare for more marches as hundreds of schools close
 1791451758|https://www.cnbc.com/2026/10/08/france-diesel-reserves-protests.html|France to release diesel reserves as student protests resume
 1791451765|https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html|After a yearslong slump, China's real estate market may be set for a turnaround
+1791452796|https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden/a-79561414?maca=en-rss-en-all-1573-rdf|German Bundeswehr: A new naval port in Emden
+1791452802|https://www.france24.com/en/video/20261008-france-to-release-10m-barrels-of-diesel-in-bid-to-curb-rising-prices|France to release 10m barrels of diesel in bid to curb rising prices
+1791452808|https://www.euronews.com/2026/10/08/denmark-introduces-a-bill-protecting-peoples-faces-and-voices-from-deepfakes|Denmark introduces bill to protect people’s faces and voices from deepfakes
+1791452816|https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales|Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales
+1791452822|https://www.euronews.com/2026/10/08/putting-biodiversity-in-our-hands-british-wildlife-will-soon-be-celebrated-on-banknotes|‘Putting biodiversity in our hands’: Four animals selected to feature on UK banknotes
