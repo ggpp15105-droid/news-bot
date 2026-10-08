@@ -1,8 +1,3 @@
-1790911861|https://lenta.ru/news/2026/10/02/v-minoborony-rasskazali-o-sposobe-koshmarivaniya-vsu/|В Минобороны рассказали о способе «кошмаривания» ВСУ
-1790912852|https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss|Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
-1790912859|https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss|US to send third aircraft carrier towards Iran: US official to Al Jazeera
-1790912866|https://www.japantimes.co.jp/news/2026/10/02/world/us-carrier-troops-mideast/|U.S. may add carrier and 10,000 troops to Middle East, official says
-1790912875|https://www.aa.com.tr/en/world/us-sends-additional-patriot-batteries-to-protect-saudi-qatari-energy-sites-report/4075620|US sends additional Patriot batteries to protect Saudi, Qatari energy sites: Report
 1790912880|https://lenta.ru/news/2026/10/02/pyanaya-rossiyanka-nasmert-zadavila-mat/|Пьяная россиянка насмерть задавила мать
 1790913566|https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf|US pressures EU allies to release diesel stockpiles
 1790913574|https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html|U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call
@@ -1998,3 +1993,8 @@
 1791423628|https://news.sky.com/story/us-puts-inmate-to-death-for-first-time-since-botched-execution-of-christa-pike-13596335|US puts inmate to death for first time since botched execution
 1791423634|https://www.japantimes.co.jp/business/2026/10/08/south-korea-cyberattack-china-suspect/|South Korea bank hack suspect may be 26-year-old in China, U.S. firm says
 1791423640|https://www.japantimes.co.jp/news/2026/10/08/world/houthi-saudi-airport-attack/|Houthi attacks kill three at Saudi Airports, including in Riyadh
+1791424560|https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss|Why is Guantanamo prison still open?
+1791424566|https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html|Oil gains as Middle East hostilities stoke supply worries
+1791424571|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-ukraine-defense-cooperation/|Japan and Ukraine further ties as Tokyo weighs unprecedented security linkup
+1791424577|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-nuke-subs-study-security-documents/|Japan considers having nuclear-powered-sub study in security documents
+1791424584|https://www.aa.com.tr/en/world/world-s-largest-penguin-colony-loses-nearly-two-thirds-of-population-amid-climate-change-study/4081613|World’s largest penguin colony loses nearly two-thirds of population amid climate change: Study
