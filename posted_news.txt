@@ -1,8 +1,3 @@
-1790914519|https://lenta.ru/news/2026/10/02/vo-vremya-translyatsii-zapuska-korablya-ilona-maska-nad-zemley-zametili-ogromnyy-nlo/|Во время трансляции запуска корабля Илона Маска над Землей заметили огромный НЛО
-1790915528|https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss|FAO official says he lost his job for criticising Israeli policies in Gaza
-1790915533|https://news.sky.com/story/spacex-flight-led-by-first-black-female-commander-sets-us-speed-record-13594191|SpaceX flight led by first black female commander sets US speed record
-1790915540|https://www.euronews.com/2026/10/02/rubio-unblocks-320-million-in-military-aid-to-egypt-that-had-been-withheld-over-human-righ|Rubio unblocks $320 million in military aid to Egypt that had been withheld over human rights concerns
-1790915549|https://lenta.ru/news/2026/10/02/ssha-prizvali-es-postavlyat-bolshe-dizelya/|США призвали ЕС поставлять больше дизеля
 1790915557|https://lenta.ru/news/2026/10/02/rossiyane-zainteresovalis-odnoy-kategoriey-tovarov/|Россияне заинтересовались необычной категорией товаров
 1790916527|https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss|Iran urges Iraq to lift flight ban amid US sanctions
 1790916534|https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf|Ukraine, South Korea clash over transfer of 2 North Korean prisoners
@@ -1998,3 +1993,8 @@
 1791426261|https://lenta.ru/news/2026/10/08/v-mid-predupredili-o-vozmozhnyh-intsidentah-iz-za-deystviy-es/|В МИД предупредили о возможных инцидентах из-за действий ЕС
 1791426270|https://www.kommersant.ru/doc/9008706|Число пострадавших при нападении в техникуме в Польше выросло до девяти месяцев
 1791426275|https://www.kommersant.ru/doc/9008705|Экс-глава Apple Тим Кук продал пакет акций компании почти на $64 млн
+1791427113|https://www.dw.com/en/imf-reaches-tentative-1-21-billion-bailout-deal-with-pakistan/a-79587047?maca=en-rss-en-all-1573-rdf|IMF reaches tentative $1.21 billion bailout deal with Pakistan
+1791427119|https://www.japantimes.co.jp/news/2026/10/08/world/science-health/china-vienna-first-nuclear-clocks/|Scientists in Vienna and Beijing create world’s first nuclear clocks
+1791427125|https://www.japantimes.co.jp/environment/2026/10/08/wildlife/penguin-island-colony-climate-change/|Climate change strips island’s title of largest penguin colony, study shows
+1791427129|https://lenta.ru/news/2026/10/08/kitayskiy-byd-mgnovenno-otreagiroval-na-skandalnyy-film-s-uchastiem-svoey-mashiny/|Китайский BYD мгновенно отреагировал на скандальный фильм с участием своей машины
+1791427138|https://lenta.ru/news/2026/10/08/rossiyanam-perechislili-sposobnye-otpugnut-rabotodatelya-pyat-fraz-v-rezyume/|Россиянам перечислили способные отпугнуть работодателя пять фраз в резюме
