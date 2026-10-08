@@ -1,8 +1,3 @@
-1790908357|https://lenta.ru/news/2026/10/02/v-rossii-vyskazalis-o-voyne-s-nato/|В России высказались о войне с НАТО
-1790909216|https://www.japantimes.co.jp/business/2026/10/02/companies/softbank-ai-return-investors/|SoftBank stock investors see past credit risks to AI returns
-1790909221|https://www.japantimes.co.jp/business/2026/10/02/companies/apollo-japan-ai/|Apollo to back $15 billion AI infrastructure project in Japan
-1790909227|https://www.aa.com.tr/en/middle-east/saudi-arabia-denies-reports-of-suicide-bomber-at-grand-mosque-in-mecca/4075613|Saudi Arabia denies reports of suicide bomber at Grand Mosque in Mecca
-1790909232|https://lenta.ru/news/2026/10/02/bloger-opisal-odnu-stranu-slovami-latinoamerikanskaya-rossiya/|Блогер описал одну страну словами «латиноамериканская Россия»
 1790909236|https://lenta.ru/news/2026/10/02/stala-izvestna-prichina-rezonansnogo-pohischeniya-devochki-v-smolenske/|Стала известна возможная причина резонансного похищения девочки в Смоленске
 1790909921|https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss|US says Europe should ready fuel supplies as Trump threatens diesel ban
 1790909927|https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss|NY's governor appoints special prosecutor in Cornell frat rape investigation
@@ -1998,3 +1993,8 @@
 1791418854|https://www.tomshardware.com/pc-components/this-is-the-cheapest-4tb-ssd-for-prime-day-at-only-10-cents-per-gigabyte-usd399-teamgroup-g50-evo-is-a-speedy-pcie-4-0-drive-at-cut-throat-pricing|This is the cheapest 4TB SSD for Prime Day at only 10 cents per gigabyte
 1791418860|https://lenta.ru/news/2026/10/08/muzhchina-vpervye-poluchil-priglashenie-zanyatsya-gruppovym-seksom-i-zadalsya-voprosom/|Мужчина впервые получил приглашение заняться групповым сексом и задался вопросом
 1791418869|https://lenta.ru/news/2026/10/08/detali-amerikanskogo-f-35-popali-v-druguyu-stranu/|Детали американского F-35 попали в другую страну
+1791420505|https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss|US stocks slide as oil prices fluctuate over renewed Iran war fears
+1791420510|https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss|Saudi Arabia confirms three dead in Houthi strikes on its airports
+1791420516|https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss|Yemen war live: Yemeni forces claim key heights as Houthi attacks go on
+1791420523|https://www.japantimes.co.jp/news/2026/10/08/world/october-seven-three-years/|Israelis mark three years since Oct. 7 as Palestinians mourn Gaza’s destruction
+1791420528|https://lenta.ru/news/2026/10/08/tramp-poshutil-pro-mamochku-protestuyuschego/|Трамп пошутил про «мамочку» протестующего
