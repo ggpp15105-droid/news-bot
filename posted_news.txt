@@ -1,8 +1,3 @@
-1790936202|https://www.euronews.com/2026/10/02/hundreds-of-high-schools-in-france-close-as-new-protests-against-conditions-erupt|Hundreds of high schools in France close as new protests against conditions erupt
-1790937163|https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss|A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now
-1790937169|https://www.aljazeera.com/opinions/2026/10/2/how-can-jordan-respond-to-israels-escalation-across-the-west-bank?traffic_source=rss|How can Jordan respond to Israel’s escalation across the West Bank?
-1790937174|https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss|New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?
-1790937182|https://www.euronews.com/2026/10/02/fact-check-whats-going-on-with-spains-maricarmen-housing-protests|Fact check: What's going on with Spain's 'Maricarmen' housing protests?
 1790937189|https://www.euronews.com/2026/10/02/schools-closed-services-slowed-and-flights-cancelled-strikes-hit-portugal|Schools closed, services slowed and flights cancelled: strikes hit Portugal
 1790938122|https://www.euronews.com/2026/10/02/discovereu-applications-now-open-thousands-of-free-travel-passes-for-young-europeans-up-fo|DiscoverEU applications now open: Thousands of free travel passes for young Europeans up for grabs
 1790938127|https://www.euronews.com/2026/10/02/could-the-future-of-ai-data-centres-be-in-space-google-wants-to-find-out|Could the future of AI data centres be in space? Google wants to find out
@@ -1998,3 +1993,8 @@
 1791449775|https://news.sky.com/story/royal-navy-serviceman-charged-with-national-security-act-offences-13596375|Royal Navy serviceman accused of spying for foreign power
 1791449783|https://www.euronews.com/video/2026/10/08/christa-pikes-lawyer-she-woke-up-and-began-talking|Christa Pike's lawyer: She woke up and began talking
 1791449790|https://www.euronews.com/2026/10/08/only-a-third-of-eu-counter-drone-programmes-will-deliver-by-2030-leaked-report-warns|Only a third of EU counter-drone programmes will deliver by 2030, leaked report warns
+1791450573|https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss|‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife
+1791450580|https://www.dw.com/en/nasa-apollo-program-pioneer-margaret-hamilton-dies/a-79589778?maca=en-rss-en-all-1573-rdf|NASA Apollo program pioneer Margaret Hamilton dies
+1791450587|https://www.euronews.com/2026/10/08/winter-ukraine-fighting-light-heat-war|This winter, Ukraine will be fighting for more than light and heat
+1791450595|https://www.euronews.com/2026/10/08/meteors-to-light-up-the-skies-this-october-how-to-watch-the-draconid-and-orionid-showers|Meteors to light up the skies this October: How to watch the Draconid and Orionid showers
+1791450603|https://www.japantimes.co.jp/business/2026/10/08/tech/focus-japan-data-leak/|Japan and cybersecurity: What’s behind recent attacks and what’s being done?
