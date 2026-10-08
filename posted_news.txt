@@ -1,8 +1,3 @@
-1790949611|https://www.france24.com/en/video/20261002-students-and-police-clash-as-france-struggles-to-quell-school-protests|Students and police clash as France struggles to quell school protests
-1790950599|https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss|Can India’s ‘cockroach’ movement oust Modi’s election chief?
-1790950604|https://www.france24.com/en/tv-shows/arts24/20261002-u2-celebrate-50-years-in-music-with-surprise-gigs|U2 celebrate 50 years in music with surprise gigs
-1790950610|https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html|Nike shares tumble after weak revenue outlook and layoff plans underway
-1790950617|https://www.euronews.com/2026/10/02/beyond-k-pop-and-cinema-major-korean-exhibition-brings-centuries-of-art-and-belief-to-lond|Beyond K-pop and cinema: Major Korean exhibition brings centuries of art and belief to London
 1790950624|https://www.euronews.com/video/2026/10/02/5000-drones-create-giant-shapes-over-nanchang-in-china|5,000 drones create giant shapes over Nanchang in China
 1790951788|https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss|I've seen nearly 500 executions - but never one like Christa Pike's
 1790951794|https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss|Trump claims Europe agreed to release ‘massive amount’ diesel stockpile
@@ -1998,3 +1993,8 @@
 1791486365|https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss|Israel opens first-ever pavilion at Morocco defence show
 1791486372|https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss|Colombian embassy to open in Jerusalem, Israeli FM says
 1791486378|https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss|Two Latvian men arrested inside UK military base after breach
+1791487294|https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss|Protesters blame 'vulture funds' for Spain's housing crisis
+1791487300|https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss|Hurricane Isaias charges towards the US Gulf Coast with dangerous winds
+1791487306|https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss|Syria calls for independent probe into sinking of ship in Black Sea
+1791487313|https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf|South Africa: Anti-migrant protests turn violent
+1791487319|https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf|US will not resume strikes on Iran before midterms — Trump
