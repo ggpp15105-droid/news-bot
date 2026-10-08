@@ -1,8 +1,3 @@
-1790964124|https://lenta.ru/news/2026/10/02/na-ukraine-priznali-uyazvimost-v-vazhnoy-sfere-boevyh-deystviy/|На Украине признали уязвимость в важной сфере боевых действий
-1790965350|https://www.ign.com/articles/pokemon-tcg-delta-reign-where-to-buy|Pokémon TCG’s Final 2026 Set Is Already Causing Even More Preorder Chaos
-1790965356|https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more|GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More
-1790965361|https://www.ign.com/articles/4-things-to-focus-on-outside-combat-in-fire-emblem-fortunes-weave|4 Things to Focus on Outside Combat in Fire Emblem: Fortune’s Weave
-1790965368|https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games|"This is your Dreamcast moment": Former PlayStation boss thinks Xbox needs to "pick a lane" with exclusive games to fix itself
 1790965373|https://lenta.ru/news/2026/10/02/musk-back/|Названа причина возвращения Маска в Белый дом
 1790966475|https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss|Israeli barrier cuts off water to West Bank Palestinians before elections
 1790966480|https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss|Israel’s Supreme Court overturns election panel ban on Arab parties
@@ -1998,3 +1993,8 @@
 1791501634|https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html|S&P 500 futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates
 1791501640|https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover|"It's clear that we both adore one another's games a lot" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven
 1791501646|https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1|Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros
+1791502549|https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss|Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC
+1791502556|https://www.ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay|Jay and Silent Bob’s Joint Venture Trailer and Game Details Revealed for Weed Farming Sim | NYCC 2026
+1791502564|https://www.ign.com/articles/smile-2-star-kyle-gallner-wants-to-play-v-in-paramounts-cyberpunk-2077-movie|Smile 2 Star Kyle Gallner Wants to Play V in Paramount’s Cyberpunk 2077 Movie
+1791502572|https://www.eurogamer.net/2xko-sett-announcement-final-update|Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month
+1791502578|https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts|For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts
