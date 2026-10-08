@@ -1,8 +1,3 @@
-1790947759|https://www.euronews.com/2026/10/02/france-and-germany-lead-push-to-keep-military-space-powers-in-national-hands|France and Germany lead push to keep military space powers in national hands
-1790948732|https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss|Man City lodge appeal after guilty finding in financial breach scandal
-1790948739|https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss|Trump vs Europe as US presses for release of emergency diesel stocks
-1790948745|https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss|Wolf encounter: A photographer on what humans have lost
-1790948752|https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?traffic_source=rss|Protests shutter hundreds of French schools as violence flares
 1790948759|https://www.dw.com/en/this-island-in-kiribati-could-be-the-key-to-solve-the-amelia-earhart-mystery/a-79517455?maca=en-rss-en-all-1573-rdf|This island in Kiribati could be the key to solve the Amelia Earhart mystery
 1790949589|https://www.dw.com/en/can-there-be-solar-for-all-everywhere-by-2030/a-79517056?maca=en-rss-en-all-1573-rdf|Can there be solar for all, everywhere by 2030?
 1790949595|https://www.france24.com/en/middle-east/20261002-netanyahu-warns-of-very-heavy-price-if-any-country-found-to-be-behind-flydubai-incident|Netanyahu warns of 'very heavy price' if any country found to be behind FlyDubai incident
@@ -1998,3 +1993,8 @@
 1791461721|https://www.euronews.com/video/2026/10/08/pink-hair-and-powerful-plaids-tate-britain-celebrates-the-chaotic-creativity-of-90s-cultur|Pink hair and powerful plaids: Tate Britain celebrates the chaotic creativity of 90s culture
 1791461729|https://www.euronews.com/video/2026/10/08/manny-pacquiao-hosts-polish-president-karol-nawrocki-for-manila-boxing-workout|Manny Pacquiao hosts Polish president Karol Nawrocki for Manila boxing workout
 1791461736|https://www.euronews.com/2026/10/08/fresh-day-of-student-protests-across-france-as-rally-planned-in-paris|Fresh day of student protests across France as rally planned in Paris
+1791463682|https://www.aljazeera.com/news/2026/10/8/italian-law-to-give-election-winners-bonus-seats-why-thats-controversial?traffic_source=rss|Italian law to give election winners bonus seats: Why that’s controversial
+1791463688|https://www.aljazeera.com/video/newsfeed/2026/10/8/sri-lanka-arrests-ex-president-rajapaksas-wife-in-graft-case?traffic_source=rss|Sri Lanka arrests ex-President Rajapaksa’s wife in graft case
+1791463694|https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss|Why has Iraq devalued its currency, and why are some MPs against it?
+1791463700|https://www.aljazeera.com/video/counting-the-cost/2026/10/8/can-emergency-reserves-ease-the-diesel-crisis?traffic_source=rss|Can emergency reserves ease the diesel crisis?
+1791463705|https://www.aljazeera.com/video/newsfeed/2026/10/8/hegseth-address-sailors-in-pushup-apology-and-trump-impression?traffic_source=rss|Hegseth address sailors in pushup apology and Trump impression
