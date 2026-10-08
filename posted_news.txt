@@ -1,8 +1,3 @@
-1790941621|https://www.france24.com/en/video/20261002-nigeria-rolls-out-digital-postcodes|Nigeria rolls out digital postcodes
-1790942307|https://www.france24.com/en/video/20261002-eritrea-cuts-ties-with-ethiopia-over-embassy-closure|Eritrea cuts ties with Ethiopia over embassy closure
-1790942314|https://www.cnbc.com/2026/10/02/trump-wants-south-korea-in-on-alaska-lng-heres-why-seoul-is-cautious.html|Trump wants South Korea in on Alaska LNG. Here’s why Seoul is cautious
-1790942320|https://www.cnbc.com/2026/10/02/novartis-abogen-china-biotech-deal.html|Big Pharma turns to China for new drugs as patent cliff drives multibillion-dollar deals
-1790942327|https://www.euronews.com/2026/10/02/man-city-lodges-comprehensive-appeal-after-being-found-guilty-of-financial-rule-breaking|Man City lodges 'comprehensive' appeal after being found guilty of financial rule-breaking
 1790942334|https://www.euronews.com/2026/10/02/us-sends-third-carrier-strike-group-to-middle-east-in-biggest-buildup-since-2003|US sends third carrier strike group to Middle East in biggest buildup since 2003
 1790943316|https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss|Tunisia softens its ‘false news’ penalty. What really changed, and why now?
 1790943321|https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss|What’s behind France’s school protests?
@@ -1998,3 +1993,8 @@
 1791456027|https://www.euronews.com/2026/10/08/uk-airport-e-gates-to-become-passport-free-and-contactless-by-early-2027|UK airport e-gates to become passport-free and contactless by early 2027
 1791456033|https://www.japantimes.co.jp/environment/2026/10/08/climate-change/cop-chief-climate-defense-spending/|Climate needs same urgency as defense spending, COP31 chief says
 1791456040|https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/politics/south-korea-ukraine-envoy-recall/|South Korea to recall ambassador from Ukraine amid deepening row
+1791456954|https://www.aljazeera.com/news/2026/10/8/malaysia-to-help-myanmar-reintegrate-into-asean-despite-rights-concerns?traffic_source=rss|Malaysia PM says will work on Myanmar’s ASEAN reintegration
+1791456960|https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss|Russian attack on Ukraine’s Kramatorsk kills at least 12 people
+1791456968|https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf|As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
+1791456973|https://www.euronews.com/2026/10/08/ryanair-ceo-sees-no-european-jet-fuel-shortages-into-summer-2027|Ryanair CEO sees no European jet fuel shortages into summer 2027
+1791456978|https://www.japantimes.co.jp/business/2026/10/08/uniqlo-global-top/|Uniqlo on track to overtake H&M, eyes Zara for global No. 1
