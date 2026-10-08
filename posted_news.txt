@@ -1,8 +1,3 @@
-1790938847|https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist|Person Behind Viral AI-Generated Fallout: New York Game Hauls It Offline, Says Bethesda Issued Cease and Desist
-1790939697|https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss|Explosions reported near military airport in Syria’s Idlib province
-1790939704|https://www.aljazeera.com/news/2026/10/2/indian-authorities-clamp-down-as-cockroach-movement-launches-new-protests?traffic_source=rss|Indian authorities clamp down as ‘cockroach’ movement launches new protests
-1790939709|https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-sv-ireland-austria-game-tennis-balls-ie?traffic_source=rss|Protests disrupt Ireland football match with ‘Palestine tennis balls’
-1790939717|https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html|The secret signs the bond sell-off might be ending
 1790939724|https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html|Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?
 1790940649|https://www.aljazeera.com/features/2026/10/2/containerabad-pakistans-capital-and-truckers-bleed-money-amid-lockdown?traffic_source=rss|‘Containerabad’: Pakistan’s capital and truckers bleed money amid lockdown
 1790940657|https://www.aljazeera.com/sports/2026/10/2/india-pakistan-cricket-final-asian-games-cricket-gold-medal?traffic_source=rss|India vs Pakistan cricket: Asian Games gold medal final – all to know
@@ -1998,3 +1993,8 @@
 1791452808|https://www.euronews.com/2026/10/08/denmark-introduces-a-bill-protecting-peoples-faces-and-voices-from-deepfakes|Denmark introduces bill to protect people’s faces and voices from deepfakes
 1791452816|https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales|Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales
 1791452822|https://www.euronews.com/2026/10/08/putting-biodiversity-in-our-hands-british-wildlife-will-soon-be-celebrated-on-banknotes|‘Putting biodiversity in our hands’: Four animals selected to feature on UK banknotes
+1791453723|https://www.aljazeera.com/news/2026/10/8/uk-police-charge-royal-navy-member-accused-of-working-with-foreign-power?traffic_source=rss|UK police charge Royal Navy member accused of working with foreign power
+1791453728|https://www.aljazeera.com/opinions/2026/10/8/bosnias-political-future-looks-increasingly-like-its-past?traffic_source=rss|Bosnia’s political future looks increasingly like its past
+1791453733|https://www.dw.com/en/uk-scales-back-jerusalem-consulate-after-israel-dispute/a-79590790?maca=en-rss-en-all-1573-rdf|UK scales back Jerusalem consulate after Israel dispute
+1791453738|https://www.france24.com/en/video/20261008-anger-mounts-in-spain-as-woman-whose-eviction-ignited-housing-protests-dies|Anger mounts in Spain as woman whose eviction ignited housing protests dies
+1791453743|https://www.france24.com/en/tv-shows/focus/20261008-strait-of-hormuz-crisis-fuels-cairo-s-plastic-recycling-business|Strait of Hormuz crisis fuels Cairo's plastic recycling business
