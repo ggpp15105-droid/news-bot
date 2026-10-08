@@ -1,8 +1,3 @@
-1790965373|https://lenta.ru/news/2026/10/02/musk-back/|Названа причина возвращения Маска в Белый дом
-1790966475|https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss|Israeli barrier cuts off water to West Bank Palestinians before elections
-1790966480|https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss|Israel’s Supreme Court overturns election panel ban on Arab parties
-1790966486|https://www.aa.com.tr/en/world/russia-welcomes-withdrawal-of-us-military-presence-in-iraq/4076504|Russia welcomes withdrawal of US military presence in Iraq
-1790966494|https://lenta.ru/news/2026/10/03/v-minprosvescheniya-rasskazali-o-glavnom-pedagogicheskom-vyzove/|В Минпросвещения рассказали о главном педагогическом вызове
 1790966499|https://lenta.ru/news/2026/10/02/sotrudniki-minfina-rossii-vpervye-poluchili-zarplatu-v-tsifrovyh-rublyah/|Сотрудники Минфина России впервые получили зарплату в цифровых рублях
 1790967378|https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss|Sudan’s army says it captured RSF stronghold in North Kordofan
 1790967382|https://lenta.ru/news/2026/10/02/v-rossiyskom-regione-zafiksirovali-silnoe-zemletryasenie/|В российском регионе зафиксировали сильное землетрясение
@@ -1998,3 +1993,8 @@
 1791502564|https://www.ign.com/articles/smile-2-star-kyle-gallner-wants-to-play-v-in-paramounts-cyberpunk-2077-movie|Smile 2 Star Kyle Gallner Wants to Play V in Paramount’s Cyberpunk 2077 Movie
 1791502572|https://www.eurogamer.net/2xko-sett-announcement-final-update|Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month
 1791502578|https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts|For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts
+1791503391|https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss|Man City charges: Mourinho jokes Premier League case will outlast him
+1791503397|https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks|OpenAI bans Russian, Iranian ChatGPT propaganda networks
+1791503404|https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2|Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals
+1791503410|https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too|You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too
+1791503417|https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie|All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie
