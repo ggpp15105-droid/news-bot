@@ -1,8 +1,3 @@
-1790937189|https://www.euronews.com/2026/10/02/schools-closed-services-slowed-and-flights-cancelled-strikes-hit-portugal|Schools closed, services slowed and flights cancelled: strikes hit Portugal
-1790938122|https://www.euronews.com/2026/10/02/discovereu-applications-now-open-thousands-of-free-travel-passes-for-young-europeans-up-fo|DiscoverEU applications now open: Thousands of free travel passes for young Europeans up for grabs
-1790938127|https://www.euronews.com/2026/10/02/could-the-future-of-ai-data-centres-be-in-space-google-wants-to-find-out|Could the future of AI data centres be in space? Google wants to find out
-1790938133|https://www.japantimes.co.jp/culture/2026/10/02/art/maebashi-biennale-art-festival/|In Maebashi, the city-making is the art
-1790938139|https://www.japantimes.co.jp/news/2026/10/02/japan/science-health/japan-flu-outbreak/|Japan hit by nationwide flu outbreak
 1790938146|https://www.japantimes.co.jp/news/2026/10/02/japan/politics/takaichi-trump-talks-weak-yen/|Takaichi told during Trump talks that weak yen was hurting U.S. trade
 1790938817|https://www.japantimes.co.jp/news/2026/10/02/japan/tokai-kisen-suspension-order/|Tokai Kisen subject of Japan’s first-ever ship suspension order
 1790938823|https://www.aa.com.tr/en/world/un-allocates-160m-to-12-of-the-worlds-most-underfunded-humanitarian-crises/4075954|UN allocates $160M to 12 of the world's most underfunded humanitarian crises
@@ -1998,3 +1993,8 @@
 1791450587|https://www.euronews.com/2026/10/08/winter-ukraine-fighting-light-heat-war|This winter, Ukraine will be fighting for more than light and heat
 1791450595|https://www.euronews.com/2026/10/08/meteors-to-light-up-the-skies-this-october-how-to-watch-the-draconid-and-orionid-showers|Meteors to light up the skies this October: How to watch the Draconid and Orionid showers
 1791450603|https://www.japantimes.co.jp/business/2026/10/08/tech/focus-japan-data-leak/|Japan and cybersecurity: What’s behind recent attacks and what’s being done?
+1791451740|https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss|Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms
+1791451746|https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise|School protests part of a broader French malaise?
+1791451750|https://www.france24.com/en/video/20261008-french-students-prepare-for-more-marches-as-hundreds-of-schools-close|French students prepare for more marches as hundreds of schools close
+1791451758|https://www.cnbc.com/2026/10/08/france-diesel-reserves-protests.html|France to release diesel reserves as student protests resume
+1791451765|https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html|After a yearslong slump, China's real estate market may be set for a turnaround
