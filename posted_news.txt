@@ -1,8 +1,3 @@
-1790943341|https://www.dw.com/en/expedition-hopes-to-finally-solve-the-amelia-earhart-mystery/a-79517455?maca=en-rss-en-all-1573-rdf|Expedition hopes to finally solve the Amelia Earhart mystery
-1790944697|https://www.cnbc.com/2026/10/02/france-student-protests-budget-debt.html|A violent classroom revolt is becoming France's next big crisis
-1790944703|https://www.euronews.com/2026/10/02/france-weighs-emergency-oil-release-as-us-pressure-mounts-ahead-of-g7-call|France weighs emergency oil release as US pressure mounts ahead of G7 call
-1790944709|https://www.euronews.com/2026/10/02/uk-scraps-charges-to-seat-children-with-parents-on-flights-and-for-simple-name-errors|UK scraps charges to seat children with parents on flights, and for simple name errors
-1790944715|https://www.euronews.com/2026/10/02/t-shirts-instead-of-winter-coats-what-a-warm-october-reveals-about-winter|T-shirts instead of winter coats: What a warm October reveals about winter
 1790944721|https://www.japantimes.co.jp/news/2026/10/02/japan/politics/us-missile-yonaguni-drills/|U.S. to put missile system on island near Taiwan for drills
 1790945784|https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss|Ethiopian gov’t-aligned group claims close to full control of Tigray region
 1790945791|https://www.france24.com/en/tv-shows/reporters/20261002-paraguay-a-tax-and-political-haven-for-brazil-s-far-right|Paraguay, a tax and political haven for Brazil's far right
@@ -1998,3 +1993,8 @@
 1791457710|https://www.japantimes.co.jp/news/2026/10/08/japan/politics/yana-takaichi/|Takaichi continues to fend off questions about scandal-hit farm minister
 1791457716|https://www.aa.com.tr/en/world/vatican-s-top-diplomat-on-maiden-visit-to-pakistan/4081807|Vatican’s top diplomat on maiden visit to Pakistan
 1791457722|https://www.ign.com/articles/wardogs-streamer-banned-for-exploits|Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich
+1791458826|https://www.aljazeera.com/news/2026/10/8/school-protests-blockades-resume-in-france-despite-pms-promise-to-act?traffic_source=rss|School protests, blockades resume in France despite PM’s promise to act
+1791458833|https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war?traffic_source=rss|The Hormuz bonus: Sailor salaries soar for transits amid Iran war
+1791458839|https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html|Ray Dalio warns the stock market's cushion against rising bond yields is shrinking
+1791458845|https://www.euronews.com/2026/10/08/two-thirds-of-young-europeans-suffered-childhood-trauma-with-lasting-life-impact-who-finds|Two-thirds of young Europeans suffered childhood trauma, with lasting life impact, WHO finds
+1791458852|https://www.euronews.com/2026/10/08/tallinn-airport-lets-driverless-shuttles-run-close-to-airplanes-opening-the-way-to-wider-a|Tallinn Airport lets driverless shuttles run close to airplanes, opening the way to wider airport automation
