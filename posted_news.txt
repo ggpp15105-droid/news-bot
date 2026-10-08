@@ -1,8 +1,3 @@
-1790930933|https://lenta.ru/news/2026/10/02/stalo-izvestno-ob-izmenenii-linii-fronta-v-zone-svo/|Стало известно об изменении линии фронта в зоне СВО
-1790931619|https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss|US delivers F-16V fighter jets to Taiwan as island eyes threat from China
-1790931626|https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html|Oil prices extend losses after reports of potential European diesel, crude stock release
-1790931634|https://www.euronews.com/2026/10/02/pete-hegseth-creates-pentagon-office-of-religious-affairs-reporting-directly-to-him|Pete Hegseth creates Pentagon Office of Religious Affairs reporting directly to him
-1790931641|https://www.japantimes.co.jp/news/2026/10/02/japan/jlpt-test-alternatives/|Missed the JLPT? Here’s what you can do next
 1790931648|https://www.japantimes.co.jp/news/2026/10/02/japan/fukushima-post-nuclear-disaster-supermarket/|Fukushima town gets first new supermarket since nuclear accident
 1790932619|https://www.france24.com/en/tv-shows/people-profit/20261002-can-ai-play-a-role-in-reducing-inequality|Can AI play a role in reducing inequality?
 1790932625|https://www.france24.com/en/middle-east/20261002-flydubai-hero-pilot-tells-modi-i-could-not-let-all-those-people-die|Flydubai hero pilot tells Modi 'I could not let all those people die'
@@ -1998,3 +1993,8 @@
 1791443188|https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing|EU-China talks enter critical phase as trade chief Šefčovič touches down in Beijing
 1791443193|https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war|Oil prices are climbing on concerns about an escalating Iran war
 1791443200|https://www.euronews.com/2026/10/08/portuguese-hospital-lets-pets-visit-owners-in-wards-a-paradigm-shift|Portuguese hospital lets pets visit owners in wards: a paradigm shift?
+1791444392|https://www.france24.com/en/africa/20261008-senegal-and-morocco-set-for-afcon-title-rematch-%E2%80%93-swiss-sports-court|Senegal and Morocco set for AFCON title rematch – in Swiss sports court
+1791444397|https://www.euronews.com/2026/10/08/type-1-diabetes-should-not-set-the-limits-on-a-childs-sports-dreams|Type 1 diabetes 'should not set the limits on a child's sports dreams'
+1791444403|https://www.euronews.com/2026/10/08/uks-exclusion-from-made-in-eu-scheme-would-weaken-europe-minister-warns|UK’s exclusion from ‘Made in EU’ scheme would ‘weaken’ Europe, minister warns
+1791444409|https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/politics/us-myanmar-open-talks/|U.S. opens direct talks with Myanmar’s generals, reversing years of isolation
+1791444418|https://lenta.ru/news/2026/10/08/long-yandeks-soobschil-o-masshtabnom-sboe-v-rabote-servisov-iz-za-ataki-vsu-chto-izvestno/|«Яндекс» сообщил о масштабном сбое из-за удара беспилотников. Это первая атака ВСУ на российский дата-центр
