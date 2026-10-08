@@ -1,8 +1,3 @@
-1790920049|https://lenta.ru/news/2026/10/02/glavnyy-onkolog-minzdrava-otsenil-riski-razvitiya-raka-ot-implantatov-i-botoksa/|Главный онколог Минздрава оценил риски развития рака от имплантатов и ботокса
-1790920732|https://www.euronews.com/2026/10/02/new-airstream-caravan-retreat-opens-in-the-uaes-hajar-mountains|New Airstream caravan retreat opens in the UAE’s Hajar Mountains
-1790920739|https://www.euronews.com/2026/10/02/where-in-europe-is-data-centre-hiring-growing-fastest-and-why-do-these-jobs-pay-more|Where in Europe is data centre hiring growing fastest – and why do these jobs pay more?
-1790920747|https://lenta.ru/news/2026/10/02/nazvana-vozmozhnaya-prichina-pozhara-v-osobnyake-millera-v-sankt-peterburge/|Названа возможная причина пожара в особняке Миллера в Санкт-Петербурге
-1790920752|https://lenta.ru/news/2026/10/02/v-kieve-perekryli-strategicheski-vazhnyy-most/|В Киеве перекрыли стратегически важный мост
 1790920761|https://lenta.ru/news/2026/10/02/v-rossii-raskryli-sovershennuyu-v-1999-godu-zakaznuyu-raspravu/|В России раскрыли совершенную в 1999 году заказную расправу
 1790921780|https://www.aljazeera.com/sports/2026/10/2/asian-games-aichi-nagoya-2026-boxing-taiwan-lin-yu-ting-gold?traffic_source=rss|Asian Games 2026: Taiwan’s gender-row boxer Lin Yu-ting wins gold medal
 1790921785|https://www.france24.com/en/tv-shows/sports/20261002-nations-league-zidane-returns-to-face-italy-and-the-stade-de-france|Nations League: Zidane returns to face Italy and the Stade de France
@@ -1998,3 +1993,8 @@
 1791431763|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-tells-china-respect-pm/|Japan tells China to show ‘respect’ in addressing PM
 1791431768|https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards|Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards
 1791431777|https://lenta.ru/news/2026/10/08/allergikam-dali-neskolko-vazhnyh-sovetov-na-fone-vklyucheniya-otopleniya/|Аллергикам дали несколько важных советов на фоне включения отопления
+1791432462|https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss|France's school protests: what lies behind the anger
+1791432468|https://www.euronews.com/2026/10/08/maricarmen-the-87-year-old-woman-whose-eviction-triggered-major-protests-has-died-in-hospi|Maricarmen, the 87-year-old woman whose eviction triggered major protests, has died in hospital, lawyer says
+1791432477|https://lenta.ru/news/2026/10/08/rossiyanam-dali-sovety-po-podgotovke-avtomobilya-k-dozhdyam-i-poholodaniyu/|Россиянам дали советы по подготовке автомобиля к дождям и похолоданию
+1791432482|https://lenta.ru/news/2026/10/08/ochen-druzhelyubnaya-35-letnyaya-uchitelnitsa-iznasilovala-shkolnika/|«Очень дружелюбная» 35-летняя учительница изнасиловала школьника
+1791432486|https://lenta.ru/news/2026/10/08/raskryt-sekret-bystryh-trenirovok-mettyu-makkonahi/|Раскрыт секрет быстрых тренировок Мэттью Макконахи
