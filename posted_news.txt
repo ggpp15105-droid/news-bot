@@ -1,8 +1,3 @@
-1790909236|https://lenta.ru/news/2026/10/02/stala-izvestna-prichina-rezonansnogo-pohischeniya-devochki-v-smolenske/|Стала известна возможная причина резонансного похищения девочки в Смоленске
-1790909921|https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss|US says Europe should ready fuel supplies as Trump threatens diesel ban
-1790909927|https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss|NY's governor appoints special prosecutor in Cornell frat rape investigation
-1790909933|https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss|OpenAI fires workers for mishandling 'sensitive information'
-1790909940|https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/nepal-dna-flood-dead-identify/|Nepal’s grim DNA puzzle to identify flood dead
 1790909949|https://lenta.ru/news/2026/10/02/rossiyanam-rasskazali-kakuyu-poderzhannuyu-mashinu-brat-luchshe-vsego/|Россиянам назвали правила выбора подержанной машины
 1790910812|https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss|Row between Ukraine, South Korea mounts over North Korean POWs
 1790910818|https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html|U.S. market regulator seeks to make it easier for funds, advisers to hold crypto
@@ -1998,3 +1993,8 @@
 1791420516|https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss|Yemen war live: Yemeni forces claim key heights as Houthi attacks go on
 1791420523|https://www.japantimes.co.jp/news/2026/10/08/world/october-seven-three-years/|Israelis mark three years since Oct. 7 as Palestinians mourn Gaza’s destruction
 1791420528|https://lenta.ru/news/2026/10/08/tramp-poshutil-pro-mamochku-protestuyuschego/|Трамп пошутил про «мамочку» протестующего
+1791421579|https://www.aljazeera.com/news/2026/10/8/how-kidnappings-are-hitting-nigerias-borno-families-hard?traffic_source=rss|How kidnappings are hitting Nigeria’s Borno families hard
+1791421586|https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf|Brazil: Thousands of students march against Bolsonaro
+1791421593|https://www.japantimes.co.jp/news/2026/10/08/world/politics/us-uk-jets-move/|U.K. sees Trump’s bomber jets move boosting Iran and Russia
+1791421598|https://lenta.ru/news/2026/10/08/styuardessa-krupnoy-aviakompanii-rasskazala-ob-otnoshenii-k-aplodismentam-posle-posadki/|Стюардесса крупной авиакомпании рассказала об отношении к аплодисментам после посадки
+1791421602|https://lenta.ru/news/2026/10/08/gendirektor-parka-patriot-priznal-vinu/|Гендиректор парка «Патриот» признал вину
