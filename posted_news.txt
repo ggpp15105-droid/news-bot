@@ -1,8 +1,3 @@
-1790923188|https://www.france24.com/en/france/20261002-hundreds-of-french-schools-remain-closed-as-student-protests-turn-violent|Hundreds of French schools remain closed as student protests turn violent
-1790924219|https://www.france24.com/en/tv-shows/spotlight/20261002-egypt-warned-israel-of-major-hamas-attack-no-world-where-netanyahu-s-not-aware-vivian-salama|Egypt warned Israel of 'major' Hamas attack: 'No world' where Netanyahu's not aware (Vivian Salama)
-1790924224|https://news.sky.com/story/trump-warning-on-diesel-forces-eu-emergency-talks-as-prices-hit-record-highs-13594218|Trump warning on diesel forces EU emergency talks as prices hit record highs
-1790924230|https://www.euronews.com/2026/10/02/dual-uk-iranian-national-arrested-over-security-incident-at-raf-air-base-in-england|Dual UK-Iranian national arrested over security incident at RAF air base in England
-1790924238|https://www.euronews.com/video/2026/10/02/madrid-protesters-bang-pots-to-demand-action-on-spains-housing-crisis|Madrid protesters bang pots to demand action on Spain’s housing crisis
 1790924244|https://www.euronews.com/2026/10/02/eu-says-oil-reserve-release-possible-amid-us-pressure|EU says oil reserve release possible amid US pressure
 1790925047|https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-rdf|India news: Delhi protesters turn up heat on election chief, police tightens security
 1790925055|https://www.euronews.com/2026/10/02/over-1000-adult-lego-fans-gathered-in-denmark-near-the-toy-giants-birthplace|Over 1,000 adult LEGO fans gathered in Denmark near the toy giant’s birthplace
@@ -1998,3 +1993,8 @@
 1791434645|https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update|Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update
 1791434649|https://lenta.ru/news/2026/10/08/nazvany-prichiny-vozniknoveniya-allergii-na-holod/|Названы причины возникновения аллергии на холод
 1791434654|https://lenta.ru/news/2026/10/08/pod-harkovom-unichtozhili-krupnyy-punkt-perebroshennyh-iz-kieva-kolumbiyskih-naemnikov/|Под Харьковом уничтожили крупный пункт переброшенных из Киева колумбийских наемников
+1791435517|https://www.aljazeera.com/video/newsfeed/2026/10/8/trump-interrupted-by-protesters-at-texas-rally?traffic_source=rss|Trump interrupted by protesters at Texas rally
+1791435522|https://news.sky.com/story/worlds-largest-penguin-colony-shrinks-two-thirds-in-just-14-years-13596336|World's largest penguin colony shrinks two-thirds in just 14 years
+1791435529|https://www.japantimes.co.jp/business/2026/10/08/companies/tdk-bidding-war-ai-data-center/|AI data-center boom ignites bidding war for critical TDK unit
+1791435538|https://lenta.ru/news/2026/10/08/v-uregulirovanii-konflikta-na-blizhnem-vostoke-uvideli-riski-dlya-rublya/|В урегулировании конфликта на Ближнем Востоке увидели риски для рубля
+1791435546|https://lenta.ru/news/2026/10/08/rossiyskaya-neft-rezko-vyrosla-v-tsene/|Российская нефть резко выросла в цене
