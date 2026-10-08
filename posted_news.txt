@@ -1,8 +1,3 @@
-1790940677|https://www.france24.com/en/tv-shows/press-review/20261002-brazil-s-election-lula-or-bolsonaro-jr|Brazil's election: Lula or Bolsonaro Jr?
-1790941597|https://www.aljazeera.com/news/2026/10/2/just-one-in-10-germans-thinks-merz-is-up-to-the-job-after-election-wipeout?traffic_source=rss|Just one in 10 Germans thinks Merz is up to the job after election wipeout
-1790941602|https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack?traffic_source=rss|FlyDubai pilot describes opening cockpit door during attack
-1790941609|https://www.dw.com/en/lost-aviator-amelia-earhart-can-the-mystery-be-solved/a-79517455?maca=en-rss-en-all-1573-rdf|Lost aviator Amelia Earhart: Can the mystery be solved?
-1790941615|https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race|What's real and what's fake? How AI is impacting Brazil's election race
 1790941621|https://www.france24.com/en/video/20261002-nigeria-rolls-out-digital-postcodes|Nigeria rolls out digital postcodes
 1790942307|https://www.france24.com/en/video/20261002-eritrea-cuts-ties-with-ethiopia-over-embassy-closure|Eritrea cuts ties with Ethiopia over embassy closure
 1790942314|https://www.cnbc.com/2026/10/02/trump-wants-south-korea-in-on-alaska-lng-heres-why-seoul-is-cautious.html|Trump wants South Korea in on Alaska LNG. Here’s why Seoul is cautious
@@ -1998,3 +1993,8 @@
 1791454950|https://www.france24.com/en/video/20261008-uk-germany-to-launch-partnership-to-counter-cyberattacks-as-burnham-visits-berlin|UK, Germany to launch partnership to counter cyberattacks as Burnham visits Berlin
 1791454956|https://www.euronews.com/video/2026/10/08/this-serbian-cafe-lets-you-enjoy-your-coffee-alongside-alpacas|This Serbian cafe lets you enjoy your coffee alongside alpacas
 1791454962|https://www.euronews.com/2026/10/08/us-probes-eu-carbon-border-tax-over-potential-trade-barriers|US probes EU carbon border tax over potential trade barriers
+1791456014|https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss|Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
+1791456021|https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf|Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk
+1791456027|https://www.euronews.com/2026/10/08/uk-airport-e-gates-to-become-passport-free-and-contactless-by-early-2027|UK airport e-gates to become passport-free and contactless by early 2027
+1791456033|https://www.japantimes.co.jp/environment/2026/10/08/climate-change/cop-chief-climate-defense-spending/|Climate needs same urgency as defense spending, COP31 chief says
+1791456040|https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/politics/south-korea-ukraine-envoy-recall/|South Korea to recall ambassador from Ukraine amid deepening row
