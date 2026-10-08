@@ -1,8 +1,3 @@
-1790935248|https://news.sky.com/story/imran-khan-supporters-to-be-kept-out-of-pakistans-capital-by-shipping-containers-seized-from-distressed-lorry-drivers-13594249|Pakistan seizes shipping containers to keep Imran Khan supporters out of capital
-1790936176|https://news.sky.com/story/more-than-4000-deaths-recorded-in-dr-congo-ebola-outbreak-13594285|More than 4,000 deaths recorded in DR Congo Ebola outbreak
-1790936182|https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html|Eurozone inflation hits its highest level in three years at 3.8% as energy costs soar
-1790936189|https://www.euronews.com/video/2026/10/02/european-diesel-reserves-cover-10-days-of-the-worlds-demands-expert-says|European diesel reserves cover 10 days of the world's demands, expert says
-1790936196|https://www.euronews.com/2026/10/02/eu-adds-130-million-to-drone-funding-in-border-security-push|EU adds €130 million to drone funding in border security push
 1790936202|https://www.euronews.com/2026/10/02/hundreds-of-high-schools-in-france-close-as-new-protests-against-conditions-erupt|Hundreds of high schools in France close as new protests against conditions erupt
 1790937163|https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss|A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now
 1790937169|https://www.aljazeera.com/opinions/2026/10/2/how-can-jordan-respond-to-israels-escalation-across-the-west-bank?traffic_source=rss|How can Jordan respond to Israel’s escalation across the West Bank?
@@ -1998,3 +1993,8 @@
 1791448724|https://www.aljazeera.com/opinions/2026/10/8/why-israel-loves-skunk-water?traffic_source=rss|Why Israel loves skunk water
 1791448730|https://www.aljazeera.com/news/2026/10/8/india-defends-satellite-internet-approval-process-after-elon-musk-jab?traffic_source=rss|India defends satellite internet approval process after Elon Musk jab
 1791448737|https://www.euronews.com/2026/10/08/houthis-claim-missile-strike-on-riyadh-airport-as-explosions-heard-in-saudi-capital|Houthis claim missile strike on Riyadh airport as explosions heard in Saudi capital
+1791449763|https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss|How Gaza war sped up India’s shift towards Israel under Modi
+1791449770|https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-all-1573-rdf|Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?
+1791449775|https://news.sky.com/story/royal-navy-serviceman-charged-with-national-security-act-offences-13596375|Royal Navy serviceman accused of spying for foreign power
+1791449783|https://www.euronews.com/video/2026/10/08/christa-pikes-lawyer-she-woke-up-and-began-talking|Christa Pike's lawyer: She woke up and began talking
+1791449790|https://www.euronews.com/2026/10/08/only-a-third-of-eu-counter-drone-programmes-will-deliver-by-2030-leaked-report-warns|Only a third of EU counter-drone programmes will deliver by 2030, leaked report warns
