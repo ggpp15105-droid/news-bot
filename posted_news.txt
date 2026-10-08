@@ -1,8 +1,3 @@
-1790950624|https://www.euronews.com/video/2026/10/02/5000-drones-create-giant-shapes-over-nanchang-in-china|5,000 drones create giant shapes over Nanchang in China
-1790951788|https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss|I've seen nearly 500 executions - but never one like Christa Pike's
-1790951794|https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss|Trump claims Europe agreed to release ‘massive amount’ diesel stockpile
-1790951801|https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf|Germany's Franz Reindl elected new IIHF president
-1790951809|https://www.dw.com/en/argentina-launches-cash-for-citizenship-scheme/a-79520708?maca=en-rss-en-all-1573-rdf|Argentina launches cash-for-citizenship scheme
 1790951817|https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html|Trump says Europe will release diesel stocks as wars in Europe and Middle East constrain fuel supplies
 1790952841|https://www.france24.com/en/tv-shows/the-51/20261002-the-cornell-7-allegations-spark-fury-over-gang-rape-culture|The Cornell 7: Allegations spark fury over gang rape culture
 1790952846|https://news.sky.com/story/tear-gas-and-fires-on-french-streets-as-student-protests-turn-violent-13594370|Tear gas and fires on French streets as student protests turn violent
@@ -1998,3 +1993,8 @@
 1791487306|https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss|Syria calls for independent probe into sinking of ship in Black Sea
 1791487313|https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf|South Africa: Anti-migrant protests turn violent
 1791487319|https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf|US will not resume strikes on Iran before midterms — Trump
+1791488303|https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss|Man City charges: Maresca says players focused on Liverpool test
+1791488309|https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss|‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award
+1791488315|https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss|Philippines ex-President Duterte fit to stand trial, ICC rules
+1791488322|https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf|France: Police clash with protesters at Paris student rally
+1791488328|https://www.dw.com/en/us-prosecutors-add-new-torture-charge-against-maduro/a-79588019?maca=en-rss-en-all-1573-rdf|US prosecutors add new torture charge against Maduro
