@@ -1,8 +1,3 @@
-1790952862|https://www.euronews.com/2026/10/02/how-assisi-marks-800-years-since-st-franciss-death-and-why-he-still-embodies-peace|How Assisi marks 800 years since St Francis's death and why he still embodies peace
-1790953494|https://www.euronews.com/2026/10/02/the-solar-system-will-fall-apart-far-sooner-than-anyone-thought-scientists-say|The solar system will fall apart far sooner than anyone thought, scientists say
-1790953501|https://www.aa.com.tr/en/world/paramount-warner-bros-discovery-group-to-adopt-skydance-name/4076328|Paramount-Warner Bros. Discovery group to adopt Skydance name
-1790953507|https://www.aa.com.tr/en/world/amnesty-international-raises-alarm-over-police-violence-against-french-students-amid-protests-for-better-conditions/4076233|Amnesty International raises alarm over police violence against French students amid protests for better conditions
-1790953513|https://www.aa.com.tr/en/world/un-rights-chief-calls-for-decisive-shift-toward-de-escalation-peace-in-ukraine/4076125|UN rights chief calls for 'decisive shift' toward de-escalation, peace in Ukraine
 1790953520|https://www.aa.com.tr/en/world/easyjet-cabin-crew-strike-disrupts-hundreds-of-flights-in-portugal/4076104|EasyJet cabin crew strike disrupts hundreds of flights in Portugal
 1790954695|https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss|Spain’s parliament rejects gov’t housing decrees amid mass protests
 1790954703|https://www.dw.com/en/iran-accused-of-blocking-sim-cards-digital-access-to-silence-dissent/a-79522440?maca=en-rss-en-all-1573-rdf|Iran accused of blocking SIM cards, digital access to silence dissent
@@ -1998,3 +1993,8 @@
 1791489260|https://www.france24.com/en/tv-shows/arts24/20261008-aaron-sorkin-mikey-madison-jeremy-allen-white-the-director-and-cast-behind-the-facebook-sequel|Aaron Sorkin, Mikey Madison, Jeremy Allen White: The director and cast behind the Facebook sequel
 1791489265|https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians|Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'
 1791489271|https://www.france24.com/en/video/20261008-the-russian-occupied-town-in-ukraine-facing-starvation|The Russian-occupied town in Ukraine facing starvation
+1791489928|https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss|Israeli settlers systematically target the Palestinian olive harvest
+1791489934|https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss|India’s Cockroach movement says members detained as protests continue
+1791489939|https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss|Prosecutors in Maradona death trial seek sentences up to 12 years
+1791489944|https://www.france24.com/en/video/20261008-as-elections-near-how-are-french-political-parties-reacting-to-student-protests|As elections near, how are French political parties reacting to student protests?
+1791489950|https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles|Seychelles giant tortoise numbers hit record 180,000 in conservation triumph
