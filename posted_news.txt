@@ -1,8 +1,3 @@
-1790907497|https://lenta.ru/news/2026/10/02/rossiyanam-rasskazali-o-vozmozhnosti-dat-rebenku-matchestvo/|Россиянам рассказали о возможности дать ребенку матчество
-1790908333|https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss|Everything you need to know about Brazil’s tight presidential race
-1790908338|https://www.france24.com/en/environment/20261002-europe-summer-heat-stress-eu-monitor|More than half of Europe faced intense summer heat stress, EU monitor says
-1790908344|https://www.japantimes.co.jp/sports/2026/10/02/tennis/kei-nishikori-retires/|Nishikori bows out for final time in Tokyo as crowd salutes Japanese trailblazer
-1790908350|https://www.japantimes.co.jp/business/2026/10/02/companies/regional-banks-merger-consideration/|Regional banks in northern Japan to consider three-way merger
 1790908357|https://lenta.ru/news/2026/10/02/v-rossii-vyskazalis-o-voyne-s-nato/|В России высказались о войне с НАТО
 1790909216|https://www.japantimes.co.jp/business/2026/10/02/companies/softbank-ai-return-investors/|SoftBank stock investors see past credit risks to AI returns
 1790909221|https://www.japantimes.co.jp/business/2026/10/02/companies/apollo-japan-ai/|Apollo to back $15 billion AI infrastructure project in Japan
@@ -1998,3 +1993,8 @@
 1791417571|https://tass.ru/mezhdunarodnaya-panorama/28192111|The Times сообщила, что Израиль закроет консульство Британии 8 октября
 1791417575|https://tass.ru/ekonomika/28192097|В FT назвали основные причины сокращения бюджетного резерва Великобритании
 1791417579|https://tass.ru/obschestvo/28192103|Кения заявила об отсутствии вспышки Эболы в стране
+1791418838|https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss|EU-China trade talks begin in Beijing amid escalating pressure
+1791418846|https://www.cnbc.com/2026/10/08/el-nino-food-economy-crisis-india.html|Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño
+1791418854|https://www.tomshardware.com/pc-components/this-is-the-cheapest-4tb-ssd-for-prime-day-at-only-10-cents-per-gigabyte-usd399-teamgroup-g50-evo-is-a-speedy-pcie-4-0-drive-at-cut-throat-pricing|This is the cheapest 4TB SSD for Prime Day at only 10 cents per gigabyte
+1791418860|https://lenta.ru/news/2026/10/08/muzhchina-vpervye-poluchil-priglashenie-zanyatsya-gruppovym-seksom-i-zadalsya-voprosom/|Мужчина впервые получил приглашение заняться групповым сексом и задался вопросом
+1791418869|https://lenta.ru/news/2026/10/08/detali-amerikanskogo-f-35-popali-v-druguyu-stranu/|Детали американского F-35 попали в другую страну
