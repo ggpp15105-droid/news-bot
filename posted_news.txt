@@ -1,8 +1,3 @@
-1790945812|https://www.euronews.com/2026/10/02/switzerlands-president-guy-parmelin-says-he-will-quit-government-at-end-of-year|Switzerland's President Guy Parmelin says he will quit government at end of year
-1790946576|https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-thailand-plankton-sv-mp4?traffic_source=rss|Sea off Thai island turns green
-1790946582|https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss|Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock
-1790946587|https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss|Moment mother bear slams into car to protect cub
-1790946594|https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss|12 minutes of madness: How Flydubai pilot, passengers saved plane midfall
 1790946600|https://www.france24.com/en/video/20261002-france-school-protests-rapidly-becoming-out-of-control|France school protests 'rapidly becoming out of control'
 1790947730|https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss|School protests send shivers down French government's spine
 1790947738|https://www.dw.com/en/nearly-90-years-after-amelia-earhart-vanished-over-the-pacific-researchers-hope-to-find-her-missing-plane-on-a-remote-pacific-island/a-79517455?maca=en-rss-en-all-1573-rdf|Nearly 90 years after Amelia Earhart vanished over the Pacific, researchers hope to find her missing plane on a remote Pacific island
@@ -1998,3 +1993,8 @@
 1791459804|https://www.euronews.com/2026/10/08/gulf-economies-to-shrink-despite-higher-oil-prices-as-iran-war-takes-toll-world-bank-says|Gulf economies to shrink despite higher oil prices as Iran war takes toll, World Bank says
 1791459811|https://www.japantimes.co.jp/news/2026/10/08/japan/trump-xi-urge-takaichi/|Trump reportedly asked Xi to meet with Takaichi
 1791459819|https://www.japantimes.co.jp/business/2026/10/08/samsung-tsmc-investors/|Samsung and TSMC fail to excite investors used to torrid AI growth
+1791460673|https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed?traffic_source=rss|India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?
+1791460680|https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf|Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?
+1791460686|https://www.dw.com/en/french-police-arrest-5-suspects-over-renoir-museum-theft/a-79595309?maca=en-rss-en-all-1573-rdf|French police arrest 5 suspects over Renoir museum theft
+1791460691|https://www.france24.com/en/video/20261008-maricarmen-the-87-year-old-woman-whose-eviction-shook-spain-dies|Maricarmen, the 87-year-old woman whose eviction shook Spain, dies
+1791460698|https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261008-palestinians-gained-nothing-from-october-7-egyptian-businessman-naguib-sawiris-says|Palestinians gained 'nothing' from October 7, Egyptian businessman Naguib Sawiris says
