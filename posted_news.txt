@@ -1,8 +1,3 @@
-1790927170|https://www.aa.com.tr/en/world/morning-briefing-oct-2-2026/4075660|Morning Briefing: Oct. 2, 2026
-1790927922|https://www.euronews.com/2026/10/02/christa-pike-in-critical-condition-after-tennessee-botched-execution-lawyer-says|Christa Pike in critical condition after Tennessee botched execution, lawyer says
-1790927929|https://lenta.ru/news/2026/10/02/vospitatelnitsa-rossiyskogo-detsada-privyazyvala-i-izbivala-detey/|Воспитательница российского детсада привязывала и избивала детей
-1790927938|https://lenta.ru/news/2026/10/02/opublikovan-reyting-putina-sredi-rossiyan/|Опубликован рейтинг Путина среди россиян
-1790927942|https://lenta.ru/news/2026/10/02/sotrudnitsa-rossiyskogo-instituta-zarazilas-legochnoy-chumoy-i-ne-vyzhila/|Сотрудница российского института заразилась легочной чумой и не выжила
 1790927950|https://lenta.ru/news/2026/10/02/andreeva-ustanovila-rekord-wta-po-chislu-baranok-v-sezone/|Андреева установила рекорд WTA по числу «баранок» в сезоне
 1790928871|https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss|Russia tries to freeze Ukraine as it suffers record casualties and retreats
 1790928877|https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss|Indian police detain politicians at protests over election chief
@@ -1998,3 +1993,8 @@
 1791438548|https://www.france24.com/en/tv-shows/sports/20261008-portugal-cristiano-ronaldo-controversy-rumbles-on|Portugal: Cristiano Ronaldo controversy rumbles on
 1791438555|https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html|America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice
 1791438563|https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html|TSMC September sales hit another record as AI boom rolls on
+1791439261|https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss|Why single Ebola death in Kenya has sparked fears of wider African spread
+1791439268|https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf|Germany news: UK's Burnham, Merz to talk security in Berlin
+1791439273|https://lenta.ru/news/2026/10/08/rezhim-bespilotnoy-opasnosti-ob-yavili-v-regione-v-1800-kilometrah-ot-ukrainy/|Режим беспилотной опасности объявили в регионе в 1800 километрах от Украины
+1791439281|https://lenta.ru/news/2026/10/08/vrach-nazvala-prichiny-vnezapnogo-povysheniya-davleniya-osenyu/|Врач назвала причины внезапного повышения давления осенью
+1791439289|https://lenta.ru/news/2026/10/08/stalo-izvestno-o-neobychnom-trebovanii-kitaya-k-ssha/|Стало известно о необычном требовании Китая к США
