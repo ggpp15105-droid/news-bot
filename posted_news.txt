@@ -1,8 +1,3 @@
-1790955687|https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever|Blizzard Adds Beloved 'Kyle's Gone Missing' Quest to World of Warcraft: Forever
-1790956555|https://www.dw.com/en/israel-s-top-court-allows-arab-parties-to-run-in-election/a-79519184?maca=en-rss-en-all-1573-rdf|Israel's top court allows Arab parties to run in election
-1790956562|https://www.ign.com/articles/system-shock-2-remaster-is-free-to-keep-on-the-epic-games-store-right-now|System Shock 2 Remaster Is Free to Keep on the Epic Games Store Right Now
-1790956571|https://www.ign.com/articles/miami-heat-gta-6-uniform|The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee
-1790956578|https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount|Batman, Lord of the Rings, and Harry Potter Feature in First Trailer for Skydance, the Newly Named Parent Company for a Merged Warner Bros. and Paramount
 1790956583|https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/|Sony’s Revised PS5 Slim Could Be Getting Cheaper To Make, But Not To Buy
 1790957194|https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf|"NAZA": Israeli military issues statement on film
 1790957201|https://www.euronews.com/video/2026/10/02/french-students-clash-with-police-as-school-protests-spread-nationwide|French students clash with police as school protests spread nationwide
@@ -1998,3 +1993,8 @@
 1791492212|https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-facing-torture-charges-13596583|Venezuela's Nicolas Maduro and wife face new charges
 1791492216|https://news.sky.com/story/lithuania-pm-confident-of-huge-nato-response-if-russia-attacks-13596524|Lithuania PM confident of 'huge' NATO response if Russia attacks
 1791492221|https://news.sky.com/story/russia-denies-second-case-of-infectious-disease-as-who-seeks-to-verify-reports-of-new-plague-contact-13596464|Russia denies second case of 'plague' as WHO seeks to verify
+1791493159|https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html|Trump says U.S. will not attack Iran before midterm election
+1791493171|https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html|Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report
+1791493182|https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html|U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown
+1791493190|https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html|Major League Baseball proposes shortening its regular season as it pushes for a salary cap
+1791493198|https://www.euronews.com/2026/10/08/us-aircraft-carrier-abraham-lincoln-returns-to-san-diego-after-record-deployment|US aircraft carrier Abraham Lincoln returns to San Diego after record deployment
