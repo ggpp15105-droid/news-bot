@@ -1,8 +1,3 @@
-1790933757|https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss|UK arrests British-Iranian suspect over RAF ‘plot’: What we know
-1790934651|https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss|Japan's first mayor to take maternity leave lands on TIME100 Next list
-1790934658|https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf|Ukraine: Kyiv bridges shut after fatal Russian drone assault
-1790934664|https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf|France: 400 schools closed as student protests continue
-1790934670|https://www.france24.com/en/video/20261002-lula-and-bolsonaro-in-dead-heat-as-brazil-goes-to-polls|Lula and Bolsonaro in dead heat as Brazil goes to polls
 1790934676|https://www.france24.com/en/video/20261002-french-pensioners-set-to-feel-pinch-under-belt-tightening-budget|French pensioners set to feel pinch under belt-tightening budget
 1790935227|https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-all-1573-rdf|Germany news: Reform row raises fears for Merz's coalition
 1790935233|https://www.france24.com/en/video/20261002-as-europe-s-balance-of-power-shifts-eastward-france-spain-seek-to-reinforce-their-own-positions-1|As Europe's balance of power shifts eastward, France & Spain seek to 'reinforce their own positions'
@@ -1998,3 +1993,8 @@
 1791446424|https://www.japantimes.co.jp/business/2026/10/08/economy/takaichi-no-reflation-policy/|Takaichi says economy doesn’t need reflationary policy
 1791446430|https://www.japantimes.co.jp/culture/2026/10/08/stage/elvis-noh-theater-tokyo-festival/|From Elvis to Oppenheimer, global ghosts sing noh on the Tokyo theater stage
 1791446437|https://www.japantimes.co.jp/sports/2026/10/08/more-sports/jayden-daniels-injury-return/|Jayden Daniels vow to ‘embrace the brace’ in return from latest elbow injury
+1791447490|https://www.aljazeera.com/sports/2026/10/8/southampton-manager-eckert-can-stay-on-despite-role-in-spygate-scandal?traffic_source=rss|Southampton manager Eckert can stay on despite role in ‘spygate’ scandal
+1791447497|https://www.france24.com/en/most-israeli-citizens-lost-confidence-in-govt-pm-leaders-shift-blame-block-commission-inquiry|'Most Israeli citizens lost confidence' in govt: Leaders 'shift' blame, 'block' commission inquiry
+1791447504|https://www.cnbc.com/2026/10/08/india-billionaire-trump-ambani-venezuela-oil.html|The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude
+1791447512|https://www.euronews.com/video/2026/10/08/moment-us-scientist-tells-his-children-he-won-the-nobel-prize|Moment US scientist tells his children he won the Nobel Prize
+1791447521|https://www.japantimes.co.jp/news/2026/10/08/japan/osaka-paris-sister-street-sign/|Osaka’s Midosuji inks sister-street pact with Paris’ Champs-Elysees
