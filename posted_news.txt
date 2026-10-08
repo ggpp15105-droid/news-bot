@@ -1,8 +1,3 @@
-1790925078|https://www.japantimes.co.jp/news/2026/10/02/japan/crime-legal/okinawa-stalking-murder/|23-year-old woman stabbed to death in Okinawa in possible stalking incident
-1790926162|https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss|I opened cockpit door of plane while being attacked, Indian pilot tells Modi
-1790926169|https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf|Taiwan: first new F-16V fighters arrive amid China threat
-1790926174|https://www.france24.com/en/live-news/20261002-lula-bolsonaro-trade-scandal-fire-in-final-scramble-for-votes|Lula, Bolsonaro trade scandal fire in final scramble for votes
-1790926180|https://www.euronews.com/video/2026/10/02/toiu-nato-and-eu-must-boost-response-to-hybrid-attacks|Țoiu: NATO and EU must boost response to hybrid attacks
 1790926186|https://www.japantimes.co.jp/business/2026/10/02/economy/tokyo-inflation-september/|Tokyo inflation hits 2.7% in September as some subsidies come to an end
 1790927142|https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss|How the fighting in Ethiopia spread beyond Tigray, in maps and charts
 1790927148|https://www.france24.com/en/tv-shows/the-debate/20261002-will-ai-write-our-books-row-over-bestseller-fuels-fear-over-future-of-literature|Will AI write our books? Row over bestseller fuels fear over future of literature
@@ -1998,3 +1993,8 @@
 1791436406|https://www.euronews.com/2026/10/08/aegean-ryanair-and-austrian-ranked-highest-in-10-year-european-airline-safety-index|Aegean, Ryanair and Austrian ranked highest in new 10-year European Airline Safety Index
 1791436412|https://www.euronews.com/2026/10/08/real-wages-set-to-fall-in-major-european-economies-except-germany|Real wages set to fall in major European economies, except Germany
 1791436420|https://lenta.ru/news/2026/10/08/v-mid-ukazali-na-uchastie-ukrainy-v-voennyh-initsiativah-es/|В МИД указали на участие Украины в военных инициативах ЕС
+1791437491|https://www.aljazeera.com/news/2026/10/8/protesters-in-colombia-rally-against-ties-with-israel?traffic_source=rss|Protesters in Colombia rally against ties with Israel
+1791437497|https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss|Signage at UK consulate in East Jerusalem removed as Israel’s deadline over
+1791437504|https://www.japantimes.co.jp/news/2026/10/08/japan/science-health/kenso-soai-research-significance/|Nobel winner Kenso Soai says he understood the significance of his research
+1791437511|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-late-pm-abe-corridor-india/|Corridor named after late PM Abe completed in India
+1791437520|https://lenta.ru/news/2026/10/08/vrach-otsenila-vliyanie-vremeni-priema-lekarstv-na-son/|Врач оценила влияние времени приема лекарств на сон
