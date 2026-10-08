@@ -1,8 +1,3 @@
-1790918151|https://www.euronews.com/2026/10/02/four-hidden-trails-with-medieval-roots-in-the-eastern-alps|Four hidden trails with medieval roots in the Eastern Alps
-1790919083|https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss|How Switzerland lost 20 percent of its ice in five years
-1790919089|https://www.euronews.com/2026/10/02/swedish-researchers-create-an-ai-scientist-that-designs-and-runs-its-own-experiments|Swedish researchers create an ‘AI scientist’ that designs and runs its own experiments
-1790919094|https://www.japantimes.co.jp/sports/2026/10/02/asian-games/virtual-taekwondo-asian-games/|Virtual taekwondo makes Asian Games debut
-1790919098|https://www.japantimes.co.jp/news/2026/10/02/japan/akane-icc-ex-students-petition/|Sanctioned ICC head’s former students demand action from Tokyo
 1790919107|https://lenta.ru/news/2026/10/02/kupivshaya-detyam-igrushki-rossiyanka-vyslushala-prigovor/|Купившая детям игрушки россиянка выслушала приговор
 1790920025|https://www.france24.com/en/europe/20261002-live-russia-hits-kyiv-s-southern-bridge-as-moscow-continues-to-pound-capital|Live: Russia hits Kyiv’s Southern Bridge as Moscow continues to pound capital
 1790920031|https://www.euronews.com/2026/10/02/south-korea-warns-of-further-measures-if-ukraine-refuses-public-apology-over-pow-transfer-|South Korea warns of 'further measures' if Ukraine refuses public apology over POW transfer disclosure
@@ -1998,3 +1993,8 @@
 1791429748|https://www.japantimes.co.jp/news/2026/10/08/world/society/spanish-woman-eviction-protests-dead/|Spanish woman whose eviction sparked mass housing protests dies weeks later
 1791429752|https://lenta.ru/news/2026/10/08/iz-rossiyskogo-kompleksa-yastreb-s-sozdadut-ubiytsu-starlink/|Рссийский комплекс «Ястреб-С» превратится в «убийцу» Starlink
 1791429757|https://lenta.ru/news/2026/10/08/v-rossii-anonsirovali-udary-po-svyazannoy-s-flamingo-infrastrukture/|В России анонсировали удары по связанной с «Фламинго» инфраструктуре
+1791430799|https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss|Texas carries out first US execution since Christa Pike's botched lethal injections
+1791430804|https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss|Trump wants a new Camp David retreat at his posh Florida golf club
+1791430809|https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss|Former Venezuelan President Nicolás Maduro expected to face more charges this week
+1791430814|https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss|Global protests mark October 7 attack with calls for Gaza ceasefire
+1791430819|https://www.dw.com/en/us-award-winning-kashmiri-filmmaker-detained/a-79587046?maca=en-rss-en-all-1573-rdf|US: Award-winning Kashmiri filmmaker detained
