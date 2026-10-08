@@ -1,8 +1,3 @@
-1790910841|https://lenta.ru/news/2026/10/02/odnoy-strane-predrekli-novuyu-volnu-migratsii-s-ukrainy/|Одной стране предрекли новую волну миграции с Украины
-1790911839|https://www.dw.com/en/new-crew-makes-the-quickest-us-flight-to-iss/a-79509556?maca=en-rss-en-all-1573-rdf|New crew makes the quickest US flight to ISS
-1790911845|https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html|S&P 500 futures are little changed as September jobs report looms: Live updates
-1790911851|https://www.aa.com.tr/en/world/openai-agents-obscured-hacking-activity-targeting-government-websites-security-firm/4075619|OpenAI agents obscured hacking activity targeting government websites: Security firm
-1790911856|https://lenta.ru/news/2026/10/02/ssha-napravyat-vydelennye-ukraine-sredstva-v-drugoy-region/|США направят выделенные Украине средства в другой регион
 1790911861|https://lenta.ru/news/2026/10/02/v-minoborony-rasskazali-o-sposobe-koshmarivaniya-vsu/|В Минобороны рассказали о способе «кошмаривания» ВСУ
 1790912852|https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss|Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
 1790912859|https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss|US to send third aircraft carrier towards Iran: US official to Al Jazeera
@@ -1998,3 +1993,8 @@
 1791422696|https://lenta.ru/news/2026/10/08/raskryta-neochevidnaya-opasnost-elektronnyh-sigaret-dlya-polosti-rta/|Раскрыта неочевидная опасность электронных сигарет для полости рта
 1791422700|https://lenta.ru/news/2026/10/08/vsu-vzorvali-gps-osheynik-na-rossiyskom-voennoplennom/|ВСУ взорвали GPS-ошейник на российском военнопленном
 1791422706|https://lenta.ru/news/2026/10/08/oftalmolog-dala-vazhnye-sovety-po-sohraneniyu-zreniya-u-detey/|Офтальмолог дала важные советы по сохранению зрения у детей
+1791423619|https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss|Democrats sue US President Trump over taxpayer-funded ad campaign
+1791423624|https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss|Death of 87-year old sparks furious Spain housing protests
+1791423628|https://news.sky.com/story/us-puts-inmate-to-death-for-first-time-since-botched-execution-of-christa-pike-13596335|US puts inmate to death for first time since botched execution
+1791423634|https://www.japantimes.co.jp/business/2026/10/08/south-korea-cyberattack-china-suspect/|South Korea bank hack suspect may be 26-year-old in China, U.S. firm says
+1791423640|https://www.japantimes.co.jp/news/2026/10/08/world/houthi-saudi-airport-attack/|Houthi attacks kill three at Saudi Airports, including in Riyadh
