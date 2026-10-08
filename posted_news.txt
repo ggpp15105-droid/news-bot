@@ -1,8 +1,3 @@
-1790957216|https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/|Blizzard Might Finally Be Serious About WoW: Forever Gold Buying, Bans Streamer For Promoting It
-1790958301|https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss|Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor
-1790958308|https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss|Three in four households go hungry in parts of Yemen amid fighting: UN
-1790958315|https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss|Trump to name intelligence chief Clayton as AI tsar: Reports
-1790958321|https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss|Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’
 1790958327|https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term|Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term
 1790959303|https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss|Riot police clash with students as education protests rage in France
 1790959310|https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss|Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87
@@ -1998,3 +1993,8 @@
 1791494064|https://www.euronews.com/2026/10/08/ex-prince-andrew-warrants-ruled-unlawful-as-police-investigation-continues|Ex-prince Andrew warrants ruled 'unlawful' as police investigation continues
 1791494071|https://www.euronews.com/2026/10/08/tsunoda-claims-world-gold-as-murao-retains-his-title-in-baku|Tsunoda Claims World Gold as Murao Retains His Title in Baku
 1791494076|https://www.euronews.com/2026/10/08/taxes-account-for-over-53-of-labour-costs-in-spain-study-finds|Taxes account for over 53% of labour costs in Spain, study finds
+1791495147|https://www.france24.com/en/europe/20261008-trump-envoys-ukraine-peace-talks-miami|Trump envoys, European officials to discuss ‘new ideas’ for Ukraine peace in Miami
+1791495154|https://www.france24.com/en/tv-shows/the-debate/20261008-black-sea-and-black-ops-how-exposed-is-europe-to-ukraine-war-spillover|Black sea and black ops: How exposed is Europe to Ukraine war spillover?
+1791495160|https://www.france24.com/en/spain-mourns-maricarmen-abascal-whose-eviction-sparked-housing-protests|Spain mourns Maricarmen Abascal, whose eviction sparked housing protests
+1791495168|https://www.japantimes.co.jp/culture/2026/10/09/entertainment-news/adrian-bianco-obituary-sabukaru/|Adrian Bianco championed Japan’s underground culture
+1791495175|https://www.japantimes.co.jp/culture/2026/10/09/entertainment-news/anime-survey-watching/|Anime is winning over a new generation of fans
