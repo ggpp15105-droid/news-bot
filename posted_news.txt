@@ -1,8 +1,3 @@
-1790915557|https://lenta.ru/news/2026/10/02/rossiyane-zainteresovalis-odnoy-kategoriey-tovarov/|Россияне заинтересовались необычной категорией товаров
-1790916527|https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss|Iran urges Iraq to lift flight ban amid US sanctions
-1790916534|https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf|Ukraine, South Korea clash over transfer of 2 North Korean prisoners
-1790916540|https://www.dw.com/en/turkey-s-stock-market-scandal-affects-nearly-half-a-million-investors-police-have-made-several-arrests-and-an-akp-politician-has-resigned/a-79494710?maca=en-rss-en-all-1573-rdf|Turkey's stock market scandal affects nearly half a million investors. Police have made several arrests and an AKP politician has resigned.
-1790916547|https://www.cnbc.com/2026/10/02/-jewelry-giant-pandora-vietnam-asia-growth-.html|Jewelry giant Pandora is getting on lab-grown diamonds and hoping a new Vietnam plant helps growth in Asia
 1790916552|https://lenta.ru/news/2026/10/02/rossiyskiy-region-podvergsya-massirovannoy-atake-vsu/|Российский регион подвергся массированной атаке ВСУ
 1790917203|https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss|Student protests in Chile turn to violent clashes with police
 1790917210|https://www.euronews.com/2026/10/02/new-ice-guidance-sets-tighter-rules-for-vehicles-stops-bans-officers-from-high-speed-chase|New ICE guidance sets tighter rules for vehicles stops, bans officers from high-speed chases, memo reveals
@@ -1998,3 +1993,8 @@
 1791427125|https://www.japantimes.co.jp/environment/2026/10/08/wildlife/penguin-island-colony-climate-change/|Climate change strips island’s title of largest penguin colony, study shows
 1791427129|https://lenta.ru/news/2026/10/08/kitayskiy-byd-mgnovenno-otreagiroval-na-skandalnyy-film-s-uchastiem-svoey-mashiny/|Китайский BYD мгновенно отреагировал на скандальный фильм с участием своей машины
 1791427138|https://lenta.ru/news/2026/10/08/rossiyanam-perechislili-sposobnye-otpugnut-rabotodatelya-pyat-fraz-v-rezyume/|Россиянам перечислили способные отпугнуть работодателя пять фраз в резюме
+1791427965|https://www.japantimes.co.jp/news/2026/10/08/japan/crime-legal/japan-fatal-plant-fire-four-indicted/|Four former top managers indicted over fatal 2022 fire at rice cracker plant
+1791427974|https://lenta.ru/news/2026/10/08/spasshiy-devochek-iz-pozhara-rossiyanin-rasskazal-podrobnosti-intsidenta/|Спасший девочек из пожара россиянин рассказал подробности инцидента
+1791427983|https://lenta.ru/news/2026/10/08/long-dalshe-budet-tolko-huzhe-v-dnr-prizvali-zhiteley-podkontrolnyh-vsu-gorodov-pereehat-v-donetsk-o-chem-predupredili-grazhdan/|«Дальше будет только хуже». В ДНР призвали жителей подконтрольных ВСУ городов к эвакуации. О чем предупредили граждан?
+1791427988|https://lenta.ru/news/2026/10/08/trevel-bloger-opisal-gorod-na-severe-rossii-slovami-stydobischa-i-unylost/|Тревел-блогер описал город на севере России словами «стыдобища и унылость»
+1791427997|https://www.kommersant.ru/doc/9008707|Мадьяр дал показания по делу о краже телефона
