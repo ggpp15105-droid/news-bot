@@ -1,8 +1,3 @@
-1790934676|https://www.france24.com/en/video/20261002-french-pensioners-set-to-feel-pinch-under-belt-tightening-budget|French pensioners set to feel pinch under belt-tightening budget
-1790935227|https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-all-1573-rdf|Germany news: Reform row raises fears for Merz's coalition
-1790935233|https://www.france24.com/en/video/20261002-as-europe-s-balance-of-power-shifts-eastward-france-spain-seek-to-reinforce-their-own-positions-1|As Europe's balance of power shifts eastward, France & Spain seek to 'reinforce their own positions'
-1790935238|https://www.france24.com/en/video/20261002-matisse-comes-to-amsterdam-in-major-new-show|Matisse comes to Amsterdam in major new show
-1790935243|https://www.france24.com/en/video/20261002-french-website-publishes-evidence-for-antisemitism-claims-against-bardella|French website publishes evidence for antisemitism claims against Bardella
 1790935248|https://news.sky.com/story/imran-khan-supporters-to-be-kept-out-of-pakistans-capital-by-shipping-containers-seized-from-distressed-lorry-drivers-13594249|Pakistan seizes shipping containers to keep Imran Khan supporters out of capital
 1790936176|https://news.sky.com/story/more-than-4000-deaths-recorded-in-dr-congo-ebola-outbreak-13594285|More than 4,000 deaths recorded in DR Congo Ebola outbreak
 1790936182|https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html|Eurozone inflation hits its highest level in three years at 3.8% as energy costs soar
@@ -1998,3 +1993,8 @@
 1791447504|https://www.cnbc.com/2026/10/08/india-billionaire-trump-ambani-venezuela-oil.html|The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude
 1791447512|https://www.euronews.com/video/2026/10/08/moment-us-scientist-tells-his-children-he-won-the-nobel-prize|Moment US scientist tells his children he won the Nobel Prize
 1791447521|https://www.japantimes.co.jp/news/2026/10/08/japan/osaka-paris-sister-street-sign/|Osaka’s Midosuji inks sister-street pact with Paris’ Champs-Elysees
+1791448711|https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss|Christa Pike now walking after US execution went wrong, lawyer tells BBC
+1791448717|https://www.aljazeera.com/video/newsfeed/2026/10/8/video-signs-removed-from-british-consulate-in-occupied-east-jerusalem?traffic_source=rss|Video: Signs removed from British consulate in occupied East Jerusalem
+1791448724|https://www.aljazeera.com/opinions/2026/10/8/why-israel-loves-skunk-water?traffic_source=rss|Why Israel loves skunk water
+1791448730|https://www.aljazeera.com/news/2026/10/8/india-defends-satellite-internet-approval-process-after-elon-musk-jab?traffic_source=rss|India defends satellite internet approval process after Elon Musk jab
+1791448737|https://www.euronews.com/2026/10/08/houthis-claim-missile-strike-on-riyadh-airport-as-explosions-heard-in-saudi-capital|Houthis claim missile strike on Riyadh airport as explosions heard in Saudi capital
