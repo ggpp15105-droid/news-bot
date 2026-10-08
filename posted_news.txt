@@ -1,8 +1,3 @@
-1790954726|https://www.france24.com/en/tv-shows/talking-europe/20261002-a-grim-winter-ahead-eu-states-asked-to-prepare-gas-and-electricity-savings|A grim winter ahead? EU states asked to prepare gas and electricity savings
-1790955663|https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss|Intensified Russian strikes are tearing Kyiv apart, warns mayor
-1790955668|https://www.france24.com/en/video/20261002-brazil-who-is-presidential-candidate-flavio-bolsonaro|Brazil: Who is presidential candidate Flavio Bolsonaro?
-1790955673|https://www.france24.com/en/tv-shows/access-asia/20261002-make-our-streets-safer-mass-women-s-protests-sweep-india-over-sexual-violence|'Make our streets safer!' Mass women's protests sweep India over sexual violence
-1790955680|https://www.ign.com/articles/the-pokemon-company-is-reportedly-dropping-its-first-ever-valentines-day-tcg-set-in-2027|Pokémon TCG Reportedly Launching First-Ever Valentine’s Day Set in 2027
 1790955687|https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever|Blizzard Adds Beloved 'Kyle's Gone Missing' Quest to World of Warcraft: Forever
 1790956555|https://www.dw.com/en/israel-s-top-court-allows-arab-parties-to-run-in-election/a-79519184?maca=en-rss-en-all-1573-rdf|Israel's top court allows Arab parties to run in election
 1790956562|https://www.ign.com/articles/system-shock-2-remaster-is-free-to-keep-on-the-epic-games-store-right-now|System Shock 2 Remaster Is Free to Keep on the Epic Games Store Right Now
@@ -1998,3 +1993,8 @@
 1791491181|https://www.france24.com/en/fighting-for-our-future-france-high-school-students-vow-no-let-up|'Fighting for our future': France high school students vow no let-up
 1791491188|https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray|Ethiopia launches drone attack against Eritrean troops who crossed into Tigray
 1791491193|https://news.sky.com/story/airlines-suspend-flights-to-saudi-capital-after-houthis-claim-attack-on-airport-13596623|Flights to Saudi capital suspended after Houthis 'attack on airport'
+1791492201|https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss|How much worse can Yemen’s humanitarian crisis become?
+1791492208|https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf|Afghan women facing arrest for dress code violations: UN
+1791492212|https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-facing-torture-charges-13596583|Venezuela's Nicolas Maduro and wife face new charges
+1791492216|https://news.sky.com/story/lithuania-pm-confident-of-huge-nato-response-if-russia-attacks-13596524|Lithuania PM confident of 'huge' NATO response if Russia attacks
+1791492221|https://news.sky.com/story/russia-denies-second-case-of-infectious-disease-as-who-seeks-to-verify-reports-of-new-plague-contact-13596464|Russia denies second case of 'plague' as WHO seeks to verify
