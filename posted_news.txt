@@ -1,8 +1,3 @@
-1790942334|https://www.euronews.com/2026/10/02/us-sends-third-carrier-strike-group-to-middle-east-in-biggest-buildup-since-2003|US sends third carrier strike group to Middle East in biggest buildup since 2003
-1790943316|https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss|Tunisia softens its ‘false news’ penalty. What really changed, and why now?
-1790943321|https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss|What’s behind France’s school protests?
-1790943327|https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss|Washington’s diplomacy in Sudan has backfired
-1790943334|https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-rdf|Manchester City Premier League charges: What do they mean?
 1790943341|https://www.dw.com/en/expedition-hopes-to-finally-solve-the-amelia-earhart-mystery/a-79517455?maca=en-rss-en-all-1573-rdf|Expedition hopes to finally solve the Amelia Earhart mystery
 1790944697|https://www.cnbc.com/2026/10/02/france-student-protests-budget-debt.html|A violent classroom revolt is becoming France's next big crisis
 1790944703|https://www.euronews.com/2026/10/02/france-weighs-emergency-oil-release-as-us-pressure-mounts-ahead-of-g7-call|France weighs emergency oil release as US pressure mounts ahead of G7 call
@@ -1998,3 +1993,8 @@
 1791456968|https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf|As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
 1791456973|https://www.euronews.com/2026/10/08/ryanair-ceo-sees-no-european-jet-fuel-shortages-into-summer-2027|Ryanair CEO sees no European jet fuel shortages into summer 2027
 1791456978|https://www.japantimes.co.jp/business/2026/10/08/uniqlo-global-top/|Uniqlo on track to overtake H&M, eyes Zara for global No. 1
+1791457697|https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss|Photos: Protests erupt after 87-year-old evicted woman dies in Madrid
+1791457704|https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf|Nobel Prize in Literature goes to Canada's Anne Carson
+1791457710|https://www.japantimes.co.jp/news/2026/10/08/japan/politics/yana-takaichi/|Takaichi continues to fend off questions about scandal-hit farm minister
+1791457716|https://www.aa.com.tr/en/world/vatican-s-top-diplomat-on-maiden-visit-to-pakistan/4081807|Vatican’s top diplomat on maiden visit to Pakistan
+1791457722|https://www.ign.com/articles/wardogs-streamer-banned-for-exploits|Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich
