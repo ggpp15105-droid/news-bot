@@ -1,8 +1,3 @@
-1790948759|https://www.dw.com/en/this-island-in-kiribati-could-be-the-key-to-solve-the-amelia-earhart-mystery/a-79517455?maca=en-rss-en-all-1573-rdf|This island in Kiribati could be the key to solve the Amelia Earhart mystery
-1790949589|https://www.dw.com/en/can-there-be-solar-for-all-everywhere-by-2030/a-79517056?maca=en-rss-en-all-1573-rdf|Can there be solar for all, everywhere by 2030?
-1790949595|https://www.france24.com/en/middle-east/20261002-netanyahu-warns-of-very-heavy-price-if-any-country-found-to-be-behind-flydubai-incident|Netanyahu warns of 'very heavy price' if any country found to be behind FlyDubai incident
-1790949600|https://www.france24.com/en/tv-shows/scoop/20261002-what-the-media-got-right-and-wrong-about-cornell-gang-rape-case|What the media got right and wrong about Cornell gang rape case
-1790949606|https://www.france24.com/en/video/20261002-apocalyptic-scenes-as-france-school-protests-escalate|'Apocalyptic scenes' as France school protests escalate
 1790949611|https://www.france24.com/en/video/20261002-students-and-police-clash-as-france-struggles-to-quell-school-protests|Students and police clash as France struggles to quell school protests
 1790950599|https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss|Can India’s ‘cockroach’ movement oust Modi’s election chief?
 1790950604|https://www.france24.com/en/tv-shows/arts24/20261002-u2-celebrate-50-years-in-music-with-surprise-gigs|U2 celebrate 50 years in music with surprise gigs
@@ -1998,3 +1993,8 @@
 1791463694|https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss|Why has Iraq devalued its currency, and why are some MPs against it?
 1791463700|https://www.aljazeera.com/video/counting-the-cost/2026/10/8/can-emergency-reserves-ease-the-diesel-crisis?traffic_source=rss|Can emergency reserves ease the diesel crisis?
 1791463705|https://www.aljazeera.com/video/newsfeed/2026/10/8/hegseth-address-sailors-in-pushup-apology-and-trump-impression?traffic_source=rss|Hegseth address sailors in pushup apology and Trump impression
+1791486351|https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss|Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture
+1791486359|https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss|Residents airlifted to safety after flooding in central Chile
+1791486365|https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss|Israel opens first-ever pavilion at Morocco defence show
+1791486372|https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss|Colombian embassy to open in Jerusalem, Israeli FM says
+1791486378|https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss|Two Latvian men arrested inside UK military base after breach
