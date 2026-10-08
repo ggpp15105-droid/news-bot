@@ -1,8 +1,3 @@
-1790932647|https://www.euronews.com/2026/10/02/traffic-gridlocked-in-ukraines-capital-as-russian-drone-strikes-close-key-bridge|Traffic gridlocked in Ukraine's capital as Russian drone strikes close key bridge
-1790933730|https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss|NBA closes sole Africa training academy in blow to young players
-1790933736|https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss|Arab party leader forced to withdraw from Israeli elections
-1790933743|https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss|Manchester City to launch appeal as financial breach fallout grows
-1790933749|https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss|Israeli court ruling a ‘new threshold’ in Palestinian suppression
 1790933757|https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss|UK arrests British-Iranian suspect over RAF ‘plot’: What we know
 1790934651|https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss|Japan's first mayor to take maternity leave lands on TIME100 Next list
 1790934658|https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf|Ukraine: Kyiv bridges shut after fatal Russian drone assault
@@ -1998,3 +1993,8 @@
 1791445479|https://www.euronews.com/video/2026/10/08/halving-meps-salaries-would-take-them-out-of-their-bubbles-mep-says|Halving MEPs’ salaries would take them ‘out of their bubbles’, MEP says
 1791445486|https://www.euronews.com/2026/10/08/what-was-the-plague-really-like-in-germany-experts-explain-the-facts|What was the plague really like in Germany? Experts explain the facts
 1791445495|https://lenta.ru/news/2026/10/08/vo-vseh-regionah-urala-vveli-rezhim-bespilotnoy-opasnosti/|Во всех регионах Урала ввели режим беспилотной опасности
+1791446412|https://www.euronews.com/video/2026/10/08/protests-in-turkeys-izmir-after-mayor-switches-to-erdogans-ak-party|Protests in Turkey’s Izmir after mayor switches to Erdogan’s AK Party
+1791446417|https://www.euronews.com/2026/10/08/inside-kazakhstans-historic-rock-hewn-mosques-now-recognised-by-unesco|Inside Kazakhstan’s historic rock-hewn mosques now recognised by UNESCO
+1791446424|https://www.japantimes.co.jp/business/2026/10/08/economy/takaichi-no-reflation-policy/|Takaichi says economy doesn’t need reflationary policy
+1791446430|https://www.japantimes.co.jp/culture/2026/10/08/stage/elvis-noh-theater-tokyo-festival/|From Elvis to Oppenheimer, global ghosts sing noh on the Tokyo theater stage
+1791446437|https://www.japantimes.co.jp/sports/2026/10/08/more-sports/jayden-daniels-injury-return/|Jayden Daniels vow to ‘embrace the brace’ in return from latest elbow injury
