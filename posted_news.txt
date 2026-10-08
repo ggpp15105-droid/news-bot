@@ -1,8 +1,3 @@
-1790924244|https://www.euronews.com/2026/10/02/eu-says-oil-reserve-release-possible-amid-us-pressure|EU says oil reserve release possible amid US pressure
-1790925047|https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-rdf|India news: Delhi protesters turn up heat on election chief, police tightens security
-1790925055|https://www.euronews.com/2026/10/02/over-1000-adult-lego-fans-gathered-in-denmark-near-the-toy-giants-birthplace|Over 1,000 adult LEGO fans gathered in Denmark near the toy giant’s birthplace
-1790925064|https://www.japantimes.co.jp/sports/2026/10/02/more-sports/browns-steelers-watson-rodgers/|Browns snuff out Rodgers fightback to beat Steelers 27-24
-1790925070|https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/south-korea-lee-prosecutors/|South Korea’s Lee strips power from prosecutors who indicted him
 1790925078|https://www.japantimes.co.jp/news/2026/10/02/japan/crime-legal/okinawa-stalking-murder/|23-year-old woman stabbed to death in Okinawa in possible stalking incident
 1790926162|https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss|I opened cockpit door of plane while being attacked, Indian pilot tells Modi
 1790926169|https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf|Taiwan: first new F-16V fighters arrive amid China threat
@@ -1998,3 +1993,8 @@
 1791435529|https://www.japantimes.co.jp/business/2026/10/08/companies/tdk-bidding-war-ai-data-center/|AI data-center boom ignites bidding war for critical TDK unit
 1791435538|https://lenta.ru/news/2026/10/08/v-uregulirovanii-konflikta-na-blizhnem-vostoke-uvideli-riski-dlya-rublya/|В урегулировании конфликта на Ближнем Востоке увидели риски для рубля
 1791435546|https://lenta.ru/news/2026/10/08/rossiyskaya-neft-rezko-vyrosla-v-tsene/|Российская нефть резко выросла в цене
+1791436395|https://www.euronews.com/2026/10/08/menopause-patients-left-without-treatment-what-is-happening-in-spain|Menopause patients left without treatment: what is happening in Spain?
+1791436401|https://www.euronews.com/2026/10/08/from-tigers-to-turtles-the-conservation-success-stories-that-prove-theres-still-hope-for-w|From tigers to turtles: The conservation success stories that prove there’s still hope for wildlife
+1791436406|https://www.euronews.com/2026/10/08/aegean-ryanair-and-austrian-ranked-highest-in-10-year-european-airline-safety-index|Aegean, Ryanair and Austrian ranked highest in new 10-year European Airline Safety Index
+1791436412|https://www.euronews.com/2026/10/08/real-wages-set-to-fall-in-major-european-economies-except-germany|Real wages set to fall in major European economies, except Germany
+1791436420|https://lenta.ru/news/2026/10/08/v-mid-ukazali-na-uchastie-ukrainy-v-voennyh-initsiativah-es/|В МИД указали на участие Украины в военных инициативах ЕС
