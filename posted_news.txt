@@ -1,8 +1,3 @@
-1790919107|https://lenta.ru/news/2026/10/02/kupivshaya-detyam-igrushki-rossiyanka-vyslushala-prigovor/|Купившая детям игрушки россиянка выслушала приговор
-1790920025|https://www.france24.com/en/europe/20261002-live-russia-hits-kyiv-s-southern-bridge-as-moscow-continues-to-pound-capital|Live: Russia hits Kyiv’s Southern Bridge as Moscow continues to pound capital
-1790920031|https://www.euronews.com/2026/10/02/south-korea-warns-of-further-measures-if-ukraine-refuses-public-apology-over-pow-transfer-|South Korea warns of 'further measures' if Ukraine refuses public apology over POW transfer disclosure
-1790920037|https://www.japantimes.co.jp/news/2026/10/02/japan/tepco-investigation-start/|Tepco begins long-delayed probe of Fukushima reactor’s interior
-1790920045|https://lenta.ru/news/2026/10/02/deputat-rady-ob-yasnil-melkim-fraerstvom-vstrechi-zelenskogo-v-evrope/|Депутат Рады объяснил «мелким фраерством» встречи Зеленского в Европе
 1790920049|https://lenta.ru/news/2026/10/02/glavnyy-onkolog-minzdrava-otsenil-riski-razvitiya-raka-ot-implantatov-i-botoksa/|Главный онколог Минздрава оценил риски развития рака от имплантатов и ботокса
 1790920732|https://www.euronews.com/2026/10/02/new-airstream-caravan-retreat-opens-in-the-uaes-hajar-mountains|New Airstream caravan retreat opens in the UAE’s Hajar Mountains
 1790920739|https://www.euronews.com/2026/10/02/where-in-europe-is-data-centre-hiring-growing-fastest-and-why-do-these-jobs-pay-more|Where in Europe is data centre hiring growing fastest – and why do these jobs pay more?
@@ -1998,3 +1993,8 @@
 1791430809|https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss|Former Venezuelan President Nicolás Maduro expected to face more charges this week
 1791430814|https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss|Global protests mark October 7 attack with calls for Gaza ceasefire
 1791430819|https://www.dw.com/en/us-award-winning-kashmiri-filmmaker-detained/a-79587046?maca=en-rss-en-all-1573-rdf|US: Award-winning Kashmiri filmmaker detained
+1791431751|https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france|Live: French high school, university students call for fresh protests as funding demands grow
+1791431756|https://www.japantimes.co.jp/news/2026/10/08/japan/society/japan-best-country/|Japan ranked best country in the world for fourth straight year
+1791431763|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-tells-china-respect-pm/|Japan tells China to show ‘respect’ in addressing PM
+1791431768|https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards|Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards
+1791431777|https://lenta.ru/news/2026/10/08/allergikam-dali-neskolko-vazhnyh-sovetov-na-fone-vklyucheniya-otopleniya/|Аллергикам дали несколько важных советов на фоне включения отопления
