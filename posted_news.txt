@@ -1,8 +1,3 @@
-1790939724|https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html|Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?
-1790940649|https://www.aljazeera.com/features/2026/10/2/containerabad-pakistans-capital-and-truckers-bleed-money-amid-lockdown?traffic_source=rss|‘Containerabad’: Pakistan’s capital and truckers bleed money amid lockdown
-1790940657|https://www.aljazeera.com/sports/2026/10/2/india-pakistan-cricket-final-asian-games-cricket-gold-medal?traffic_source=rss|India vs Pakistan cricket: Asian Games gold medal final – all to know
-1790940665|https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf|ARD-Deutschlandtrend survey: Germans unite in frustration over the government
-1790940670|https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks|EU ‘fully rejects’ US threat to ban diesel exports unless bloc releases more fuel stocks
 1790940677|https://www.france24.com/en/tv-shows/press-review/20261002-brazil-s-election-lula-or-bolsonaro-jr|Brazil's election: Lula or Bolsonaro Jr?
 1790941597|https://www.aljazeera.com/news/2026/10/2/just-one-in-10-germans-thinks-merz-is-up-to-the-job-after-election-wipeout?traffic_source=rss|Just one in 10 Germans thinks Merz is up to the job after election wipeout
 1790941602|https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack?traffic_source=rss|FlyDubai pilot describes opening cockpit door during attack
@@ -1998,3 +1993,8 @@
 1791453733|https://www.dw.com/en/uk-scales-back-jerusalem-consulate-after-israel-dispute/a-79590790?maca=en-rss-en-all-1573-rdf|UK scales back Jerusalem consulate after Israel dispute
 1791453738|https://www.france24.com/en/video/20261008-anger-mounts-in-spain-as-woman-whose-eviction-ignited-housing-protests-dies|Anger mounts in Spain as woman whose eviction ignited housing protests dies
 1791453743|https://www.france24.com/en/tv-shows/focus/20261008-strait-of-hormuz-crisis-fuels-cairo-s-plastic-recycling-business|Strait of Hormuz crisis fuels Cairo's plastic recycling business
+1791454940|https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss|Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says
+1791454945|https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre|Dozens killed in Russian strike on buses in Ukraine's Kramatorsk as Kyiv targets data centre
+1791454950|https://www.france24.com/en/video/20261008-uk-germany-to-launch-partnership-to-counter-cyberattacks-as-burnham-visits-berlin|UK, Germany to launch partnership to counter cyberattacks as Burnham visits Berlin
+1791454956|https://www.euronews.com/video/2026/10/08/this-serbian-cafe-lets-you-enjoy-your-coffee-alongside-alpacas|This Serbian cafe lets you enjoy your coffee alongside alpacas
+1791454962|https://www.euronews.com/2026/10/08/us-probes-eu-carbon-border-tax-over-potential-trade-barriers|US probes EU carbon border tax over potential trade barriers
