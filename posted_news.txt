@@ -1,8 +1,3 @@
-1790960841|https://www.eurogamer.net/star-wars-galactic-racer-review|Star Wars: Galactic Racer review
-1790961866|https://www.dw.com/en/flydubai-hero-pilot-speaks-for-first-time/a-79524500?maca=en-rss-en-all-1573-rdf|FlyDubai 'hero' pilot speaks for first time
-1790961873|https://www.ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings|MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors
-1790961881|https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc|CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch
-1790961888|https://www.rockpapershotgun.com/desktop-and-handheld-prices-going-out-of-control-means-pc-bargain-hunts-lead-to-my-old-enemy-gaming-laptops|Desktop and handheld prices going out of control means PC bargain hunts lead to my old enemy: gaming laptops
 1790961896|https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads|"Support modders, not AI": Total War: Warhammer 3 mod "deliberately corrupted" by its own creator in protest of AI-infused unauthorised reuploads
 1790962692|https://www.euronews.com/2026/10/02/debt-saddled-argentina-pitches-golden-passport-scheme-to-woo-wealthy-foreigners|Debt-saddled Argentina pitches 'golden passport' scheme to woo wealthy foreigners
 1790962698|https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/|GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says
@@ -1998,3 +1993,8 @@
 1791498050|https://www.euronews.com/video/2026/10/09/deadly-floods-sweep-albania-and-montenegro-as-rivers-burst-banks|Deadly floods sweep Albania and Montenegro as rivers burst banks
 1791498057|https://www.aa.com.tr/en/americas/brazil-s-moraes-issues-arrest-warrant-for-eduardo-bolsonaro-orders-immediate-start-of-his-prison-sentence/4082837|Brazil’s Moraes issues arrest warrant for Eduardo Bolsonaro, orders immediate start of his prison sentence
 1791498064|https://www.aa.com.tr/en/americas/fort-hood-shooter-to-face-public-execution-by-firing-squad-us-defense-secretary/4082826|Fort Hood shooter to face public execution by firing squad: US defense secretary
+1791499061|https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss|Putin pledges Russia’s support to end US-led war on Iran
+1791499069|https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss|French giants Bordeaux relegated to sixth tier for financial irregularities
+1791499077|https://www.japantimes.co.jp/life/2026/10/09/food-drink/50-best-bars-2026/|Tokyo walks away with two spots on 50 Best Bars list
+1791499084|https://www.aa.com.tr/en/americas/first-poll-since-brazil-s-first-round-presidential-election-predicts-flavio-53-lula-47-in-upcoming-runoff/4082839|First poll since Brazil’s first round presidential election predicts Flavio 53%, Lula 47% in upcoming runoff
+1791499091|https://www.aa.com.tr/en/americas/uss-abraham-lincoln-returns-to-san-diego-after-supporting-iran-war/4082825|USS Abraham Lincoln returns to San Diego after supporting Iran war
