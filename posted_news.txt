@@ -1,8 +1,3 @@
-1790946600|https://www.france24.com/en/video/20261002-france-school-protests-rapidly-becoming-out-of-control|France school protests 'rapidly becoming out of control'
-1790947730|https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss|School protests send shivers down French government's spine
-1790947738|https://www.dw.com/en/nearly-90-years-after-amelia-earhart-vanished-over-the-pacific-researchers-hope-to-find-her-missing-plane-on-a-remote-pacific-island/a-79517455?maca=en-rss-en-all-1573-rdf|Nearly 90 years after Amelia Earhart vanished over the Pacific, researchers hope to find her missing plane on a remote Pacific island
-1790947744|https://www.france24.com/en/video/20261002-spain-housing-protests-rage-ahead-of-key-government-vote|Spain housing protests rage ahead of key government vote
-1790947752|https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html|Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%
 1790947759|https://www.euronews.com/2026/10/02/france-and-germany-lead-push-to-keep-military-space-powers-in-national-hands|France and Germany lead push to keep military space powers in national hands
 1790948732|https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss|Man City lodge appeal after guilty finding in financial breach scandal
 1790948739|https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss|Trump vs Europe as US presses for release of emergency diesel stocks
@@ -1998,3 +1993,8 @@
 1791460686|https://www.dw.com/en/french-police-arrest-5-suspects-over-renoir-museum-theft/a-79595309?maca=en-rss-en-all-1573-rdf|French police arrest 5 suspects over Renoir museum theft
 1791460691|https://www.france24.com/en/video/20261008-maricarmen-the-87-year-old-woman-whose-eviction-shook-spain-dies|Maricarmen, the 87-year-old woman whose eviction shook Spain, dies
 1791460698|https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261008-palestinians-gained-nothing-from-october-7-egyptian-businessman-naguib-sawiris-says|Palestinians gained 'nothing' from October 7, Egyptian businessman Naguib Sawiris says
+1791461707|https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss|Italy overhauls electoral system after fiercely contested debate
+1791461714|https://www.euronews.com/2026/10/08/kazakhstan-seeks-to-build-an-ai-powered-economy-and-manufacturing-sector|Kazakhstan seeks to build an AI-powered economy and manufacturing sector
+1791461721|https://www.euronews.com/video/2026/10/08/pink-hair-and-powerful-plaids-tate-britain-celebrates-the-chaotic-creativity-of-90s-cultur|Pink hair and powerful plaids: Tate Britain celebrates the chaotic creativity of 90s culture
+1791461729|https://www.euronews.com/video/2026/10/08/manny-pacquiao-hosts-polish-president-karol-nawrocki-for-manila-boxing-workout|Manny Pacquiao hosts Polish president Karol Nawrocki for Manila boxing workout
+1791461736|https://www.euronews.com/2026/10/08/fresh-day-of-student-protests-across-france-as-rally-planned-in-paris|Fresh day of student protests across France as rally planned in Paris
