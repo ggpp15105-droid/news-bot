@@ -1,8 +1,3 @@
-1790959329|https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship|Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship
-1790960168|https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race?traffic_source=rss|How the Banco Master scandal injected chaos into Brazil’s presidential race
-1790960174|https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss|Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters
-1790960181|https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss|US job growth slows as unemployment rises before midterm elections
-1790960189|https://www.cnbc.com/2026/10/02/ford-q3-sales.html|Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter
 1790960196|https://www.gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games/|Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games
 1790960810|https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/|Xbox Game Pass Loses These 9 Games In October
 1790960817|https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices|Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's "long overdue and also necessary for this business to survive"
@@ -1998,3 +1993,8 @@
 1791496225|https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss|What is the Mecca defence pact?
 1791496233|https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/south-korea-hypersonic-test/|South Korea test-fires its first homegrown hypersonic weapon: presidency
 1791496240|https://www.japantimes.co.jp/business/2026/10/08/economy/boj-economic-assessment/|BOJ raises economic assessment for Tohoku and Shikoku as tech demand remains strong
+1791496940|https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss|What Man City charges anger Liverpool before Premier League game?
+1791496945|https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon|Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says
+1791496953|https://www.euronews.com/video/2026/10/08/hundreds-of-farmers-rally-in-paris-against-eu-mercosur-pact-and-import-fears|Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears
+1791496959|https://www.japantimes.co.jp/news/2026/10/08/japan/crime-legal/germany-arrest-qilin-japan-extradite/|Germany arrests member of Qilin hacker group who was extradited from Japan
+1791496966|https://www.aa.com.tr/en/europe/turkish-republic-of-northern-cyprus-slams-eu-over-isolation-of-turkish-cypriots/4082833|Turkish Republic of Northern Cyprus slams EU over isolation of Turkish Cypriots
