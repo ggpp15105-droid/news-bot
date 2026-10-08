@@ -1,8 +1,3 @@
-1790921807|https://www.euronews.com/2026/10/02/europe-today-eu-energy-prices-soar-as-spains-housing-decrees-face-congress-vote|Europe Today: EU energy prices soar as Spain's housing decrees face Congress vote
-1790923164|https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss|Miami judge rules federal noncitizen voting law violates US Constitution
-1790923171|https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges?traffic_source=rss|Greece pushes EU to suspend asylum during mass migration surges
-1790923176|https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court?traffic_source=rss|Election debate cancelled in Brazil, bomb scare outside Supreme Court
-1790923183|https://www.dw.com/en/the-sudan-connection-is-ethiopia-at-risk-of-a-proxy-war/a-79491261?maca=en-rss-en-all-1573-rdf|The Sudan connection: Is Ethiopia at risk of a proxy war?
 1790923188|https://www.france24.com/en/france/20261002-hundreds-of-french-schools-remain-closed-as-student-protests-turn-violent|Hundreds of French schools remain closed as student protests turn violent
 1790924219|https://www.france24.com/en/tv-shows/spotlight/20261002-egypt-warned-israel-of-major-hamas-attack-no-world-where-netanyahu-s-not-aware-vivian-salama|Egypt warned Israel of 'major' Hamas attack: 'No world' where Netanyahu's not aware (Vivian Salama)
 1790924224|https://news.sky.com/story/trump-warning-on-diesel-forces-eu-emergency-talks-as-prices-hit-record-highs-13594218|Trump warning on diesel forces EU emergency talks as prices hit record highs
@@ -1998,3 +1993,8 @@
 1791433609|https://www.japantimes.co.jp/environment/2026/10/08/wildlife/wildlife-population-fall-survey/|Populations of wild species fell by an average of 73% from 1970 to 2022, WWF says
 1791433616|https://www.japantimes.co.jp/sports/2026/10/08/baseball/mlb/dodgers-beats-braves-clinch-nlds/|Dodgers get past Braves in Game 4 to reach NLCS
 1791433623|https://www.aa.com.tr/en/environment/el-nino-forecast-to-reach-record-strength-as-global-heat-weather-risks-rise-wmo/4081622|El Nino forecast to reach record strength as global heat, weather risks rise: WMO
+1791434630|https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-rdf|India news: Opposition doubles down against poll chief after detentions
+1791434638|https://www.euronews.com/2026/10/08/former-sri-lankan-first-lady-shiranthi-rajapaksa-arrested-on-charges-of-misusing-donation-|Former Sri Lankan first lady Shiranthi Rajapaksa arrested on charges of misusing donation funds and corruption
+1791434645|https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update|Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update
+1791434649|https://lenta.ru/news/2026/10/08/nazvany-prichiny-vozniknoveniya-allergii-na-holod/|Названы причины возникновения аллергии на холод
+1791434654|https://lenta.ru/news/2026/10/08/pod-harkovom-unichtozhili-krupnyy-punkt-perebroshennyh-iz-kieva-kolumbiyskih-naemnikov/|Под Харьковом уничтожили крупный пункт переброшенных из Киева колумбийских наемников
