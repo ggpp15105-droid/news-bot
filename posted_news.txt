@@ -1,8 +1,3 @@
-1790930018|https://lenta.ru/news/2026/10/02/stalo-izvestno-o-zagadochnoy-smerti-dvuh-sester-pensionerok-v-moskve/|Стало известно о загадочной смерти двух сестер-пенсионерок в Москве
-1790930911|https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss|‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation
-1790930916|https://news.sky.com/story/flydubai-captain-says-he-fought-to-open-cockpit-door-while-still-being-attacked-13594247|Flydubai captain says he fought to open cockpit door while still being attacked
-1790930924|https://www.euronews.com/2026/10/02/houthis-deny-saudi-accusations-of-targeting-medinas-holy-sites|Houthis deny Saudi accusations of targeting Medina's holy sites
-1790930928|https://lenta.ru/news/2026/10/02/reshivshey-skryt-prestuplenie-cherez-rolls-royce-rossiyskoy-blogershe-potrebovali-nakazanie/|Суд наказал решившую скрыть преступление через Rolls-Royce российскую блогершу
 1790930933|https://lenta.ru/news/2026/10/02/stalo-izvestno-ob-izmenenii-linii-fronta-v-zone-svo/|Стало известно об изменении линии фронта в зоне СВО
 1790931619|https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss|US delivers F-16V fighter jets to Taiwan as island eyes threat from China
 1790931626|https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html|Oil prices extend losses after reports of potential European diesel, crude stock release
@@ -1998,3 +1993,8 @@
 1791442105|https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss|What did Palestinians take when they fled after October 7?
 1791442112|https://www.dw.com/en/us-to-lay-fresh-torture-charges-against-venezuela-s-maduro-and-wife/a-79588019?maca=en-rss-en-all-1573-rdf|US to lay fresh torture charges against Venezuela's Maduro and wife
 1791442119|https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html|AI startup Manus raises $500 million in first funding round since Meta breakup
+1791443173|https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss|Most UK diplomats to leave East Jerusalem consulate as Miliband says 'mission' to remain
+1791443181|https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death|‘Adios Maricarmen’: Hundreds protest in Madrid after pensioner’s death
+1791443188|https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing|EU-China talks enter critical phase as trade chief Šefčovič touches down in Beijing
+1791443193|https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war|Oil prices are climbing on concerns about an escalating Iran war
+1791443200|https://www.euronews.com/2026/10/08/portuguese-hospital-lets-pets-visit-owners-in-wards-a-paradigm-shift|Portuguese hospital lets pets visit owners in wards: a paradigm shift?
