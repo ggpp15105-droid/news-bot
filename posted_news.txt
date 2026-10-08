@@ -1,8 +1,3 @@
-1790963488|https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork|California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China
-1790964095|https://www.tomshardware.com/pc-components/storage/biwins-cl-100-mini-is-a-particularly-puny-but-potent-ssd-for-portable-gaming-15-x-17-mm-in-size-and-up-to-2tb-in-capacity|BiWin's CL 100 Mini is a particularly puny but potent SSD for portable gaming
-1790964104|https://lenta.ru/news/2026/10/02/putin-dal-otsenku-prohodyaschim-v-regione-rossii-voennym-ucheniyam/|Путин дал оценку проходящим в регионе России военным учениям
-1790964113|https://lenta.ru/news/2026/10/02/v-kremle-otvetili-na-predlozhenie-turtsii-po-chernomu-moryu/|В Кремле ответили на предложение Турции по Черному морю
-1790964118|https://lenta.ru/news/2026/10/02/raskryt-srok-dlya-avtora-masyani/|Раскрыт срок для автора «Масяни»
 1790964124|https://lenta.ru/news/2026/10/02/na-ukraine-priznali-uyazvimost-v-vazhnoy-sfere-boevyh-deystviy/|На Украине признали уязвимость в важной сфере боевых действий
 1790965350|https://www.ign.com/articles/pokemon-tcg-delta-reign-where-to-buy|Pokémon TCG’s Final 2026 Set Is Already Causing Even More Preorder Chaos
 1790965356|https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more|GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More
@@ -1998,3 +1993,8 @@
 1791500608|https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/|Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year
 1791500614|https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/|Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board
 1791500620|https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/|GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail
+1791501619|https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss|Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire
+1791501628|https://www.dw.com/en/man-injured-after-new-york-shooting-involving-dhs-agents/a-79606159?maca=en-rss-en-all-1573-rdf|Man injured after New York shooting involving DHS agents
+1791501634|https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html|S&P 500 futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates
+1791501640|https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover|"It's clear that we both adore one another's games a lot" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven
+1791501646|https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1|Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros
