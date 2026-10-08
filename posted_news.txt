@@ -1,8 +1,3 @@
-1790912880|https://lenta.ru/news/2026/10/02/pyanaya-rossiyanka-nasmert-zadavila-mat/|Пьяная россиянка насмерть задавила мать
-1790913566|https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf|US pressures EU allies to release diesel stockpiles
-1790913574|https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html|U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call
-1790913580|https://www.euronews.com/2026/10/02/brazil-launches-probe-into-alleged-trump-administration-plan-to-fund-far-right-causes-in-t|Brazil launches probe into alleged Trump administration plan to fund far-right causes in the country
-1790913587|https://www.euronews.com/2026/10/02/unamuno-and-h-g-wells-went-to-the-cinema-together-unpublished-letter-confirms-it-90-years|Unamuno and H. G. Wells went to the cinema together: unpublished letter confirms it 90 years on
 1790913592|https://lenta.ru/news/2026/10/02/zhurnalist-obratilsya-k-zapadu-posle-vystupleniya-putina-na-valdae/|Журналист обратился к Западу после выступления Путина на «Валдае»
 1790914497|https://www.aljazeera.com/video/newsfeed/2026/10/2/indian-artist-takes-deleted-voter-song-to-cockroach-protest?traffic_source=rss|Indian artist takes ‘deleted voter’ song to Cockroach protest
 1790914504|https://www.euronews.com/2026/10/02/two-killed-two-hospitalised-and-one-missing-in-medical-helicopter-crash-in-californias-cat|Two killed, two hospitalised and one missing in medical helicopter crash in California's Catalina island
@@ -1998,3 +1993,8 @@
 1791424571|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-ukraine-defense-cooperation/|Japan and Ukraine further ties as Tokyo weighs unprecedented security linkup
 1791424577|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-nuke-subs-study-security-documents/|Japan considers having nuclear-powered-sub study in security documents
 1791424584|https://www.aa.com.tr/en/world/world-s-largest-penguin-colony-loses-nearly-two-thirds-of-population-amid-climate-change-study/4081613|World’s largest penguin colony loses nearly two-thirds of population amid climate change: Study
+1791425262|https://www.tomshardware.com/desktops/pc-building/these-are-the-best-prime-day-deals-ive-found-on-tools-i-use-to-maintain-my-pc-from-screwdrivers-to-air-blowers-these-tools-will-keep-your-pc-in-tip-top-shape|These are the best Prime Day deals I've found on tools I use to maintain my PC
+1791425269|https://lenta.ru/news/2026/10/08/zhenivshiesya-na-seks-rabotnitsah-muzhchiny-rasskazali-ob-otnosheniyah-s-nimi/|Женившиеся на секс-работницах мужчины рассказали об отношениях с ними
+1791425277|https://lenta.ru/news/2026/10/08/bpla-atakovali-rossiyskiy-gorod/|БПЛА атаковали российский город
+1791425285|https://lenta.ru/news/2026/10/07/uchenye-predskazali-tochnuyu-datu-i-prichinu-kontsa-sveta-uzhe-v-2026-godu/|Ученые предсказали точную дату и причину конца света уже в 2026 году
+1791425290|https://lenta.ru/news/2026/10/08/vrach-nazvala-neozhidannuyu-prichinu-razdrazhitelnosti/|Врач назвала неожиданную причину раздражительности
