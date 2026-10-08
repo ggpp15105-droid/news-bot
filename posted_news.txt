@@ -1,8 +1,3 @@
-1790944721|https://www.japantimes.co.jp/news/2026/10/02/japan/politics/us-missile-yonaguni-drills/|U.S. to put missile system on island near Taiwan for drills
-1790945784|https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss|Ethiopian gov’t-aligned group claims close to full control of Tigray region
-1790945791|https://www.france24.com/en/tv-shows/reporters/20261002-paraguay-a-tax-and-political-haven-for-brazil-s-far-right|Paraguay, a tax and political haven for Brazil's far right
-1790945798|https://www.euronews.com/2026/10/02/ai-decodes-217-year-old-napoleonic-letter-in-6-hours|AI decodes 217-year-old Napoleonic letter in 6 hours
-1790945805|https://www.euronews.com/2026/10/02/andy-burnham-is-rethinking-the-uks-ties-with-the-eu-what-are-his-options|Andy Burnham is rethinking the UK’s ties with the EU. What are his options?
 1790945812|https://www.euronews.com/2026/10/02/switzerlands-president-guy-parmelin-says-he-will-quit-government-at-end-of-year|Switzerland's President Guy Parmelin says he will quit government at end of year
 1790946576|https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-thailand-plankton-sv-mp4?traffic_source=rss|Sea off Thai island turns green
 1790946582|https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss|Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock
@@ -1998,3 +1993,8 @@
 1791458839|https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html|Ray Dalio warns the stock market's cushion against rising bond yields is shrinking
 1791458845|https://www.euronews.com/2026/10/08/two-thirds-of-young-europeans-suffered-childhood-trauma-with-lasting-life-impact-who-finds|Two-thirds of young Europeans suffered childhood trauma, with lasting life impact, WHO finds
 1791458852|https://www.euronews.com/2026/10/08/tallinn-airport-lets-driverless-shuttles-run-close-to-airplanes-opening-the-way-to-wider-a|Tallinn Airport lets driverless shuttles run close to airplanes, opening the way to wider airport automation
+1791459793|https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf|How a multibillion-dollar oilfield has ignited UK-Argentina feud over the Falklands
+1791459798|https://news.sky.com/story/one-dead-and-two-children-injured-in-polands-second-school-attack-in-two-days-13596420|One dead in Poland's second school attack in two days
+1791459804|https://www.euronews.com/2026/10/08/gulf-economies-to-shrink-despite-higher-oil-prices-as-iran-war-takes-toll-world-bank-says|Gulf economies to shrink despite higher oil prices as Iran war takes toll, World Bank says
+1791459811|https://www.japantimes.co.jp/news/2026/10/08/japan/trump-xi-urge-takaichi/|Trump reportedly asked Xi to meet with Takaichi
+1791459819|https://www.japantimes.co.jp/business/2026/10/08/samsung-tsmc-investors/|Samsung and TSMC fail to excite investors used to torrid AI growth
