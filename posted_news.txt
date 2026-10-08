@@ -1,8 +1,3 @@
-1790916552|https://lenta.ru/news/2026/10/02/rossiyskiy-region-podvergsya-massirovannoy-atake-vsu/|Российский регион подвергся массированной атаке ВСУ
-1790917203|https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss|Student protests in Chile turn to violent clashes with police
-1790917210|https://www.euronews.com/2026/10/02/new-ice-guidance-sets-tighter-rules-for-vehicles-stops-bans-officers-from-high-speed-chase|New ICE guidance sets tighter rules for vehicles stops, bans officers from high-speed chases, memo reveals
-1790917214|https://lenta.ru/news/2026/10/02/robert-pattinson-nazval-kulminatsionnyy-film-2000-h-godov/|Роберт Паттинсон назвал «кульминационный» фильм 2000-х годов
-1790917222|https://lenta.ru/news/2026/10/02/peregovory-britanii-i-es-o-merah-po-predotvrascheniyu-defitsita-dizelya-proshli-bezrezultatno/|Переговоры Британии и ЕС о мерах по предотвращению дефицита дизеля прошли безрезультатно
 1790917226|https://lenta.ru/news/2026/10/02/poslanie-napoleona-rasshifrovali-spustya-217-let/|Послание Наполеона расшифровали спустя 217 лет
 1790918122|https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss|Nepal avalanche kills at least 15 expedition workers
 1790918130|https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html|A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake
@@ -1998,3 +1993,8 @@
 1791427983|https://lenta.ru/news/2026/10/08/long-dalshe-budet-tolko-huzhe-v-dnr-prizvali-zhiteley-podkontrolnyh-vsu-gorodov-pereehat-v-donetsk-o-chem-predupredili-grazhdan/|«Дальше будет только хуже». В ДНР призвали жителей подконтрольных ВСУ городов к эвакуации. О чем предупредили граждан?
 1791427988|https://lenta.ru/news/2026/10/08/trevel-bloger-opisal-gorod-na-severe-rossii-slovami-stydobischa-i-unylost/|Тревел-блогер описал город на севере России словами «стыдобища и унылость»
 1791427997|https://www.kommersant.ru/doc/9008707|Мадьяр дал показания по делу о краже телефона
+1791428595|https://www.aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china?traffic_source=rss|US bars Fiji-based man over corruption tied to China
+1791428601|https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss|Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says
+1791428607|https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html|Elon Musk blames Indian 'oligarchs' for stalling Starlink launch
+1791428614|https://www.japantimes.co.jp/news/2026/10/08/japan/explainer/explainer-us-liberty-rules/|How is the U.S. military responding to the Okinawa murder?
+1791428620|https://www.japantimes.co.jp/news/2026/10/08/world/politics/housing-crisis-spain-snap-election/|Housing crisis set to dominate Spain’s snap election
