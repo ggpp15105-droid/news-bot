@@ -1,8 +1,3 @@
-1790909949|https://lenta.ru/news/2026/10/02/rossiyanam-rasskazali-kakuyu-poderzhannuyu-mashinu-brat-luchshe-vsego/|Россиянам назвали правила выбора подержанной машины
-1790910812|https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss|Row between Ukraine, South Korea mounts over North Korean POWs
-1790910818|https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html|U.S. market regulator seeks to make it easier for funds, advisers to hold crypto
-1790910825|https://www.japantimes.co.jp/business/2026/10/02/companies/nidec-news-conference-recovery-plan/|Nidec lays out recovery plan with unit sales and investments for AI
-1790910832|https://www.japantimes.co.jp/news/2026/10/02/japan/crime-legal/beneficial-owners-information-reporting/|Japan to require corporations to report details of beneficial owners
 1790910841|https://lenta.ru/news/2026/10/02/odnoy-strane-predrekli-novuyu-volnu-migratsii-s-ukrainy/|Одной стране предрекли новую волну миграции с Украины
 1790911839|https://www.dw.com/en/new-crew-makes-the-quickest-us-flight-to-iss/a-79509556?maca=en-rss-en-all-1573-rdf|New crew makes the quickest US flight to ISS
 1790911845|https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html|S&P 500 futures are little changed as September jobs report looms: Live updates
@@ -1998,3 +1993,8 @@
 1791421593|https://www.japantimes.co.jp/news/2026/10/08/world/politics/us-uk-jets-move/|U.K. sees Trump’s bomber jets move boosting Iran and Russia
 1791421598|https://lenta.ru/news/2026/10/08/styuardessa-krupnoy-aviakompanii-rasskazala-ob-otnoshenii-k-aplodismentam-posle-posadki/|Стюардесса крупной авиакомпании рассказала об отношении к аплодисментам после посадки
 1791421602|https://lenta.ru/news/2026/10/08/gendirektor-parka-patriot-priznal-vinu/|Гендиректор парка «Патриот» признал вину
+1791422681|https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss|Yemeni government forces claim 1,860 Houthis ‘neutralised’
+1791422686|https://www.cnbc.com/2026/10/08/fed-hike-inflation-samsung-lululemon-iea-oil.html|CNBC Daily Open: Another Fed hike is on the horizon — but when?
+1791422696|https://lenta.ru/news/2026/10/08/raskryta-neochevidnaya-opasnost-elektronnyh-sigaret-dlya-polosti-rta/|Раскрыта неочевидная опасность электронных сигарет для полости рта
+1791422700|https://lenta.ru/news/2026/10/08/vsu-vzorvali-gps-osheynik-na-rossiyskom-voennoplennom/|ВСУ взорвали GPS-ошейник на российском военнопленном
+1791422706|https://lenta.ru/news/2026/10/08/oftalmolog-dala-vazhnye-sovety-po-sohraneniyu-zreniya-u-detey/|Офтальмолог дала важные советы по сохранению зрения у детей
