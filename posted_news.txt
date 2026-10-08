@@ -1,8 +1,3 @@
-1790927950|https://lenta.ru/news/2026/10/02/andreeva-ustanovila-rekord-wta-po-chislu-baranok-v-sezone/|Андреева установила рекорд WTA по числу «баранок» в сезоне
-1790928871|https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss|Russia tries to freeze Ukraine as it suffers record casualties and retreats
-1790928877|https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss|Indian police detain politicians at protests over election chief
-1790928883|https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss|Lawyers for US inmate who survived lethal injections demand release
-1790928889|https://www.france24.com/en/tv-shows/business/20261002-france-unveils-cost-cutting-budget-amid-protests|France unveils cost-cutting budget amid protests
 1790928897|https://www.euronews.com/2026/10/02/uzbekistan-wins-home-gold-at-record-breaking-chess-olympiad-in-samarkand|Uzbekistan wins home gold at record-breaking Chess Olympiad in Samarkand
 1790929996|https://www.euronews.com/video/2026/10/02/worlds-tallest-wind-turbine-rises-to-365-metres-in-germany|World's tallest wind turbine rises to 365 metres in Germany
 1790930003|https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops|If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops
@@ -1998,3 +1993,8 @@
 1791439273|https://lenta.ru/news/2026/10/08/rezhim-bespilotnoy-opasnosti-ob-yavili-v-regione-v-1800-kilometrah-ot-ukrainy/|Режим беспилотной опасности объявили в регионе в 1800 километрах от Украины
 1791439281|https://lenta.ru/news/2026/10/08/vrach-nazvala-prichiny-vnezapnogo-povysheniya-davleniya-osenyu/|Врач назвала причины внезапного повышения давления осенью
 1791439289|https://lenta.ru/news/2026/10/08/stalo-izvestno-o-neobychnom-trebovanii-kitaya-k-ssha/|Стало известно о необычном требовании Китая к США
+1791440667|https://www.france24.com/en/environment/20261008-el-nino-set-to-intensify-before-peaking-in-december-un-warns|El Nino set to intensify before peaking in December, UN warns
+1791440671|https://news.sky.com/story/israel-confirms-it-is-closing-the-british-consulate-in-east-jerusalem-after-uk-ban-on-trade-with-illegal-west-bank-settlements-13596361|Israel confirms it is closing the British consulate in East Jerusalem
+1791440678|https://www.euronews.com/2026/10/08/monte-carlo-added-to-glamorous-venice-simplon-orient-express-rail-itinerary-for-2027|Monte Carlo added to glamorous Venice Simplon-Orient-Express rail itinerary for 2027
+1791440684|https://www.euronews.com/2026/10/08/europe-today-rubio-urges-europe-to-wake-up-as-eu-trade-chief-begins-key-china-trip|Europe Today: Rubio urges Europe to wake up as EU trade chief begins key China trip
+1791440693|https://lenta.ru/news/2026/10/08/rossiyane-nazvali-glavnye-red-flagi-poputchikov-v-puteshestviyah/|Россияне назвали главные «ред-флаги» попутчиков в путешествиях
