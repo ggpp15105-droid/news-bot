@@ -1,8 +1,3 @@
-1791149784|https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf|Pakistan: Imran Khan supporters demand ex-PM's release
-1791150758|https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss|Cornell case puts New York’s progressive image at odds with its rape laws
-1791150764|https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss|Ireland refuse handshake with Israel and don armbands in Nations League tie
-1791150770|https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss|Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals
-1791150776|https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-rdf|Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?
 1791150783|https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf|Germany's Merz visits Kyiv as Russia strikes bridge
 1791151373|https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks|Iran says no military solution to war as peace talks with US stall
 1791151378|https://www.france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president|A Profile of Brazil's Potential President
@@ -1998,3 +1993,8 @@
 1791577504|https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist|Italy's biggest-ever wine heist
 1791577510|https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html|Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks
 1791577517|https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics|After modders removed Skate's live service bits, devs draw the line with tools that "bypass our systems to unlock paid cosmetics"
+1791578497|https://www.ign.com/articles/lucasfilm-games-producer-responds-after-galactic-racer-character-biddy-blas-goes-viral|LucasFilm Games Producer Responds after Galactic Racer Character Biddy Blas Goes Viral
+1791578503|https://www.ign.com/articles/skate-developer-promises-more-creative-tools-are-coming-after-reskate-modding-platform-goes-viral|Skate Developer Promises More Creative Tools Are Coming After ReSkate Modding Platform Goes Viral
+1791578509|https://www.ign.com/articles/wardogs-dev-says-ps6-and-xbox-project-helix-ports-should-be-relatively-straightforward|Wardogs Dev Says PS6 and Xbox Project Helix Ports Should Be Relatively Straightforward
+1791578515|https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments|The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments
+1791578520|https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure|“We're not getting any younger, and the world seems to be ending": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure
