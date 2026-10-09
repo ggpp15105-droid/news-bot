@@ -1,8 +1,3 @@
-1790977692|https://lenta.ru/news/2026/10/03/cnn-raskryl-sostoyanie-vyzhivshey-posle-kazni-v-ssha-zaklyuchennoy/|Раскрыто состояние выжившей после казни в США заключенной
-1790978262|https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss|France held 1-1 by Italy in Zidane home debut after Olise stunner
-1790978266|https://lenta.ru/news/2026/10/03/stali-izvestny-podrobnosti-o-sostoyanii-sotrudnikov-fsin-posle-chp-pod-vladikavkazom/|Стали известны подробности о состоянии сотрудников ФСИН после ЧП под Владикавказом
-1790978271|https://lenta.ru/news/2026/10/03/tramp-sdelal-zayavlenie-o-svoem-impichmente/|Трамп сделал заявление о своем импичменте
-1790978279|https://lenta.ru/news/2026/10/03/prokuratura-podtverdila-likvidatsiyu-zaklyuchennogo-vo-vremya-chp-v-poezde-vladikavkaz-adler/|Прокуратура подтвердила ликвидацию заключенного во время ЧП в поезде Владикавказ — Адлер
 1790978283|https://www.kommersant.ru/doc/9005526|Генсек ОДКБ заявил об обострении ситуации в зоне ответственности организации
 1790978974|https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss|Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
 1790978980|https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss|Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s
@@ -1998,3 +1993,8 @@
 1791517238|https://lenta.ru/news/2026/10/09/rossiyanam-nazvali-sposob-dosrochno-poluchit-pensionnye-nakopleniya/|Россиянам назвали способ досрочно получить пенсионные накопления
 1791517247|https://lenta.ru/news/2026/10/09/nazvan-sposob-vernut-chast-rashodov-za-postroennyy-dom-cherez-nalogovyy-vychet/|Назван способ вернуть часть расходов за построенный дом через налоговый вычет
 1791517252|https://lenta.ru/news/2026/10/09/waterproof/|Реальную влагозащиту смартфона объяснили
+1791518189|https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss|ICE agent shoots man in car with five-year-old child in New York: Mayor
+1791518196|https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/|Nvidia-backed Lumentum sold out of AI server parts till 2029
+1791518201|https://lenta.ru/news/2026/10/09/stalo-izvestno-o-nehvatke-sredstv-u-ukrainy-na-voennye-nuzhdy-v-2027-godu/|Стало известно о нехватке средств у Украины на военные нужды в 2027 году
+1791518207|https://www.kommersant.ru/doc/9009576|Bloomberg: Disney обсуждает с киностудиями продвижение конкурента IMAX
+1791518212|https://www.kommersant.ru/doc/9009578|Глава Минобороны Нидерландов назвала Россию врагом
