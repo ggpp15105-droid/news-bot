@@ -1,8 +1,3 @@
-1791014562|https://www.kommersant.ru/doc/9005572|Шерпа России в G20: решение об участии Путина в саммите в США пока не принято
-1791015662|https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss|Man City whistleblower Pinto to lose witness protection amid death threats
-1791015668|https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss|Bosnian Serb leader says Bosnia is ‘dead’ ahead of election
-1791015675|https://www.aljazeera.com/opinions/2026/10/3/to-reclaim-its-sovereignty-senegal-must-approach-debt-differently?traffic_source=rss|To reclaim its sovereignty, Senegal must approach debt differently
-1791015682|https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-all-1573-rdf|Morocco's first female head of government: Symbol or real reform?
 1791015686|https://news.sky.com/story/north-korea-fires-ballistic-missile-after-seoul-demands-apology-over-border-mine-blasts-13594567|North Korea 'fires ballistic missile' after Seoul demands apology
 1791016569|https://lenta.ru/news/2026/10/03/big-brother/|Участник телешоу с приступом диареи не добежал до унитаза и устроил хаос на съемках
 1791016578|https://lenta.ru/news/2026/10/03/v-sosedney-s-rossiey-strane-obschestvennym-smi-ogranichat-veschanie-na-russkom-yazyke/|В соседней с Россией стране общественным СМИ ограничат вещание на русском языке
@@ -1998,3 +1993,8 @@
 1791558203|https://www.aljazeera.com/video/newsfeed/2026/10/9/driver-films-from-inside-vehicle-as-car-swept-away-in-chile-floods?traffic_source=rss|Driver films from inside vehicle as car swept away in Chile floods
 1791558210|https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf|US imposes sanctions aiming to 'dismantle' International Criminal Court
 1791558217|https://www.euronews.com/2026/10/09/thieves-in-italy-target-prestigious-winemaker-making-off-with-5-million-haul|Thieves in Italy target prestigious winemaker, making off with €5 million haul: reports
+1791559297|https://www.dw.com/en/franco-german-relations-steinmeier-and-macron-say-their-farewells-and-create-a-new-momentum-for-europe/a-79618635?maca=en-rss-en-all-1573-rdf|Franco-German relations: Steinmeier and Macron say their farewells and create a new momentum for Europe
+1791559303|https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf|Author or artificial intelligence? Literature in crisis
+1791559310|https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html|China and Europe agree to cut Chinese hybrid vehicle exports by half
+1791559318|https://www.euronews.com/2026/10/09/former-prince-andrew-receives-302000-for-surrendering-royal-lease|Former Prince Andrew receives £302,000 for surrendering royal lease
+1791559325|https://www.euronews.com/2026/10/09/which-european-countries-are-winning-the-tech-funding-race|Which European countries are winning the tech funding race?
