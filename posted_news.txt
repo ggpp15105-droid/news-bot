@@ -1,8 +1,3 @@
-1791088314|https://www.aljazeera.com/video/newsfeed/2026/10/4/ballots-reach-remote-indigenous-brazilians-ahead-of-presidential-election?traffic_source=rss|Ballots reach remote Indigenous Brazilians ahead of presidential election
-1791111134|https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss|Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
-1791111141|https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss|Australia investigating Flydubai co-pilot's links to country
-1791111148|https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss|Spain protests flare after housing bill rejected: Will it cause snap poll?
-1791111154|https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss|Netanyahu’s fight to own the election narrative
 1791111159|https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss|Tributes as Bosnian football star Edin Dzeko retires
 1791134498|https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss|Watch: What we know about Russian strikes on Kyiv bridges
 1791134505|https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss|Yemen's government announces all-out war to reclaim land from Houthis
@@ -1998,3 +1993,8 @@
 1791574173|https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss|Injured Orangutan rescued from Indonesia wildfires
 1791574179|https://www.euronews.com/2026/10/09/historic-gold-for-lytvynenko-as-sulamanidze-triumphs-in-baku|Historic Gold for Lytvynenko as Sulamanidze Triumphs in Baku
 1791574186|https://www.aa.com.tr/en/world/turkiye-strongly-condemns-houthi-attacks-on-saudi-airports/4084011|Türkiye strongly condemns Houthi attacks on Saudi airports
+1791575256|https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss|Powerful magnitude 7.7 earthquake hits Panama, damaging buildings
+1791575262|https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss|European states, Canada, Japan and UN back ICC against US sanctions
+1791575268|https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices|Trump says US to import Russian diesel to ease prices
+1791575274|https://www.aa.com.tr/en/world/ukraine-reaffirms-support-for-icc-its-independence-integrity-/4084015|Ukraine reaffirms support for ICC, its ‘independence, integrity’
+1791575279|https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union|Rockstar HR manager claims he had "little interest" in staff's union membership status as fired GTA dev union-busting trial heats up
