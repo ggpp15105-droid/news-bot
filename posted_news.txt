@@ -1,8 +1,3 @@
-1791001025|https://www.igromania.ru/news/169040/v-studii-sozdatelej-kingdom-come-deliverance-nadeyutsya-chto-gta-6-pomozhet-povyisit-tsenyi-na-igryi/|В студии создателей Kingdom Come: Deliverance надеются, что GTA 6 поможет повысить цены на игры
-1791001933|https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss|Two Iranians charged over alleged plot targeting Jewish community in UK
-1791001940|https://www.dw.com/en/australia-car-crashes-into-rugby-fans-10-injured/a-79526643?maca=en-rss-en-all-1573-rdf|Australia: Car crashes into rugby fans, 10 injured
-1791001945|https://lenta.ru/news/2026/10/03/v-rossiyskom-regione-shest-chelovek-otravilis-ugarnym-gazom/|В российском регионе шесть человек отравились угарным газом
-1791001949|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-samyy-nevygodnyy-mesyats-dlya-otpuska/|Россиянам назвали самый невыгодный месяц для отпуска
 1791001954|https://lenta.ru/news/2026/10/03/rossiyan-predupredili-o-moshennikah-s-feykovym-prilozheniem-dlya-poiska-po-kartinke/|Россиян предупредили о мошенниках с фейковым приложением для поиска по картинке
 1791002841|https://www.aljazeera.com/video/newsfeed/2026/10/3/indias-cockroach-party-headlines-day-of-anti-establishment-protests?traffic_source=rss|India’s Cockroach Party headlines day of anti-establishment protests
 1791002847|https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/politics/taiwan-fm-visit-arizona/|Taiwanese foreign minister to visit Arizona to deepen economic ties
@@ -1998,3 +1993,8 @@
 1791544212|https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html|India calls JD Vance's comments about immigrants 'deeply offensive'
 1791544218|https://www.euronews.com/video/2026/10/09/i-still-want-to-verify-this-nobel-peace-prize-winner-navi-pillays-first-reaction|‘I still want to verify this’: Nobel Peace Prize winner Navi Pillay’s first reaction
 1791544224|https://www.euronews.com/2026/10/09/ukrainian-and-european-officials-fly-to-miami-for-us-led-peace-talks|Ukrainian and European officials fly to Miami for US-led peace talks
+1791545157|https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers?traffic_source=rss|‘Indentured servants’: US green card move will hit thousands of IT workers
+1791545162|https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss|‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news
+1791545169|https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss|Labour fends off the Green party in closely watched UK by-election
+1791545174|https://www.france24.com/en/video/20261009-pentagon-vows-to-livestream-first-military-execution-in-decades|Pentagon vows to livestream first military execution in decades
+1791545181|https://www.cnbc.com/2026/10/09/market-correction-chris-watling.html|'The dominoes are falling': A 'big chunky sell-off' is about to hit the market, strategist says. Here's where to hide
