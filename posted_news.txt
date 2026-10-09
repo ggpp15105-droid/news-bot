@@ -1,8 +1,3 @@
-1790995895|https://lenta.ru/news/2026/10/03/stalo-izvestno-ob-ultimatume-es-ukraine/|Стало известно об ультиматуме ЕС Украине
-1790997184|https://www.aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss|Dominican Republic bans Haiti from its stadiums after football fans clash
-1790997192|https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/chinese-antelope-reef-south-china-sea/|Chinese work gathering pace on Antelope Reef in South China Sea
-1790997197|https://lenta.ru/news/2026/10/03/nazvano-imya-podozrevaemogo-v-napadenii-na-pilota-flydubai/|Названо имя подозреваемого в нападении на пилота Flydubai
-1790997201|https://www.kommersant.ru/doc/9005545|Стала известна предполагаемая личность напавшего на командира самолета Flydubai // ABC: подозреваемым в нападении на пилота Flydubai оказался 29-летний оманец
 1790997206|https://tass.ru/armiya-i-opk/28177843|ксперт Коротченко объяснил смену тактики ВС РФ по логистике Украины
 1790998498|https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral|Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral
 1790998503|https://lenta.ru/news/2026/10/03/long-vyshe-skorost-i-bolshe-boevaya-chast-putinu-pokazali-obnovlennye-bespilotniki-geran-4-i-geran-5-s-reaktivnymi-dvigatelyami/|Выше скорость и больше боевая часть: Путину показали обновленные беспилотники «Герань-4» и «Герань-5» с реактивными двигателями
@@ -1998,3 +1993,8 @@
 1791540173|https://www.euronews.com/2026/10/09/intense-diplomatic-manoeuvring-in-athens-over-first-russian-team-in-european-tournament|Intense diplomatic manoeuvring in Athens over first Russian team in European tournament
 1791540180|https://www.japantimes.co.jp/news/2026/10/09/japan/japan-mental-health-compensation-claims/|Japan sees record number of workers’ compensation approvals for mental health in fiscal 2025
 1791540186|https://www.japantimes.co.jp/business/2026/10/09/tech/travel-companies-data-breach/|Data leaks at travel companies could impact millions of customer records
+1791541386|https://www.aljazeera.com/sports/2026/10/9/aja-wilson-wins-her-third-straight-wnba-mvp-and-record-fifth-overall?traffic_source=rss|A’ja Wilson wins her third straight WNBA MVP and record fifth overall
+1791541392|https://www.france24.com/en/video/20261009-suspected-plague-case-highlights-russia-s-inherited-soviet-era-culture-of-secrecy|Suspected plague case highlights Russia’s inherited Soviet-era culture of secrecy
+1791541398|https://www.france24.com/en/video/20261009-as-protests-continue-half-of-france-reportedly-backs-high-school-student-movement|As protests continue, half of France reportedly backs high school student movement
+1791541405|https://www.euronews.com/2026/10/09/houthi-missile-strikes-kill-three-at-riyadh-airport-including-airline-captain|Houthi missile strikes kill three at Riyadh airport including airline captain
+1791541412|https://www.japantimes.co.jp/business/2026/10/09/economy/thailand-economic-test/|Nearly 30 years after IMF rescue, Thailand faces new economic test
