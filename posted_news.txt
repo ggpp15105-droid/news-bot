@@ -1,8 +1,3 @@
-1791111159|https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss|Tributes as Bosnian football star Edin Dzeko retires
-1791134498|https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss|Watch: What we know about Russian strikes on Kyiv bridges
-1791134505|https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss|Yemen's government announces all-out war to reclaim land from Houthis
-1791134512|https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss|Ethiopian rebel forces withdraw from Tigray regional capital
-1791134519|https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss|Christa Pike's prognosis still unclear after failed execution, lawyer says
 1791134526|https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss|Mass protests demanding poll chief resignation shake India for third day
 1791147858|https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss|Debris found near Nantucket believed to be from missing medical plane
 1791147865|https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss|Brazil election results live: Lula and Bolsonaro locked in a tight race
@@ -1998,3 +1993,8 @@
 1791575268|https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices|Trump says US to import Russian diesel to ease prices
 1791575274|https://www.aa.com.tr/en/world/ukraine-reaffirms-support-for-icc-its-independence-integrity-/4084015|Ukraine reaffirms support for ICC, its ‘independence, integrity’
 1791575279|https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union|Rockstar HR manager claims he had "little interest" in staff's union membership status as fired GTA dev union-busting trial heats up
+1791575838|https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf|Schools crisis in France: Investment fails to inspire confidence
+1791575845|https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/|Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In
+1791575851|https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay|It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced
+1791575858|https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch|The Galaxies Showcase returns next week: here's how to watch it and what to expect
+1791575865|https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age|"It's not in the top five reference points": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age
