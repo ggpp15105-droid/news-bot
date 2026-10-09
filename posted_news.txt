@@ -1,8 +1,3 @@
-1790991314|https://tass.ru/obschestvo/28177757|В МВД рассказали о схеме мошенников с фейковым приложением поиска по картинке
-1790992101|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-vzyatii-vsu-v-takticheskoe-okruzhenie-u-orehova/|Стало известно о взятии ВСУ в тактическое окружение у Орехова
-1790992106|https://tass.ru/proisshestviya/28177769|В Одессе произошли взрывы
-1790992110|https://3dnews.ru/1149408|TDK показала экран для смарт-очков, который проецирует изображение прямо на сетчатку глаза
-1790992115|https://3dnews.ru/1149405|Хакеры взломали аккаунт Microsoft в соцсети X и потребовали вернуть «Скрепыша» ради рекламы криптовалюты
 1790992119|https://3dnews.ru/1149397|Игроки вычислили, какая настройка портит графику в ремастере The Witcher 3: Wild Hunt — CD Projekt Red пообещала разобраться с проблемой
 1790992637|https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss|Schools ablaze as student protests spread across France
 1790992642|https://www.japantimes.co.jp/news/2026/10/03/world/russia-spending-putin-years-war/|Russia’s spending plans show Putin preparing for years of war
@@ -1998,3 +1993,8 @@
 1791535195|https://www.dw.com/en/india-cockroach-party-denied-permission-to-protest-in-delhi-founder-dipke-pushes-on/live-79606961?maca=en-rss-en-all-1573-rdf|India: Cockroach party denied permission to protest in Delhi, founder Dipke pushes on
 1791535202|https://www.euronews.com/video/2026/10/09/violence-is-not-general-in-french-students-protests-mep-says|Violence is 'not general' in French students protests, MEP says
 1791535208|https://www.euronews.com/2026/10/09/scientific-study-reveals-scariest-horror-movie-with-one-2026-title-breaking-heart-rate-rec|Scientific study reveals scariest horror movie – with one 2026 title breaking heart rate record
+1791536197|https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss|Russian strikes and approaching winter force many in Kyiv to pack bags and flee
+1791536203|https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown|US targets Microsoft, Adobe in new visa crackdown
+1791536211|https://www.euronews.com/video/2026/10/09/former-new-zealand-pm-associate-membership-with-brussels-very-interesting-for-the-country|Former New Zealand PM: Associate membership with Brussels "very interesting" for the country
+1791536219|https://www.euronews.com/2026/10/09/police-arrest-suspect-after-deadly-shooting-in-germanys-upper-palatinate|Police arrest suspect after deadly shooting in Germany's Upper Palatinate
+1791536226|https://www.euronews.com/2026/10/09/fire-hoses-are-britains-nuclear-submarines-only-defence-against-drone-attacks-reports-say|'Fire hoses' are Britain's nuclear submarine's only defence against drone attacks, reports say
