@@ -1,8 +1,3 @@
-1790981499|https://tass.ru/mezhdunarodnaya-panorama/28177663|Журналист Ндиамахазо расскажет об убийствах Киевом жителей Донбасса
-1790982024|https://lenta.ru/news/2026/10/03/karlson-otsenil-vozmozhnosti-britanii-protivostoyat-rossii/|Карлсон оценил возможности Британии противостоять России
-1790982028|https://tass.ru/mezhdunarodnaya-panorama/28177669|Такер Карлсон заявил, что Украина продала бы ядерное оружие при его наличии
-1790982033|https://www.vedomosti.ru/politics/news/2026/10/03/1233955-izrail-otkril-ogon|Израиль открыл огонь по демилитаризованной зоне на юге Сирии
-1790982037|https://www.vedomosti.ru/society/news/2026/10/03/1233954-sk-vozbudil-delo|СК возбудил дело после нападения заключенного на конвоиров в Кабардино-Балкарии
 1790982042|https://www.vedomosti.ru/politics/news/2026/10/02/1233953-tramp-otkazalsya|Трамп отказался от запрета на экспорт дизельного топлива
 1790982772|https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss|Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi
 1790982778|https://www.japantimes.co.jp/life/2026/10/03/style-design/familymart-socks-47-prefectures-convenience-store-fashion/|FamilyMart’s sock became a prized souvenir. Now there are 47.
@@ -1998,3 +1993,8 @@
 1791522008|https://www.euronews.com/2026/10/09/from-barbershops-to-nature-courses-how-community-driven-campaigns-are-rethinking-mens-ment|From barbershops to nature courses: How community-driven campaigns are rethinking men’s mental health
 1791522017|https://lenta.ru/news/2026/10/09/v-rossii-zametno-vyroslo-chislo-likvidatsiy-kompaniy-iz-odnoy-otrasli/|В России заметно выросло число ликвидаций компаний из одной отрасли
 1791522023|https://lenta.ru/news/2026/10/09/pozhar-nachalsya-na-rossiyskom-zavode-iz-za-udara-vsu/|Пожар начался на российском заводе из-за удара ВСУ
+1791522932|https://www.euronews.com/2026/10/09/graphene-opens-new-way-to-detect-brain-damage-after-stroke|Graphene opens new way to detect brain damage after stroke
+1791522939|https://www.euronews.com/2026/10/09/el-nino-could-weaken-the-polar-vortex-does-a-scorching-summer-mean-a-freezing-winter|El Niño could weaken the polar vortex. Does a scorching summer mean a freezing winter?
+1791522946|https://www.euronews.com/2026/10/09/russia-slashes-cancer-care-as-defence-spending-hits-post-soviet-record|Russia slashes cancer care as defence spending hits post-Soviet record
+1791522953|https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-morning|Latest news bulletin | October 9th, 2026 – Morning
+1791522959|https://www.euronews.com/2026/10/09/santorini-wine-gastronomy-and-unique-experiences-beyond-the-famous-sunsets|Santorini: Wine, gastronomy and unique experiences beyond the famous sunsets
