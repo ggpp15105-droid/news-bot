@@ -1,8 +1,3 @@
-1791154088|https://www.euronews.com/2026/10/04/we-dont-feel-a-sense-of-worry-in-europe-says-the-head-of-the-muslim-world-league|“We don't feel a sense of worry” in Europe, says the head of the Muslim World League
-1791154672|https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss|Nicaragua says it will withdraw from Central American Parliament
-1791154680|https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss|US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears
-1791154685|https://www.france24.com/en/europe/20261004-us-bombers-raf-fairford-uk-pentagon|US withdraws all B-1 bombers from British military base RAF Fairford
-1791154690|https://news.sky.com/story/israeli-journalists-banned-from-media-call-after-republic-of-ireland-match-13595127|Israeli journalists banned from media call after Republic of Ireland match
 1791154696|https://www.euronews.com/2026/10/04/student-protests-in-france-400500-schools-fully-or-partially-closed-monday|Student protests in France: 400–500 schools fully or partially closed Monday
 1791155314|https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss|Mysterious luminous object burns in the skies above Libya
 1791155320|https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss|Man’s miraculous catch saves child after balcony fall in Egypt
@@ -1998,3 +1993,8 @@
 1791582140|https://lenta.ru/news/2026/10/10/razgovor-putina-i-trampa-opisali-slovami-nikto-ne-hotel-klast-trubku-pervym/|Разговор Путина и Трампа описали словами «никто не хотел класть трубку»
 1791582153|https://lenta.ru/news/2026/10/10/avtor-kanala-rybar-pokinul-chernogoriyu-posle-zaderzhaniya/|Автор канала «Рыбарь» покинул Черногорию после задержания
 1791582158|https://lenta.ru/news/2026/10/10/bessmertie/|Назван способ победить старение
+1791583005|https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss|US judge rules Trump administration’s use of voter data unlawful
+1791583011|https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss|Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe
+1791583018|https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr|Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau
+1791583023|https://news.sky.com/story/trump-says-russia-will-immediately-supply-300000-tons-of-diesel-with-millions-more-to-follow-13597040|Trump says Russia will immediately supply '300,000 tons of diesel' - with millions more to follow
+1791583030|https://www.aa.com.tr/en/americas/us-homeland-security-chief-blasts-new-york-city-mayor-over-sanctuary-policies/4084127|US homeland security chief blasts New York City mayor over sanctuary policies
