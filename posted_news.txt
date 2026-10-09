@@ -1,8 +1,3 @@
-1791016594|https://www.kommersant.ru/doc/9005609|СКР возбудил дело после гибели горняка при обрушении в шахте на Урале // Почти 100 человек остаются в шахте в Свердловской области после обрушения породы
-1791017607|https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss|Polls open in Latvia against backdrop of perceived Russia threat
-1791017614|https://www.aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss|Turkish court detains football refereeing chief pending corruption trial
-1791017621|https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss|India beat arch-rivals Pakistan to win Asian Games T20 cricket gold
-1791017627|https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss|Floods sweep cars through streets after intense rain in Spain
 1791017631|https://www.france24.com/en/live-news/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-as-govt-advances-journalist|Ethiopia's Tigray rebels abandon regional capital as govt advances: journalist
 1791018281|https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss|Yemen’s army claims over 1,500 Houthi casualties in past 24 hours
 1791018288|https://www.cnbc.com/2026/10/03/handful-of-g20-countries-reject-us-stance-on-industrial-capacity-.html|'Handful' of G20 countries reject U.S. stance on excess industrial capacity
@@ -1998,3 +1993,8 @@
 1791560358|https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-rdf|Eritrean troops in Ethiopia raise fears of a regional war
 1791560364|https://www.france24.com/en/tv-shows/fashion/20261009-2027-spring-summer-ready-to-wear-collections-audacity-movement-and-sensuality|2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality
 1791560370|https://www.france24.com/en/europe/20261009-israel-a-rare-dissenting-voice-as-praise-pours-in-for-nobel-peace-prize-winner-navi-pillay|Israel a rare dissenting voice as praise pours in for Nobel Peace Prize winner Navi Pillay
+1791561378|https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss|Hurricane Isaias strengthens into Category 3 storm with US in its sights
+1791561384|https://www.france24.com/en/france/20261009-le-pen-top-ally-bardella-faces-fresh-claims-he-sought-to-cover-up-past-anti-semitic-comments|Le Pen's top ally Bardella faces fresh claims he sought to cover up past anti-Semitic comments
+1791561391|https://www.france24.com/en/tv-shows/talking-europe/20261009-eu-s-covid-recovery-fund-was-absolutely-a-success-european-court-of-auditors-pierre-moscovici|EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici
+1791561398|https://www.euronews.com/2026/10/09/irans-irgc-strikes-tanker-and-threatens-to-target-vessels-beyond-hormuz|Iran's IRGC strikes tanker and threatens to target vessels beyond Hormuz
+1791561404|https://www.japantimes.co.jp/business/2026/10/09/companies/prudential-business-suspension-order/|Japan’s Prudential Life ordered to halt operations for over three months
