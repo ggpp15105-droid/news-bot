@@ -1,8 +1,3 @@
-1790992655|https://tass.ru/sport/28177773|"Вашингтон" Овечкина начал сезон НХЛ с победы над обладателем Кубка Стэнли
-1790993420|https://www.japantimes.co.jp/news/2026/10/03/japan/politics/hokkaido-aichi-osaka-fukuoka-secondary-capital/|Sapporo, Nagoya, Osaka and Fukuoka meet secondary capital criteria
-1790993424|https://lenta.ru/news/2026/10/03/ukrainu-predupredili-o-samom-tyazhelom-etape-v-konflikte-s-rossiey/|Украину предупредили о самом тяжелом этапе в конфликте с Россией
-1790993429|https://tass.ru/armiya-i-opk/28177803|ВС РФ уничтожили бронетранспортер Puma ВСУ
-1790993433|https://tass.ru/armiya-i-opk/28177801|Расчеты дронов "Лис" отразили атаку беспилотников ВСУ на Курскую область
 1790993437|https://tass.ru/armiya-i-opk/28177789|ВС РФ сорвали ротацию ВСУ на правом берегу Днепра
 1790994456|https://lenta.ru/news/2026/10/03/resursy-ukrainy-dlya-konflikta-s-rossiey-otsenili/|Ресурсы Украины для конфликта с Россией оценили
 1790994465|https://lenta.ru/news/2026/10/03/dvuh-postradavshih-pri-napadenii-v-poezde-vladikavkaz-adler-dostavili-v-bolnitsu-nalchika/|Двух пострадавших при нападении в поезде Владикавказ — Адлер доставили в больницу Нальчика
@@ -1998,3 +1993,8 @@
 1791537051|https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss|Japan’s Okinawa calls for review of US forces pact after killing
 1791537058|https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss|US ICE releases Kashmiri filmmaker Arfat Sheikh from custody
 1791537066|https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf|Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law
+1791538216|https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests/a-79605037?maca=en-rss-en-all-1573-rdf|South Africa pulls asylum directive after violent protests
+1791538222|https://www.dw.com/en/germany-women-s-football-team-can-ena-mahmutovic-make-a-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf|Germany women's football team: Can Ena Mahmutovic make a case to become Germany's next No.1 goalkeeper?
+1791538226|https://news.sky.com/story/former-un-human-rights-chief-navi-pillay-wins-the-nobel-peace-prize-13596724|Former UN human rights chief Navi Pillay wins the Nobel Peace Prize
+1791538232|https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html|Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay
+1791538238|https://www.euronews.com/2026/10/09/greece-is-the-most-popular-luxury-honeymoon-destination-for-2027-with-italy-and-france-als|Greece is the most popular luxury honeymoon destination for 2027 – with Italy and France also in the top 10
