@@ -1,8 +1,3 @@
-1791010875|https://www.aa.com.tr/en/middle-east/yemen-sees-widest-escalation-in-3-weeks-as-displacement-nears-200-000/4076693|Yemen sees widest escalation in 3 weeks as displacement nears 200,000
-1791011917|https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss|Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium
-1791011922|https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss|‘Trauma still there’: A decades-old standoff returns to Northern Ireland
-1791011927|https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views|UAE investigators say Omani Flydubai co-pilot was planning 'terrorist act'
-1791011933|https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia|Latvians head to the polls amid concerns over rising cost of living and Russia
 1791011939|https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is|What we've been playing - "That's one of gaming's great cities, that is"
 1791013029|https://www.euronews.com/2026/10/03/spain-faces-housing-protests-in-more-than-50-cities-after-parliament-rejects-tenant-protec|Spain faces housing protests in more than 50 cities after parliament rejects tenant protections
 1791013035|https://www.aa.com.tr/en/americas/us-senator-says-aipac-plans-to-spend-233m-to-defeat-candidates-critical-of-netanyahu-govt/4076743|US senator says AIPAC plans to spend $233M to defeat candidates critical of Netanyahu gov't
@@ -1998,3 +1993,8 @@
 1791553877|https://www.euronews.com/2026/10/09/the-second-time-around-meet-the-men-who-run-the-pre-owned-luxury-watch-market|The second time around: Meet the men who run the pre-owned luxury watch market
 1791553884|https://www.euronews.com/2026/10/09/helsinki-votes-in-favour-of-banning-fossil-fuel-adverts-but-there-could-be-a-10-year-delay|Helsinki votes in favour of banning fossil fuel adverts – but there could be a 10-year delay
 1791553891|https://www.euronews.com/2026/10/09/police-and-protesters-clash-in-brussels-as-anti-austerity-rally-disrupts-city|Police and protesters clash in Brussels as anti-austerity rally disrupts city
+1791554716|https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf|Saudi coalition vows 'firm' response after airport attack kills 3
+1791554722|https://www.france24.com/en/video/20261009-russia-says-all-clear-after-contact-tracing-in-reported-plague-case|Russia says all clear after contact tracing in reported plague case
+1791554729|https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel|No peace without international law: The message behind Navi Pillay’s Nobel
+1791554734|https://www.france24.com/en/video/20261009-french-high-school-students-react-to-education-minister-s-measures|French high school students react to Education Minister’s measures
+1791554740|https://www.france24.com/en/tv-shows/access-asia/20261009-india-protests-grow-over-election-commission-mistrust|India protests grow over Election Commission mistrust
