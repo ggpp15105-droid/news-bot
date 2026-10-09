@@ -1,8 +1,3 @@
-1790971430|https://lenta.ru/news/2026/10/02/syna-ronaldu/|Сына Роналду не вызвали в сборную Португалии
-1790972392|https://lenta.ru/news/2026/10/02/long-v-poezde-vladikavkaz-adler-proizoshel-bunt-zaklyuchennyh-pogib-sotrudnik-fsin-chto-izvestno-k-etoy-minute/|В поезде Владикавказ — Адлер произошел бунт заключенных, погиб сотрудник ФСИН. Что известно к этой минуте?
-1790972400|https://lenta.ru/news/2026/10/02/odin-zaklyuchennyy-byl-likvidirovan-pri-bunte-v-poezde-vladikavkaz-adler/|Один заключенный был ликвидирован при бунте в поезде Владикавказ — Адлер
-1790972404|https://www.kommersant.ru/doc/9005245|The Guardian узнала о планах западных стран перенести посольства из Киева
-1790972413|https://www.kommersant.ru/doc/9005244|Минздрав предложил новый порядок медосвидетельствования водителей
 1790972417|https://www.kommersant.ru/doc/9005241|Глава Пентагона поручил ускорить внедрение в армию систем борьбы с БПЛА
 1790973292|https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss|Could conflict in Ethiopia expand across the region?
 1790973301|https://lenta.ru/news/2026/10/02/zhena-safonova-rasskazala-ob-otnoshenii-k-brachnomu-kontraktu/|Жена Сафонова рассказала об отношении к брачному контракту
@@ -1998,3 +1993,8 @@
 1791510612|https://www.japantimes.co.jp/news/2026/10/09/world/society/madrid-protesters-mourn-evicted-retiree/|Madrid mourns evicted retiree, ‘icon’ of Spain housing protests
 1791510620|https://lenta.ru/news/2026/10/09/anthropic-zapretila-polzovatelyam-zhestoko-obraschatsya-s-neyrosetyu-claude/|Anthropic запретила пользователям жестоко обращаться с нейросетью Claude
 1791510625|https://lenta.ru/news/2026/10/09/zelenskomu-dali-sovet-posle-zhaloby-na-rubio/|Зеленскому дали совет после жалобы на Рубио
+1791511367|https://www.japantimes.co.jp/news/2026/10/09/world/society/france-student-protests-teachers/|France to fight student unrest by dispatching thousands of teachers
+1791511372|https://lenta.ru/news/2026/10/09/mvd-predupredilo-ob-opasnosti-hraneniya-lichnyh-dannyh-v-smartfonah/|МВД предупредило об опасности хранения личных данных в смартфонах
+1791511377|https://lenta.ru/news/2026/10/09/obnaruzheno-neozhidannoe-sredstvo-protiv-ozhireniya-pecheni/|Обнаружено неожиданное средство против ожирения печени
+1791511382|https://www.kommersant.ru/doc/9009567|NYT: Пентагон подготовил план трехдневной военной операции в Иране
+1791511391|https://www.kommersant.ru/doc/9009565|Fars: несколько танкеров подорвались на минах в Ормузском проливе
