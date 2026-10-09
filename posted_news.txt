@@ -1,8 +1,3 @@
-1790992119|https://3dnews.ru/1149397|Игроки вычислили, какая настройка портит графику в ремастере The Witcher 3: Wild Hunt — CD Projekt Red пообещала разобраться с проблемой
-1790992637|https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss|Schools ablaze as student protests spread across France
-1790992642|https://www.japantimes.co.jp/news/2026/10/03/world/russia-spending-putin-years-war/|Russia’s spending plans show Putin preparing for years of war
-1790992647|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-riske-vsu-lishitsya-postavok-ot-zapada/|Стало известно о риске ВСУ лишиться поставок от Запада
-1790992652|https://www.kommersant.ru/doc/9005543|Трамп заявил о планах США наращивать стратегические запасы нефти
 1790992655|https://tass.ru/sport/28177773|"Вашингтон" Овечкина начал сезон НХЛ с победы над обладателем Кубка Стэнли
 1790993420|https://www.japantimes.co.jp/news/2026/10/03/japan/politics/hokkaido-aichi-osaka-fukuoka-secondary-capital/|Sapporo, Nagoya, Osaka and Fukuoka meet secondary capital criteria
 1790993424|https://lenta.ru/news/2026/10/03/ukrainu-predupredili-o-samom-tyazhelom-etape-v-konflikte-s-rossiey/|Украину предупредили о самом тяжелом этапе в конфликте с Россией
@@ -1998,3 +1993,8 @@
 1791536211|https://www.euronews.com/video/2026/10/09/former-new-zealand-pm-associate-membership-with-brussels-very-interesting-for-the-country|Former New Zealand PM: Associate membership with Brussels "very interesting" for the country
 1791536219|https://www.euronews.com/2026/10/09/police-arrest-suspect-after-deadly-shooting-in-germanys-upper-palatinate|Police arrest suspect after deadly shooting in Germany's Upper Palatinate
 1791536226|https://www.euronews.com/2026/10/09/fire-hoses-are-britains-nuclear-submarines-only-defence-against-drone-attacks-reports-say|'Fire hoses' are Britain's nuclear submarine's only defence against drone attacks, reports say
+1791537039|https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss|NBA star Wembanyama to French students: ‘I hear you’
+1791537044|https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss|New York police push politician to ground during anti-ICE protest
+1791537051|https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss|Japan’s Okinawa calls for review of US forces pact after killing
+1791537058|https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss|US ICE releases Kashmiri filmmaker Arfat Sheikh from custody
+1791537066|https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf|Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law
