@@ -1,8 +1,3 @@
-1790975865|https://lenta.ru/news/2026/10/02/chp-v-poezde-s-zaklyuchennymi-pod-vladikavkazom-kvalifitsirovali-po-trem-statyam/|ЧП в поезде с заключенными под Владикавказом квалифицировали по трем статьям
-1790976787|https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss|US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
-1790976794|https://www.aa.com.tr/en/world/putin-to-escalate-attacks-on-ukraine-as-us-midterm-elections-approach-zelenskyy-says/4076626|Putin to escalate attacks on Ukraine as US midterm elections approach, Zelenskyy says
-1790976808|https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now|Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'
-1790976816|https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week|Vibe-Coded Mashup Mods Have Taken Over X This Week
 1790976821|https://lenta.ru/news/2026/10/03/fsin-rossii-otreagirovala-na-gibel-sotrudnika-vo-vremya-chp-s-zaklyuchennymi-v-poezde/|ФСИН России отреагировала на гибель сотрудника во время ЧП с заключенными в поезде
 1790977670|https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss|G7 to release 100 million barrels of oil and diesel after Trump export ban threat
 1790977676|https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss|Bosnia’s elections explained
@@ -1998,3 +1993,8 @@
 1791514989|https://www.japantimes.co.jp/sports/2026/10/09/basketball/wnba-mvp-wilson-fifth-award/|Aces star A’ja Wilson collects record fifth MVP award
 1791514994|https://lenta.ru/news/2026/10/09/gen/|Опровергнуто популярное заблуждение об алкоголизме
 1791514999|https://lenta.ru/news/2026/10/09/perespavshaya-s-583-muzhchinami-pornomodel-sygrala-svadbu-na-dengi-odinokih-poklonnikov/|Переспавшая с 583 мужчинами порномодель сыграла свадьбу на деньги одиноких поклонников
+1791516143|https://www.dw.com/en/ukraine-europe-us-to-meet-in-miami-for-talks-on-ending-war/a-79606735?maca=en-rss-en-all-1573-rdf|Ukraine, Europe, US to meet in Miami for talks on ending war
+1791516148|https://lenta.ru/news/2026/10/09/rossiyan-predupredili-o-riske-vstrechi-s-golodnymi-medvedyami-shatunami/|Россиян предупредили о риске встречи с голодными медведями-шатунами
+1791516154|https://lenta.ru/news/2026/10/09/paren-zadal-devushke-odin-vopros-posle-rasstavaniya-i-nemedlenno-rassvirepel/|Парень задал девушке один вопрос после расставания и немедленно рассвирепел
+1791516163|https://www.kommersant.ru/doc/9009569|Десять человек погибли во время тюремного бунта в Мексике
+1791516171|https://www.kommersant.ru/doc/9009570|В Забайкалье ввели режим повышенной готовности из-за возможной вспышки ящура
