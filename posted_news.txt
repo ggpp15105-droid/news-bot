@@ -1,8 +1,3 @@
-1790974892|https://lenta.ru/news/2026/10/02/vo-fsin-rossii-sdelali-zayavlenie-posle-chp-v-poezde-s-zaklyuchennymi/|Во ФСИН России сделали заявление после ЧП в поезде с заключенными
-1790975841|https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss|FlyDubai pilot hailed as ‘national hero’ as he describes attack
-1790975847|https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss|Latin America sees China as more positive global influence than US: Poll
-1790975856|https://lenta.ru/news/2026/10/02/rossiyskiy-posol-rasskazal-o-planah-avstrii-po-nato/|Российский посол рассказал о планах Австрии по НАТО
-1790975860|https://lenta.ru/news/2026/10/03/long-ark/|Охотники за Ноевым ковчегом уверены, что наконец нашли его. Какие доказательства они приводят?
 1790975865|https://lenta.ru/news/2026/10/02/chp-v-poezde-s-zaklyuchennymi-pod-vladikavkazom-kvalifitsirovali-po-trem-statyam/|ЧП в поезде с заключенными под Владикавказом квалифицировали по трем статьям
 1790976787|https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss|US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
 1790976794|https://www.aa.com.tr/en/world/putin-to-escalate-attacks-on-ukraine-as-us-midterm-elections-approach-zelenskyy-says/4076626|Putin to escalate attacks on Ukraine as US midterm elections approach, Zelenskyy says
@@ -1998,3 +1993,8 @@
 1791514342|https://lenta.ru/news/2026/10/09/stala-izvestna-data-zasedaniya-sovbeza-oon-po-ukraine/|Стала известна дата заседания Совбеза ООН по Украине
 1791514347|https://lenta.ru/news/2026/10/09/originalnyy-avtomobil-iz-kultovogo-filma-tima-bertona-vystavili-na-auktsion/|Оригинальный автомобиль из культового фильма Тима Бертона выставили на аукцион
 1791514351|https://lenta.ru/news/2026/10/09/voennyy-nazval-sposob-zaschititsya-ot-atak-vglub-rossii/|Военный назвал способ защититься от атак вглубь России
+1791514974|https://www.japantimes.co.jp/news/2026/10/09/japan/crime-legal/okinawa-marine-murder-protest-tokyo/|Dozens protest in Tokyo after U.S. Marine accused of murder in Okinawa
+1791514980|https://www.japantimes.co.jp/business/2026/10/09/companies/japan-alcohol-rtd/|Alcohol makers in Japan tap into U.S. ready-to-drink market
+1791514989|https://www.japantimes.co.jp/sports/2026/10/09/basketball/wnba-mvp-wilson-fifth-award/|Aces star A’ja Wilson collects record fifth MVP award
+1791514994|https://lenta.ru/news/2026/10/09/gen/|Опровергнуто популярное заблуждение об алкоголизме
+1791514999|https://lenta.ru/news/2026/10/09/perespavshaya-s-583-muzhchinami-pornomodel-sygrala-svadbu-na-dengi-odinokih-poklonnikov/|Переспавшая с 583 мужчинами порномодель сыграла свадьбу на деньги одиноких поклонников
