@@ -1,8 +1,3 @@
-1790974226|https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election|US suspends consular services in Brazil as Lula and Bolsonaro fight for election
-1790974873|https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels|Ethiopian army pushes back Tigrayan rebels
-1790974878|https://news.sky.com/story/nepal-plans-to-drain-four-dangerous-glacial-lakes-after-deadly-flash-flood-13594475|Nepal plans to drain four dangerous glacial lakes after deadly flood
-1790974883|https://lenta.ru/news/2026/10/02/frantsiya-vpervye-poteryala-ochki-pri-zidane/|Франция впервые потеряла очки при Зидане
-1790974887|https://lenta.ru/news/2026/10/02/byvshiy-ministr-ekonomiki-rossii-podtverdil-gospitalizatsiyu/|Бывший министр экономики России подтвердил госпитализацию
 1790974892|https://lenta.ru/news/2026/10/02/vo-fsin-rossii-sdelali-zayavlenie-posle-chp-v-poezde-s-zaklyuchennymi/|Во ФСИН России сделали заявление после ЧП в поезде с заключенными
 1790975841|https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss|FlyDubai pilot hailed as ‘national hero’ as he describes attack
 1790975847|https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss|Latin America sees China as more positive global influence than US: Poll
@@ -1998,3 +1993,8 @@
 1791513429|https://www.japantimes.co.jp/business/2026/10/09/companies/microsoft-us-visa-program-ban/|U.S. suspends Microsoft and other tech firms with India links from visa program
 1791513435|https://www.aa.com.tr/en/americas/us-immigration-agent-shoots-man-in-new-york-city/4082847|US immigration agent shoots man in New York City
 1791513440|https://lenta.ru/news/2026/10/09/raskryty-podrobnosti-o-mnogodetnoy-semie-posle-smertelnogo-pozhara-v-rossiyskom-gorode/|Раскрыты подробности о многодетной семье после смертельного пожара в российском городе
+1791514332|https://www.japantimes.co.jp/business/2026/10/09/companies/japan-ipo-fundraising-low/|Japan deal drought cuts IPO fundraising to lowest in 14 years
+1791514338|https://www.aa.com.tr/en/europe/labour-holds-onto-greater-london-seat-formerly-held-by-starmer-with-2nd-place-green-party-leader-vowing-to-stay-at-helm/4082849|Labour holds onto Greater London seat formerly held by Starmer, with 2nd-place Green Party leader vowing to stay at helm
+1791514342|https://lenta.ru/news/2026/10/09/stala-izvestna-data-zasedaniya-sovbeza-oon-po-ukraine/|Стала известна дата заседания Совбеза ООН по Украине
+1791514347|https://lenta.ru/news/2026/10/09/originalnyy-avtomobil-iz-kultovogo-filma-tima-bertona-vystavili-na-auktsion/|Оригинальный автомобиль из культового фильма Тима Бертона выставили на аукцион
+1791514351|https://lenta.ru/news/2026/10/09/voennyy-nazval-sposob-zaschititsya-ot-atak-vglub-rossii/|Военный назвал способ защититься от атак вглубь России
