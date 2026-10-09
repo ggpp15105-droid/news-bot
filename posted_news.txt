@@ -1,8 +1,3 @@
-1790984296|https://tass.ru/proisshestviya/28177687|UKMTO сообщил об атаке на нефтяной танкер у Омана
-1790984924|https://tass.ru/ekonomika/28177693|FTM: МО Нидерландов отдало военный заказ для Киева на €200 млн банкроту
-1790984928|https://tass.ru/ekonomika/28177691|Аэропорт Калуги возобновил прием и выпуск самолетов
-1790984932|https://tass.ru/obschestvo/28177681|Более 50 тестов для диагностики заболеваний может появиться в РФ до 2030 года
-1790984950|https://www.vedomosti.ru/society/news/2026/10/02/1233952-zaklyuchennii-ubil-sotrudnika|Заключенный убил сотрудника ФСИН в поезде «Владикавказ – Адлер»
 1790984961|https://www.igromania.ru/news/169037/star-wars-galactic-racer-gta-6-gears-of-war-e-day-i-ne-tolko-glavnyie-igrovyie-novosti-za-2-oktyabrya/|Star Wars: Galactic Racer, GTA 6, Gears of War: E-Day и не только — главные игровые новости за 2 октября
 1790985463|https://lenta.ru/news/2026/10/03/v-yuzhnoy-koree-soobschili-o-zapuske-neopoznannogo-snaryada-kndr/|В Южной Корее сообщили о запуске неопознанного снаряда КНДР
 1790985471|https://lenta.ru/news/2026/10/03/grossi-vyskazalsya-o-naznachenii-na-post-genseka-oon/|Гросси высказался о назначении на пост генсека ООН
@@ -1998,3 +1993,8 @@
 1791525821|https://www.euronews.com/2026/10/09/qatarenergys-lng-expansion-targets-early-2027-production-amid-reports-of-3bn-loan|QatarEnergy’s LNG expansion targets early 2027 production amid reports of $3bn loan
 1791525827|https://lenta.ru/news/2026/10/09/srok/|Для назвавшего генерала-коллаборациониста Власова мучеником иеромонаха потребовали срок
 1791525832|https://lenta.ru/news/2026/10/09/nazvany-pretendenty-na-nobelevskuyu-premiyu-mira/|Названы претенденты на Нобелевскую премию мира
+1791527269|https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss|From Aden to Sanaa, Yemenis struggle to deal with soaring living costs
+1791527274|https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss|How October 7 changed Lebanon and Hezbollah’s political reality
+1791527281|https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-rdf|India: Cockroach Janta Party leaders allege mass detentions ahead of Delhi protest, decry 'emergency'
+1791527287|https://www.euronews.com/2026/10/09/europe-today-french-students-retake-bastille-trump-unwilling-to-help-ukraine|Europe Today: French students 'retake Bastille', Trump 'unwilling' to help Ukraine
+1791527293|https://www.japantimes.co.jp/sports/2026/10/09/soccer/haaland-city-fans-message/|Erling Haaland calls for Manchester City fans to ‘stick together’
