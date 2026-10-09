@@ -1,8 +1,3 @@
-1791011939|https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is|What we've been playing - "That's one of gaming's great cities, that is"
-1791013029|https://www.euronews.com/2026/10/03/spain-faces-housing-protests-in-more-than-50-cities-after-parliament-rejects-tenant-protec|Spain faces housing protests in more than 50 cities after parliament rejects tenant protections
-1791013035|https://www.aa.com.tr/en/americas/us-senator-says-aipac-plans-to-spend-233m-to-defeat-candidates-critical-of-netanyahu-govt/4076743|US senator says AIPAC plans to spend $233M to defeat candidates critical of Netanyahu gov't
-1791013041|https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402|What are we all playing this weekend?
-1791013049|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-samyy-vrednyy-dlya-zdorovya-produkt/|Россиянам назвали самый вредный для здоровья продукт
 1791013057|https://lenta.ru/news/2026/10/03/sledovateli-nashli-tela-materi-i-rebenka-v-tualete-aeroporta-v-podmoskovie/|Следователи нашли тела матери и ребенка в туалете аэропорта в Подмосковье
 1791013912|https://lenta.ru/news/2026/10/03/dve-peredachi-rossiyskogo-zaschitnika-pomogli-bostonu-obygrat-vinnipeg/|Две передачи российского защитника помогли «Бостону» обыграть «Виннипег»
 1791013920|https://lenta.ru/news/2026/10/03/v-kndr-zayavili-o-nezhelanii-vzaimodeystvovat-s-yuzhnoy-koreey/|В КНДР заявили о нежелании взаимодействовать с Южной Кореей
@@ -1998,3 +1993,8 @@
 1791554729|https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel|No peace without international law: The message behind Navi Pillay’s Nobel
 1791554734|https://www.france24.com/en/video/20261009-french-high-school-students-react-to-education-minister-s-measures|French high school students react to Education Minister’s measures
 1791554740|https://www.france24.com/en/tv-shows/access-asia/20261009-india-protests-grow-over-election-commission-mistrust|India protests grow over Election Commission mistrust
+1791555996|https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss|Ethiopia and Eritrea accuse one another of launching war
+1791556002|https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss|Bangladesh’s mango diplomacy with India has reached its limits
+1791556006|https://news.sky.com/story/a-gang-of-masked-men-stole-42m-worth-of-red-wine-from-marchesi-antinori-italys-largest-family-run-producer-13596841|Gang of masked men stole £4.2m worth of red wine from Italy
+1791556014|https://www.euronews.com/2026/10/09/un-voices-concern-over-violence-as-french-students-plan-more-protests|UN voices 'concern' over violence as French students plan more protests
+1791556020|https://www.euronews.com/video/2026/10/09/tornadoes-sweep-across-sicily-leaving-flipped-cars-and-damaged-buildings|Tornadoes sweep across Sicily, leaving flipped cars and damaged buildings
