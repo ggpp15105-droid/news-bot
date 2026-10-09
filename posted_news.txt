@@ -1,8 +1,3 @@
-1791013057|https://lenta.ru/news/2026/10/03/sledovateli-nashli-tela-materi-i-rebenka-v-tualete-aeroporta-v-podmoskovie/|Следователи нашли тела матери и ребенка в туалете аэропорта в Подмосковье
-1791013912|https://lenta.ru/news/2026/10/03/dve-peredachi-rossiyskogo-zaschitnika-pomogli-bostonu-obygrat-vinnipeg/|Две передачи российского защитника помогли «Бостону» обыграть «Виннипег»
-1791013920|https://lenta.ru/news/2026/10/03/v-kndr-zayavili-o-nezhelanii-vzaimodeystvovat-s-yuzhnoy-koreey/|В КНДР заявили о нежелании взаимодействовать с Южной Кореей
-1791013925|https://lenta.ru/news/2026/10/03/v-britanii-soobschili-o-silnoy-vspyshke-opasnogo-virusa/|В Британии сообщили о сильной вспышке опасного вируса
-1791013933|https://www.kommersant.ru/doc/9005586|МИД РФ призвал власти Индии освободить россиян с задержанного судна Unity
 1791013942|https://www.kommersant.ru/doc/9005580|Генпрокуратура ОАЭ назвала терактом инцидент на борту самолета Flydubai
 1791014537|https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf|India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation
 1791014545|https://lenta.ru/news/2026/10/03/raskryty-podrobnosti-raspravy-rossiyanki-nad-novorozhdennym-v-tualete-aeroporta/|Раскрыты подробности расправы россиянки над новорожденным в туалете аэропорта
@@ -1998,3 +1993,8 @@
 1791556006|https://news.sky.com/story/a-gang-of-masked-men-stole-42m-worth-of-red-wine-from-marchesi-antinori-italys-largest-family-run-producer-13596841|Gang of masked men stole £4.2m worth of red wine from Italy
 1791556014|https://www.euronews.com/2026/10/09/un-voices-concern-over-violence-as-french-students-plan-more-protests|UN voices 'concern' over violence as French students plan more protests
 1791556020|https://www.euronews.com/video/2026/10/09/tornadoes-sweep-across-sicily-leaving-flipped-cars-and-damaged-buildings|Tornadoes sweep across Sicily, leaving flipped cars and damaged buildings
+1791557199|https://www.france24.com/en/tv-shows/arts24/20261009-callum-turner-s-new-film-sparkles-at-dinard-film-festival|Callum Turner's new film sparkles at Dinard Film Festival
+1791557205|https://www.france24.com/en/tv-shows/scoop/20261009-lawsuits-blame-fox-news-for-deaths-of-journalists-in-ukraine|Lawsuits blame Fox News for deaths of journalists in Ukraine
+1791557212|https://www.france24.com/en/video/20261009-absolute-torture-female-us-inmate-in-critical-condition-after-botched-execution|'Absolute torture': Female US inmate in critical condition after botched execution
+1791557219|https://www.france24.com/en/tv-shows/revisited/20261009-sierra-leone-from-blood-diamonds-to-stones-of-hopen|Sierra Leone: From 'blood diamonds' to stones of hope?
+1791557227|https://www.euronews.com/2026/10/09/eu-and-china-clinch-deal-over-cars-after-heated-trade-talks-as-brussels-pushes-to-rebalanc|EU and China clinch deal over cars after heated trade talks as Brussels pushes to rebalance trade
