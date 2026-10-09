@@ -1,8 +1,3 @@
-1790967405|https://lenta.ru/news/2026/10/02/rianna-v-otkrovennoy-poze-snyalas-dlya-sobstvennogo-brenda-nizhnego-belya/|Рианна в откровенной позе снялась для собственного бренда нижнего белья
-1790968122|https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html|FAA says Boeing 737 Max software glitch not a flight-safety issue
-1790968126|https://lenta.ru/news/2026/10/02/prezident-brazilii-lula-da-silva-rasskazal-o-planah-dozhit-do-120-let/|Президент Бразилии Лула да Силва рассказал о своих планах на ближайшие 40 лет
-1790968135|https://lenta.ru/news/2026/10/02/anfisa-chehova-pohvastalas-sadom-s-eyvoy/|Анфиса Чехова похвасталась огородом и садом с «Эйвой»
-1790968139|https://www.kommersant.ru/doc/9005229|Евгений Кузнецов приостановил спортивную карьеру
 1790968148|https://www.kommersant.ru/doc/9005226|США оставили в силе пошлины на углеродистую сталь из России
 1790969154|https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-rdf|New York governor condemns handling of Cornell rape case
 1790969161|https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch|Video Game Release Dates: The Biggest Games Coming Soon
@@ -1998,3 +1993,8 @@
 1791504069|https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs|The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs
 1791504076|https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them|Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them
 1791504083|https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion|GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion
+1791505658|https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss|Will Ethiopia’s neighbours intervene as Tigray war escalates?
+1791505663|https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss|Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait
+1791505668|https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss|Kenyan patient suspected of Ebola infection tests negative
+1791505674|https://www.aa.com.tr/en/eurasia/explainer-how-has-russia-ukraine-fighting-intensified-since-september/4082846|EXPLAINER - How has Russia-Ukraine fighting intensified since September?
+1791505680|https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview|Phantom Blade Zero Might Be This Year’s Most Stylish Action Game | IGN Preview
