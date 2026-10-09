@@ -1,8 +1,3 @@
-1791021002|https://lenta.ru/news/2026/10/03/kamaz-s-geranyami-nazvali-glavnoy-novinkoy-ucheniy-tsentr/|КамАЗ с «Геранями» назвали главной новинкой учений «Центр»
-1791021547|https://www.dw.com/en/germany-next-president-should-come-from-east-says-official/live-79528092?maca=en-rss-en-all-1573-rdf|Germany: Next president should come from east, says official
-1791021551|https://lenta.ru/news/2026/10/03/karpin-nazval-komandy-s-kotorymi-hochet-sygrat/|Карпин назвал команды, с которыми хочет сыграть
-1791021556|https://lenta.ru/news/2026/10/03/ferstappen-vyigral-kvalifikatsiyu-na-etape-formuly-1-v-bahreyne/|Ферстаппен выиграл квалификацию на этапе «Формулы-1» в Бахрейне
-1791021565|https://lenta.ru/news/2026/10/03/v-minoborony-zayavili-ob-uspehah-armii-rossii-v-harkovskoy-oblasti/|В Минобороны заявили об успехах армии России в Харьковской области
 1791021570|https://www.kommersant.ru/doc/9005621|«Газпром» заявил о рекордно низком запасе газа в хранилище Прибалтики
 1791022385|https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss|Red Bull’s Verstappen grabs pole position for Bahrain GP in Malaysia
 1791022392|https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks|China opens anti-dumping probe into EU days before Beijing trade talks
@@ -1998,3 +1993,8 @@
 1791565286|https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss|‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank
 1791565291|https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009|Flydubai co-pilot planned to crash aircraft into Ben Gurion airport, UAE says
 1791565299|https://www.ign.com/articles/wardogs-new-rain-system-will-have-a-major-effect-on-gameplay-in-season-2|Wardogs' New Rain System Will Have a Major Effect on Gameplay in Season 2
+1791566218|https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss|US unveils sanctions on ICC in move court condems as 'assault on rule of law'
+1791566225|https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss|Russian search engine Yandex struggles after Ukrainian strikes on data centres
+1791566233|https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf|China, EU reach deal to 'moderate' China's car exports to EU
+1791566237|https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11|🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says
+1791566243|https://www.france24.com/en/video/20261009-unweaving-jeffrey-epstein-s-web-what-the-files-have-revealed|Unweaving Jeffrey Epstein’s web: What the files have revealed
