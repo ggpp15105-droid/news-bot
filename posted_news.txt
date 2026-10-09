@@ -1,8 +1,3 @@
-1791025083|https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand|Memory shortages set to persist into 2028, warns Micron CEO
-1791031814|https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss|South Africa’s Pretorius smashes Gayle’s T20 cricket record score
-1791031820|https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss|Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters
-1791031827|https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss|World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers
-1791031833|https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss|The double standards of a failed execution
 1791031840|https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss|Ethiopia’s government forces retake airport from Tigray rebels in Mekelle
 1791049440|https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss|Tennessee prison chief to resign after Christa Pike's failed execution, governor says
 1791049446|https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss|'Anger in the streets': Tens of thousands protest in Spain over housing crisis
@@ -1998,3 +1993,8 @@
 1791568937|https://www.ign.com/articles/wardogs-dev-explains-why-blue-team-loses-more-confirms-plan-to-address-the-balance-in-season-2|Wardogs Dev Explains Why Blue Team Loses More, Confirms Plan to Address the Balance in Season 2
 1791568942|https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/|Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1
 1791568948|https://www.gamespot.com/articles/street-fighter-was-on-deaths-door-and-its-players-werent-getting-any-younger/|Street Fighter Was On Death’s Door, And Its Players Weren’t Getting Any Younger
+1791570151|https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss|‘An attack against sovereign states’: ICC President slams US sanctions
+1791570158|https://www.france24.com/en/navi-pillay-awarded-peace-prize-lifetime-spent-fighting-for-what-s-right-to-uphold-human-rights|Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'
+1791570166|https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html|Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports
+1791570174|https://www.aa.com.tr/en/world/us-sanctions-on-icc-brash-attempt-to-dismantle-international-legal-system-un-experts/4083944|US sanctions on ICC 'brash attempt' to dismantle international legal system: UN experts
+1791570181|https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/|Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says
