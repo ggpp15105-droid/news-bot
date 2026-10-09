@@ -1,8 +1,3 @@
-1791018309|https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works|"We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works
-1791019376|https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar|Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities
-1791019381|https://lenta.ru/news/2026/10/03/nazvana-prichina-smerti-kashpirovskogo/|Названа причина смерти Кашпировского
-1791019390|https://lenta.ru/news/2026/10/03/armiya-rossii-unichtozhila-mesta-hraneniya-dronov-vsu/|Армия России уничтожила места хранения дронов ВСУ
-1791019395|https://lenta.ru/news/2026/10/03/v-rade-isklyuchili-vstuplenie-ukrainy-v-es-v-blizhayshie-gody/|В Раде исключили вступление Украины в ЕС в ближайшие годы
 1791019400|https://lenta.ru/news/2026/10/03/voennyy-raskryl-posledstviya-udara-rossii-po-mostu-v-kieve/|Военный раскрыл последствия удара России по мосту в Киеве
 1791020200|https://www.aa.com.tr/en/europe/moldova-says-5-russian-aerial-weapons-violated-country-s-airspace-exploded-on-its-territory/4076862|Moldova says 5 Russian aerial weapons violated country’s airspace, exploded on its territory
 1791020205|https://lenta.ru/news/2026/10/03/zolotov-vruchil-kadyrovu-pogony-generala-armii/|Золотов вручил Кадырову погоны генерала армии
@@ -1998,3 +1993,8 @@
 1791562194|https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html|Trump appoints committee to investigate statements by the Fed's Lisa Cook
 1791562200|https://www.aa.com.tr/en/world/ai-sector-gathers-at-ai-everything-event-in-abu-dhabi/4083819|AI sector gathers at Ai Everything event in Abu Dhabi
 1791562206|https://www.aa.com.tr/en/world/us-voices-concern-over-houthi-escalation-condemns-attacks-on-saudi-arabia/4083771|US voices concern over Houthi escalation, condemns attacks on Saudi Arabia
+1791563289|https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss|Thousands rally for anti-austerity protest in Brussels amid clashes
+1791563295|https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss|Trump launches probe into Federal Reserve Governor Lisa Cook
+1791563300|https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss|‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize
+1791563308|https://www.japantimes.co.jp/life/2026/10/10/language/nisa-poverty-japanese-investing/|Saving for the future is making some investors ‘NISA broke’
+1791563316|https://www.aa.com.tr/en/world/eu-calls-us-sanctions-announcement-against-international-criminal-court-deeply-regrettable/4083767|EU calls US sanctions announcement against International Criminal Court 'deeply regrettable'
