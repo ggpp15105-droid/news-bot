@@ -1,8 +1,3 @@
-1790985497|https://www.igromania.ru/news/169035/svezhij-valor-mortis-posvyatili-bodi-horroru-i-mutatsiyam-vragov/|Свежий Valor Mortis посвятили боди-хоррору и мутациям врагов
-1790986402|https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss|Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
-1790986408|https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss|North Korea fires ballistic missile towards the sea, South Korea says
-1790986415|https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss|Dutch royal house helped slave trade to survive, study finds
-1790986420|https://lenta.ru/news/2026/10/03/v-rossii-zayavili-o-serieznom-otnoshenii-k-ugrozam-zapada-v-adres-kaliningradskoy-oblasti/|В России заявили о серьезном отношении к угрозам Запада в адрес Калининградской области
 1790986424|https://tass.ru/mezhdunarodnaya-panorama/28177703|Трамп допустил окончание конфликта с Ираном после выборов в Конгресс
 1790987750|https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss|Cornell frat house rape accuser 'under siege' online, says lawyer
 1790987759|https://lenta.ru/news/2026/10/03/neftyanoy-tanker-podvergsya-atake-u-beregov-omana/|Нефтяной танкер подвергся атаке у берегов Омана
@@ -1998,3 +1993,8 @@
 1791528726|https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-rdf|Malaysia shuts schools amid toxic haze from Indonesian fires
 1791528731|https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests|Tens of thousands march in Madrid to mourn pensioner whose eviction sparked housing protests
 1791528738|https://www.euronews.com/2026/10/09/france-faces-perfect-storm-of-student-unrest-and-economic-turmoil|France faces perfect storm of student unrest and economic turmoil
+1791529679|https://www.euronews.com/video/2026/10/09/rima-hassan-denies-throwing-the-eu-flag-to-the-floor-at-7-october-commemoration|Rima Hassan denies throwing the EU flag to the floor at 7 October commemoration
+1791529686|https://www.euronews.com/2026/10/09/the-funniest-animal-photos-of-2026-nikon-comedy-wildlife-awards-finalists-revealed|The funniest animal photos of 2026: Nikon Comedy Wildlife Awards finalists revealed
+1791529694|https://www.japantimes.co.jp/news/2026/10/09/asia-pacific/science-health/modi-india-ai-age-pushback/|Modi wants India to power the AI age. Residents are pushing back.
+1791529701|https://www.japantimes.co.jp/news/2026/10/09/japan/politics/consumption-tax-bill-submit/|Government to submit bill on food consumption tax reduction to parliament
+1791529708|https://www.japantimes.co.jp/news/2026/10/09/japan/society/imperial-palace-runners-safety-measures/|Tokyo’s palace runners say respect vital as Chiyoda considers new safety measures
