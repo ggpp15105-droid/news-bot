@@ -1,8 +1,3 @@
-1791023256|https://www.kommersant.ru/doc/9005629|Токаев уволил главнокомандующего ВМС после гибели военных на морских учениях
-1791025058|https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss|UK-Iranian dual national bailed after RAF Fairford incident arrest
-1791025064|https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss|What is FC Barcelona’s Negreira case, and what are the charges?
-1791025071|https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-all-1573-rdf|On German Unity Day, Steinmeier laments 'bitter setbacks'
-1791025077|https://www.aa.com.tr/en/africa/rsf-attack-in-sudan-killed-more-than-25-civilians-in-north-kordofan-says-medical-group/4076923|RSF attack in Sudan killed more than 25 civilians in North Kordofan, says medical group
 1791025083|https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand|Memory shortages set to persist into 2028, warns Micron CEO
 1791031814|https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss|South Africa’s Pretorius smashes Gayle’s T20 cricket record score
 1791031820|https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss|Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters
@@ -1998,3 +1993,8 @@
 1791568199|https://www.ign.com/articles/october-humble-choice-2026|October’s Humble Choice Has Dropped – Get Like a Dragon: Pirate Yakuza in Hawaii and 7 More PC Games for $15
 1791568204|https://www.ign.com/articles/wardogs-season-2-adds-a-new-gambling-mechanic-that-lets-you-bet-on-yourself|Wardogs Season 2 Adds a New Gambling Mechanic That Lets You Bet on Yourself
 1791568210|https://www.ign.com/articles/wardogs-dev-holding-back-certain-features-because-of-xbox-series-s-but-working-to-very-low-end-hardware-has-its-benefits|Wardogs Dev Holding Back Certain Features Because of Xbox Series S, but Working to 'Very Low-End Hardware' Has Its Benefits
+1791568922|https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss|Jerusalem Daily: US charity to use AI to monitor Gaza classrooms
+1791568929|https://www.euronews.com/video/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school|Rare waterspouts slam western Sicily, wrecking homes and a school
+1791568937|https://www.ign.com/articles/wardogs-dev-explains-why-blue-team-loses-more-confirms-plan-to-address-the-balance-in-season-2|Wardogs Dev Explains Why Blue Team Loses More, Confirms Plan to Address the Balance in Season 2
+1791568942|https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/|Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1
+1791568948|https://www.gamespot.com/articles/street-fighter-was-on-deaths-door-and-its-players-werent-getting-any-younger/|Street Fighter Was On Death’s Door, And Its Players Weren’t Getting Any Younger
