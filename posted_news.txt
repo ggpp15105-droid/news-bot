@@ -1,8 +1,3 @@
-1791152431|https://news.sky.com/story/flydubai-co-pilot-australian-links-probed-after-axe-attack-on-captain-13595012|Flydubai co-pilot: Australian links probed after 'axe attack' on captain
-1791153302|https://news.sky.com/story/witness-sought-after-death-of-yves-sakila-who-was-pinned-down-by-security-guards-in-dublin-13595009|Witness sought after death of man pinned down by security guards
-1791153310|https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html|Results trickle in as Brazil awaits results of high-stakes presidential election
-1791153316|https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html|All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East
-1791153323|https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html|Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates
 1791153329|https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html|Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine
 1791154058|https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html|OPEC+ agrees to keep November oil output targets steady
 1791154067|https://www.euronews.com/2026/10/04/judo-2026-world-championships-koga-and-yusifov-strike-gold-on-opening-day-in-baku|Judo 2026 World Championships: Koga and Yusifov Strike Gold on Opening Day in Baku
@@ -1998,3 +1993,8 @@
 1791580164|https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts|Mistral’s new Large 4 trails some Chinese open models in independent tests
 1791580171|https://www.tomshardware.com/monitors/gaming-monitors/grab-this-32-inch-4k-oled-gaming-monitor-from-asrock-for-the-super-low-price-of-usd596-dual-mode-refresh-rates-and-resolutions-let-you-switch-between-high-fidelity-and-esports-gaming|Grab this 32-inch 4K OLED gaming monitor from ASRock for the super low price of $596
 1791580176|https://lenta.ru/news/2026/10/10/10-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/|10 октября: какой праздник отмечают в России и мире
+1791581161|https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss|Manchester United vs Tottenham: Premier League – teams, prediction, lineups
+1791581167|https://lenta.ru/news/2026/10/10/opisana-obstanovka-v-kieve-posle/|Раскрыта реакция Киева на соглашение Путина и Трампа
+1791581172|https://lenta.ru/news/2026/10/10/voenkor-nameknul-na-neobychnye-udary-po-kievu/|Военкор намекнул на необычные удары по Киеву
+1791581178|https://lenta.ru/news/2026/10/09/devochka-rodila-ot-sobstvennogo-ottsa-i-pustilas-s-nim-v-bega/|Девочка родила от отца и пустилась с ним в бега
+1791581183|https://lenta.ru/news/2026/10/10/tramp-naznachil-novogo-press-sekretarya-belogo-doma/|Трамп назначил нового пресс-секретаря Белого дома
