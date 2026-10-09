@@ -1,8 +1,3 @@
-1790982795|https://lenta.ru/news/2026/10/03/posol-nazvala-tsel-spora-vokrug-rossiyskoy-nedvizhimosti-v-chehii/|Посол назвала цель спора вокруг российской недвижимости в Чехии
-1790983530|https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build|Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build
-1790983539|https://lenta.ru/news/2026/10/03/investitsionnyy-fond-ssha-i-ukrainy-zaklyuchil-pervuyu-sdelku-po-dobyche-poleznyh-iskopaemyh/|Инвестиционный фонд США и Украины заключил первую сделку по добыче полезных ископаемых
-1790983548|https://lenta.ru/news/2026/10/02/long-zapadnye-posolstva-prigotovilis-k-evakuatsii-iz-kieva-v-rossii-otvetili-na-eto-frazoy-iz-kvn/|Западные посольства приготовились к эвакуации из Киева. В России ответили на это фразой из КВН
-1790983552|https://www.kommersant.ru/doc/9005535|CNN: второго пилота самолета Flydubai увольняли из-за экстремистских взглядов // CNN: второй пилот Flydubai был уволен из Oman Air из-за экстремистских взглядов
 1790983556|https://tass.ru/proisshestviya/28177673|Need To Know: актер Гай Капульник погиб при крушении самолета
 1790984274|https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/|End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch
 1790984283|https://lenta.ru/news/2026/10/03/astronavt-nasa-peredast-komandovanie-mks-kosmonavtu-roskosmosa/|Астронавт НАСА передаст командование МКС космонавту Роскосмоса
@@ -1998,3 +1993,8 @@
 1791524060|https://www.japantimes.co.jp/environment/2026/10/09/climate-change/rain-climate-chiba-japan/|Extreme rain is testing Japan’s flood defences
 1791524066|https://www.japantimes.co.jp/business/2026/10/09/companies/rakuten-medical-light-cancer-therapy/|Rakuten Medical eyes U.S. market for its novel idea to conquer cancer
 1791524073|https://www.japantimes.co.jp/sports/2026/10/09/baseball/guardians-avoid-elimination-alds/|Hard-hitting Guardians beat White Sox to force decisive fifth game in ALDS
+1791525068|https://www.dw.com/en/two-german-officials-shot-dead-during-routine-gun-inspection-in-bavaria-suspect-arrested-after-overnight-standoff/live-79607225?maca=en-rss-en-all-1573-rdf|Two German officials shot dead during routine gun inspection in Bavaria; suspect arrested after overnight standoff
+1791525073|https://www.euronews.com/2026/10/09/are-eurozone-bond-markets-warning-of-a-recession-as-growth-slows|Are eurozone bond markets warning of a recession as growth slows?
+1791525080|https://www.aa.com.tr/en/americas/mexico-to-investigate-video-footage-showing-suspected-cartel-members-deployed-in-ukraine/4082859|Mexico to investigate video footage showing suspected cartel members deployed in Ukraine
+1791525085|https://lenta.ru/news/2026/10/09/rossiyskie-voennye-udarili-po-mostu-na-odnom-iz-napravleniy-svo/|Российские военные ударили по мосту на одном из направлений СВО
+1791525090|https://lenta.ru/news/2026/10/09/real-obygral-partizan-v-evrolige/|«Реал» обыграл «Партизан» в Евролиге
