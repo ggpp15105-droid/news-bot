@@ -1,8 +1,3 @@
-1790987782|https://www.kommersant.ru/doc/9005538|Суд зарегистрировал иск Самойловой об ограничении Джигана в родительских правах
-1790988841|https://lenta.ru/news/2026/10/03/evrope-napomnili-o-yadernoy-triade-rossii/|Европе напомнили о ядерной триаде России
-1790988846|https://lenta.ru/news/2026/10/03/v-rossii-povysyat-vse-vidy-pensiy/|В России повысят все виды пенсий
-1790988850|https://tass.ru/obschestvo/28177737|В Уссурийске подсчитали причиненный из-за поджога цирка ущерб
-1790988854|https://tass.ru/mezhdunarodnaya-panorama/28177735|В Сеуле утверждают, что запущенная КНДР ракета пролетела 700 км
 1790988857|https://tass.ru/obschestvo/28177733|В Сибири и на Дальнем Востоке ожидаются дожди со снегом и сильным ветром
 1790989462|https://tass.ru/armiya-i-opk/28177743|Марочко: удары ВС РФ по мостам через Днепр грозят ВСУ потерей поставок от Запада
 1790989466|https://tass.ru/sport/28177741|Овечкин отметился первым результативным действием в сезоне НХЛ
@@ -1998,3 +1993,8 @@
 1791530897|https://www.japantimes.co.jp/news/2026/10/09/japan/okinawa-assembly-resolution-us-pact/|Okinawa resolution calls for revision of U.S. forces pact after murder
 1791530904|https://www.aa.com.tr/en/eurasia/russia-seeks-extradition-of-9-icc-officials-convicted-in-absentia/4082898|Russia seeks extradition of 9 ICC officials convicted in absentia
 1791530912|https://www.ign.com/articles/silver-pines-is-the-silent-hill-metroidvania-mash-up-i-never-knew-i-needed|Silver Pines Is the Silent Hill Metroidvania Mash-Up I Never Knew I Needed
+1791531924|https://www.dw.com/en/nobel-peace-prize-2026-set-to-be-announced/live-79598020?maca=en-rss-en-all-1573-rdf|Nobel Peace Prize 2026 set to be announced
+1791531931|https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html|OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'
+1791531939|https://www.euronews.com/video/2026/10/09/chile-santiago-flooding-turns-streets-to-rivers-as-kast-declares-state-of-catastrophe|Chile: Santiago flooding turns streets to rivers as Kast declares state of catastrophe
+1791531946|https://www.euronews.com/2026/10/09/hungarys-2026-drought-is-the-countrys-most-severe-in-126-years-data-shows|Hungary's 2026 drought is the country's most severe in 126 years, data shows
+1791531955|https://www.japantimes.co.jp/news/2026/10/09/japan/science-health/japan-flu-cases-jump/|As influenza cases rise, residents rush to get flu shots
