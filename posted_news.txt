@@ -1,8 +1,3 @@
-1790970899|https://www.kommersant.ru/doc/9005237|Марину Влади кремировали во Франции
-1790971408|https://www.euronews.com/2026/10/02/sanchez-begins-reflection-on-early-election-as-protesters-call-for-general-strike|Sánchez begins reflection on early election as protesters call for general strike
-1790971414|https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/|GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References
-1790971421|https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-sposoby-usilit-zaschitu-bankovskogo-prilozheniya/|Россиянам назвали способы усилить защиту банковского приложения
-1790971426|https://lenta.ru/news/2026/10/02/taker-karlson-vyskazalsya-o-yadernom-oruzhii-i-korruptsii-na-ukraine/|Такер Карлсон высказался о ядерном оружии и коррупции на Украине
 1790971430|https://lenta.ru/news/2026/10/02/syna-ronaldu/|Сына Роналду не вызвали в сборную Португалии
 1790972392|https://lenta.ru/news/2026/10/02/long-v-poezde-vladikavkaz-adler-proizoshel-bunt-zaklyuchennyh-pogib-sotrudnik-fsin-chto-izvestno-k-etoy-minute/|В поезде Владикавказ — Адлер произошел бунт заключенных, погиб сотрудник ФСИН. Что известно к этой минуте?
 1790972400|https://lenta.ru/news/2026/10/02/odin-zaklyuchennyy-byl-likvidirovan-pri-bunte-v-poezde-vladikavkaz-adler/|Один заключенный был ликвидирован при бунте в поезде Владикавказ — Адлер
@@ -1998,3 +1993,8 @@
 1791509501|https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss|UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal
 1791509507|https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html|U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'
 1791509514|https://www.japantimes.co.jp/news/2026/10/09/world/zelenskyy-us-inaction-russian-strikes/|Zelenskyy accuses U.S. of inaction as Russian strikes kill over 70 in two days
+1791510598|https://www.cnbc.com/2026/10/09/trump-iran-war-gas-openai-nvidia-microsoft-.html|CNBC Daily Open: Is cheap gas America's Godot?
+1791510605|https://www.japantimes.co.jp/business/2026/10/09/economy/japan-household-spending-falls/|Japan’s household spending falls again despite wage gains
+1791510612|https://www.japantimes.co.jp/news/2026/10/09/world/society/madrid-protesters-mourn-evicted-retiree/|Madrid mourns evicted retiree, ‘icon’ of Spain housing protests
+1791510620|https://lenta.ru/news/2026/10/09/anthropic-zapretila-polzovatelyam-zhestoko-obraschatsya-s-neyrosetyu-claude/|Anthropic запретила пользователям жестоко обращаться с нейросетью Claude
+1791510625|https://lenta.ru/news/2026/10/09/zelenskomu-dali-sovet-posle-zhaloby-na-rubio/|Зеленскому дали совет после жалобы на Рубио
