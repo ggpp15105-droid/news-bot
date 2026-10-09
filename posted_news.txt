@@ -1,8 +1,3 @@
-1790978283|https://www.kommersant.ru/doc/9005526|Генсек ОДКБ заявил об обострении ситуации в зоне ответственности организации
-1790978974|https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss|Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
-1790978980|https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss|Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s
-1790978986|https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss|Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator
-1790978992|https://www.dw.com/en/north-korea-fires-projectile-toward-sea-seoul-military-says/a-79526243?maca=en-rss-en-all-1573-rdf|North Korea fires projectile toward sea, Seoul military says
 1790979000|https://lenta.ru/news/2026/10/03/avstriyu-obvinili-v-iskazhenii-statusa-neytraliteta/|Австрию обвинили в искажении статуса нейтралитета
 1790979885|https://www.japantimes.co.jp/news/2026/10/03/japan/north-korea-missile-october-3/|North Korea fired off apparent ballistic missile amid landmine row with South
 1790979893|https://lenta.ru/news/2026/10/03/bryussel-obvinili-vo-lzhi-o-chlenstve-ukrainy-v-es/|Евросоюз обвинили во лжи насчет вступления Украины в объединение
@@ -1998,3 +1993,8 @@
 1791518201|https://lenta.ru/news/2026/10/09/stalo-izvestno-o-nehvatke-sredstv-u-ukrainy-na-voennye-nuzhdy-v-2027-godu/|Стало известно о нехватке средств у Украины на военные нужды в 2027 году
 1791518207|https://www.kommersant.ru/doc/9009576|Bloomberg: Disney обсуждает с киностудиями продвижение конкурента IMAX
 1791518212|https://www.kommersant.ru/doc/9009578|Глава Минобороны Нидерландов назвала Россию врагом
+1791518917|https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions|Egyptian journalists plan weekend protest over detention of six colleagues
+1791518925|https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html|'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls
+1791518932|https://www.euronews.com/2026/10/09/kyiv-open-to-constructive-dialogue-after-seoul-recalls-its-ambassador-amid-north-korean-po|Kyiv open to 'constructive dialogue' after Seoul recalls its ambassador amid North Korean POW disclosure row
+1791518938|https://www.euronews.com/2026/10/09/barcelona-research-team-creates-ai-to-detect-ageing-in-blood-stem-cells|Barcelona team develops AI that detects ageing in blood stem cells
+1791518947|https://lenta.ru/news/2026/10/09/vrach-predupredil-ob-opasnosti-termicheskoy-obrabotki-prosrochennyh-produktov/|Врач предупредил об опасности термической обработки просроченных продуктов
