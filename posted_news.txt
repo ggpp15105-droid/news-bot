@@ -1,8 +1,3 @@
-1791019400|https://lenta.ru/news/2026/10/03/voennyy-raskryl-posledstviya-udara-rossii-po-mostu-v-kieve/|Военный раскрыл последствия удара России по мосту в Киеве
-1791020200|https://www.aa.com.tr/en/europe/moldova-says-5-russian-aerial-weapons-violated-country-s-airspace-exploded-on-its-territory/4076862|Moldova says 5 Russian aerial weapons violated country’s airspace, exploded on its territory
-1791020205|https://lenta.ru/news/2026/10/03/zolotov-vruchil-kadyrovu-pogony-generala-armii/|Золотов вручил Кадырову погоны генерала армии
-1791020213|https://lenta.ru/news/2026/10/02/nazvana-prichina-uchastivshihsya-stolknoveniy-medvedey-s-lyudmi-v-rossii/|Стала известна причина участившихся столкновений медведей с людьми в России
-1791020218|https://lenta.ru/news/2026/10/03/raskryty-podrobnosti-sostoyaniya-kashpirovskogo-nakanune-smerti/|Раскрыты подробности состояния Кашпировского накануне смерти
 1791020227|https://lenta.ru/news/2026/10/03/armiya-rossii-vzyala-selo-v-harkovskoy-oblasti/|Армия России взяла село в Харьковской области
 1791020982|https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss|Who is the mystery co-pilot behind the Flydubai attack?
 1791020987|https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology|Flavio Bolsonaro: In the name of the father, sons, and holy ideology
@@ -1998,3 +1993,8 @@
 1791563300|https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss|‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize
 1791563308|https://www.japantimes.co.jp/life/2026/10/10/language/nisa-poverty-japanese-investing/|Saving for the future is making some investors ‘NISA broke’
 1791563316|https://www.aa.com.tr/en/world/eu-calls-us-sanctions-announcement-against-international-criminal-court-deeply-regrettable/4083767|EU calls US sanctions announcement against International Criminal Court 'deeply regrettable'
+1791564355|https://www.euronews.com/2026/10/09/latvias-border-guard-seeks-greater-powers-amid-increasingly-violent-border-crossings|Latvia’s border guard seeks greater powers amid increasingly violent border crossings
+1791564361|https://www.aa.com.tr/en/world/un-chief-condemns-us-sanctions-against-international-criminal-court-warns-of-serious-blow-to-justice/4083864|UN chief condemns US sanctions against International Criminal Court, warns of 'serious blow' to justice
+1791564367|https://www.aa.com.tr/en/world/us-sanctions-against-international-criminal-court-draw-opposition-as-countries-warn-of-impact-on-its-work/4083858|US sanctions against International Criminal Court draw opposition as countries warn of impact on its work
+1791564374|https://www.aa.com.tr/en/world/icc-strongly-rejects-us-sanctions-against-court-says-it-will-continue-work-with-independence-impartiality/4083842|ICC strongly rejects US sanctions against court, says it will continue work 'with independence, impartiality'
+1791564381|https://www.ign.com/articles/dungeons-dragons-is-going-to-outer-space-with-star-wars-tyro-squadron-first-look-at-official-art|Dungeons & Dragons Is Going to Outer Space With Star Wars: Tyro Squadron, First Look at Official Art
