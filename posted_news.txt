@@ -1,8 +1,3 @@
-1791147885|https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss|France to shutter up to 500 schools as more student protests called
-1791149756|https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss|Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck
-1791149763|https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss|Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’
-1791149770|https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf|Brazil election: Early count puts Bolsonaro ahead of Lula
-1791149777|https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf|Polls close in Bosnia-Herzegovina's divisive election
 1791149784|https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf|Pakistan: Imran Khan supporters demand ex-PM's release
 1791150758|https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss|Cornell case puts New York’s progressive image at odds with its rape laws
 1791150764|https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss|Ireland refuse handshake with Israel and don armbands in Nations League tie
@@ -1998,3 +1993,8 @@
 1791576551|https://www.france24.com/en/live-news/20261009-indian-jailed-in-france-for-leading-sadist-nazi-cult-that-tortured-girls|Indian jailed in France for leading sadist Nazi cult that tortured girls
 1791576558|https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets|Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets
 1791576565|https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance|Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance
+1791577491|https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss|Rising fuel costs slashed Delta’s profit outlook despite strong demand
+1791577498|https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss|Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says
+1791577504|https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist|Italy's biggest-ever wine heist
+1791577510|https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html|Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks
+1791577517|https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics|After modders removed Skate's live service bits, devs draw the line with tools that "bypass our systems to unlock paid cosmetics"
