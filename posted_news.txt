@@ -1,8 +1,3 @@
-1791062462|https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss|Is the CJP changing India’s political landscape?
-1791082154|https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss|Cornell president says university 'must do better' after frat house rape allegations
-1791082159|https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss|Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa
-1791082164|https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss|Ethiopian government troops seize Tigray’s capital Mekelle
-1791082170|https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss|Cornell president vows transparency amid outrage over fraternity rape case
 1791082174|https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss|Serbian populist leader Vucic launches campaign for prime minister
 1791088290|https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss|Trump defiant about midterm chances as he rallies for Republicans in Ohio
 1791088296|https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss|Saudi-backed Yemeni army says 700 Houthis killed in 24 hours
@@ -1998,3 +1993,8 @@
 1791572361|https://www.euronews.com/2026/10/09/tsunami-threat-after-76-magnitude-earthquake-strikes-panama-usgs-says|Tsunami threat after 7.6-magnitude earthquake strikes Panama, USGS says
 1791572369|https://www.aa.com.tr/en/world/amnesty-international-urges-states-to-resist-us-sanctions-targeting-icc/4083971|Amnesty International urges states to resist US sanctions targeting ICC
 1791572375|https://www.gamespot.com/articles/is-the-bioshock-movie-ever-going-to-happen-director-weighs-in/|Is The BioShock Movie Ever Going To Happen? Director Weighs In
+1791573131|https://www.dw.com/en/strong-earthquake-shakes-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf|Strong earthquake shakes Panama, prompting tsunami alert
+1791573136|https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html|Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets
+1791573142|https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/|Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things
+1791573148|https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market|As Xbox and PlayStation sales reach new lows, analyst says the "US hardware market has not been in a more precarious position since the early 80s"
+1791573153|https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players|Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch
