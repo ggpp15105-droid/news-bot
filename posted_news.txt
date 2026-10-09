@@ -1,8 +1,3 @@
-1790990459|https://tass.ru/obschestvo/28177753|В РФ сделали бессрочным перечень продуктов со спиртом, не считающихся алкоголем
-1790991297|https://www.japantimes.co.jp/news/2026/10/03/japan/science-health/ibaraki-governor-nuclear-waste-survey/|Ibaraki won’t accept second-stage survey for nuclear waste site, governor says
-1790991302|https://lenta.ru/news/2026/10/03/ekspert-rasskazal-ob-opasnosti-medvedey-shatunov/|Эксперт рассказал об опасности медведей-шатунов
-1790991307|https://www.kommersant.ru/doc/9005542|МИД России выразил обеспокоенность участием Японии в военных учениях
-1790991311|https://tass.ru/proisshestviya/28177761|СК опубликовал кадры осмотра поезда, где заключенный напал на сотрудников ФСИН
 1790991314|https://tass.ru/obschestvo/28177757|В МВД рассказали о схеме мошенников с фейковым приложением поиска по картинке
 1790992101|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-vzyatii-vsu-v-takticheskoe-okruzhenie-u-orehova/|Стало известно о взятии ВСУ в тактическое окружение у Орехова
 1790992106|https://tass.ru/proisshestviya/28177769|В Одессе произошли взрывы
@@ -1998,3 +1993,8 @@
 1791534036|https://www.dw.com/en/finland-the-world-s-happiest-country-has-a-debt-problem-it-can-no-longer-ignore/a-79544348?maca=en-rss-en-all-1573-rdf|Finland: The world's happiest country has a debt problem it can no longer ignore
 1791534041|https://www.france24.com/en/france/20261009-live-141-french-high-schools-closed-as-student-protests-continue-for-fifth-day|Live: 141 French high schools closed as student protests continue for fifth day
 1791534048|https://www.france24.com/en/video/20261009-french-student-protests-police-impunity-below-the-standards-of-a-well-functioning-democracy-1|French student protests: Police impunity ‘below' the standards of a 'well-functioning democracy’
+1791535183|https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss|LeBron James stars in NBA preseason debut but Nets defeat 76ers
+1791535188|https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-rdf|Bosnia and Herzegovina will soon have a new Grand Mufti
+1791535195|https://www.dw.com/en/india-cockroach-party-denied-permission-to-protest-in-delhi-founder-dipke-pushes-on/live-79606961?maca=en-rss-en-all-1573-rdf|India: Cockroach party denied permission to protest in Delhi, founder Dipke pushes on
+1791535202|https://www.euronews.com/video/2026/10/09/violence-is-not-general-in-french-students-protests-mep-says|Violence is 'not general' in French students protests, MEP says
+1791535208|https://www.euronews.com/2026/10/09/scientific-study-reveals-scariest-horror-movie-with-one-2026-title-breaking-heart-rate-rec|Scientific study reveals scariest horror movie – with one 2026 title breaking heart rate record
