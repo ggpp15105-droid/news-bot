@@ -1,8 +1,3 @@
-1790983556|https://tass.ru/proisshestviya/28177673|Need To Know: актер Гай Капульник погиб при крушении самолета
-1790984274|https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/|End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch
-1790984283|https://lenta.ru/news/2026/10/03/astronavt-nasa-peredast-komandovanie-mks-kosmonavtu-roskosmosa/|Астронавт НАСА передаст командование МКС космонавту Роскосмоса
-1790984287|https://www.kommersant.ru/doc/9005536|Бывший министр экономики Нечаев сообщил о своей госпитализации
-1790984291|https://tass.ru/mezhdunarodnaya-panorama/28177685|"Чосон ильбо": Сеул заявил о возможном запуске КНДР ракеты к Восточному морю
 1790984296|https://tass.ru/proisshestviya/28177687|UKMTO сообщил об атаке на нефтяной танкер у Омана
 1790984924|https://tass.ru/ekonomika/28177693|FTM: МО Нидерландов отдало военный заказ для Киева на €200 млн банкроту
 1790984928|https://tass.ru/ekonomika/28177691|Аэропорт Калуги возобновил прием и выпуск самолетов
@@ -1998,3 +1993,8 @@
 1791525080|https://www.aa.com.tr/en/americas/mexico-to-investigate-video-footage-showing-suspected-cartel-members-deployed-in-ukraine/4082859|Mexico to investigate video footage showing suspected cartel members deployed in Ukraine
 1791525085|https://lenta.ru/news/2026/10/09/rossiyskie-voennye-udarili-po-mostu-na-odnom-iz-napravleniy-svo/|Российские военные ударили по мосту на одном из направлений СВО
 1791525090|https://lenta.ru/news/2026/10/09/real-obygral-partizan-v-evrolige/|«Реал» обыграл «Партизан» в Евролиге
+1791525810|https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing|Morocco and Senegal await AFCON final verdict after arbitration hearing
+1791525815|https://www.france24.com/en/americas/20261009-families-reunited-as-uss-lincoln-comes-home-after-troubled-gulf-deployment|Families reunited as USS Lincoln comes home after record 9-month deployment
+1791525821|https://www.euronews.com/2026/10/09/qatarenergys-lng-expansion-targets-early-2027-production-amid-reports-of-3bn-loan|QatarEnergy’s LNG expansion targets early 2027 production amid reports of $3bn loan
+1791525827|https://lenta.ru/news/2026/10/09/srok/|Для назвавшего генерала-коллаборациониста Власова мучеником иеромонаха потребовали срок
+1791525832|https://lenta.ru/news/2026/10/09/nazvany-pretendenty-na-nobelevskuyu-premiyu-mira/|Названы претенденты на Нобелевскую премию мира
