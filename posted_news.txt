@@ -1,8 +1,3 @@
-1790994482|https://tass.ru/obschestvo/28177807|Сентябрь в Москве оказался теплее нормы на 2 градуса
-1790995872|https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss|Israeli air attack on Gaza City apartment kills at least five
-1790995880|https://www.japantimes.co.jp/news/2026/10/03/world/food-medicine-shortages-ukraine-oleshky/|Food and medicine shortages deepen in Russian-occupied Oleshky
-1790995885|https://lenta.ru/news/2026/10/03/gosdolg-ukrainy-za-desyat-let-vyros-bolee-chem-v-pyat-raz/|Госдолг Украины за десять лет вырос более чем в пять раз
-1790995890|https://lenta.ru/news/2026/10/03/onischenko-predupredil-rossiyan-ob-ugrozhayuschey-im-bolezni/|Онищенко предупредил россиян об угрожающей им болезни
 1790995895|https://lenta.ru/news/2026/10/03/stalo-izvestno-ob-ultimatume-es-ukraine/|Стало известно об ультиматуме ЕС Украине
 1790997184|https://www.aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss|Dominican Republic bans Haiti from its stadiums after football fans clash
 1790997192|https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/chinese-antelope-reef-south-china-sea/|Chinese work gathering pace on Antelope Reef in South China Sea
@@ -1998,3 +1993,8 @@
 1791539355|https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru|Left-wing candidate Hitler Mussolini wins local vote in Peru
 1791539362|https://www.euronews.com/2026/10/09/frozen-testicular-tissue-transplanted-in-bid-to-restore-fertility-after-chemotherapy|Frozen testicular tissue transplanted in bid to restore fertility after chemotherapy
 1791539368|https://www.euronews.com/2026/10/09/german-logistics-group-rhenus-plans-up-to-14-terminals-along-the-middle-corridor|German logistics group Rhenus plans up to 14 terminals along the Middle Corridor
+1791540159|https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss|Fort Hood survivor supports gunman's execution by firing squad but questions livestream
+1791540165|https://www.euronews.com/2026/10/09/french-authorities-arrests-at-least-five-people-over-9-million-theft-from-renoir-museum|French authorities arrests at least five people over €9 million theft from Renoir Museum
+1791540173|https://www.euronews.com/2026/10/09/intense-diplomatic-manoeuvring-in-athens-over-first-russian-team-in-european-tournament|Intense diplomatic manoeuvring in Athens over first Russian team in European tournament
+1791540180|https://www.japantimes.co.jp/news/2026/10/09/japan/japan-mental-health-compensation-claims/|Japan sees record number of workers’ compensation approvals for mental health in fiscal 2025
+1791540186|https://www.japantimes.co.jp/business/2026/10/09/tech/travel-companies-data-breach/|Data leaks at travel companies could impact millions of customer records
