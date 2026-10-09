@@ -1,8 +1,3 @@
-1791006762|https://lenta.ru/news/2026/10/03/rossiyanam-napomnili-o-srokah-uplaty-nalogov/|Россиянам напомнили о сроках уплаты налогов
-1791007655|https://www.euronews.com/2026/10/03/hungarian-restaurants-struggle-costs-match-europe-but-revenues-lag-behind|Hungarian restaurants struggle: costs match Europe but revenues lag behind
-1791007664|https://lenta.ru/news/2026/10/03/v-ssha-obratili-vnimanie-na-reaktsiyu-pribaltiki-na-preduprezhdenie-putina/|Реакцию Прибалтики на предупреждение Путина оценили
-1791007670|https://lenta.ru/news/2026/10/03/rossiyskie-sily-pvo-unichtozhili-za-noch-sotni-bespilotnikov-vsu/|Российские силы ПВО уничтожили за ночь сотни беспилотников ВСУ
-1791007674|https://www.kommersant.ru/doc/9005561|Минобороны сообщило об уничтожении за ночь 218 беспилотников
 1791007678|https://www.kommersant.ru/doc/9005560|Минобороны отчиталось об ударах по мосту в Киеве и сухогрузу в Черном море
 1791009074|https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss|Russia strikes second major bridge in Kyiv, mayor says
 1791009081|https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss|Gaza voters want jobs and security as Palestinian elections approach
@@ -1998,3 +1993,8 @@
 1791550533|https://www.france24.com/en/tv-shows/truth-or-fake/20261009-no-the-french-army-did-not-deploy-tanks-against-protesting-students|No, the French army did not deploy tanks against protesting students
 1791550538|https://www.france24.com/en/france/20261009-renoir-paintings-stolen-from-french-riviera-museum-recovered-six-people-arrested|Renoir paintings stolen from French Riviera museum recovered, six suspects arrested
 1791550546|https://www.euronews.com/2026/10/09/35-killed-in-strikes-on-ukraines-donetsk-region-as-russia-reports-four-dead-across-belgoro|35 killed in strikes on Ukraine's Donetsk region as Russia reports four dead across Belgorod
+1791551438|https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf|Is China seeking to restrict Taiwan's cultural presence?
+1791551444|https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf|Art for freedom: Maria Kalesnikava in Bonn
+1791551449|https://www.france24.com/en/environment/20261009-france-s-seafood-problem-starts-elsewhere|France’s seafood problem starts elsewhere
+1791551453|https://www.euronews.com/2026/10/09/virgin-unveils-new-train-designs-and-plans-for-its-cross-channel-service-linking-london-an|Virgin unveils new train designs and plans for its cross-Channel service linking London and Europe from 2030
+1791551459|https://www.euronews.com/2026/10/09/eu-paid-79bn-for-russian-arctic-lng-amid-record-imports|EU paid €7.9bn for Russian Arctic LNG amid record imports
