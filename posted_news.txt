@@ -1,8 +1,3 @@
-1790979910|https://www.kommersant.ru/doc/9005249|ФСИН опровергла информацию о бунте в поезде с заключенными в Кабардино-Балкарии
-1790980708|https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss|Why Carney’s economic overhaul is clashing with Canada’s unions
-1790980714|https://www.kommersant.ru/doc/9005533|КНДР запустила баллистическую ракету в сторону Японского моря
-1790980718|https://www.kommersant.ru/doc/9005247|Трамп: США не будут вводить запрет на экспорт дизельного топлива
-1790980723|https://tass.ru/obschestvo/28177667|Осужденный за мошенничество Врублевский создал в колонии "бумажный интернет"
 1790980727|https://tass.ru/obschestvo/28177665|Юрист Гребнева рассказала, когда Алысханова могут признать безвестно отсутствующим
 1790981477|https://lenta.ru/news/2026/10/03/opublikovany-pervye-kadry-poezda-vladikavkaz-adler-posle-chp-za-zaklyuchennymi/|Опубликованы первые кадры поезда Владикавказ — Адлер после ЧП за заключенными
 1790981486|https://lenta.ru/news/2026/10/03/deputat-gosdumy-nazval-ukrainu-krupneyshim-tsentrom-kontrabandy-oruzhiya-v-evrope/|Депутат Госдумы назвал Украину крупнейшим центром контрабанды оружия в Европе
@@ -1998,3 +1993,8 @@
 1791520086|https://lenta.ru/news/2026/10/09/rossiyskiy-voennyy-rasskazal-ob-otsutstvii-edy-i-vody-u-vsu-na-dobropolskom-napravlenii/|Российский военный рассказал об отсутствии еды и воды у ВСУ на добропольском направлении
 1791520095|https://lenta.ru/news/2026/10/09/long-rech-idet-o-vyzhivanii-mer-kieva-obratilsya-s-trevozhnym-preduprezhdeniem-k-zhitelyam-ukrainskoy-stolitsy/|«Речь идет о выживании». Мэр Киева обратился с тревожным предупреждением к жителям украинской столицы
 1791520100|https://lenta.ru/news/2026/10/09/klichko-obvinil-zelenskogo-v-plohom-vliyanii-na-ukraine/|Кличко обвинил Зеленского в плохом влиянии на Украине
+1791521126|https://www.euronews.com/2026/10/09/six-injured-as-heavy-rains-batter-chiles-capital-sweeping-away-cars-and-flooding-homes|Six injured as heavy rains batter Chile's capital, sweeping away cars and flooding homes
+1791521132|https://www.euronews.com/2026/10/09/police-boost-presence-and-detain-17-year-old-after-bloody-friday-threat-to-polish-schools|Police boost presence and detain 17-year-old after 'Bloody Friday' threat to Polish schools
+1791521140|https://www.aa.com.tr/en/asia-pacific/japan-s-okinawa-assembly-seeks-review-of-us-forces-pact-after-marine-accused-of-murder/4082851|Japan’s Okinawa assembly seeks review of US forces pact after Marine accused of murder
+1791521145|https://lenta.ru/news/2026/10/09/suprugi-stali-zhertvami-ataki-vsu-na-rossiyskiy-region/|Супруги стали жертвами атаки ВСУ на российский регион
+1791521150|https://lenta.ru/news/2026/10/09/v-britanii-zayavili-o-sokrytii-ukrainskimi-spetssluzhbami-posledstviy-rossiyskih-udarov/|В Британии заявили о сокрытии украинскими спецслужбами последствий российских ударов
