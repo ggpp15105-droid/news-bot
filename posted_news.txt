@@ -1,8 +1,3 @@
-1791031840|https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss|Ethiopia’s government forces retake airport from Tigray rebels in Mekelle
-1791049440|https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss|Tennessee prison chief to resign after Christa Pike's failed execution, governor says
-1791049446|https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss|'Anger in the streets': Tens of thousands protest in Spain over housing crisis
-1791049453|https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss|Israeli reporter’s ‘verbal attack’ ends Ireland football news conference
-1791049459|https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss|Somalia won’t accept Israeli presence ‘under any circumstances’: President
 1791049467|https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf|Ukraine to step up oil attacks as Russia hits Kyiv bridges
 1791062437|https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss|Fernandes denies Portugal rift, hails Ronaldo after walk out
 1791062444|https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss|Trump ramps up pressure on US Republicans to end US clock switching
@@ -1998,3 +1993,8 @@
 1791570166|https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html|Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports
 1791570174|https://www.aa.com.tr/en/world/us-sanctions-on-icc-brash-attempt-to-dismantle-international-legal-system-un-experts/4083944|US sanctions on ICC 'brash attempt' to dismantle international legal system: UN experts
 1791570181|https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/|Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says
+1791571372|https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss|JD Vance casts doubt on firing squad execution and says he will not watch it
+1791571378|https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss|‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution
+1791571386|https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss|AI deepfake ads grow more popular in US midterm campaigns, blurring truth
+1791571392|https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss|Gaza ceasefire ‘exists in name only’, more than 100 NGOs say
+1791571399|https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning|🔴 Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning
