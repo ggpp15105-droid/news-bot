@@ -1,8 +1,3 @@
-1791003525|https://www.kommersant.ru/doc/9005555|Один человек погиб при обрушении горной породы на шахте в Свердловской области
-1791004293|https://www.euronews.com/2026/10/03/its-given-my-mental-health-a-massive-boost-why-everyone-should-hone-their-bushcraft-skills|‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills
-1791004300|https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why|House prices keep rising across Europe: Which countries saw the biggest increases and why?
-1791004306|https://www.euronews.com/2026/10/03/food-led-escapes-and-trip-of-a-lifetime-hotels-how-luxury-travel-has-evolved-and-doesnt-lo|From food-led escapes to trip of a lifetime hotels: How luxury travel has evolved and ‘doesn’t look one way’
-1791004314|https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays|Russia leads world in cat ownership — yet has 2.8 million strays
 1791004322|https://lenta.ru/news/2026/10/03/v-belorussii-rasskazali-ob-organizatsii-vstrechi-trampa-i-lukashenko/|В МИД Белоруссии рассказали об организации встречи Трампа и Лукашенко
 1791005722|https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss|New claims that Netanyahu rejected Hamas offer to release captives
 1791005726|https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss|WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza
@@ -1998,3 +1993,8 @@
 1791546962|https://www.france24.com/en/video/20261009-kenya-red-cross-supports-response-to-country-s-first-ebola-case|Kenya Red Cross supports response to country’s first Ebola case
 1791546967|https://www.france24.com/en/video/20261009-ebola-outbreak-border-surveillance-gaps-raise-concerns-in-the-central-african-republic|Ebola outbreak: Border surveillance gaps raise concerns in the Central African Republic
 1791546974|https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html|Nobel winner Krugman says France may have become 'too big to save'
+1791547770|https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf|Hurricane Isaias intensifies en route to US Gulf Coast
+1791547777|https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf|World Cup 2034: Does Saudi Arabia shelving Neom Stadium spell trouble?
+1791547783|https://www.france24.com/en/tv-shows/focus/20261009-residents-of-ukraine-s-kramatorsk-forced-to-flee-as-drone-strikes-intensify|Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify
+1791547789|https://www.france24.com/en/africa/20261009-eritrea-ethiopia-accuse-each-other-of-provoking-war-as-tigray-rebels-retreat|Eritrea and Ethiopia accuse each other of provoking war as Tigray rebels retreat
+1791547796|https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html|Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong
