@@ -1,8 +1,3 @@
-1791157898|https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex|Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited
-1791158270|https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal|Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL
-1791158275|https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters|Dynasty Warriors producer would rather make new games than more remasters
-1791158281|https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash|Modders are furious as Claude-powered mashup mods flood social media
-1791158287|https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade|PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series "indispensable"
 1791158293|https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset|RuneScape Reignited launches 2 December
 1791159351|https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss|Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
 1791159357|https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss|Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
@@ -1998,3 +1993,8 @@
 1791586638|https://tass.ru/kosmos/28200457|Китай запустил 27-ю группу спутников связи SatNet
 1791586642|https://tass.ru/politika/28200447|Насыщенный и дружеский разговор. Ушаков о беседе президентов России и США
 1791586647|https://tass.ru/politika/28200379|Ушаков назвал разговор Путина и Трампа дружеским
+1791587343|https://www.japantimes.co.jp/culture/2026/10/10/film/children-untold/|‘Children Untold’ shines a light on the plight of postwar orphans
+1791587351|https://www.japantimes.co.jp/life/2026/10/10/digital/japanese-ramen-simulator-game-cuisine/|Still-simmering ‘Japanese Ramen Simulator’ is already worth a slurp
+1791587355|https://tass.ru/proisshestviya/28200477|В Николаеве произошел взрыв
+1791587359|https://tass.ru/armiya-i-opk/28200473|В Запорожье назвали удары ВС РФ по мостам в Киеве предупредительными
+1791587364|https://tass.ru/armiya-i-opk/28200475|Марочко сообщил об успешном наступлении ВС РФ на севере от Сум
