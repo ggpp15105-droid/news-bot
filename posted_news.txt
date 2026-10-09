@@ -1,8 +1,3 @@
-1790998516|https://www.kommersant.ru/doc/9005546|Один погиб и пятеро пострадали при ДТП в Приморском крае
-1790999917|https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss|G7 nations bow to US pressure and avoid crippling diesel ban
-1790999924|https://www.dw.com/en/co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman/a-79526641?maca=en-rss-en-all-1573-rdf|Co-pilot on Flydubai flight was banned from flying by Oman
-1790999932|https://www.japantimes.co.jp/business/2026/10/03/companies/asian-carmakers-us-china/|Asian carmakers besting U.S. rivals at home, China poised to strike
-1790999940|https://lenta.ru/news/2026/10/03/rossiyskiy-akademik-predupredil-o-problemah-so-zdoroviem-posle-otdyha-v-tailande/|Российский академик предупредил о проблемах со здоровьем после отдыха в Таиланде
 1790999945|https://lenta.ru/news/2026/10/03/raskryta-reaktsiya-zelenskogo-na-begstvo-ukraintsev-iz-kieva/|Раскрыта реакция Зеленского на бегство украинцев из Киева
 1791001002|https://news.sky.com/story/horrible-incident-at-least-nine-injured-as-car-hits-crowd-in-australia-13594555|'Horrible incident': At least nine injured as car hits crowd in Australia
 1791001007|https://lenta.ru/news/2026/10/03/vrach-predupredil-ob-opasnosti-zatyanuvshegosya-nasmorka/|Врач предупредил об опасности затянувшегося насморка
@@ -1998,3 +1993,8 @@
 1791542457|https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026|Isaias strengthens to become first Atlantic hurricane of 2026 season
 1791542464|https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize|ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
 1791542471|https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html|Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response
+1791543368|https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss|Is Trump signalling a return to war with Iran after the midterms?
+1791543375|https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss|Ex-OpenAI staff say they were fired for raising safety concerns
+1791543382|https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss|The girls in the Gaza school photograph
+1791543389|https://www.france24.com/en/tv-shows/eye-on-africa/20261009-court-of-arbitration-for-sport-hears-senegal-s-appeal-over-afcon-title|Court of Arbitration for Sport hears Senegal's appeal over AFCON title
+1791543395|https://www.france24.com/en/video/20261009-us-to-livestream-army-execution-of-fort-hood-shooter-pentagon-official-says|US to livestream Army execution of Fort Hood shooter, Pentagon official says
