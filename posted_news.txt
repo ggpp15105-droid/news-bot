@@ -1,8 +1,3 @@
-1791157020|https://www.ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner|Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner
-1791157870|https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss|Manchester City must be relegated, says Canada’s ex-Leeds manager
-1791157877|https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss|Cristiano Ronaldo can return to Portugal team if he wants, says Jesus
-1791157884|https://www.ign.com/articles/best-deals-for-october-4-2026|The Best Deals Today: Star Wars Zero Company, AirPods Pro 3, Trails in the Sky 1st Chapter, and More
-1791157891|https://www.ign.com/articles/snl-weighs-in-on-gta-6-vs-the-legend-of-zelda-with-skit-featuring-jason-and-link|SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link
 1791157898|https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex|Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited
 1791158270|https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal|Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL
 1791158275|https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters|Dynasty Warriors producer would rather make new games than more remasters
@@ -1998,3 +1993,8 @@
 1791585777|https://lenta.ru/news/2026/10/10/tramp-odnim-slovom-otvetil-na-vopros-o-kritike-so-storony-zelenskogo/|Трамп одним словом ответил на вопрос о критике со стороны Зеленского
 1791585788|https://www.kommersant.ru/doc/9023349|Путин обсудил с Трампом Украину, Иран и поставки российского топлива в США
 1791585792|https://tass.ru/kultura/28200455|В "Современнике" прошел вечер-спектакль в честь 100-летия Евстигнеева
+1791586624|https://lenta.ru/news/2026/10/10/v-rossii-otsenili-vstrechu-lavrova-s-glavoy-mid-germanii/|В России оценили встречу Лаврова с главой МИД Германии
+1791586633|https://www.kommersant.ru/doc/9023358|Ушаков рассказал, как Путин и Трамп не хотели заканчивать разговор
+1791586638|https://tass.ru/kosmos/28200457|Китай запустил 27-ю группу спутников связи SatNet
+1791586642|https://tass.ru/politika/28200447|Насыщенный и дружеский разговор. Ушаков о беседе президентов России и США
+1791586647|https://tass.ru/politika/28200379|Ушаков назвал разговор Путина и Трампа дружеским
