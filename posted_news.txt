@@ -1,8 +1,3 @@
-1791002869|https://lenta.ru/news/2026/10/03/v-rossii-zayavili-o-shantazhe-evropeytsev-trampom/|В России заявили о шантаже европейцев Трампом
-1791003499|https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss|Brazil’s Lula and Bolsonaro draw thousands as campaigns near end
-1791003505|https://www.dw.com/en/german-reunification-how-inequality-is-shaping-a-new-east-german-identity/a-79518541?maca=en-rss-en-all-1573-rdf|German reunification: How inequality is shaping a new East German identity
-1791003513|https://lenta.ru/news/2026/10/03/voennyy-ekspert-prokommentiroval-soobscheniya-o-himicheskih-atakah-vsu-na-rossiyskiy-region/|Военный эксперт прокомментировал сообщения о химических атаках ВСУ на российский регион
-1791003518|https://lenta.ru/news/2026/10/03/long-rossiyanam-anonsirovali-povyshenie-vseh-vidov-pensiy-kakie-izmeneniya-zhdut-pensionerov-v-2027-godu/|Россиянам анонсировали повышение всех видов пенсий. Какие изменения ждут пенсионеров в 2027 году?
 1791003525|https://www.kommersant.ru/doc/9005555|Один человек погиб при обрушении горной породы на шахте в Свердловской области
 1791004293|https://www.euronews.com/2026/10/03/its-given-my-mental-health-a-massive-boost-why-everyone-should-hone-their-bushcraft-skills|‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills
 1791004300|https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why|House prices keep rising across Europe: Which countries saw the biggest increases and why?
@@ -1998,3 +1993,8 @@
 1791546034|https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-all-1573-rdf|Voting to begin in local elections in the Czech Republic
 1791546041|https://www.france24.com/en/video/20261009-the-blue-fighter-zimbabwean-writer-kundizeza-wins-2026-caine-prize|'The Blue Fighter': Zimbabwean author Kundizeza wins 2026 Caine Prize
 1791546047|https://www.france24.com/en/video/20261009-senegal-morocco-to-get-afcon-title-verdict-within-days|Senegal, Morocco to get AFCON title verdict within days
+1791546950|https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss|France promises 3,000 extra teachers in first step to calm student protests
+1791546956|https://www.dw.com/en/france-investigators-recover-2-stolen-renoir-paintings/a-79614538?maca=en-rss-en-all-1573-rdf|France: Investigators recover 2 stolen Renoir paintings
+1791546962|https://www.france24.com/en/video/20261009-kenya-red-cross-supports-response-to-country-s-first-ebola-case|Kenya Red Cross supports response to country’s first Ebola case
+1791546967|https://www.france24.com/en/video/20261009-ebola-outbreak-border-surveillance-gaps-raise-concerns-in-the-central-african-republic|Ebola outbreak: Border surveillance gaps raise concerns in the Central African Republic
+1791546974|https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html|Nobel winner Krugman says France may have become 'too big to save'
