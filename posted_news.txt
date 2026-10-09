@@ -1,8 +1,3 @@
-1791007678|https://www.kommersant.ru/doc/9005560|Минобороны отчиталось об ударах по мосту в Киеве и сухогрузу в Черном море
-1791009074|https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss|Russia strikes second major bridge in Kyiv, mayor says
-1791009081|https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss|Gaza voters want jobs and security as Palestinian elections approach
-1791009088|https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf|Latvia votes in parliamentary election amid rising costs
-1791009093|https://news.sky.com/story/flydubai-co-pilot-attacked-pilot-with-axe-in-suspected-terrorist-attack-uae-says-13594565|Flydubai co-pilot 'attacked pilot with axe in suspected terrorist attack', UAE says
 1791009098|https://www.kommersant.ru/doc/9005565|В Белгородской области при атаке БПЛА погиб один человек
 1791010845|https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf|Bosnia-Herzegovina shaped by war, separatism, EU ambitions
 1791010849|https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html|Top McKinsey executive reveals Asian owner-CEOs' secrets to success
@@ -1998,3 +1993,8 @@
 1791551449|https://www.france24.com/en/environment/20261009-france-s-seafood-problem-starts-elsewhere|France’s seafood problem starts elsewhere
 1791551453|https://www.euronews.com/2026/10/09/virgin-unveils-new-train-designs-and-plans-for-its-cross-channel-service-linking-london-an|Virgin unveils new train designs and plans for its cross-Channel service linking London and Europe from 2030
 1791551459|https://www.euronews.com/2026/10/09/eu-paid-79bn-for-russian-arctic-lng-amid-record-imports|EU paid €7.9bn for Russian Arctic LNG amid record imports
+1791552704|https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss|Ukraine pushes Russia back in Donetsk as military, civilian casualties soar
+1791552709|https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss|Child flees as Israeli settlers hijack car during pogrom
+1791552716|https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss|Ukraine takes aim at Russia’s AI data infrastructure
+1791552723|https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html|Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries
+1791552731|https://www.euronews.com/video/2026/10/09/indonesia-baby-orangutan-saved-from-borneo-wildfires-as-habitat-destruction-escalates|Indonesia: Baby orangutan saved from Borneo wildfires as habitat destruction escalates
