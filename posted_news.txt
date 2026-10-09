@@ -1,8 +1,3 @@
-1790986424|https://tass.ru/mezhdunarodnaya-panorama/28177703|Трамп допустил окончание конфликта с Ираном после выборов в Конгресс
-1790987750|https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss|Cornell frat house rape accuser 'under siege' online, says lawyer
-1790987759|https://lenta.ru/news/2026/10/03/neftyanoy-tanker-podvergsya-atake-u-beregov-omana/|Нефтяной танкер подвергся атаке у берегов Омана
-1790987769|https://lenta.ru/news/2026/10/03/byvshaya-soratnitsa-zelenskogo-prizvala-kiev-k-deeskalatsii/|Бывшая соратница Зеленского призвала Киев к деэскалации
-1790987778|https://lenta.ru/news/2026/10/03/vrach-nazval-opasnoe-posledstvie-grippa/|Врач назвал опасное последствие гриппа
 1790987782|https://www.kommersant.ru/doc/9005538|Суд зарегистрировал иск Самойловой об ограничении Джигана в родительских правах
 1790988841|https://lenta.ru/news/2026/10/03/evrope-napomnili-o-yadernoy-triade-rossii/|Европе напомнили о ядерной триаде России
 1790988846|https://lenta.ru/news/2026/10/03/v-rossii-povysyat-vse-vidy-pensiy/|В России повысят все виды пенсий
@@ -1998,3 +1993,8 @@
 1791529694|https://www.japantimes.co.jp/news/2026/10/09/asia-pacific/science-health/modi-india-ai-age-pushback/|Modi wants India to power the AI age. Residents are pushing back.
 1791529701|https://www.japantimes.co.jp/news/2026/10/09/japan/politics/consumption-tax-bill-submit/|Government to submit bill on food consumption tax reduction to parliament
 1791529708|https://www.japantimes.co.jp/news/2026/10/09/japan/society/imperial-palace-runners-safety-measures/|Tokyo’s palace runners say respect vital as Chiyoda considers new safety measures
+1791530883|https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss|Who is Dov Lando, the Israeli rabbi criticising Zionism?
+1791530890|https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss|Afghanistan’s emerald miners struggle with tools but attract global buyers
+1791530897|https://www.japantimes.co.jp/news/2026/10/09/japan/okinawa-assembly-resolution-us-pact/|Okinawa resolution calls for revision of U.S. forces pact after murder
+1791530904|https://www.aa.com.tr/en/eurasia/russia-seeks-extradition-of-9-icc-officials-convicted-in-absentia/4082898|Russia seeks extradition of 9 ICC officials convicted in absentia
+1791530912|https://www.ign.com/articles/silver-pines-is-the-silent-hill-metroidvania-mash-up-i-never-knew-i-needed|Silver Pines Is the Silent Hill Metroidvania Mash-Up I Never Knew I Needed
