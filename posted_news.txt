@@ -1,8 +1,3 @@
-1790970077|https://lenta.ru/news/2026/10/02/v-chelyabinskoy-oblasti-rasskazali-o-vosstanovlenii-ob-ektov-na-podshefnyh-territoriyah-v-dnr/|Глава Челябинской области рассказал о восстановлении объектов в ДНР
-1790970876|https://lenta.ru/news/2026/10/02/pri-atake-bespilotnikov-na-rossiyskiy-region-postradal-rebenok/|При атаке беспилотников на российский регион пострадал ребенок
-1790970881|https://lenta.ru/news/2026/10/02/veteran-gru-rasskazal-o-naraschivanii-aktivnosti-ukrainskoy-voennoy-razvedki-v-afrike/|Ветеран ГРУ рассказал о наращивании активности украинской военной разведки в Африке
-1790970886|https://lenta.ru/news/2026/10/02/u-byanki-nashli-kvartiru-s-vidom-na-kreml-i-trehetazhnyy-dom/|У Бьянки нашли трехэтажный дом и квартиру с видом на Кремль
-1790970890|https://www.kommersant.ru/doc/9005239|В России предложили облагать ПВЗ налогом на имущество по кадастровой стоимости
 1790970899|https://www.kommersant.ru/doc/9005237|Марину Влади кремировали во Франции
 1790971408|https://www.euronews.com/2026/10/02/sanchez-begins-reflection-on-early-election-as-protesters-call-for-general-strike|Sánchez begins reflection on early election as protesters call for general strike
 1790971414|https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/|GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References
@@ -1998,3 +1993,8 @@
 1791508323|https://www.japantimes.co.jp/culture/2026/10/09/stage/elvis-noh-theater-tokyo-festival/|Elvis comes back as a ghost in a noh theater play
 1791508329|https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance|Finland orders Google to stop work on two AI data centers over alleged deforestation
 1791508334|https://lenta.ru/news/2026/10/09/zhena-gollivudskoy-zvezdy-shayi-labafa-podala-na-razvod/|Жена голливудской звезды Шайи ЛаБафа подала на развод
+1791509489|https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss|Protests, debate follow death of Maricarmen, 87, Spain protest symbol
+1791509494|https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss|USS Abraham Lincoln returns after record-breaking deployment
+1791509501|https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss|UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal
+1791509507|https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html|U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'
+1791509514|https://www.japantimes.co.jp/news/2026/10/09/world/zelenskyy-us-inaction-russian-strikes/|Zelenskyy accuses U.S. of inaction as Russian strikes kill over 70 in two days
