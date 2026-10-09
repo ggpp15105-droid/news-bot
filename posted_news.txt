@@ -1,8 +1,3 @@
-1790980727|https://tass.ru/obschestvo/28177665|Юрист Гребнева рассказала, когда Алысханова могут признать безвестно отсутствующим
-1790981477|https://lenta.ru/news/2026/10/03/opublikovany-pervye-kadry-poezda-vladikavkaz-adler-posle-chp-za-zaklyuchennymi/|Опубликованы первые кадры поезда Владикавказ — Адлер после ЧП за заключенными
-1790981486|https://lenta.ru/news/2026/10/03/deputat-gosdumy-nazval-ukrainu-krupneyshim-tsentrom-kontrabandy-oruzhiya-v-evrope/|Депутат Госдумы назвал Украину крупнейшим центром контрабанды оружия в Европе
-1790981490|https://www.kommersant.ru/doc/9005534|Один из раненых в поезде сотрудников ФСИН находится в тяжелом состоянии
-1790981495|https://tass.ru/proisshestviya/28177671|В Ставропольском крае водитель врезался в дерево и погиб
 1790981499|https://tass.ru/mezhdunarodnaya-panorama/28177663|Журналист Ндиамахазо расскажет об убийствах Киевом жителей Донбасса
 1790982024|https://lenta.ru/news/2026/10/03/karlson-otsenil-vozmozhnosti-britanii-protivostoyat-rossii/|Карлсон оценил возможности Британии противостоять России
 1790982028|https://tass.ru/mezhdunarodnaya-panorama/28177669|Такер Карлсон заявил, что Украина продала бы ядерное оружие при его наличии
@@ -1998,3 +1993,8 @@
 1791521140|https://www.aa.com.tr/en/asia-pacific/japan-s-okinawa-assembly-seeks-review-of-us-forces-pact-after-marine-accused-of-murder/4082851|Japan’s Okinawa assembly seeks review of US forces pact after Marine accused of murder
 1791521145|https://lenta.ru/news/2026/10/09/suprugi-stali-zhertvami-ataki-vsu-na-rossiyskiy-region/|Супруги стали жертвами атаки ВСУ на российский регион
 1791521150|https://lenta.ru/news/2026/10/09/v-britanii-zayavili-o-sokrytii-ukrainskimi-spetssluzhbami-posledstviy-rossiyskih-udarov/|В Британии заявили о сокрытии украинскими спецслужбами последствий российских ударов
+1791521996|https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss|Mexico prison clash in strife-torn Sinaloa state leaves 10 dead
+1791522001|https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss|Uproar in NY after ICE shoots man with child in the car
+1791522008|https://www.euronews.com/2026/10/09/from-barbershops-to-nature-courses-how-community-driven-campaigns-are-rethinking-mens-ment|From barbershops to nature courses: How community-driven campaigns are rethinking men’s mental health
+1791522017|https://lenta.ru/news/2026/10/09/v-rossii-zametno-vyroslo-chislo-likvidatsiy-kompaniy-iz-odnoy-otrasli/|В России заметно выросло число ликвидаций компаний из одной отрасли
+1791522023|https://lenta.ru/news/2026/10/09/pozhar-nachalsya-na-rossiyskom-zavode-iz-za-udara-vsu/|Пожар начался на российском заводе из-за удара ВСУ
