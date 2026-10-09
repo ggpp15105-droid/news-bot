@@ -1,8 +1,3 @@
-1790969180|https://lenta.ru/news/2026/10/02/v-rossiyskom-regione-mashinist-vyprygnul-iz-kabiny-padayuschego-bashennogo-krana/|В российском регионе машинист выпрыгнул из кабины падающего башенного крана
-1790970054|https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army|On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army
-1790970061|https://www.france24.com/en/tv-shows/spotlight/20261002-french-unrest-are-we-witnessing-a-new-yellow-vests-movement|French Unrest: Are we witnessing a new 'Yellow Vests' movement?
-1790970068|https://www.euronews.com/2026/10/02/russia-tearing-kyiv-apart-mayor-says-as-strikes-paralyse-traffic|Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic
-1790970072|https://lenta.ru/news/2026/10/02/v-poezde-vladikavkaz-adler-proizoshel-bunt-zaklyuchennyh/|В поезде Владикавказ-Адлер произошел бунт заключенных
 1790970077|https://lenta.ru/news/2026/10/02/v-chelyabinskoy-oblasti-rasskazali-o-vosstanovlenii-ob-ektov-na-podshefnyh-territoriyah-v-dnr/|Глава Челябинской области рассказал о восстановлении объектов в ДНР
 1790970876|https://lenta.ru/news/2026/10/02/pri-atake-bespilotnikov-na-rossiyskiy-region-postradal-rebenok/|При атаке беспилотников на российский регион пострадал ребенок
 1790970881|https://lenta.ru/news/2026/10/02/veteran-gru-rasskazal-o-naraschivanii-aktivnosti-ukrainskoy-voennoy-razvedki-v-afrike/|Ветеран ГРУ рассказал о наращивании активности украинской военной разведки в Африке
@@ -1998,3 +1993,8 @@
 1791507373|https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud|U.S. suspends green card path for H-1B workers at Microsoft and Adobe — labor certification program blocked due to alleged fraud
 1791507381|https://www.tomshardware.com/video-games/retro-gaming/the-atari-800xl-returns-with-a-faithful-but-modern-retro-games-ltd-redesign-classic-8-bit-home-computer-revamp-sports-mechanical-keyboard-and-hdmi-connectivity|The Atari 800XL returns with a 'faithful' but modern Retro Games Ltd redesign
 1791507387|https://www.tomshardware.com/tech-industry/semiconductors/department-of-war-dishes-out-usd1-5-billion-loan-commitment-to-boost-semiconductor-supply-chain-wolfspeed-to-focus-on-national-security-applications-as-part-of-30-year-agreement|Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain
+1791508310|https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html|Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility
+1791508317|https://www.japantimes.co.jp/news/2026/10/09/world/maduro-new-torture-charge/|Maduro faces new charge of torturing U.S. citizens in custody
+1791508323|https://www.japantimes.co.jp/culture/2026/10/09/stage/elvis-noh-theater-tokyo-festival/|Elvis comes back as a ghost in a noh theater play
+1791508329|https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance|Finland orders Google to stop work on two AI data centers over alleged deforestation
+1791508334|https://lenta.ru/news/2026/10/09/zhena-gollivudskoy-zvezdy-shayi-labafa-podala-na-razvod/|Жена голливудской звезды Шайи ЛаБафа подала на развод
