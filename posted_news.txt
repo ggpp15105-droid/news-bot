@@ -1,8 +1,3 @@
-1790973314|https://lenta.ru/news/2026/10/02/poyavilis-podrobnosti-o-chp-v-poezde-s-zaklyuchennymi-pod-vladikavkazom/|Появились подробности о ЧП в поезде с заключенными под Владикавказом
-1790974198|https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss|Iraq grants Iranian airlines 40 daily Najaf flights after US exemption
-1790974205|https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss|California leads lawsuit against Trump fuel efficiency standards rollback
-1790974212|https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf|UK: Man charged with planning to attack Nigel Farage
-1790974219|https://www.euronews.com/2026/10/02/tension-rises-in-ceuta-two-migrant-children-stabbed-and-bacteria-contaminated-beach|Tension rises in Ceuta: two migrant children stabbed and bacteria-contaminated beach
 1790974226|https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election|US suspends consular services in Brazil as Lula and Bolsonaro fight for election
 1790974873|https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels|Ethiopian army pushes back Tigrayan rebels
 1790974878|https://news.sky.com/story/nepal-plans-to-drain-four-dangerous-glacial-lakes-after-deadly-flash-flood-13594475|Nepal plans to drain four dangerous glacial lakes after deadly flood
@@ -1998,3 +1993,8 @@
 1791512423|https://www.japantimes.co.jp/news/2026/10/09/japan/russian-embassy-vehicle-traffic-accident/|Russian Embassy vehicle in traffic incident near Japan’s Foreign Ministry
 1791512430|https://www.japantimes.co.jp/news/2026/10/09/japan/russia-demand-handover-akane/|Russia demands Netherlands hand over ICC President Tomoko Akane
 1791512436|https://www.japantimes.co.jp/news/2026/10/09/world/science-health/china-who-chief-candidate/|China announces candidate for WHO chief
+1791513417|https://www.france24.com/en/americas/20261009-brazil-flavio-bolsonaro-third-place-candidate-lula|Brazil’s Flavio Bolsonaro wins third-place candidate’s support against Lula
+1791513423|https://www.japantimes.co.jp/business/2026/10/09/companies/global-banks-japan-dcm/|Global banks bolster Japan debt teams as bond issuance booms
+1791513429|https://www.japantimes.co.jp/business/2026/10/09/companies/microsoft-us-visa-program-ban/|U.S. suspends Microsoft and other tech firms with India links from visa program
+1791513435|https://www.aa.com.tr/en/americas/us-immigration-agent-shoots-man-in-new-york-city/4082847|US immigration agent shoots man in New York City
+1791513440|https://lenta.ru/news/2026/10/09/raskryty-podrobnosti-o-mnogodetnoy-semie-posle-smertelnogo-pozhara-v-rossiyskom-gorode/|Раскрыты подробности о многодетной семье после смертельного пожара в российском городе
