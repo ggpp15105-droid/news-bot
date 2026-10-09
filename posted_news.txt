@@ -1,8 +1,3 @@
-1791150783|https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf|Germany's Merz visits Kyiv as Russia strikes bridge
-1791151373|https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks|Iran says no military solution to war as peace talks with US stall
-1791151378|https://www.france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president|A Profile of Brazil's Potential President
-1791151384|https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro|Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro
-1791151390|https://www.france24.com/en/sport/20261004-evenepoel-snatches-photo-finish-win-to-clinch-european-road-cycling-crown|Evenepoel snatches photo-finish win to clinch European road cycling crown
 1791151395|https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe|Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says
 1791152412|https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom|Egyptian journalist faces terrorism charges after entire newsroom detained
 1791152417|https://news.sky.com/story/we-manage-together-meet-the-psychologist-helping-ukraines-veterans-live-again-13594913|'We manage together': Meet the psychologist helping Ukraine's veterans live again
@@ -1998,3 +1993,8 @@
 1791578509|https://www.ign.com/articles/wardogs-dev-says-ps6-and-xbox-project-helix-ports-should-be-relatively-straightforward|Wardogs Dev Says PS6 and Xbox Project Helix Ports Should Be Relatively Straightforward
 1791578515|https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments|The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments
 1791578520|https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure|“We're not getting any younger, and the world seems to be ending": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure
+1791579418|https://www.aa.com.tr/en/world/vatican-calls-planned-livestream-of-execution-in-us-unacceptable/4084086|Vatican calls planned livestream of execution in US 'unacceptable'
+1791579425|https://www.aa.com.tr/en/eurasia/putin-says-russian-diesel-supplies-to-us-global-markets-will-benefit-world-economy/4084078|Putin says Russian diesel supplies to US, global markets will benefit world economy
+1791579432|https://www.aa.com.tr/en/eurasia/-obvious-weakness-zelenskyy-criticizes-trump-putin-diesel-deal-over-lack-of-de-escalation/4084075|‘Obvious weakness’: Zelenskyy criticizes Trump-Putin diesel deal over lack of de-escalation
+1791579438|https://www.tomshardware.com/pc-components/cpus/gigabytes-latest-bios-update-hints-at-intels-raptor-lake-next-launch-in-2027-new-cpus-may-support-both-ddr4-and-ddr5-memory|Gigabyte's latest BIOS update hints at Intel's Raptor Lake Next Launch in 2027
+1791579445|https://www.tomshardware.com/software/cloud-storage/microsoft-365-slashes-storage-capacity-for-shared-accounts-amid-industry-wide-shortages-2tb-limit-to-take-effect-after-april-2027|Microsoft 365 slashes storage capacity for shared accounts amid industry-wide shortages
