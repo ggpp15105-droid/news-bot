@@ -1,8 +1,3 @@
-1791009098|https://www.kommersant.ru/doc/9005565|В Белгородской области при атаке БПЛА погиб один человек
-1791010845|https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf|Bosnia-Herzegovina shaped by war, separatism, EU ambitions
-1791010849|https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html|Top McKinsey executive reveals Asian owner-CEOs' secrets to success
-1791010857|https://www.euronews.com/2026/10/03/second-kyiv-bridge-hit-in-two-days-as-russia-targets-dnipro-crossings|Second Kyiv bridge hit in two days as Russia targets Dnipro crossings
-1791010864|https://www.euronews.com/2026/10/03/the-way-you-speak-could-reveal-early-signs-of-brain-ageing|The way you speak could reveal early signs of brain ageing
 1791010875|https://www.aa.com.tr/en/middle-east/yemen-sees-widest-escalation-in-3-weeks-as-displacement-nears-200-000/4076693|Yemen sees widest escalation in 3 weeks as displacement nears 200,000
 1791011917|https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss|Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium
 1791011922|https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss|‘Trauma still there’: A decades-old standoff returns to Northern Ireland
@@ -1998,3 +1993,8 @@
 1791552716|https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss|Ukraine takes aim at Russia’s AI data infrastructure
 1791552723|https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html|Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries
 1791552731|https://www.euronews.com/video/2026/10/09/indonesia-baby-orangutan-saved-from-borneo-wildfires-as-habitat-destruction-escalates|Indonesia: Baby orangutan saved from Borneo wildfires as habitat destruction escalates
+1791553863|https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss|Ethiopia warns Eritrea it will defend itself after troops cross border
+1791553870|https://www.euronews.com/2026/10/09/sounds-of-mexico-brings-mexican-orchestral-music-to-doha|Sounds of Mexico brings Mexican orchestral music to Doha
+1791553877|https://www.euronews.com/2026/10/09/the-second-time-around-meet-the-men-who-run-the-pre-owned-luxury-watch-market|The second time around: Meet the men who run the pre-owned luxury watch market
+1791553884|https://www.euronews.com/2026/10/09/helsinki-votes-in-favour-of-banning-fossil-fuel-adverts-but-there-could-be-a-10-year-delay|Helsinki votes in favour of banning fossil fuel adverts – but there could be a 10-year delay
+1791553891|https://www.euronews.com/2026/10/09/police-and-protesters-clash-in-brussels-as-anti-austerity-rally-disrupts-city|Police and protesters clash in Brussels as anti-austerity rally disrupts city
