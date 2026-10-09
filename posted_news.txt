@@ -1,8 +1,3 @@
-1790989481|https://www.igromania.ru/news/169033/byivshij-boss-dying-light-hochet-sdelat-horror-s-vliyaniem-kak-u-backrooms-i-obsessii/|Бывший босс Dying Light хочет сделать хоррор с влиянием как у Backrooms и «Обсессии»
-1790990437|https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss|US and Australia suspend diplomatic operations in Brazil before election
-1790990443|https://www.japantimes.co.jp/business/2026/10/03/economy/trump-threatens-south-korea-lng/|Trump threatens South Korea over Alaska LNG project dispute
-1790990450|https://www.japantimes.co.jp/business/2026/10/03/economy/g7-global-energy-supply-deal/|G7 agrees on deal to ease global energy supply concerns
-1790990455|https://www.kommersant.ru/doc/9005541|Командование США прокомментировало ракетный пуск КНДР // Американское командование: пуск ракеты КНДР не угрожал США и союзникам
 1790990459|https://tass.ru/obschestvo/28177753|В РФ сделали бессрочным перечень продуктов со спиртом, не считающихся алкоголем
 1790991297|https://www.japantimes.co.jp/news/2026/10/03/japan/science-health/ibaraki-governor-nuclear-waste-survey/|Ibaraki won’t accept second-stage survey for nuclear waste site, governor says
 1790991302|https://lenta.ru/news/2026/10/03/ekspert-rasskazal-ob-opasnosti-medvedey-shatunov/|Эксперт рассказал об опасности медведей-шатунов
@@ -1998,3 +1993,8 @@
 1791532879|https://www.euronews.com/video/2026/10/09/cars-burned-and-shops-looted-as-anti-immigration-protests-rock-south-africa|Cars burned and shops looted as anti-immigration protests rock South Africa
 1791532887|https://www.japantimes.co.jp/environment/2026/10/09/wildlife/indonesia-fire-orangutan-rescue/|Walking through flames: Orangutan rescued in Indonesia fires
 1791532893|https://www.aa.com.tr/en/americas/trump-calls-users-of-term-artificial-intelligence-the-enemy/4082989|Trump calls users of term 'artificial intelligence' the 'enemy'
+1791534022|https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss|Three years after October 7, prolonged war takes its toll on Israelis
+1791534028|https://www.aljazeera.com/news/2026/10/9/why-has-iraq-decided-to-ban-online-map-service-waze?traffic_source=rss|Why has Iraq decided to ban online map service Waze?
+1791534036|https://www.dw.com/en/finland-the-world-s-happiest-country-has-a-debt-problem-it-can-no-longer-ignore/a-79544348?maca=en-rss-en-all-1573-rdf|Finland: The world's happiest country has a debt problem it can no longer ignore
+1791534041|https://www.france24.com/en/france/20261009-live-141-french-high-schools-closed-as-student-protests-continue-for-fifth-day|Live: 141 French high schools closed as student protests continue for fifth day
+1791534048|https://www.france24.com/en/video/20261009-french-student-protests-police-impunity-below-the-standards-of-a-well-functioning-democracy-1|French student protests: Police impunity ‘below' the standards of a 'well-functioning democracy’
