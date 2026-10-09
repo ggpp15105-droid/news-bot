@@ -1,8 +1,3 @@
-1790988857|https://tass.ru/obschestvo/28177733|В Сибири и на Дальнем Востоке ожидаются дожди со снегом и сильным ветром
-1790989462|https://tass.ru/armiya-i-opk/28177743|Марочко: удары ВС РФ по мостам через Днепр грозят ВСУ потерей поставок от Запада
-1790989466|https://tass.ru/sport/28177741|Овечкин отметился первым результативным действием в сезоне НХЛ
-1790989470|https://tass.ru/obschestvo/28177739|Курорт "Три вулкана" на Камчатке разработает программу летних туров
-1790989475|https://www.igromania.ru/news/169034/shuter-arc-raiders-stanet-besplatnyim-s-8-po-12-oktyabrya-v-chest-krupnejshego-obnovleniya/|Шутер ARC Raiders станет бесплатным с 8 по 12 октября в честь крупнейшего обновления
 1790989481|https://www.igromania.ru/news/169033/byivshij-boss-dying-light-hochet-sdelat-horror-s-vliyaniem-kak-u-backrooms-i-obsessii/|Бывший босс Dying Light хочет сделать хоррор с влиянием как у Backrooms и «Обсессии»
 1790990437|https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss|US and Australia suspend diplomatic operations in Brazil before election
 1790990443|https://www.japantimes.co.jp/business/2026/10/03/economy/trump-threatens-south-korea-lng/|Trump threatens South Korea over Alaska LNG project dispute
@@ -1998,3 +1993,8 @@
 1791531939|https://www.euronews.com/video/2026/10/09/chile-santiago-flooding-turns-streets-to-rivers-as-kast-declares-state-of-catastrophe|Chile: Santiago flooding turns streets to rivers as Kast declares state of catastrophe
 1791531946|https://www.euronews.com/2026/10/09/hungarys-2026-drought-is-the-countrys-most-severe-in-126-years-data-shows|Hungary's 2026 drought is the country's most severe in 126 years, data shows
 1791531955|https://www.japantimes.co.jp/news/2026/10/09/japan/science-health/japan-flu-cases-jump/|As influenza cases rise, residents rush to get flu shots
+1791532865|https://www.euronews.com/2026/10/09/eu-may-need-to-cut-winter-gas-demand-by-7-as-storage-hits-record-low-ieefa-warns|EU may need to cut winter gas demand by 7% as storage hits record low, IEEFA warns
+1791532871|https://www.euronews.com/video/2026/10/09/latest-attacks-on-ukraine-are-war-crimes-done-by-putin-says-ukrainian-politician|Latest attacks on Ukraine are ‘war crimes done by Putin’, says Ukrainian politician
+1791532879|https://www.euronews.com/video/2026/10/09/cars-burned-and-shops-looted-as-anti-immigration-protests-rock-south-africa|Cars burned and shops looted as anti-immigration protests rock South Africa
+1791532887|https://www.japantimes.co.jp/environment/2026/10/09/wildlife/indonesia-fire-orangutan-rescue/|Walking through flames: Orangutan rescued in Indonesia fires
+1791532893|https://www.aa.com.tr/en/americas/trump-calls-users-of-term-artificial-intelligence-the-enemy/4082989|Trump calls users of term 'artificial intelligence' the 'enemy'
