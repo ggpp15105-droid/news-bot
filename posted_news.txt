@@ -1,8 +1,3 @@
-1791156204|https://www.aa.com.tr/en/middle-east/over-800-palestinian-teachers-killed-by-israel-since-gaza-war-education-ministry/4077723|Over 800 Palestinian teachers killed by Israel since Gaza war: Education Ministry
-1791156997|https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-rdf|Trump names AI czar to head White House task force
-1791157004|https://www.france24.com/en/environment/20261004-pacific-leaders-climate-action-un-pre-cop-talks-fiji|Pacific leaders urge climate action as UN pre-COP talks open in Fiji
-1791157009|https://www.aa.com.tr/en/world/angelina-jolie-highlights-gaza-destruction-with-google-earth-satellite-images/4077703|Angelina Jolie highlights Gaza destruction with Google Earth satellite images
-1791157014|https://www.aa.com.tr/en/europe/zelenskyy-says-germany-provides-ukraine-with-146b-support-package/4077652|Zelenskyy says Germany provides Ukraine with $1.46B support package
 1791157020|https://www.ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner|Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner
 1791157870|https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss|Manchester City must be relegated, says Canada’s ex-Leeds manager
 1791157877|https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss|Cristiano Ronaldo can return to Portugal team if he wants, says Jesus
@@ -1998,3 +1993,8 @@
 1791584801|https://www.ign.com/articles/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says|Gears of War: E-Day Estimated Sales Reach Just 230,000 in First Week, Analyst Says
 1791584806|https://lenta.ru/news/2026/10/10/ssha-obratilis-k-ukraine-s-neozhidannym-voprosom/|США обратились к Украине с неожиданным вопросом
 1791584811|https://www.kommersant.ru/doc/9023357|Путин поблагодарил первую леди США за помощь в воссоединении разлученных семей
+1791585761|https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts|Police clash with protesters in Brussels as thousands march against spending cuts
+1791585768|https://www.aa.com.tr/en/americas/trump-says-iran-failing-badly-keeps-military-option-open/4084135|Trump says Iran 'failing badly,' keeps military option open
+1791585777|https://lenta.ru/news/2026/10/10/tramp-odnim-slovom-otvetil-na-vopros-o-kritike-so-storony-zelenskogo/|Трамп одним словом ответил на вопрос о критике со стороны Зеленского
+1791585788|https://www.kommersant.ru/doc/9023349|Путин обсудил с Трампом Украину, Иран и поставки российского топлива в США
+1791585792|https://tass.ru/kultura/28200455|В "Современнике" прошел вечер-спектакль в честь 100-летия Евстигнеева
