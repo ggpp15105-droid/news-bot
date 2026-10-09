@@ -1,8 +1,3 @@
-1790982042|https://www.vedomosti.ru/politics/news/2026/10/02/1233953-tramp-otkazalsya|Трамп отказался от запрета на экспорт дизельного топлива
-1790982772|https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss|Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi
-1790982778|https://www.japantimes.co.jp/life/2026/10/03/style-design/familymart-socks-47-prefectures-convenience-store-fashion/|FamilyMart’s sock became a prized souvenir. Now there are 47.
-1790982784|https://www.japantimes.co.jp/life/2026/10/03/style-design/kimono-fabric-oshima-tsumugi-silk-ginza-fashion/|One bolt, ¥400,000: Why Japan’s Oshima ‘tsumugi’ silk costs a pretty penny
-1790982790|https://www.aa.com.tr/en/world/rubio-jordans-king-abdullah-discuss-lebanon-syria/4076652|Rubio, Jordan's King Abdullah discuss Lebanon, Syria
 1790982795|https://lenta.ru/news/2026/10/03/posol-nazvala-tsel-spora-vokrug-rossiyskoy-nedvizhimosti-v-chehii/|Посол назвала цель спора вокруг российской недвижимости в Чехии
 1790983530|https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build|Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build
 1790983539|https://lenta.ru/news/2026/10/03/investitsionnyy-fond-ssha-i-ukrainy-zaklyuchil-pervuyu-sdelku-po-dobyche-poleznyh-iskopaemyh/|Инвестиционный фонд США и Украины заключил первую сделку по добыче полезных ископаемых
@@ -1998,3 +1993,8 @@
 1791522946|https://www.euronews.com/2026/10/09/russia-slashes-cancer-care-as-defence-spending-hits-post-soviet-record|Russia slashes cancer care as defence spending hits post-Soviet record
 1791522953|https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-morning|Latest news bulletin | October 9th, 2026 – Morning
 1791522959|https://www.euronews.com/2026/10/09/santorini-wine-gastronomy-and-unique-experiences-beyond-the-famous-sunsets|Santorini: Wine, gastronomy and unique experiences beyond the famous sunsets
+1791524046|https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss|Photos: Gaza before and after – a city transformed by war
+1791524054|https://www.japantimes.co.jp/business/2026/10/09/companies/germany-kadewe-japan-rice/|Department store in Berlin to offer high-end Japanese rice on trial basis
+1791524060|https://www.japantimes.co.jp/environment/2026/10/09/climate-change/rain-climate-chiba-japan/|Extreme rain is testing Japan’s flood defences
+1791524066|https://www.japantimes.co.jp/business/2026/10/09/companies/rakuten-medical-light-cancer-therapy/|Rakuten Medical eyes U.S. market for its novel idea to conquer cancer
+1791524073|https://www.japantimes.co.jp/sports/2026/10/09/baseball/guardians-avoid-elimination-alds/|Hard-hitting Guardians beat White Sox to force decisive fifth game in ALDS
