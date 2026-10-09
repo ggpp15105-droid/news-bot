@@ -1,8 +1,3 @@
-1790979000|https://lenta.ru/news/2026/10/03/avstriyu-obvinili-v-iskazhenii-statusa-neytraliteta/|Австрию обвинили в искажении статуса нейтралитета
-1790979885|https://www.japantimes.co.jp/news/2026/10/03/japan/north-korea-missile-october-3/|North Korea fired off apparent ballistic missile amid landmine row with South
-1790979893|https://lenta.ru/news/2026/10/03/bryussel-obvinili-vo-lzhi-o-chlenstve-ukrainy-v-es/|Евросоюз обвинили во лжи насчет вступления Украины в объединение
-1790979901|https://lenta.ru/news/2026/10/02/v-federatsii-futbola-portugalii-zahoteli-vernut-ronaldu-v-sbornuyu/|В Федерации футбола Португалии захотели вернуть Роналду в сборную
-1790979905|https://www.kommersant.ru/doc/9005532|Минюст США не возобновит расследование против бывшего главы ФРС Пауэлла
 1790979910|https://www.kommersant.ru/doc/9005249|ФСИН опровергла информацию о бунте в поезде с заключенными в Кабардино-Балкарии
 1790980708|https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss|Why Carney’s economic overhaul is clashing with Canada’s unions
 1790980714|https://www.kommersant.ru/doc/9005533|КНДР запустила баллистическую ракету в сторону Японского моря
@@ -1998,3 +1993,8 @@
 1791518932|https://www.euronews.com/2026/10/09/kyiv-open-to-constructive-dialogue-after-seoul-recalls-its-ambassador-amid-north-korean-po|Kyiv open to 'constructive dialogue' after Seoul recalls its ambassador amid North Korean POW disclosure row
 1791518938|https://www.euronews.com/2026/10/09/barcelona-research-team-creates-ai-to-detect-ageing-in-blood-stem-cells|Barcelona team develops AI that detects ageing in blood stem cells
 1791518947|https://lenta.ru/news/2026/10/09/vrach-predupredil-ob-opasnosti-termicheskoy-obrabotki-prosrochennyh-produktov/|Врач предупредил об опасности термической обработки просроченных продуктов
+1791520071|https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss|Northern Ireland’s Sinn Fein faces police probe as protest tensions fester
+1791520078|https://www.euronews.com/2026/10/09/masked-ice-officers-shoot-a-man-while-making-an-arrest-in-new-york-officials-say|Masked ICE officers shoot a man while making an arrest in New York, officials say
+1791520086|https://lenta.ru/news/2026/10/09/rossiyskiy-voennyy-rasskazal-ob-otsutstvii-edy-i-vody-u-vsu-na-dobropolskom-napravlenii/|Российский военный рассказал об отсутствии еды и воды у ВСУ на добропольском направлении
+1791520095|https://lenta.ru/news/2026/10/09/long-rech-idet-o-vyzhivanii-mer-kieva-obratilsya-s-trevozhnym-preduprezhdeniem-k-zhitelyam-ukrainskoy-stolitsy/|«Речь идет о выживании». Мэр Киева обратился с тревожным предупреждением к жителям украинской столицы
+1791520100|https://lenta.ru/news/2026/10/09/klichko-obvinil-zelenskogo-v-plohom-vliyanii-na-ukraine/|Кличко обвинил Зеленского в плохом влиянии на Украине
