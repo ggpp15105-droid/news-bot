@@ -1,8 +1,3 @@
-1791005742|https://www.euronews.com/2026/10/03/the-disney-generation-what-unites-baby-boomers-millennials-and-gen-z|The Disney generation: What unites Baby Boomers, millennials and Gen Z
-1791006737|https://www.japantimes.co.jp/business/2026/10/03/tech/ai-transform-world-money/|AI’s race to transform the world before the money runs out
-1791006744|https://www.aa.com.tr/en/middle-east/1st-israeli-flight-departs-dubai-to-repatriate-stranded-passengers-after-flydubai-incident/4076678|1st Israeli flight departs Dubai to repatriate stranded passengers after Flydubai incident
-1791006753|https://lenta.ru/news/2026/10/03/glava-ran-otsenil-tempy-potepleniya-v-rossii/|Глава РАН оценил темпы потепления в России
-1791006758|https://lenta.ru/news/2026/10/03/stalo-izvestno-o-postradavshih-pri-atake-bespilotnikov-na-donetsk/|Стало известно о пострадавших при атаке беспилотников на Донецк
 1791006762|https://lenta.ru/news/2026/10/03/rossiyanam-napomnili-o-srokah-uplaty-nalogov/|Россиянам напомнили о сроках уплаты налогов
 1791007655|https://www.euronews.com/2026/10/03/hungarian-restaurants-struggle-costs-match-europe-but-revenues-lag-behind|Hungarian restaurants struggle: costs match Europe but revenues lag behind
 1791007664|https://lenta.ru/news/2026/10/03/v-ssha-obratili-vnimanie-na-reaktsiyu-pribaltiki-na-preduprezhdenie-putina/|Реакцию Прибалтики на предупреждение Путина оценили
@@ -1998,3 +1993,8 @@
 1791549133|https://www.france24.com/en/tv-shows/reporters/20261009-india-dowry-curse-outlawed-practice-remains-deeply-entrenched|India's dowry curse: Outlawed practice remains deeply entrenched
 1791549138|https://www.japantimes.co.jp/environment/2026/10/09/climate-change/jma-el-nino-record-strength/|Weather-roiling El Nino hits record strength, Japan weather agency says
 1791549143|https://www.japantimes.co.jp/news/2026/10/09/japan/politics/koizumi-space-defense/|Japan to launch research study on rapid-response space transport
+1791550517|https://www.aljazeera.com/news/2026/10/9/satire-silenced-indian-artists-face-censorship-as-anti-modi-protests-grow?traffic_source=rss|Satire silenced: Indian artists face censorship as anti-Modi protests grow
+1791550526|https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf|Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows
+1791550533|https://www.france24.com/en/tv-shows/truth-or-fake/20261009-no-the-french-army-did-not-deploy-tanks-against-protesting-students|No, the French army did not deploy tanks against protesting students
+1791550538|https://www.france24.com/en/france/20261009-renoir-paintings-stolen-from-french-riviera-museum-recovered-six-people-arrested|Renoir paintings stolen from French Riviera museum recovered, six suspects arrested
+1791550546|https://www.euronews.com/2026/10/09/35-killed-in-strikes-on-ukraines-donetsk-region-as-russia-reports-four-dead-across-belgoro|35 killed in strikes on Ukraine's Donetsk region as Russia reports four dead across Belgorod
