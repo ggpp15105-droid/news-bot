@@ -1,8 +1,3 @@
-1791153329|https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html|Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine
-1791154058|https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html|OPEC+ agrees to keep November oil output targets steady
-1791154067|https://www.euronews.com/2026/10/04/judo-2026-world-championships-koga-and-yusifov-strike-gold-on-opening-day-in-baku|Judo 2026 World Championships: Koga and Yusifov Strike Gold on Opening Day in Baku
-1791154074|https://www.euronews.com/2026/10/04/sanchez-in-talks-with-coalition-partners-on-reflection-day-will-he-call-elections-in-spain|Sánchez in talks with coalition partners on reflection day: will he call elections in Spain?
-1791154081|https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-evening|Latest news bulletin | October 4th, 2026 – Evening
 1791154088|https://www.euronews.com/2026/10/04/we-dont-feel-a-sense-of-worry-in-europe-says-the-head-of-the-muslim-world-league|“We don't feel a sense of worry” in Europe, says the head of the Muslim World League
 1791154672|https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss|Nicaragua says it will withdraw from Central American Parliament
 1791154680|https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss|US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears
@@ -1998,3 +1993,8 @@
 1791581172|https://lenta.ru/news/2026/10/10/voenkor-nameknul-na-neobychnye-udary-po-kievu/|Военкор намекнул на необычные удары по Киеву
 1791581178|https://lenta.ru/news/2026/10/09/devochka-rodila-ot-sobstvennogo-ottsa-i-pustilas-s-nim-v-bega/|Девочка родила от отца и пустилась с ним в бега
 1791581183|https://lenta.ru/news/2026/10/10/tramp-naznachil-novogo-press-sekretarya-belogo-doma/|Трамп назначил нового пресс-секретаря Белого дома
+1791582126|https://www.aa.com.tr/en/americas/trump-not-happy-with-houthi-attacks-on-saudi-airports/4084120|Trump 'not happy' with Houthi attacks on Saudi airports
+1791582133|https://www.aa.com.tr/en/middle-east/saudi-led-coalition-announces-large-scale-operation-against-houthis-in-yemen-says-136-military-targets-destroyed/4084119|Saudi-led coalition announces large-scale operation against Houthis in Yemen, says 136 military targets destroyed
+1791582140|https://lenta.ru/news/2026/10/10/razgovor-putina-i-trampa-opisali-slovami-nikto-ne-hotel-klast-trubku-pervym/|Разговор Путина и Трампа описали словами «никто не хотел класть трубку»
+1791582153|https://lenta.ru/news/2026/10/10/avtor-kanala-rybar-pokinul-chernogoriyu-posle-zaderzhaniya/|Автор канала «Рыбарь» покинул Черногорию после задержания
+1791582158|https://lenta.ru/news/2026/10/10/bessmertie/|Назван способ победить старение
