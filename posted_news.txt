@@ -1,8 +1,3 @@
-1791158293|https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset|RuneScape Reignited launches 2 December
-1791159351|https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss|Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
-1791159357|https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss|Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
-1791159362|https://www.cnbc.com/2026/10/04/yemen-launches-offensive-to-seize-all-areas-from-iran-backed-houthis.html|Yemeni government launches offensive to seize all areas from Iran-backed Houthis
-1791159368|https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal|Fourth RuneScape officially revealed
 1791159374|https://www.rockpapershotgun.com/the-sunday-papers-830|The Sunday Papers
 1791160998|https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula|🔴 Brazil presidential election heads to runoff with Bolsonaro ahead of Lula
 1791161005|https://www.japantimes.co.jp/news/2026/10/05/world/flydubai-co-pilot-extremism/|Flydubai co-pilot lost earlier job for dabbling in extremism
@@ -1998,3 +1993,8 @@
 1791587355|https://tass.ru/proisshestviya/28200477|В Николаеве произошел взрыв
 1791587359|https://tass.ru/armiya-i-opk/28200473|В Запорожье назвали удары ВС РФ по мостам в Киеве предупредительными
 1791587364|https://tass.ru/armiya-i-opk/28200475|Марочко сообщил об успешном наступлении ВС РФ на севере от Сум
+1791588281|https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf|Trump names new press secretary to succeed Karoline Leavitt
+1791588288|https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html|Trump's diesel agreement with Putin accused of contradicting Russia sanctions law
+1791588298|https://www.aa.com.tr/en/americas/us-european-ukrainian-officials-hold-talks-in-florida-on-de-escalating-ending-war-with-russia/4084138|US, European, Ukrainian officials hold talks in Florida on de-escalating, ending war with Russia
+1791588303|https://www.aa.com.tr/en/africa/sudanese-rights-group-says-rsf-killed-4-family-members-in-north-kordofan/4084137|Sudanese rights group says RSF killed 4 family members in North Kordofan
+1791588308|https://lenta.ru/news/2026/10/10/pod-kievom-progremela-seriya-vzryvov-v-rayone-vazhnogo-energoob-ekta/|Под Киевом прогремела серия взрывов в районе важного энергообъекта
