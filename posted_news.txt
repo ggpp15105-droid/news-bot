@@ -1,8 +1,3 @@
-1791049467|https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf|Ukraine to step up oil attacks as Russia hits Kyiv bridges
-1791062437|https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss|Fernandes denies Portugal rift, hails Ronaldo after walk out
-1791062444|https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss|Trump ramps up pressure on US Republicans to end US clock switching
-1791062449|https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss|Funeral held at Gaza church for mother and daughter killed in Gaza strike
-1791062455|https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss|Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years
 1791062462|https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss|Is the CJP changing India’s political landscape?
 1791082154|https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss|Cornell president says university 'must do better' after frat house rape allegations
 1791082159|https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss|Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa
@@ -1998,3 +1993,8 @@
 1791571386|https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss|AI deepfake ads grow more popular in US midterm campaigns, blurring truth
 1791571392|https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss|Gaza ceasefire ‘exists in name only’, more than 100 NGOs say
 1791571399|https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning|🔴 Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning
+1791572347|https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss|Katie Zacharia ‘offered” position as White House press secretary
+1791572353|https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine|France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine
+1791572361|https://www.euronews.com/2026/10/09/tsunami-threat-after-76-magnitude-earthquake-strikes-panama-usgs-says|Tsunami threat after 7.6-magnitude earthquake strikes Panama, USGS says
+1791572369|https://www.aa.com.tr/en/world/amnesty-international-urges-states-to-resist-us-sanctions-targeting-icc/4083971|Amnesty International urges states to resist US sanctions targeting ICC
+1791572375|https://www.gamespot.com/articles/is-the-bioshock-movie-ever-going-to-happen-director-weighs-in/|Is The BioShock Movie Ever Going To Happen? Director Weighs In
