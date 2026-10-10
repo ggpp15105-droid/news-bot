@@ -1,8 +1,3 @@
-1791209338|https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-rdf|Iran poised to exploit security vacuum as US leaves Iraq
-1791209345|https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf|Trust in the German Constitutional Court is eroding — how can this be stopped?
-1791209354|https://www.dw.com/en/what-china-s-new-military-foothold-in-laos-means-for-southeast-asia/a-79548259?maca=en-rss-en-all-1573-rdf|What China's new military foothold in Laos means for Southeast Asia
-1791209359|https://news.sky.com/story/yemen-hundreds-of-houthi-targets-attacked-as-saudi-led-coalition-carries-out-air-campaign-13595382|'Hundreds of Houthi targets in Yemen attacked' in air campaign by Saudi-led coalition
-1791210733|https://www.france24.com/en/europe/20261005-macron-slams-russia-s-irresponsible-strikes-on-ukraine-s-civilian-infrastructure|Macron slams Russia’s ‘irresponsible’ strikes on Ukraine’s civilian infrastructure
 1791210737|https://www.france24.com/en/video/20261005-spain-mini-hurricane-kills-at-least-two-people-in-catalonia|Spain: 'Mini-hurricane' kills at least two people in Catalonia
 1791210742|https://news.sky.com/story/failed-asylum-seeker-who-attempted-knife-attack-on-israeli-embassy-in-london-jailed-for-life-13595402|Failed asylum seeker who attempted knife attack on Israeli embassy jailed for life
 1791210747|https://www.euronews.com/2026/10/05/a-decade-of-the-azerbaijan-grand-prix-more-than-just-a-race|A decade of the Azerbaijan Grand Prix: more than just a race
@@ -1998,3 +1993,8 @@
 1791630127|https://lenta.ru/news/2026/10/10/stalo-izvestno-o-planah-komandovaniya-nato-v-stranah-baltii/|Стало известно о планах командования НАТО в странах Балтии
 1791630131|https://www.kommersant.ru/doc/9023767|ВСУ атаковали железнодорожный мост в Брянской области
 1791630140|https://www.kommersant.ru/doc/9023753|Пушилин: подготовку к переселению из оккупированных ВСУ зон ДНР готовят заранее для оценки жилфонда
+1791631057|https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf|US midterms: Women candidates could make history
+1791631061|https://www.france24.com/en/video/20261010-october-7-scars-push-israel-s-first-time-voters-to-right|October 7 scars push Israel's first-time voters to right
+1791631067|https://www.cnbc.com/2026/10/10/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee.html|India unveils tough curbs on dollar demand to defend rupee
+1791631072|https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks|Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees
+1791631081|https://lenta.ru/news/2026/10/10/krasnoyarskiy-klub-ne-smog-dobratsya-v-moskvu-na-match-edinoy-ligi-vtb/|Красноярский клуб не смог добраться в Москву на матч Единой лиги ВТБ
