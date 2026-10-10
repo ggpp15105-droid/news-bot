@@ -1,8 +1,3 @@
-1791181972|https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf|Yemen launches major military operation against Houthis
-1791181979|https://www.cnbc.com/2026/10/05/daily-open-euro-spain-election-france-budget.html|CNBC Daily Open: America sneezes, Europe starts to catch the cold
-1791181986|https://www.euronews.com/2026/10/05/crete-plateau-deluged-with-440mm-of-rain-in-two-days|Five days of intense rainfall leave trail of destruction across Crete
-1791181992|https://www.euronews.com/2026/10/05/why-ordinary-investors-struggle-to-buy-into-the-robotics-boom|Why ordinary investors struggle to buy into the robotics boom
-1791183503|https://www.france24.com/en/tv-shows/sports/20261005-nations-league-france-face-belgium-as-they-battle-for-top-spot-in-group-a|Nations League: France face Belgium as they battle for top spot in group A
 1791183509|https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html|Euro hits 17-month low as political uncertainty in Spain and France rattles markets
 1791183517|https://www.euronews.com/video/2026/10/05/spanish-police-remove-over-3000-migrants-from-ceuta-beach-camp|Spanish police remove over 3,000 migrants from Ceuta beach camp
 1791183524|https://www.euronews.com/2026/10/05/merz-and-mathernova-send-a-message-to-moscow-from-kyiv|Merz and Mathernová send a message to Moscow from Kyiv
@@ -1998,3 +1993,8 @@
 1791607906|https://lenta.ru/news/2026/10/10/bpla-popal-v-mnogoetazhku-rostovskogo-zhk/|БПЛА попал в многоэтажку ростовского ЖК
 1791607915|https://www.kommersant.ru/doc/9023661|В Мытищах произошло три аварии на одном участке шоссе, один человек погиб // При аварии на Дмитровском шоссе в Мытищах погиб человек
 1791607919|https://www.kommersant.ru/doc/9023660|Главные новости к утру 10 октября // Путин договорился с Трампом о поставках российского дизеля в США
+1791608540|https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss|Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site
+1791608547|https://www.euronews.com/2026/10/10/teacher-salaries-in-europe-which-countries-offer-the-best-pay|Teacher salaries in Europe: Which countries offer the best pay?
+1791608554|https://www.aa.com.tr/en/eurasia/azerbaijan-iran-presidents-stress-continued-implementation-of-deals-reached-at-shanghai-cooperation-organization-summit/4084163|Azerbaijan, Iran presidents stress continued implementation of deals reached at Shanghai Cooperation Organization summit
+1791608564|https://lenta.ru/news/2026/10/10/ginekolog-nazvala-sposoby-uvelichit-shansy-na-zachatie-posle-40-let/|Гинеколог назвала способы увеличить шансы на зачатие после 40 лет
+1791608568|https://tass.ru/proisshestviya/28200823|Полет попавшего в аварию в Забайкалье самолета был разрешен
