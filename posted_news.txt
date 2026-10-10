@@ -1,8 +1,3 @@
-1791185937|https://www.dw.com/en/germany-news-left-party-sues-economy-minister-at-top-court/live-79542789?maca=en-rss-en-all-1573-rdf|Germany news: Left Party sues economy minister at top court
-1791185941|https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29|🔴Spanish PM Sanchez calls snap election for November 29
-1791185948|https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html|Spain's PM Sanchez calls snap election after housing crisis protests
-1791185954|https://www.euronews.com/2026/10/05/whats-next-for-eu-migration-policy-take-our-poll|What’s next for EU migration policy? Take our poll
-1791186909|https://www.euronews.com/2026/10/05/all-inclusive-to-adventure-the-top-experiences-that-will-shape-ultra-luxury-travel-in-2027|All-inclusive to adventure: The top experiences that will shape ultra-luxury travel in 2027
 1791186916|https://www.japantimes.co.jp/business/2026/10/05/companies/honda-india-strategy-hybrids-shift/|Cost pressures and deadlock force Honda to rework India strategy, sources say
 1791186923|https://www.japantimes.co.jp/business/2026/10/05/companies/daiwa-securities-clients-info-stolen/|Daiwa Securities says info on 110,000 clients may have been leaked
 1791186930|https://www.japantimes.co.jp/news/2026/10/05/japan/hokkaido-top-prefecture-ranking/|Hokkaido ranked most attractive prefecture for 18th year in a row
@@ -1998,3 +1993,8 @@
 1791610570|https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss|Supporters of jailed former Pakistani PM Khan marching to capital
 1791610576|https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html|The world needs Ukraine’s grain. Its farmers are running out of reasons to plant
 1791610581|https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html|AI is changing how lawyers work — and putting the billable hour under pressure
+1791611399|https://www.euronews.com/2026/10/10/crashout-ragebait-or-peak-germanys-youth-word-of-2026|'Crashout', 'Ragebait' or 'Peak': Want to know which word is favoured by Germany's youth?
+1791611406|https://www.japantimes.co.jp/news/2026/10/10/japan/gcap-germany-join-japan/|Germany eyes joining GCAP fighter jet project with U.K, Italy and Japan
+1791611413|https://www.japantimes.co.jp/news/2026/10/10/japan/politics/japan-us-icc-takaichi-trump/|Takaichi again in a bind as U.S. threatens to ‘end’ ICC
+1791611418|https://lenta.ru/news/2026/10/10/britanskaya-armiya-stolknulas-s-neobychnoy-problemoy/|Британская армия столкнулась с необычной проблемой
+1791611424|https://lenta.ru/news/2026/10/10/putin-dogovorilsya-s-trampom-o-prodolzhenii-sotrudnichestva-spetssluzhb/|Путин договорился с Трампом о продолжении сотрудничества спецслужб
