@@ -1,8 +1,3 @@
-1791204994|https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss|Bolsonaro favourite to win: What Brazil’s first round of elections tells us
-1791205001|https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss|Lionel Messi to join Argentina for farewell match against Benin
-1791205007|https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss|In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines
-1791205013|https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss|Students continue to protest in France as hundreds of schools close
-1791205954|https://www.aljazeera.com/news/2026/10/5/before-uk-greens-who-else-has-equated-zionism-with-racism?traffic_source=rss|Before UK Greens, who else has equated Zionism with racism?
 1791205962|https://www.france24.com/en/video/20261005-trump-heads-to-nebraska-as-republicans-fear-strongholds-could-flip|Trump heads to Nebraska as Republicans fear strongholds could flip
 1791205968|https://www.france24.com/en/video/20261005-france-high-school-protests-can-the-government-regain-control|France high school protests: Can the government regain control?
 1791205974|https://www.france24.com/en/video/20261005-japan-bids-farewell-to-asian-games-after-fortnight-of-turmoil-and-records|Japan bids farewell to Asian Games after fortnight of turmoil and records
@@ -1998,3 +1993,8 @@
 1791627035|https://lenta.ru/news/2026/10/10/vsu-atakovali-esche-odin-zheleznodorozhnyy-most-v-rossii/|ВСУ атаковали еще один железнодорожный мост в России
 1791627043|https://lenta.ru/news/2026/10/10/stala-izvestna-reaktsiya-ssha-na-reshenie-trampa-zaklyuchit-soglashenie-s-rossiey/|Стала известна реакция США на решение Трампа заключить соглашение с Россией
 1791627052|https://lenta.ru/news/2026/10/10/rossiyanka-andreeva-vpervye-v-kariere-stanet-tretiey-raketkoy-mira/|Россиянка Андреева впервые в карьере станет третьей ракеткой мира
+1791628066|https://www.france24.com/en/france/20261010-injuries-french-student-protests-draw-scrutiny-to-police-tactics|Injuries at French student protests draw scrutiny to police tactics
+1791628072|https://www.euronews.com/2026/10/10/eu-budget-ireland-pitches-141bn-cuts-to-appease-the-frugals|EU budget: Ireland pitches €141bn cuts to appease the ‘frugals’
+1791628078|https://www.euronews.com/video/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread|Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread
+1791628087|https://lenta.ru/news/2026/10/10/razin-rasskazal-o-vosstanovlenii-posle-otstraneniya-v-metallurge/|Разин рассказал о восстановлении после отстранения в «Металлурге»
+1791628095|https://lenta.ru/news/2026/10/10/tretyak-otreagiroval-na-slova-trampa-ob-ovechkine/|Третьяк отреагировал на слова Трампа об Овечкине
