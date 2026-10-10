@@ -1,8 +1,3 @@
-1791220814|https://www.france24.com/en/europe/20261005-france-germany-seek-new-eu-rapid-response-tool-against-trade-threats|France, Germany seek new EU rapid response tool against trade threats
-1791220818|https://www.france24.com/en/asia-pacific/20261005-icc-unseals-arrest-warrants-for-taliban-education-ministers|ICC unseals arrest warrants for Taliban education ministers
-1791220822|https://www.france24.com/en/video/20261005-french-high-school-students-predict-escalation-of-protests|French high school students predict escalation of protests
-1791220828|https://news.sky.com/story/medvedev-disqualified-after-hitting-spectator-with-ball-during-djokovic-match-13595482|Medvedev disqualified after hitting spectator with ball during Djokovic match
-1791221803|https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf|Merz, Macron seek tougher EU measures against unfair trade
 1791221809|https://www.euronews.com/2026/10/05/from-school-blockades-to-violence-what-is-driving-student-protests-in-france|From school blockades to violence: what is driving student protests in France?
 1791221817|https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima|Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game', But 'Won't Do One Without Kojima'
 1791221824|https://www.ign.com/articles/god-packs-are-officially-coming-to-magic-the-gathering|God Packs are Officially Coming to Magic: The Gathering
@@ -1998,3 +1993,8 @@
 1791640418|https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios|We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11
 1791640423|https://lenta.ru/news/2026/10/10/rossiyskiy-plovets-ustanovil-mirovoy-rekord-na-etape-kubka-mira/|Российский пловец установил мировой рекорд на этапе Кубка мира
 1791640428|https://lenta.ru/news/2026/10/10/vzryv-progremel-v-aeroportu-stolitsy-saudovskoy-aravii/|Взрыв прогремел в аэропорту столицы Саудовской Аравии
+1791640903|https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss|High silver prices threaten Lucknow’s famed bridal nagra craft
+1791640908|https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss|New Delhi police crack down on protesters ahead of anti-gov’t march
+1791640916|https://lenta.ru/news/2026/10/10/v-germanii-otvetili-na-vozmuschenie-mertsa-iz-za-vizita-shredera-v-gosti-k-putinu/|В Германии ответили на возмущение Мерца из-за визита Шредера в гости к Путину
+1791640921|https://lenta.ru/news/2026/10/10/akademik-ran-nazval-predel-chelovecheskoy-zhizni/|Академик РАН назвал предел человеческой жизни
+1791640930|https://www.kommersant.ru/doc/9023810|Девять человек погибли при стрельбе в Пенсильвании
