@@ -1,8 +1,3 @@
-1791163251|https://lenta.ru/news/2026/10/05/burger-king-zakryl-restorany-v-odnom-rossiyskom-gorode/|«Бургер Кинг» закрыл рестораны в одном российском городе
-1791164172|https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss|Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings
-1791164179|https://www.japantimes.co.jp/business/2026/10/05/sam-altman-openai-benefit-risk/|OpenAI’s Altman says AI benefits warrant accepting some risks
-1791164186|https://www.japantimes.co.jp/news/2026/10/05/world/us-b-1-bombers-uk/|U.S. removes B-1 bombers from U.K. base amid security concerns
-1791164193|https://www.japantimes.co.jp/news/2026/10/05/japan/japan-flu-spread-quake-hit-kumamoto/|Flu spreads in quake-hit Kumamoto as Japan sees early outbreak
 1791164203|https://lenta.ru/news/2026/10/05/pevitsa-lili-allen-v-prozrachnom-kombinezone-iz-kruzheva-snyalas-v-reklame/|Певица Лили Аллен в прозрачном комбинезоне из кружева снялась в рекламе
 1791165012|https://www.japantimes.co.jp/business/2026/10/05/companies/softbank-son-ai-risks/|SoftBank’s Masayoshi Son has rare cautionary note on AI safety
 1791165020|https://www.japantimes.co.jp/sports/2026/10/05/more-sports/verstappen-wins-bahrain-gp/|Max Verstappen washes away frustrations with win at rain-soaked Bahrain Grand Prix
@@ -1998,3 +1993,8 @@
 1791590519|https://tass.ru/mezhdunarodnaya-panorama/28200501|Reuters: на переговорах по Украине в США обсуждали архитектуру безопасности
 1791590523|https://tass.ru/ekonomika/28200461|В Нижегородской области льготные кредиты для АПК на 2027 год составят 1,4 млрд рублей
 1791590527|https://tass.ru/kultura/28200459|На Ставрополье представили спектакль "12" Никиты Михалкова
+1791592228|https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss|Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+1791592235|https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss|Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest
+1791592241|https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss|Intercommunal clashes kill 71 people in South Sudan
+1791592248|https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss|Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal
+1791592256|https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-rdf|Strong earthquakes shake Panama, buildings damaged
