@@ -1,8 +1,3 @@
-1791162197|https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql|Database expert runs Doom in SQL with just 5,900 lines of code
-1791163224|https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss|Four African leaders issue joint declaration as Ethiopia war escalates
-1791163231|https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html|They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace
-1791163239|https://www.cnbc.com/2026/10/05/opec-oil-iran-war-hormuz-brazil-bombers-terror-attack-.html|Daily Open: Who's steering oil now?
-1791163246|https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions|US Army unit deploys drone assembled completely in-house, uses 3D-printed 'Dragoon Bombs' with ball bearing shrapnel
 1791163251|https://lenta.ru/news/2026/10/05/burger-king-zakryl-restorany-v-odnom-rossiyskom-gorode/|«Бургер Кинг» закрыл рестораны в одном российском городе
 1791164172|https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss|Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings
 1791164179|https://www.japantimes.co.jp/business/2026/10/05/sam-altman-openai-benefit-risk/|OpenAI’s Altman says AI benefits warrant accepting some risks
@@ -1998,3 +1993,8 @@
 1791589913|https://lenta.ru/news/2026/10/10/sprognozirovany-posledstviya-soglasheniya-putina-i-trampa-dlya-rossii/|Спрогнозированы последствия соглашения Путина и Трампа для России
 1791589918|https://lenta.ru/news/2026/10/10/long-verbovat-inostrantsev-dlya-uchastiya-v-svo-chernogoriya-otpustila-avtora-telegram-kanala-rybar-on-raskryl-podrobnosti-doprosa/|«Вербовать иностранцев для участия в СВО». Черногория отпустила автора Telegram-канала «Рыбарь», он раскрыл подробности допроса
 1791589926|https://www.kommersant.ru/doc/9023645|Путин заявил Трампу, что Россия подумает о сроках возобновления переговоров с Украиной // Ушаков: Киев попытками помешать выборам в Госдуму сорвал возможность переговоров
+1791590507|https://www.aa.com.tr/en/americas/pentagons-livestreamed-execution-plan-sparks-fierce-backlash-across-political-divide/4084141|Pentagon's livestreamed execution plan sparks fierce backlash across political divide
+1791590515|https://www.kommersant.ru/doc/9023646|США и союзники обсудили завершение российско-украинского конфликта до зимы
+1791590519|https://tass.ru/mezhdunarodnaya-panorama/28200501|Reuters: на переговорах по Украине в США обсуждали архитектуру безопасности
+1791590523|https://tass.ru/ekonomika/28200461|В Нижегородской области льготные кредиты для АПК на 2027 год составят 1,4 млрд рублей
+1791590527|https://tass.ru/kultura/28200459|На Ставрополье представили спектакль "12" Никиты Михалкова
