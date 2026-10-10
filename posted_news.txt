@@ -1,8 +1,3 @@
-1791248489|https://www.japantimes.co.jp/business/2026/10/06/china-trade-superweapon-vanish/|The U.S. said China was priming a trade superweapon. Then it vanished.
-1791248495|https://www.japantimes.co.jp/culture/2026/10/06/music/beast-in-black-metal-manga-berserk/|A Finnish metal band riffs on dark fantasy manga ‘Berserk’
-1791248502|https://lenta.ru/news/2026/10/06/rossiyanam-nazvali-stimul-dlya-rozhdeniya-vtorogo-rebenka/|Россиянам назвали стимул для рождения второго ребенка
-1791248511|https://lenta.ru/news/2026/10/06/amerikanskiy-samolet-ischez-s-radarov-u-saudovskoy-aravii/|Американский самолет исчез с радаров у Саудовской Аравии
-1791249613|https://lenta.ru/news/2026/10/06/vyyavlena-skrytaya-prichina-povysheniya-arterialnogo-davleniya/|Выявлена скрытая причина повышения артериального давления
 1791249622|https://lenta.ru/news/2026/10/06/23-letnyaya-pevitsa-bez-byustgaltera-proshlas-po-ulitse-v-bluze-s-glubokim-dekolte/|23-летняя певица без бюстгальтера прошлась по улице в блузе с глубоким декольте
 1791249632|https://lenta.ru/news/2026/10/06/strannaya-nahodka-v-starom-sarae-pozabavila-polzovateley-seti/|Странная находка в старом сарае позабавила пользователей сети
 1791249636|https://www.kommersant.ru/doc/9006922|Стубб: новый миропорядок сформируется к 2030 году
@@ -1998,3 +1993,8 @@
 1791658618|https://lenta.ru/news/2026/10/10/spetspredstavitel-putina-nameknul-na-konets-igry-dlya-zelenskogo/|Спецпредставитель Путина намекнул на «конец игры» для Зеленского
 1791658623|https://www.kommersant.ru/doc/9023854|Правительство частично сняло запрет на экспорт дизеля
 1791658627|https://tass.ru/ekonomika/28202241|В аэропортах Пензы и Саратова ввели временные ограничения
+1791659336|https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss|Trump calls for new president in Ukraine
+1791659345|https://lenta.ru/news/2026/10/10/pushilin-rasskazal-o-pervyh-uchastnikah-spetsprogrammy-pereseleniya/|Пушилин рассказал о первых участниках спецпрограммы переселения
+1791659353|https://lenta.ru/news/2026/10/10/zaharova-provela-parallel-mezhdu-gniyuschey-ryboy-i-kallas/|Захарова провела параллель между воняющей рыбой и Каллас
+1791659358|https://lenta.ru/news/2026/10/10/gilyazova-pobedila-na-kubke-mira-po-plavaniyu/|Гилязова победила на Кубке мира по плаванию
+1791659363|https://lenta.ru/news/2026/10/10/inter-razgromil-parmu-v-serii-a/|«Интер» разгромил «Парму» в Серии А
