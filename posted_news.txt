@@ -1,8 +1,3 @@
-1791254715|https://www.japantimes.co.jp/news/2026/10/06/japan/fukushima-futaba-town-evacuation-order-lift/|Evacuation order to be partially lifted in Fukushima town
-1791254723|https://lenta.ru/news/2026/10/06/rossiyskiy-haker-poluchil-dostup-k-dokumentam-vsu/|Российский хакер получил доступ к документам ВСУ
-1791254727|https://lenta.ru/news/2026/10/06/dva-avtobrenda-ulichili-v-samoy-chastoy-peredache-lichnyh-dannyh-tretim-litsam/|Два автобренда уличили в самой частой передаче личных данных третьим лицам
-1791255486|https://www.japantimes.co.jp/news/2026/10/06/japan/japan-elderly-care-pets/|Elderly people find ways to keep living with pets
-1791255491|https://www.japantimes.co.jp/news/2026/10/06/world/cornell-students-rally/|Cornell students stage anti-rape rally in support of ‘Jane Doe’
 1791255496|https://lenta.ru/news/2026/10/06/rossiya-akademik-rasskazal-ob-opasnosti-novyh-shtammov-grippa/|Российский академик рассказал об опасности новых штаммов гриппа
 1791255501|https://lenta.ru/news/2026/10/06/husity-zahvatili-dom-glavy-yemena/|Хуситы захватили дом главы Йемена
 1791255505|https://lenta.ru/news/2026/10/06/rossiyanka-perechislila-dorogostoyaschie-oshibki-turistov-v-turtsii/|Россиянка перечислила дорогостоящие ошибки туристов в Турции
@@ -1998,3 +1993,8 @@
 1791664015|https://lenta.ru/news/2026/10/10/uchastvovavshie-v-peregovorah-v-mayami-ukrainskie-chinovniki-sravnili-ih-s-lovushkoy/|Участвовавшие в переговорах в Майами украинские чиновники сравнили их с ловушкой
 1791664020|https://lenta.ru/news/2026/10/10/na-peregovorah-v-mayami-vyskazalis-o-peredache-rossii-patriot-dlya-zaschity-npz/|На переговорах в Майами высказались о передаче России Patriot для защиты НПЗ
 1791664025|https://www.kommersant.ru/doc/9023860|В Федерации футбола Португалии выразили надежду на скорое возвращение Роналду
+1791664936|https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss|Rubio pledges US cooperation in Marine-linked murder case
+1791664942|https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss|Israeli attack destroys building in Gaza one year into ‘ceasefire’
+1791664950|https://lenta.ru/news/2026/10/10/golovin-otdal-dva-assista-v-matche-ligi-1-vpervye-s-2021-goda/|Головин отдал два ассиста в матче Лиги 1 впервые с 2021 года
+1791664958|https://lenta.ru/news/2026/10/10/fitso-prokommentiroval-dogovorennost-ssha-i-rossii-o-postavkah-topliva/|Фицо заявил о наивности руководства ЕС после договоренности Путина и Трампа
+1791664967|https://lenta.ru/news/2026/10/10/vlasti-prizvali-kievlyan-zapastis-vodoy-i-proviziey/|Власти призвали киевлян запастись водой и провизией
