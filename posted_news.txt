@@ -1,8 +1,3 @@
-1791175178|https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss|Russian lab worker dies of suspected plague in Siberia; US monitoring case
-1791175183|https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html|Russia hospitalizes almost 200 people after researcher's death from plague: reports
-1791175189|https://www.japantimes.co.jp/news/2026/10/05/japan/hiroshima-rural-schools-nationwide/|Hiroshima’s rural high schools attract students from across Japan
-1791175195|https://www.japantimes.co.jp/sports/2026/10/05/soccer/portugal-ronaldo-possible-return/|Portugal keeps door open for star Ronaldo to return
-1791177175|https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss|Watch: How Brazil's dramatic election unfolded
 1791177180|https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss|Trump unveils 'Super Intelligence Force' to oversee AI policy
 1791177186|https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html|The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances
 1791177192|https://www.euronews.com/2026/10/05/coral-reefs-are-bleaching-in-extreme-heat-could-underwater-umbrellas-save-them|Coral reefs are bleaching in extreme heat. Could underwater umbrellas save them?
@@ -1998,3 +1993,8 @@
 1791602946|https://lenta.ru/news/2026/10/10/terapevt-razveyal-odin-iz-glavnyh-mifov-pro-orvi/|Терапевт развеял один из главных мифов про ОРВИ
 1791602950|https://www.kommersant.ru/doc/9023654|Трамп: Нобелевская премия мира дискредитирована радикальными антидемократами
 1791602954|https://tass.ru/ekonomika/28200741|В аэропортах Котласа и Сыктывкара сняли временные ограничения
+1791603980|https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss|CCTV footage shows ICE shooting in New York
+1791603986|https://www.aa.com.tr/en/americas/trump-attacks-nobel-peace-prize-winner-as-liberal-person-who-nobody-has-ever-heard-of-/4084156|Trump attacks Nobel Peace Prize winner as 'liberal person … who nobody has ever heard of’
+1791603994|https://lenta.ru/news/2026/10/10/sobyanin-soobschil-ob-unichtozhenii-desyati-bespilotnikov-na-podlete-k-moskve/|Собянин сообщил об уничтожении десяти беспилотников на подлете к Москве
+1791603999|https://lenta.ru/news/2026/10/10/zheleznodorozhnyy-most-povrezhden-pri-atake-vsu-v/|Железнодорожный мост поврежден при атаке ВСУ в Ростовской области
+1791604003|https://lenta.ru/news/2026/10/09/nazvany-naibolee-populyarnye-oshibki-pri-razmorozke-produktov/|Названы наиболее популярные ошибки при разморозке продуктов
