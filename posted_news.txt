@@ -1,8 +1,3 @@
-1791169385|https://www.japantimes.co.jp/business/2026/10/05/economy/boj-deputy-chief-ai-neutral-rate/|BOJ’s deputy chief flags AI’s possible impact on neutral rate
-1791169390|https://lenta.ru/news/2026/10/05/byudzhetnye-poteri-ukrainy-iz-za-vzryvov-podschitali/|Бюджетные потери Украины из-за взрывов подсчитали
-1791169395|https://www.kommersant.ru/doc/9006070|США отчитались об ударе по катеру наркоторговцев в Карибском море
-1791169399|https://www.kommersant.ru/doc/9006069|Хакеры с помощью ИИ похитили клиентские данные в банках Южной Кореи
-1791170566|https://www.japantimes.co.jp/sports/2026/10/05/asian-games/south-korea-captain-asian-games/|South Korea soccer captain apologizes for gloating about military exemption
 1791170571|https://lenta.ru/news/2026/10/05/zhenschina-nachala-ispolzovat-slengovoe-slovo-iz-interneta-i-opozorilas-pered-blizkimi/|Женщина начала использовать сленговое слово из интернета и опозорилась перед близкими
 1791170576|https://lenta.ru/news/2026/10/05/raskryty-obyazannosti-ukrainy-pered-mvf-v-2026-godu/|Раскрыты обязанности Украины перед МВФ в 2026 году
 1791170581|https://lenta.ru/news/2026/10/05/26-letnyaya-koroleva-krasoty-popala-v-smertelnoe-dtp/|26-летняя королева красоты попала в смертельное ДТП
@@ -1998,3 +1993,8 @@
 1791598298|https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf|Trump weighs livestream execution amid bipartisan backlash
 1791598302|https://www.kommersant.ru/doc/9023652|Из-за урагана «Исайя» в США приостановили 63% нефтедобычи в Мексиканском заливе
 1791598310|https://www.kommersant.ru/doc/9023650|При ударах беспилотников по Ростову-на-Дону произошел пожар
+1791599322|https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf|Mexico: Court finds three men guilty of murder of Australian, US surfers
+1791599326|https://lenta.ru/news/2026/10/10/pravnuka-leonida-brezhneva-ob-yavili-v-rozysk/|Правнука Леонида Брежнева объявили в розыск
+1791599335|https://www.kommersant.ru/doc/9023647|FT: Украина продолжит бить по российским НПЗ даже после дизельной сделки с США
+1791599339|https://tass.ru/proisshestviya/28200667|На Камчатке подросток без прав разбился на мотоцикле
+1791599343|https://tass.ru/obschestvo/28200665|Формат "Школьного телевидения" адаптируют под привычки детей
