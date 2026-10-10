@@ -1,8 +1,3 @@
-1791226064|https://www.gamespot.com/articles/why-gta-studio-co-founder-is-avoiding-gta-6-and-all-open-world-games/|Why GTA Studio Co-Founder Is Avoiding GTA 6–And All Open-World Games
-1791226071|https://www.eurogamer.net/sword-sage-awakening-gamescom-preview|Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued
-1791226078|https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc|Noematica is a lucid dreamer's "n-dimensional" take on The Sims that proudly boasts it will never ever gouge you for DLC
-1791226085|https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer|Claims that genAI speeds up PC ports of classic games are either "false" or missing the point, says Banjo Kazooie: Recompiled developer
-1791227409|https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss|UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate
 1791227416|https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss|Mecca alliance agrees to activate collective deterrence measures
 1791227422|https://www.aljazeera.com/news/2026/10/5/what-is-herods-pool-and-why-is-israel-developing-it-in-the-west-bank?traffic_source=rss|What is ‘Herod’s Pool’, and why is Israel developing it in the West Bank?
 1791227429|https://www.france24.com/en/tv-shows/the-debate/20261005-return-of-the-bolsonaros-why-the-far-right-surge-in-brazilian-elections|Return of the Bolsonaros: Why the far-right surge in Brazilian elections?
@@ -1998,3 +1993,8 @@
 1791644344|https://lenta.ru/news/2026/10/10/mistake/|Европа раскритиковала договоренность Трампа с Путиным по дизелю
 1791644349|https://lenta.ru/news/2026/10/10/v-ssha-proizoshla-strelba-s-mnogochislennymi-zhertvami/|В США произошла стрельба с многочисленными жертвами
 1791644354|https://lenta.ru/news/2026/10/10/borodin-zavoeval-serebro-na-kubke-mira-v-tashkente/|Бородин завоевал серебро на Кубке мира в Ташкенте
+1791645093|https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss|Woman injures three people in third Poland school knife attack in a week
+1791645103|https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-rdf|Blast reported at Saudi Arabia's Riyadh airport
+1791645111|https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more|This week on Tom's Hardware Premium: October 10, 2026
+1791645119|https://lenta.ru/news/2026/10/10/v-rossii-podtverdili-skoryy-vizit-uitkoffa-i-kushnera/|В России подтвердили скорый визит Уиткоффа и Кушнера
+1791645128|https://lenta.ru/news/2026/10/10/aksiya/|В Польше устроили акцию протеста из-за расправы украинца над священником
