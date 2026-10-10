@@ -1,8 +1,3 @@
-1791242068|https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html|Nokia CEO says data centers would be built '2x faster' without supply constraints
-1791242076|https://www.tomshardware.com/pc-components/nvidia-rtx-5060-ti-gaming-pc-hits-usd999-with-8-core-ryzen-cpu-16gb-ram-and-1tb-pcie-4-0-ssd-usd600-instant-savings-on-a-complete-1080p-powerhouse|Nvidia RTX 5060 Ti gaming PC hits $999 with 8-core Ryzen CPU, 16GB RAM, and 1TB PCIe 4.0 SSD — $600 instant savings on a complete 1080p powerhouse
-1791242082|https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-drops-to-gbp354-99-all-time-low-to-defy-the-ai-tax-pocket-gbp65-in-savings-across-these-retailers|Nintendo Switch 2 drops to £354.99 all-time low to defy the AI tax — pocket £65 in savings across these retailers
-1791242090|https://www.tomshardware.com/laptops/macbooks/amazons-prime-big-deal-day-sales-have-big-savings-on-macbooks-and-mac-minis-up-to-usd600-in-savings-on-apple-hardware|Snag an Apple MacBook or Mac Mini with these Amazon Prime Big Deal Days deals that can save you up to $600
-1791242876|https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html|Russian gold floods Hong Kong as Western sanctions redraw bullion trade
 1791242884|https://www.ign.com/articles/hideo-kojima-says-youll-see-him-cameo-in-a-big-live-action-movie-but-which-one-is-it|Hideo Kojima Says You'll See Him Cameo in a 'Big' Live-Action Movie — But Which One Is It?
 1791242890|https://www.tomshardware.com/networking/routers/grab-this-usd79-98-tp-link-wireless-router-with-wi-fi-7-support-at-its-lowest-ever-price-33-percent-discount-on-archer-be3600-delivers-multi-gigabit-speeds-for-lag-free-streaming-and-gaming|Grab this $79.98 TP-Link wireless router with Wi-Fi 7 support at its lowest ever price
 1791242898|https://www.tomshardware.com/laptops/ultrabooks-ultraportables/intels-googlebooks-might-not-run-some-android-apps-as-well-as-qualcomms-google-says-this-is-because-android-apps-were-designed-for-arm-chips|Intel's Googlebooks might not run some Android apps as well as Qualcomm's
@@ -1998,3 +1993,8 @@
 1791652539|https://lenta.ru/news/2026/10/10/tramp-prizval-zelenskogo-ostanovitsya/|Трамп призвал Зеленского остановиться
 1791652544|https://lenta.ru/news/2026/10/10/zelenskomu-ukazali-na-zabluzhdeniya-o-pvo/|Зеленскому указали на заблуждения о ПВО
 1791652553|https://www.kommersant.ru/doc/9023842|Трамп: Украине нужен новый президент
+1791653378|https://lenta.ru/news/2026/10/10/shesterkin-vybyl-do-kontsa-sezona/|Шестеркин выбыл до конца сезона
+1791653387|https://lenta.ru/news/2026/10/10/aston-villa-i-brentford-sygrali-vnichyu-v-apl/|«Астон Вилла» и «Брентфорд» сыграли вничью в АПЛ
+1791653395|https://lenta.ru/news/2026/10/10/chelsi-razgromil-bornmut-v-matche-apl/|«Челси» разгромил «Борнмут» в матче АПЛ
+1791653400|https://www.kommersant.ru/doc/9023839|Минобороны России отчиталось об ударе по дата-центру «АТМ Укрсиббанка» в Киеве
+1791653405|https://www.kommersant.ru/doc/9023837|В Индии задержали лидера «Партии тараканов»
