@@ -1,8 +1,3 @@
-1791244243|https://lenta.ru/news/2026/10/06/v-mid-raskritikovali-zelenuyu-povestku-es/|В МИД раскритиковали зеленую повестку ЕС
-1791244247|https://lenta.ru/news/2026/10/06/minoborony-rossii-zayavilo-o-sodeystvii-rassledovaniyu-dela-gendirektora-parka-patriot/|Минобороны России заявило о содействии расследованию дела гендиректора парка «Патриот»
-1791244252|https://www.kommersant.ru/doc/9006921|Вблизи Москвы сбиты 13 беспилотников
-1791244260|https://www.kommersant.ru/doc/9006920|Все четыре аэропорта Москвы приостановили работу
-1791244817|https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss|What’s happening in Ethiopia?
 1791244825|https://www.aa.com.tr/en/middle-east/uk-says-raf-fairford-base-safe-after-us-withdrawal-of-bombers/4079104|UK says RAF Fairford base 'safe' after US withdrawal of bombers
 1791244833|https://lenta.ru/news/2026/10/06/rossiyan-predupredili-ob-aktivnosti-medvedey-pered-spyachkoy/|Россиян предупредили об активности медведей перед спячкой
 1791244838|https://lenta.ru/news/2026/10/06/iz-frantsuzskogo-muzeya-ukrali-odnu-iz-samyh-dorogih-knig-v-mire/|Из французского музея украли одну из самых дорогих книг в мире
@@ -1998,3 +1993,8 @@
 1791654919|https://lenta.ru/news/2026/10/10/tramp-zhestko-vyskazalsya-o-laureate-nobelevskoy-premii-mira/|Трамп жестко высказался о лауреате Нобелевской премии мира
 1791654924|https://lenta.ru/news/2026/10/10/rianna-snyalas-s-detmi-v-odinakovyh-obrazah/|Рианна снялась с детьми в одинаковых образах
 1791654929|https://lenta.ru/news/2026/10/10/spetspredstavitel-putina-prokommentiroval-zayavlenie-trampa-o-zelenskom/|Спецпредставитель Путина прокомментировал заявление Трампа о Зеленском
+1791655459|https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss|Nine killed in shooting in US state of Pennsylvania, including two children
+1791655466|https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss|Pope says death penalty ‘inadmissible’ as US plans to livestream execution
+1791655472|https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss|Video shows rare albino Asian black bear
+1791655479|https://lenta.ru/news/2026/10/10/fetisov-otsenil-slova-trampa-ob-ovechkine/|Фетисов оценил слова Трампа об Овечкине
+1791655489|https://lenta.ru/news/2026/10/10/zelenskiy-popytalsya-zaruchitsya-podderzhkoy-evropy-na-fone-zayavleniy-trampa/|Зеленский обзвонил европейцев после дизельной сделки Путина и Трампа
