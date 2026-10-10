@@ -1,8 +1,3 @@
-1791265788|https://lenta.ru/news/2026/10/06/rossiyskiy-voennyy-rasskazal-ob-opredelenii-pozitsiy-vsu-po-zapahu-gotovyaschegosya-shashlyka/|Российский военный рассказал об определении позиций ВСУ по запаху готовящегося шашлыка
-1791265796|https://lenta.ru/news/2026/10/06/drug-usoltsevyh-sdelal-zayavlenie-o-mestonahozhdenii-semi/|Исследователь сделал заявление о местонахождении семьи Усольцевых
-1791265803|https://lenta.ru/news/2026/10/06/mirovye-tseny-na-zoloto-upali-do-minimuma/|Мировые цены на золото упали до минимума
-1791266453|https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss|Widowed twice: A Gaza mother’s story of loss and survival
-1791266460|https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool?traffic_source=rss|Erling Haaland faces injury scare ahead of Man City vs Liverpool
 1791266468|https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html|How quant funds beat the market by being 'early, contrarian and right'
 1791266477|https://lenta.ru/news/2026/10/06/v-rossii-nazvali-tsel-ataki-vsu-na-moskovskuyu-oblast/|В России назвали цель атаки ВСУ на Московскую область
 1791266483|https://lenta.ru/news/2026/10/06/v-podpolie-raskryli-pomosch-zhiteley-ukrainy-armii-rossii/|В подполье раскрыли помощь жителей Украины армии России
@@ -1998,3 +1993,8 @@
 1791673574|https://www.kommersant.ru/doc/9023868|Каллас раскритиковала дизельную сделку России и США и анонсировала новые санкции
 1791673578|https://tass.ru/armiya-i-opk/28202485|Марочко ожидает ослабления ВСУ после уничтожения ВС РФ моста через Оскол
 1791673582|https://www.vedomosti.ru/politics/news/2026/10/10/1236038-dva-cheloveka-pogibli|NYT: два человека погибли из-за урагана «Исайяс» в США
+1791674480|https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-all-1573-rdf|Storm Isaias leaves 4 dead as it moves across southern US
+1791674484|https://lenta.ru/news/2026/10/11/polsha-podnyala-voennuyu-aviatsiyu-yakoby-iz-za-rossii/|Польша испугалась России и подняла военную авиацию
+1791674490|https://lenta.ru/news/2026/10/11/v-rossii-ob-yasnili-prizyv-trampa-smenit-zelenskogo/|В России объяснили призыв Трампа сменить Зеленского
+1791674494|https://tass.ru/obschestvo/28202495|Миронов призвал расширить перечень продуктов для мониторинга цен
+1791674498|https://tass.ru/mezhdunarodnaya-panorama/28202501|Атака на аэропорт в Эр-Рияде была совершена хуситами
