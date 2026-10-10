@@ -1,8 +1,3 @@
-1791180274|https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election|Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election
-1791180280|https://www.japantimes.co.jp/sports/2026/10/05/baseball/braves-win-even-nlds/|Braves bounce back with victory to pull even in NLDS against Dodgers
-1791180285|https://www.japantimes.co.jp/news/2026/10/05/japan/miyagi-onagawa-music-town/|Instrument seller works to make disaster-hit town in Miyagi a music hub
-1791180291|https://www.japantimes.co.jp/sports/2026/10/05/more-sports/nfl-patriots-top-bills/|Drake Maye has big day as Patriots beat Bills
-1791181966|https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss|Djokovic defeats top seed Zverev to reach China Open semifinals
 1791181972|https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf|Yemen launches major military operation against Houthis
 1791181979|https://www.cnbc.com/2026/10/05/daily-open-euro-spain-election-france-budget.html|CNBC Daily Open: America sneezes, Europe starts to catch the cold
 1791181986|https://www.euronews.com/2026/10/05/crete-plateau-deluged-with-440mm-of-rain-in-two-days|Five days of intense rainfall leave trail of destruction across Crete
@@ -1998,3 +1993,8 @@
 1791606802|https://lenta.ru/news/2026/10/09/obsluzhivavshiy-matchi-chm-2026-sudya-rasskazal-o-svoey-rabote-v-avtomasterskoy/|Обслуживавший матчи ЧМ-2026 судья рассказал о своей работе в автомастерской
 1791606806|https://lenta.ru/news/2026/10/10/vo-frantsii-dali-rezkiy-sovet-o-zelenskom/|Во Франции дали резкий совет о Зеленском
 1791606811|https://lenta.ru/news/2026/10/10/kolumbiyskie-naemniki-otkazalis-idti-na-shturm-pod-harkovom/|Колумбийские наемники отказались идти на штурм под Харьковом
+1791607896|https://www.aa.com.tr/en/europe/following-houthi-attacks-europes-aviation-safety-body-expands-saudi-airspace-warning/4084161|Following Houthi attacks, Europe's aviation safety ‌body expands Saudi airspace warning
+1791607901|https://lenta.ru/news/2026/10/10/long-vsu-atakovali-rostovskuyu-oblast-povrezhden-zheleznodorozhnyy-most-i-zhilye-doma-dvizhenie-poezdov-ostanovleno/|ВСУ атаковали Ростовскую область. Поврежден железнодорожный мост и жилые дома, движение поездов остановлено
+1791607906|https://lenta.ru/news/2026/10/10/bpla-popal-v-mnogoetazhku-rostovskogo-zhk/|БПЛА попал в многоэтажку ростовского ЖК
+1791607915|https://www.kommersant.ru/doc/9023661|В Мытищах произошло три аварии на одном участке шоссе, один человек погиб // При аварии на Дмитровском шоссе в Мытищах погиб человек
+1791607919|https://www.kommersant.ru/doc/9023660|Главные новости к утру 10 октября // Путин договорился с Трампом о поставках российского дизеля в США
