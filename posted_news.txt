@@ -1,8 +1,3 @@
-1791186916|https://www.japantimes.co.jp/business/2026/10/05/companies/honda-india-strategy-hybrids-shift/|Cost pressures and deadlock force Honda to rework India strategy, sources say
-1791186923|https://www.japantimes.co.jp/business/2026/10/05/companies/daiwa-securities-clients-info-stolen/|Daiwa Securities says info on 110,000 clients may have been leaked
-1791186930|https://www.japantimes.co.jp/news/2026/10/05/japan/hokkaido-top-prefecture-ranking/|Hokkaido ranked most attractive prefecture for 18th year in a row
-1791186938|https://www.japantimes.co.jp/news/2026/10/05/japan/crime-legal/okinawa-murder-us-marine-arrest-japan-protest/|Takaichi mentions Okinawa murder in parliament speech as U.S. military weighs response
-1791187666|https://www.euronews.com/2026/10/05/nobel-prize-2026-kicks-off-who-will-win-the-medicine-award|Nobel Prize 2026 kicks off: Who will win the medicine award?
 1791187671|https://www.japantimes.co.jp/commentary/2026/10/05/japan/japan-wants-pharma-boom/|Japan wants a pharma boom. It needs a new strategy.
 1791187677|https://www.japantimes.co.jp/commentary/2026/10/05/world/ai-world-war/|Preventing artificial intelligence from triggering a world war
 1791187684|https://www.aa.com.tr/en/europe/spain-s-sanchez-calls-early-elections-after-housing-measures-rejected/4078089|Spain’s Sanchez calls early elections after housing measures rejected
@@ -1998,3 +1993,8 @@
 1791611413|https://www.japantimes.co.jp/news/2026/10/10/japan/politics/japan-us-icc-takaichi-trump/|Takaichi again in a bind as U.S. threatens to ‘end’ ICC
 1791611418|https://lenta.ru/news/2026/10/10/britanskaya-armiya-stolknulas-s-neobychnoy-problemoy/|Британская армия столкнулась с необычной проблемой
 1791611424|https://lenta.ru/news/2026/10/10/putin-dogovorilsya-s-trampom-o-prodolzhenii-sotrudnichestva-spetssluzhb/|Путин договорился с Трампом о продолжении сотрудничества спецслужб
+1791612047|https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss|US hosts ‘productive’ trilateral talks to end Russia-Ukraine war
+1791612053|https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss|Israel’s economy prospers despite years of war, but prices worry voters
+1791612062|https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf|India's 'Cockroach' leaders detained ahead of major protest
+1791612071|https://lenta.ru/news/2026/10/10/shest-chelovek-postradali-pri-atake-vsu-na-rostovskuyu-oblast/|Шесть человек пострадали при атаке ВСУ на Ростовскую область
+1791612080|https://lenta.ru/news/2026/10/10/vrach-posovetovala-ubrat-dva-produkta-iz-ratsiona-pri-grippe/|Врач посоветовала убрать несколько продуктов из рациона при гриппе
