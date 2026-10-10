@@ -1,8 +1,3 @@
-1791215067|https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss|Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge
-1791215073|https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss|What happened between Ireland and Israel in their Nations League match?
-1791215078|https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss|A drive through the West Bank
-1791215083|https://www.france24.com/en/video/20261005-yemen-government-forces-announce-offensive-on-houthi-held-territory|Yemen government forces announce offensive on Houthi-held territory
-1791216002|https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-all-1573-rdf|Ukraine says Russian drones behind Turkish ship sinking
 1791216009|https://www.france24.com/en/video/20261005-isis-suspects-face-outsourced-justice-in-iraq-as-hrw-warns-of-collective-global-detention-crisis-1|ISIS suspects face 'outsourced' justice in Iraq as HRW warns of 'collective global detention crisis'
 1791216017|https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html|Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?
 1791216025|https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html|Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged
@@ -1998,3 +1993,8 @@
 1791634570|https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027|🔴 Palestinian president Abbas postpones legislative elections, sets presidential poll for September 2027
 1791634578|https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost|Russian modder slaps DLSS 5 onto Pac-Man with 4x Multipass
 1791634586|https://lenta.ru/news/2026/10/10/obstanovka-v-kievskom-metro-posle-ostanovki-popala-na-video/|Обстановка в киевском метро после остановки попала на видео
+1791635850|https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss|Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’
+1791635856|https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss|Why is US turning to Russia for diesel despite sanctions?
+1791635863|https://www.ign.com/articles/call-of-duty-modern-warfare-story-recap|Call of Duty: Modern Warfare Story Recap – What You Need To Know Ahead of MW4
+1791635870|https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship|Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs
+1791635879|https://lenta.ru/news/2026/10/10/federatsiya-futbola-portugalii-otstranila-ronaldu-ot-vystupleniy-za-sbornuyu/|Федерация футбола Португалии отстранила Роналду от выступлений за сборную
