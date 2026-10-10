@@ -1,8 +1,3 @@
-1791262214|https://www.euronews.com/2026/10/06/quebec-separatists-vow-independence-referendum-after-winning-local-elections-but-falling-s|Quebec separatists vow independence referendum after winning local elections but falling short of majority
-1791262219|https://www.japantimes.co.jp/news/2026/10/06/japan/science-health/madical-research-crowdfunding/|As state funding stalls, medical researchers in Japan pivot to crowdfunding
-1791262225|https://www.japantimes.co.jp/business/2026/10/06/companies/nidec-accounting-scandal-bonds-plunge/|Nidec scandal sends bonds to bottom in test for new CEO
-1791262883|https://www.japantimes.co.jp/business/2026/10/06/japan-australia-finance-chiefs-dialogue/|Finance chiefs of Japan and Australia establish dialogue for economic security
-1791262889|https://www.aa.com.tr/en/asia-pacific/malaysia-has-repatriated-10-000-myanmar-detainees-since-january-prime-minister/4079131|Malaysia has repatriated 10,000 Myanmar detainees since January: Prime minister
 1791262898|https://lenta.ru/news/2026/10/06/zamorozivshaya-zazhivo-mladentsa-rossiyanka-poluchila-srok/|Заморозившая заживо младенца россиянка получила срок
 1791262903|https://lenta.ru/news/2026/10/06/v-rossii-nazvali-krupneyshie-mestorozhdeniya-platiny/|В России назвали крупнейшие месторождения платины
 1791262909|https://lenta.ru/news/2026/10/06/vblizi-moskvy-sbili-esche-19-bespilotnikov/|Вблизи Москвы сбили 19 беспилотников
@@ -1998,3 +1993,8 @@
 1791670428|https://tass.ru/sport/28202465|Игрок "Нью-Джерси" Грицюк набрал первое очко в сезоне НХЛ
 1791670431|https://tass.ru/ekonomika/28202457|Аэропорт Волгограда приостановил прием и выпуск самолетов
 1791670435|https://tass.ru/armiya-i-opk/28202455|Марочко назвал самые успешные участки для ВС РФ в Сумской области
+1791671353|https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss|Yemeni government’s military says its forces advancing against Houthis
+1791671357|https://www.kommersant.ru/doc/9023867|При ударе по аэропорту Эр-Рияда погибли 12 человек, 309 пострадали // При ударе по аэропорту в Эр-Рияде погибли 12 человек
+1791671361|https://tass.ru/proisshestviya/28202475|UKMTO сообщил о попадании снаряда в танкер в Ормузском проливе
+1791671365|https://tass.ru/obschestvo/28202471|Путин поздравил аграриев с профессиональным праздником
+1791671368|https://tass.ru/ekonomika/28202469|В ФТС рассказали, какие цветы ввозили в Россию чаще всего
