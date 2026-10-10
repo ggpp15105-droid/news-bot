@@ -1,8 +1,3 @@
-1791205962|https://www.france24.com/en/video/20261005-trump-heads-to-nebraska-as-republicans-fear-strongholds-could-flip|Trump heads to Nebraska as Republicans fear strongholds could flip
-1791205968|https://www.france24.com/en/video/20261005-france-high-school-protests-can-the-government-regain-control|France high school protests: Can the government regain control?
-1791205974|https://www.france24.com/en/video/20261005-japan-bids-farewell-to-asian-games-after-fortnight-of-turmoil-and-records|Japan bids farewell to Asian Games after fortnight of turmoil and records
-1791205980|https://www.france24.com/en/video/20261005-us-bombers-leave-uk-air-base-amid-new-threats-what-we-know-so-far|US bombers leave UK air base amid 'new threats': What we know so far
-1791207347|https://www.france24.com/en/video/20261005-ethiopian-govt-retakes-tigray-capital-as-rebels-pull-out|Ethiopian govt retakes Tigray capital as rebels pull out
 1791207353|https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html|GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'
 1791207359|https://www.euronews.com/2026/10/05/vat-rise-canal-threatens-to-scale-back-support-for-cinema|VAT rise: Canal+ threatens to scale back support for cinema
 1791207365|https://www.euronews.com/video/2026/10/05/thousands-of-pilgrims-make-overnight-journey-to-lujan-ahead-of-pope-leos-visit|Thousands of pilgrims make overnight journey to Luján ahead of Pope Leo’s visit
@@ -1998,3 +1993,8 @@
 1791628078|https://www.euronews.com/video/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread|Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread
 1791628087|https://lenta.ru/news/2026/10/10/razin-rasskazal-o-vosstanovlenii-posle-otstraneniya-v-metallurge/|Разин рассказал о восстановлении после отстранения в «Металлурге»
 1791628095|https://lenta.ru/news/2026/10/10/tretyak-otreagiroval-na-slova-trampa-ob-ovechkine/|Третьяк отреагировал на слова Трампа об Овечкине
+1791628823|https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss|Chile declares Las Condes disaster zone after mudslide
+1791628832|https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html|Isaias weakens to post-tropical cyclone after Florida landfall, NHC says
+1791628839|https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out|Ukrainian drones strike Russia's largest data center, multiple parts of 1.4 million square foot campus knocked offline
+1791628848|https://lenta.ru/news/2026/10/10/rospotrebnadzor-zapretil-vvoz-v-rossiyu-proizvedennoy-v-gruzii-koly/|Роспотребнадзор запретил ввоз в Россию произведенной в Грузии колы
+1791628853|https://lenta.ru/news/2026/10/10/40-letnyaya-ledi-gaga-pokazala-vneshnost-bez-makiyazha/|40-летняя Леди Гага показала внешность без макияжа
