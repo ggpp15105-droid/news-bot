@@ -1,8 +1,3 @@
-1791237444|https://www.france24.com/en/tv-shows/business/20261005-euro-falls-to-17-month-low-against-the-usd-on-french-debt-concerns|Euro falls to 17-month low against the USD on French debt concerns
-1791237451|https://www.france24.com/en/concerns-of-us-interference-weigh-on-brazil-vote|Concerns of US interference weigh on Brazil vote
-1791237456|https://www.france24.com/en/ethiopia-again-demands-access-to-the-red-sea|Ethiopia again demands access to the Red Sea
-1791237462|https://www.france24.com/en/france/20261005-indian-alleged-mastermind-of-online-child-abuse-ring-goes-on-trial-in-paris|Indian alleged mastermind of online child abuse ring goes on trial in Paris
-1791238170|https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html|'We had a threat': Trump explains U.S. moving long-range bombers from UK
 1791238176|https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html|House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty
 1791238184|https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html|SpaceX stock climbs to highest since June, returning Musk to trillionaire status
 1791238191|https://www.euronews.com/2026/10/05/romanian-president-signs-law-regulating-bear-population-cull|Romanian president signs law regulating bear population cull
@@ -1998,3 +1993,8 @@
 1791647709|https://www.france24.com/en/video/20261010-india-detains-thousands-locks-down-delhi-to-foil-election-chief-protest|India detains thousands, locks down Delhi to foil election chief protest
 1791647715|https://www.france24.com/en/video/20261010-death-penalty-why-are-executions-increasing-worldwide|Death penalty: Why are executions increasing worldwide?
 1791647720|https://www.france24.com/en/video/20261010-russian-attack-on-ukrainian-city-kills-15-a-day-after-trump-eases-diesel-sanctions-on-moscow|Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow
+1791648240|https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss|Hurricane Isaias leaves two dead and 800,000 without power in US Southeast
+1791648245|https://www.france24.com/en/sport/20261010-french-cycling-prodigy-seixas-claims-first-monument-victory-at-giro-di-lombardia|French cycling prodigy Seixas claims first Monument victory at Giro di Lombardia
+1791648251|https://www.france24.com/en/video/20261010-war-in-ukraine-russian-strikes-kill-15-including-a-young-girl|War in Ukraine: Russian strikes kill 15, including a young girl
+1791648258|https://www.euronews.com/2026/10/10/cristiano-ronaldo-suspended-by-portuguese-fa-for-leaving-training-camp|Cristiano Ronaldo suspended by Portuguese FA for leaving training camp
+1791648266|https://www.euronews.com/2026/10/10/evacuations-and-injuries-reported-at-riyadh-airport-after-another-alleged-houthi-attack|Evacuations and injuries reported at Riyadh airport after another alleged Houthi attack
