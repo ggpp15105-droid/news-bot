@@ -1,8 +1,3 @@
-1791171665|https://lenta.ru/news/2026/10/04/fitnes-ekspert-nazvala-sposob-priyti-v-formu-k-novomu-godu/|Фитнес-эксперт назвала способ прийти в форму к Новому году
-1791171671|https://lenta.ru/news/2026/10/01/rossiyan-nauchili-pravilno-izbavlyatsya-ot-stroitelnyh-othodov-embargo/|Россиян научили правильно избавляться от строительных отходов
-1791171680|https://lenta.ru/news/2026/10/05/mif-o-bezgramotnoy-molodezhi-oprovergli/|Миф о безграмотной молодежи опровергли
-1791171685|https://lenta.ru/news/2026/10/05/medved-zakryl-park-kultury-i-otdyha-v-rossiyskom-gorode/|Медведь закрыл парк культуры и отдыха в российском городе
-1791172759|https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet?traffic_source=rss|US coastguard suspends search for six on board crashed medical jet
 1791172765|https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-rdf|US: FBI arrests woman accused of spying for China
 1791172770|https://lenta.ru/news/2026/10/05/kievskie-vlasti-ulichili-v-soznatelnom-zamedlenii-vosstanovleniya-interneta/|Киевские власти уличили в сознательном замедлении восстановления интернета
 1791172774|https://lenta.ru/news/2026/10/05/dmitruk/|В Раде поддержали требование мира на митинге украинцев в центре Киева
@@ -1998,3 +1993,8 @@
 1791600312|https://lenta.ru/news/2026/10/10/vsu-sovershili-zverskoe-ubiystvo-v-harkovskoy-oblasti/|ВСУ совершили зверское убийство в Харьковской области
 1791600317|https://tass.ru/obschestvo/28200681|Жителей Аризоны обязали сообщать властям о всех случаях заболевания чумой
 1791600321|https://tass.ru/sport/28200677|Овечкин повторил антирекорд, не забив в четырех матчах со старта сезона НХЛ
+1791601086|https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss|Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink
+1791601091|https://www.aa.com.tr/en/turkiye/under-new-regulations-turkiye-bans-children-under-15-from-social-media/4084149|Under new regulations, Türkiye bans children under 15 from social media
+1791601095|https://tass.ru/ekonomika/28200685|Банк развития Латинской Америки выделил Панаме $250 тыс. после землетрясения
+1791601099|https://tass.ru/obschestvo/28200679|Раненая в Алешках пенсионерка сообщила о помощи погибшего от БПЛА отца 13 детей
+1791601103|https://tass.ru/ekonomika/28200673|В аэропортах Бугульмы, Нижнекамска, Саратова и Пензы сняли ограничения
