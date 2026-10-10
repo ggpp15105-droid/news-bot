@@ -1,8 +1,3 @@
-1791183509|https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html|Euro hits 17-month low as political uncertainty in Spain and France rattles markets
-1791183517|https://www.euronews.com/video/2026/10/05/spanish-police-remove-over-3000-migrants-from-ceuta-beach-camp|Spanish police remove over 3,000 migrants from Ceuta beach camp
-1791183524|https://www.euronews.com/2026/10/05/merz-and-mathernova-send-a-message-to-moscow-from-kyiv|Merz and Mathernová send a message to Moscow from Kyiv
-1791183532|https://www.euronews.com/2026/10/05/social-reckonings-and-90s-nostalgia-the-best-things-to-do-hear-see-or-watch-in-europe-this|Social reckonings and 90s nostalgia: The best things to do, hear, see or watch in Europe this week
-1791184650|https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-rdf|Spanish Prime Minister Pedro Sanchez calls snap election
 1791184656|https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls|Family members of jailed ex-president Jair Bolsonaro win big in multiple Brazil polls
 1791184664|https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees|Pedro Sánchez calls early elections in Spain after defeat of housing decrees
 1791184669|https://www.euronews.com/2026/10/05/glastonbury-2027-tickets-sell-out-in-42-minutes-with-line-up-still-unannounced|Glastonbury 2027 tickets sell out in 42 minutes – with line-up still unannounced
@@ -1998,3 +1993,8 @@
 1791608554|https://www.aa.com.tr/en/eurasia/azerbaijan-iran-presidents-stress-continued-implementation-of-deals-reached-at-shanghai-cooperation-organization-summit/4084163|Azerbaijan, Iran presidents stress continued implementation of deals reached at Shanghai Cooperation Organization summit
 1791608564|https://lenta.ru/news/2026/10/10/ginekolog-nazvala-sposoby-uvelichit-shansy-na-zachatie-posle-40-let/|Гинеколог назвала способы увеличить шансы на зачатие после 40 лет
 1791608568|https://tass.ru/proisshestviya/28200823|Полет попавшего в аварию в Забайкалье самолета был разрешен
+1791609568|https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss|US country music star Ella Langley cancels show due to 'security threat'
+1791609575|https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss|'Stain on the country': Trump criticises Norway over Nobel Peace Prize
+1791609581|https://www.euronews.com/2026/10/10/when-will-el-nino-peak-and-end-a-full-timeline-of-the-weather-phenomenon-taking-the-world-|When will El Niño peak and end? A full timeline of the weather phenomenon taking the world by storm
+1791609588|https://www.euronews.com/2026/10/10/which-europeans-post-the-most-holiday-selfies-study-reveals-travellers-social-media-habits|Which Europeans post the most holiday selfies? Study reveals travellers’ social media habits
+1791609594|https://www.japantimes.co.jp/news/2026/10/10/asia-pacific/politics/taiwan-lai-increasing-defense-spending/|Taiwan’s leader says increasing defense spending to ‘deter war’
