@@ -1,8 +1,3 @@
-1791247459|https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss|Moroccan journalists recount years of surveillance amid new Amnesty claim
-1791247465|https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss|Police clash with Kosovo protesters over bid to curb Hague war crimes court
-1791247470|https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss|Trump officials pursue record number of cases to strip US citizenship
-1791247475|https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss|New York state declares measles disaster amid resurgence of disease in US
-1791248484|https://www.japantimes.co.jp/news/2026/10/06/world/science-health/siberia-plague-quarantine-russia/|Dozens quarantined in Siberia after plague institute lab worker dies
 1791248489|https://www.japantimes.co.jp/business/2026/10/06/china-trade-superweapon-vanish/|The U.S. said China was priming a trade superweapon. Then it vanished.
 1791248495|https://www.japantimes.co.jp/culture/2026/10/06/music/beast-in-black-metal-manga-berserk/|A Finnish metal band riffs on dark fantasy manga ‘Berserk’
 1791248502|https://lenta.ru/news/2026/10/06/rossiyanam-nazvali-stimul-dlya-rozhdeniya-vtorogo-rebenka/|Россиянам назвали стимул для рождения второго ребенка
@@ -1998,3 +1993,8 @@
 1791657753|https://lenta.ru/news/2026/10/10/miroshnik-otsenil-effekt-slov-trampa-o-zelenskom/|Мирошник оценил эффект слов Трампа о Зеленском
 1791657757|https://lenta.ru/news/2026/10/10/na-peregovorah-po-ukraine-v-mayami-obsudili-predlozheniya-po-territorii/|На переговорах по Украине в Майами обсудили предложения по территории
 1791657762|https://lenta.ru/news/2026/10/10/neftyanye-kompanii-rossii-nezamedlitelno-nachnut-postavlyat-dizel-za-rubezh/|Нефтяные компании России незамедлительно начнут поставлять дизель за рубеж
+1791658605|https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss|Palestinians still being killed in Gaza, one year into ‘ceasefire’
+1791658609|https://www.france24.com/en/tv-shows/spotlight/20261010-spotlight|SPOTLIGHT
+1791658618|https://lenta.ru/news/2026/10/10/spetspredstavitel-putina-nameknul-na-konets-igry-dlya-zelenskogo/|Спецпредставитель Путина намекнул на «конец игры» для Зеленского
+1791658623|https://www.kommersant.ru/doc/9023854|Правительство частично сняло запрет на экспорт дизеля
+1791658627|https://tass.ru/ekonomika/28202241|В аэропортах Пензы и Саратова ввели временные ограничения
