@@ -1,8 +1,3 @@
-1791193385|https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf|As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously
-1791193391|https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine/a-79544130?maca=en-rss-en-all-1573-rdf|German and US scientists win Nobel Prize in medicine
-1791193397|https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round|Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round
-1791193404|https://www.france24.com/en/tv-shows/a-week-in-france/20261005-schools-shuttered-as-student-protests-sweep-through-france|Schools shuttered as student protests sweep through France
-1791194327|https://www.france24.com/en/video/20261005-messi-set-for-final-emotional-farewell-in-argentina-send-off|Messi set for final emotional farewell in Argentina send-off
 1791194333|https://www.france24.com/en/video/20261005-us-withdraws-all-bombers-from-uk-base-at-centre-of-suspected-terror-attack|US withdraws all bombers from UK base at centre of suspected terror attack
 1791194337|https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel|🔴 Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel
 1791194342|https://www.france24.com/en/video/20261005-britain-s-green-party-votes-to-class-zionism-as-a-form-of-racism|Britain's Green Party votes to class Zionism as a form of racism
@@ -1998,3 +1993,8 @@
 1791617610|https://lenta.ru/news/2026/10/10/damba-zavershil-karieru-v-nhl-v-32-goda/|Дамба завершил карьеру в НХЛ в 32 года
 1791617615|https://lenta.ru/news/2026/10/10/ronaldu-zabil-980-y-myach-v-kariere-v-pervom-matche-posle-ot-ezda-iz-sbornoy-portugalii/|Роналду забил 980-й мяч в карьере в первом матче после отъезда из сборной Португалии
 1791617624|https://www.kommersant.ru/doc/9023710|Более 20 самолетов ушли в Пулково из-за ограничений в аэропортах Москвы
+1791618500|https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss|Ireland Catholic residents react to UK ban on Protestant march
+1791618505|https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss|Saudi-led coalition says it’s carrying out operation in Yemen
+1791618511|https://www.aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss|‘How can you stop these kids?’ Indian capital on lockdown before protests
+1791618517|https://www.euronews.com/2026/10/10/silent-killer-study-finds-most-with-high-blood-pressure-unaware|Silent killer: study finds most with high blood pressure unaware
+1791618522|https://lenta.ru/news/2026/10/10/v-moskve-zafiksirovali-temperaturnyy-rekord/|В Москве зафиксировали температурный рекорд
