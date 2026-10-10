@@ -1,8 +1,3 @@
-1791245802|https://lenta.ru/news/2026/10/06/stipendii-prizvali-podnyat-do-urovnya-mrot/|Стипендии призвали поднять до уровня МРОТ
-1791245810|https://lenta.ru/news/2026/10/06/na-podlete-k-moskve-sbili-pochti-40-bpla/|На подлете к Москве сбили почти 40 БПЛА
-1791245816|https://lenta.ru/news/2026/10/06/kitayskiy-istorik-sprognoziroval-obostrenie-konflikta-na-ukraine/|Китайский историк спрогнозировал обострение конфликта на Украине
-1791245821|https://lenta.ru/news/2026/10/06/long-my-im-pomozhem-nastolko-naskolko-vozmozhno-v-ssha-prokommentirovali-soobscheniya-o-vyyavlenii-infektsii-v-irkutskoy-oblasti-rossii/|«Мы им поможем настолько, насколько возможно». В США прокомментировали сообщения о выявлении инфекции в Иркутской области России
-1791247454|https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss|Syrian Airlines unveils laser-sharp look for the future
 1791247459|https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss|Moroccan journalists recount years of surveillance amid new Amnesty claim
 1791247465|https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss|Police clash with Kosovo protesters over bid to curb Hague war crimes court
 1791247470|https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss|Trump officials pursue record number of cases to strip US citizenship
@@ -1998,3 +1993,8 @@
 1791656628|https://www.kommersant.ru/doc/9023850|Вратарь «Рейнджерс» Шестеркин выбыл до конца сезона НХЛ из-за травмы
 1791656637|https://www.kommersant.ru/doc/9023847|КСИР сообщил о подрыве танкера в Ормузском проливе
 1791656646|https://www.kommersant.ru/doc/9023845|Саудовская Аравия приостановила работу аэропорта в Эр-Рияде
+1791657740|https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss|Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
+1791657748|https://lenta.ru/news/2026/10/10/zenit-pobedil-krasnodar-i-stal-liderom-rpl/|«Зенит» победил «Краснодар» и стал лидером РПЛ
+1791657753|https://lenta.ru/news/2026/10/10/miroshnik-otsenil-effekt-slov-trampa-o-zelenskom/|Мирошник оценил эффект слов Трампа о Зеленском
+1791657757|https://lenta.ru/news/2026/10/10/na-peregovorah-po-ukraine-v-mayami-obsudili-predlozheniya-po-territorii/|На переговорах по Украине в Майами обсудили предложения по территории
+1791657762|https://lenta.ru/news/2026/10/10/neftyanye-kompanii-rossii-nezamedlitelno-nachnut-postavlyat-dizel-za-rubezh/|Нефтяные компании России незамедлительно начнут поставлять дизель за рубеж
