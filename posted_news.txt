@@ -1,8 +1,3 @@
-1791211913|https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss|US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?
-1791211918|https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf|Euro plummets against US dollar: has the next crisis begun?
-1791211923|https://www.euronews.com/2026/10/05/germany-and-france-agree-new-trade-tool-to-counter-china|Germany and France agree new trade tool to counter China
-1791211929|https://www.euronews.com/2026/10/05/what-does-spains-snap-election-mean-for-the-european-politics|What does Spain's snap election mean for European politics?
-1791212737|https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-all-1573-rdf|Australia, New Zealand probe Flydubai pilot's time there
 1791212744|https://www.france24.com/en/tv-shows/down-to-earth/20261005-frenchwoman-buys-elephants-from-abusive-owners-in-laos|Frenchwoman buys elephants from abusive owners in Laos
 1791212749|https://www.france24.com/en/tv-shows/arts24/20261005-sulaf-and-late-again-on-uprooting-and-reconnecting-with-their-heritage|Sulaf and Late Again on uprooting and reconnecting with their heritage
 1791212757|https://www.euronews.com/2026/10/05/avengers-endgame-dethrones-avatar-once-more-as-highest-grossing-movie-in-history|‘Avengers: Endgame’ dethrones 'Avatar' once more as highest-grossing movie in history
@@ -1998,3 +1993,8 @@
 1791632015|https://www.dw.com/en/indian-police-crack-down-on-cockroach-protesters-in-delhi/live-79624339?maca=en-rss-en-all-1573-rdf|Indian police crack down on 'Cockroach' protesters in Delhi
 1791632021|https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer|Arc Raiders could eventually be split into PvE and PvP, says executive producer
 1791632031|https://lenta.ru/news/2026/10/10/psihoterapevt-posovetovala-rossiyanam-lenitsya/|Психотерапевт посоветовала россиянам лениться
+1791632882|https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting|Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game
+1791632889|https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off|AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC
+1791632898|https://lenta.ru/news/2026/10/10/belorussiya-zapretila-prodazhu-odnogo-iz-chaev-greenfield/|Белоруссия запретила продажу популярного в России чая
+1791632903|https://lenta.ru/news/2026/10/10/v-kieve-nachalis-pereboi-s-vodoy/|В Киеве начались перебои с водой
+1791632907|https://lenta.ru/news/2026/10/10/kamale-harris-zapretili-ballotirovatsya-v-prezidenty/|Камале Харрис запретили баллотироваться в президенты
