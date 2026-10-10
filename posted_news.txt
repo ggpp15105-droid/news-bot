@@ -1,8 +1,3 @@
-1791168717|https://www.japantimes.co.jp/news/2026/10/05/japan/japan-mayor-reelect-nuclear-fuel-facility-push/|Mayor pushing for spent nuclear-fuel facility reelected in Yamaguchi
-1791168724|https://www.japantimes.co.jp/news/2026/10/05/japan/north-korea-abductee-megumi-yokota-birthday/|On daughter’s birthday, mother of abductee Megumi Yokota prays for reunion
-1791168733|https://lenta.ru/news/2026/10/05/stalo-izvestno-o-nezhelanii-polyakov-prinimat-bezhentsev-s-ukrainy/|Стало известно о нежелании поляков принимать беженцев с Украины
-1791168741|https://lenta.ru/news/2026/10/05/politolog-nazval-prichastnogo-k-popadaniyu-es-i-frg-v-tupik/|Политолог назвал причастного к попаданию ЕС и ФРГ в тупик
-1791169378|https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss|Spitting allegations as Ireland and Israel fight out ill-tempered draw
 1791169385|https://www.japantimes.co.jp/business/2026/10/05/economy/boj-deputy-chief-ai-neutral-rate/|BOJ’s deputy chief flags AI’s possible impact on neutral rate
 1791169390|https://lenta.ru/news/2026/10/05/byudzhetnye-poteri-ukrainy-iz-za-vzryvov-podschitali/|Бюджетные потери Украины из-за взрывов подсчитали
 1791169395|https://www.kommersant.ru/doc/9006070|США отчитались об ударе по катеру наркоторговцев в Карибском море
@@ -1998,3 +1993,8 @@
 1791597514|https://www.japantimes.co.jp/news/2026/10/10/asia-pacific/politics/us-sanctions-myanmar-businessman/|U.S. lifts sanctions on daughter of Myanmar military-linked businessman
 1791597523|https://lenta.ru/news/2026/10/10/v-germanii-ispugalis-tupika-mertsa/|В Германии испугались «тупика Мерца»
 1791597532|https://lenta.ru/news/2026/10/10/ginekolog-rasskazala-o-vliyanii-antidepressantov-na-libido/|Влияние антидепрессантов на либидо оценили
+1791598286|https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss|Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks
+1791598292|https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf|Hurricane Isaias makes landfall in Florida
+1791598298|https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf|Trump weighs livestream execution amid bipartisan backlash
+1791598302|https://www.kommersant.ru/doc/9023652|Из-за урагана «Исайя» в США приостановили 63% нефтедобычи в Мексиканском заливе
+1791598310|https://www.kommersant.ru/doc/9023650|При ударах беспилотников по Ростову-на-Дону произошел пожар
