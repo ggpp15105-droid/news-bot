@@ -1,8 +1,3 @@
-1791218139|https://www.aljazeera.com/video/newsfeed/2026/10/5/rohingya-activist-says-its-unfair-to-send-refugees-back-to-myanmar?traffic_source=rss|Rohingya activist says it’s unfair to send refugees back to Myanmar
-1791218146|https://www.aljazeera.com/sports/2026/10/5/medvedev-disqualified-from-china-open-for-hitting-fan-with-a-ball?traffic_source=rss|Medvedev disqualified from China Open for hitting fan with a ball
-1791218152|https://www.euronews.com/2026/10/05/sao-paulo-stock-exchange-soars-as-flavio-bolsonaro-takes-the-lead|São Paulo stock exchange soars as Flávio Bolsonaro takes the lead
-1791218160|https://www.euronews.com/2026/10/05/when-growth-is-not-enough-housing-and-inflation-sanchezs-key-election-challenges|When growth is not enough: housing and inflation, Sánchez's key election challenges
-1791219174|https://www.aa.com.tr/en/turkiye/turkish-president-erdogan-receives-senior-spacex-executives-at-aeronautical-conference/4078832|Turkish President Erdogan receives senior SpaceX executives at aeronautical conference
 1791219180|https://www.aa.com.tr/en/middle-east/1-palestinian-killed-5-injured-in-israeli-army-occupier-attacks-in-west-bank/4078814|1 Palestinian killed, 5 injured in Israeli army, occupier attacks in West Bank
 1791219186|https://www.aa.com.tr/en/world/rubio-says-russian-biological-lab-incident-not-cause-for-alarm-affirms-us-monitoring/4078741|Rubio says Russian biological lab incident not ‘cause for alarm,’ affirms US monitoring
 1791219191|https://www.aa.com.tr/en/world/turkiye-pursuing-determined-goal-of-becoming-strong-respected-global-space-player-president-erdogan/4078715|Türkiye pursuing determined goal of becoming strong, respected global space player: President Erdogan
@@ -1998,3 +1993,8 @@
 1791637779|https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss|England international Cole Palmer signs new Chelsea deal until 2034
 1791637783|https://lenta.ru/news/2026/10/10/ural-proigral-velesu-i-prerval-besproigryshnuyu-seriyu/|«Урал» проиграл «Велесу» и прервал беспроигрышную серию
 1791637788|https://lenta.ru/news/2026/10/10/rossiyskuyu-turistku-vmeste-s-docheryu-izbili-vo-vietnamskom-otele/|Российскую туристку вместе с дочерью избили во вьетнамском отеле
+1791638762|https://www.aa.com.tr/en/world/sweden-regrets-us-russia-diesel-agreement/4084495|Sweden regrets US-Russia diesel agreement
+1791638769|https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc|Top AI labs reportedly planning for catastrophic AI event fallout
+1791638775|https://lenta.ru/news/2026/10/10/aliev-vstretilsya-s-kadyrovym/|Алиев встретился с Кадыровым
+1791638780|https://lenta.ru/news/2026/10/10/ekspert-sprognoziroval-prekraschenie-podderzhki-ukrainy-so-storony-ssha/|Эксперт спрогнозировал прекращение поддержки Украины со стороны США
+1791638785|https://lenta.ru/news/2026/10/10/nazvana-prichina-dosrochnogo-zaversheniya-peregovorov-ssha-i-ukrainy-v-mayami/|Названа причина досрочного завершения переговоров США и Украины в Майами
