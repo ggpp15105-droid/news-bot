@@ -1,8 +1,3 @@
-1791244825|https://www.aa.com.tr/en/middle-east/uk-says-raf-fairford-base-safe-after-us-withdrawal-of-bombers/4079104|UK says RAF Fairford base 'safe' after US withdrawal of bombers
-1791244833|https://lenta.ru/news/2026/10/06/rossiyan-predupredili-ob-aktivnosti-medvedey-pered-spyachkoy/|Россиян предупредили об активности медведей перед спячкой
-1791244838|https://lenta.ru/news/2026/10/06/iz-frantsuzskogo-muzeya-ukrali-odnu-iz-samyh-dorogih-knig-v-mire/|Из французского музея украли одну из самых дорогих книг в мире
-1791244846|https://www.kommersant.ru/doc/9006887|Застройщики жилья Подмосковья увеличили выручку на 30%
-1791245793|https://www.aa.com.tr/en/sports/italy-beat-turkiye-3-1-as-france-stage-late-comeback-against-belgium/4079107|Italy beat Türkiye 3-1 as France stage late comeback against Belgium
 1791245802|https://lenta.ru/news/2026/10/06/stipendii-prizvali-podnyat-do-urovnya-mrot/|Стипендии призвали поднять до уровня МРОТ
 1791245810|https://lenta.ru/news/2026/10/06/na-podlete-k-moskve-sbili-pochti-40-bpla/|На подлете к Москве сбили почти 40 БПЛА
 1791245816|https://lenta.ru/news/2026/10/06/kitayskiy-istorik-sprognoziroval-obostrenie-konflikta-na-ukraine/|Китайский историк спрогнозировал обострение конфликта на Украине
@@ -1998,3 +1993,8 @@
 1791655472|https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss|Video shows rare albino Asian black bear
 1791655479|https://lenta.ru/news/2026/10/10/fetisov-otsenil-slova-trampa-ob-ovechkine/|Фетисов оценил слова Трампа об Овечкине
 1791655489|https://lenta.ru/news/2026/10/10/zelenskiy-popytalsya-zaruchitsya-podderzhkoy-evropy-na-fone-zayavleniy-trampa/|Зеленский обзвонил европейцев после дизельной сделки Путина и Трампа
+1791656614|https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded|Riyadh airport suspends operations after attack leaves multiple people wounded
+1791656619|https://lenta.ru/news/2026/10/10/stabilnost/|Почти 100 российских сетей АЗС дали обещание о стабилизации цен
+1791656628|https://www.kommersant.ru/doc/9023850|Вратарь «Рейнджерс» Шестеркин выбыл до конца сезона НХЛ из-за травмы
+1791656637|https://www.kommersant.ru/doc/9023847|КСИР сообщил о подрыве танкера в Ормузском проливе
+1791656646|https://www.kommersant.ru/doc/9023845|Саудовская Аравия приостановила работу аэропорта в Эр-Рияде
