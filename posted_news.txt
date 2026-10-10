@@ -1,8 +1,3 @@
-1791249622|https://lenta.ru/news/2026/10/06/23-letnyaya-pevitsa-bez-byustgaltera-proshlas-po-ulitse-v-bluze-s-glubokim-dekolte/|23-летняя певица без бюстгальтера прошлась по улице в блузе с глубоким декольте
-1791249632|https://lenta.ru/news/2026/10/06/strannaya-nahodka-v-starom-sarae-pozabavila-polzovateley-seti/|Странная находка в старом сарае позабавила пользователей сети
-1791249636|https://www.kommersant.ru/doc/9006922|Стубб: новый миропорядок сформируется к 2030 году
-1791250446|https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan|Trump approves firing-squad execution of Fort Hood shooter Nidal Hasan
-1791250452|https://www.cnbc.com/2026/10/06/cnbc-daily-open-china-shuts-down-record-670-banks-new-worries-over-oil-and-ai-.html|CNBC Daily Open: China shuts down record 670 banks, new worries over oil and AI
 1791250458|https://www.japantimes.co.jp/news/2026/10/06/world/politics/flydubai-hijacking-israeli-election/|FlyDubai hijacking turns into flash point in Israeli election
 1791250465|https://www.japantimes.co.jp/news/2026/10/06/world/politics/lula-improbable-comeback/|Lula hunts for one more improbable comeback after shock election setback
 1791250472|https://www.tomshardware.com/pc-components/external-hdds/get-a-rare-deal-on-the-shuckable-16tb-seagate-expansion-desktop-drive-at-usd0-02-per-gb-save-usd100-on-this-big-drive-ahead-of-prime-big-deal-days|Get a rare deal on a shuckable 16TB Seagate Expansion Desktop drive at $0.02 per GB
@@ -1998,3 +1993,8 @@
 1791659353|https://lenta.ru/news/2026/10/10/zaharova-provela-parallel-mezhdu-gniyuschey-ryboy-i-kallas/|Захарова провела параллель между воняющей рыбой и Каллас
 1791659358|https://lenta.ru/news/2026/10/10/gilyazova-pobedila-na-kubke-mira-po-plavaniyu/|Гилязова победила на Кубке мира по плаванию
 1791659363|https://lenta.ru/news/2026/10/10/inter-razgromil-parmu-v-serii-a/|«Интер» разгромил «Парму» в Серии А
+1791660221|https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf|Money, networks and bias: Why women struggle to win seats in US politics
+1791660227|https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game|Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam
+1791660232|https://lenta.ru/news/2026/10/10/doch-lyubovi-uspenskoy-otvetila-na-kritiku-vneshnosti/|Дочь Любови Успенской ответила на критику внешности
+1791660237|https://lenta.ru/news/2026/10/10/long-on-hochet-sozdavat-problemy-miru-tramp-prizval-zelenskogo-ostanovitsya-i-dal-sovet-ukraintsam/|«Он хочет создавать проблемы миру». Трамп выразил недовольство Зеленским и призвал украинцев выбрать нового лидера
+1791660246|https://www.kommersant.ru/doc/9023855|Глава Палестины перенес выборы на год // Президентские и парламентские выборы в Палестине перенесли на сентябрь 2027 года
