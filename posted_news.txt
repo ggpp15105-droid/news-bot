@@ -1,8 +1,3 @@
-1791203570|https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah|Guardian readers fund life-changing surgery for Somali boy injured in US airstrike
-1791203576|https://www.euronews.com/2026/10/05/ukraine-warns-of-fake-government-and-media-sites-tied-to-russian-intelligence|Ukraine warns of fake government and media sites tied to Russian intelligence
-1791203584|https://www.euronews.com/2026/10/05/eu-monitors-very-closely-suspected-outbreak-of-pneumonic-plague-in-russia|EU monitors 'very closely' suspected outbreak of pneumonic plague in Russia
-1791203591|https://www.eurogamer.net/witcher-3-remastered-steam-players-sales|Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket
-1791204988|https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss|Teenager's hand blown off during confrontation between France school protesters and police
 1791204994|https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss|Bolsonaro favourite to win: What Brazil’s first round of elections tells us
 1791205001|https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss|Lionel Messi to join Argentina for farewell match against Benin
 1791205007|https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss|In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines
@@ -1998,3 +1993,8 @@
 1791626302|https://lenta.ru/news/2026/10/10/apple-watch/|Россияне пожаловались на проблемы с кожей из-за новых часов Apple
 1791626307|https://lenta.ru/news/2026/10/10/rosatom-vyigral-sud-protiv-finskoy-kompanii/|«Росатом» выиграл суд против финской компании
 1791626312|https://lenta.ru/news/2026/10/10/mezhdunarodnyy-sud-priznal-nezakonnym-rastorzhenie-finnami-kontrakta-s-rosatomom/|Международный суд признал незаконным расторжение финнами контракта с «Росатомом»
+1791627021|https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss|Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil
+1791627030|https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials|World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft
+1791627035|https://lenta.ru/news/2026/10/10/vsu-atakovali-esche-odin-zheleznodorozhnyy-most-v-rossii/|ВСУ атаковали еще один железнодорожный мост в России
+1791627043|https://lenta.ru/news/2026/10/10/stala-izvestna-reaktsiya-ssha-na-reshenie-trampa-zaklyuchit-soglashenie-s-rossiey/|Стала известна реакция США на решение Трампа заключить соглашение с Россией
+1791627052|https://lenta.ru/news/2026/10/10/rossiyanka-andreeva-vpervye-v-kariere-stanet-tretiey-raketkoy-mira/|Россиянка Андреева впервые в карьере станет третьей ракеткой мира
