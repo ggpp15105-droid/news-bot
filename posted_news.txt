@@ -1,8 +1,3 @@
-1791238176|https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html|House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty
-1791238184|https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html|SpaceX stock climbs to highest since June, returning Musk to trillionaire status
-1791238191|https://www.euronews.com/2026/10/05/romanian-president-signs-law-regulating-bear-population-cull|Romanian president signs law regulating bear population cull
-1791238196|https://www.aa.com.tr/en/world/imf-warns-debt-financed-tax-cuts-increase-global-interest-rates/4079084|IMF warns debt-financed tax cuts increase global interest rates
-1791239092|https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss|‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case
 1791239097|https://www.france24.com/en/switching-on-brain-cells-the-nobel-winning-science-of-optogenetics|Switching on brain cells: the Nobel-winning science of optogenetics
 1791239103|https://www.france24.com/en/quebec-votes-as-separatist-surge-poses-test-for-canada-pm|Quebec votes as separatist surge poses test for Canada PM
 1791239109|https://www.aa.com.tr/en/world/trump-says-us-looking-very-strongly-at-reported-plague-case-in-russia-/4079042|Trump says US 'looking very strongly' at reported plague case in Russia
@@ -1998,3 +1993,8 @@
 1791648251|https://www.france24.com/en/video/20261010-war-in-ukraine-russian-strikes-kill-15-including-a-young-girl|War in Ukraine: Russian strikes kill 15, including a young girl
 1791648258|https://www.euronews.com/2026/10/10/cristiano-ronaldo-suspended-by-portuguese-fa-for-leaving-training-camp|Cristiano Ronaldo suspended by Portuguese FA for leaving training camp
 1791648266|https://www.euronews.com/2026/10/10/evacuations-and-injuries-reported-at-riyadh-airport-after-another-alleged-houthi-attack|Evacuations and injuries reported at Riyadh airport after another alleged Houthi attack
+1791649194|https://www.france24.com/en/video/20261010-india-protests-new-cockroach-movement-leader-named|India protests: New 'cockroach' movement leader named
+1791649199|https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban|South Africa: Anti-migrant unrest flares in Durban
+1791649204|https://www.france24.com/en/video/20261010-kenya-ebola-tests-negative-as-contact-tracing-continues|Kenya: Ebola tests negative as contact tracing continues
+1791649208|https://www.france24.com/en/video/20261010-midterms-it-does-look-like-the-republicans-will-lose-control-of-the-house-of-representatives|Midterms: "It does look like the Republicans will lose control of the House of Representatives"
+1791649214|https://www.euronews.com/2026/10/10/pope-leo-condemns-death-penalty-vance-vows-not-to-watch-hasans-execution-live|Pope Leo condemns death penalty, Vance vows not to watch Hasan’s execution live
