@@ -1,8 +1,3 @@
-1791216009|https://www.france24.com/en/video/20261005-isis-suspects-face-outsourced-justice-in-iraq-as-hrw-warns-of-collective-global-detention-crisis-1|ISIS suspects face 'outsourced' justice in Iraq as HRW warns of 'collective global detention crisis'
-1791216017|https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html|Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?
-1791216025|https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html|Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged
-1791216033|https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html|Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency
-1791216951|https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss|Two dead after ship sinks off Romania following fire
 1791216956|https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss|Bosnia and Herzegovina elections: Return to a nationalist political order?
 1791216960|https://www.euronews.com/2026/10/05/how-light-became-a-remote-control-for-the-brain-and-won-a-nobel-prize|How light became a remote control for the brain, and won a Nobel Prize
 1791216965|https://www.euronews.com/2026/10/05/us-meeting-in-poland-excluding-france-uk-baltic-risks-dividing-nato|US meeting in Poland excluding France, UK, Baltics risks dividing NATO
@@ -1998,3 +1993,8 @@
 1791635863|https://www.ign.com/articles/call-of-duty-modern-warfare-story-recap|Call of Duty: Modern Warfare Story Recap – What You Need To Know Ahead of MW4
 1791635870|https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship|Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs
 1791635879|https://lenta.ru/news/2026/10/10/federatsiya-futbola-portugalii-otstranila-ronaldu-ot-vystupleniy-za-sbornuyu/|Федерация футбола Португалии отстранила Роналду от выступлений за сборную
+1791636986|https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss|'Cockroach' group leaders among hundreds detained in Delhi protest
+1791636992|https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses|Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan
+1791636998|https://lenta.ru/news/2026/10/10/ohotu-na-voditeley-s-pomoschyu-tihohodov-ustroili-v-rossiyskom-regione/|Охоту на водителей с помощью «тихоходов» устроили в российском регионе
+1791637007|https://lenta.ru/news/2026/10/10/poryadok-deystviy/|Россиянам назвали порядок действий при ошибочном переводе денег
+1791637016|https://lenta.ru/news/2026/10/10/help/|Финляндия поможет Украине бороться с российскими реактивными дронами
