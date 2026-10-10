@@ -1,8 +1,3 @@
-1791219180|https://www.aa.com.tr/en/middle-east/1-palestinian-killed-5-injured-in-israeli-army-occupier-attacks-in-west-bank/4078814|1 Palestinian killed, 5 injured in Israeli army, occupier attacks in West Bank
-1791219186|https://www.aa.com.tr/en/world/rubio-says-russian-biological-lab-incident-not-cause-for-alarm-affirms-us-monitoring/4078741|Rubio says Russian biological lab incident not ‘cause for alarm,’ affirms US monitoring
-1791219191|https://www.aa.com.tr/en/world/turkiye-pursuing-determined-goal-of-becoming-strong-respected-global-space-player-president-erdogan/4078715|Türkiye pursuing determined goal of becoming strong, respected global space player: President Erdogan
-1791219197|https://www.ign.com/articles/arc-raiders-and-the-finals-are-getting-adapted-into-films-and-tv-shows|Arc Raiders and The Finals Are Getting Adapted Into Films and TV Shows
-1791219795|https://www.aljazeera.com/news/2026/10/5/dr-congo-boat-collision-kills-at-least-30-dozens-missing?traffic_source=rss|DR Congo boat collision kills at least 30, dozens missing
 1791219801|https://www.ign.com/articles/dungeons-and-dragons-world-of-warcraft-everything-you-need-to-know|Dungeons and Dragons: World of Warcraft – Everything You Need to Know
 1791219808|https://www.ign.com/articles/nba-2k25-is-getting-delisted-after-just-2-years-and-single-player-story-mode-will-become-unplayable|NBA 2K25 Is Getting Delisted After Just 2 Years, and Single Player Story Mode Will Become Unplayable
 1791219813|https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark|Fortnite Has Updated In-Game Art After Fans Discovered a Google Gemini AI Image Watermark
@@ -1998,3 +1993,8 @@
 1791638775|https://lenta.ru/news/2026/10/10/aliev-vstretilsya-s-kadyrovym/|Алиев встретился с Кадыровым
 1791638780|https://lenta.ru/news/2026/10/10/ekspert-sprognoziroval-prekraschenie-podderzhki-ukrainy-so-storony-ssha/|Эксперт спрогнозировал прекращение поддержки Украины со стороны США
 1791638785|https://lenta.ru/news/2026/10/10/nazvana-prichina-dosrochnogo-zaversheniya-peregovorov-ssha-i-ukrainy-v-mayami/|Названа причина досрочного завершения переговоров США и Украины в Майами
+1791639622|https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss|‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
+1791639629|https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss|Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes
+1791639636|https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf|'Ragebait' is the 2026 German Youth Word of the Year
+1791639642|https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf|Germany sticks to Russia sanctions after Trump diesel deal
+1791639650|https://lenta.ru/news/2026/10/10/v-izraile-vozmutilis-pobede-gitlera-mussolini-na-vyborah/|В Израиле возмутились победе Гитлера Муссолини на выборах
