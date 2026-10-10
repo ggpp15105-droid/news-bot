@@ -1,8 +1,3 @@
-1791222723|https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-all-1573-rdf|Denmark: Data of millions compromised in hack
-1791222729|https://www.gamespot.com/articles/hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards/|Hideo Kojima Is Keeping OD A Mystery To Make Its Horror Hit Harder
-1791222736|https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/|How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done
-1791222742|https://www.gamespot.com/articles/how-bill-skarsgard-became-the-face-of-hideo-kojimas-physint/|How Bill Skarsgard Became The Face Of Hideo Kojima’s Physint
-1791223422|https://www.gamespot.com/articles/10-new-things-we-just-learned-about-gta-6/|10 New Things We Just Learned About GTA 6
 1791223430|https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms|Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company
 1791223437|https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book|The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does
 1791223445|https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events|"It has to be more over the top, more insane, more in your face" - Rockstar explains why GTA 6 doesn't satirise real-world events
@@ -1998,3 +1993,8 @@
 1791641867|https://www.france24.com/en/sport/20261010-portugal-hits-ronaldo-with-provisional-suspension-for-walking-out-on-national-team|Portugal hits Ronaldo with provisional suspension for walking out on national team
 1791641873|https://www.euronews.com/2026/10/10/thousands-detained-in-new-delhi-as-police-crack-down-on-cockroach-movement|Thousands detained in New Delhi as police crack down on 'cockroach' movement
 1791641878|https://lenta.ru/news/2026/10/10/kim-kardashyan-bez-byustgaltera-v-prozrachnom-platie-pribyla-na-gran-pri-singapura/|Ким Кардашьян без бюстгальтера в прозрачном платье прибыла на Гран-при Сингапура
+1791642770|https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss|Why is the US sanctioning the International Criminal Court?
+1791642776|https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html|Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows
+1791642785|https://lenta.ru/news/2026/10/10/raskryty-podrobnosti-ob-otravivshey-syna-uksusom-rossiyanke/|Раскрыты подробности об отравившей сына уксусом россиянке
+1791642790|https://lenta.ru/news/2026/10/10/prezident-afrikanskoy-respubliki-priedet-na-sammit-v-moskvu/|Президент африканской республики приедет на саммит в Москву
+1791642795|https://lenta.ru/news/2026/10/10/premier-gruzii-schel-pravilnym-reshenie-ne-vvodit-sanktsii-protiv-rossii/|Премьер Грузии счел правильным решение не вводить санкции против России
