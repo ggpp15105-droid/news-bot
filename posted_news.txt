@@ -1,8 +1,3 @@
-1791196504|https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-all-1573-rdf|Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged
-1791196510|https://www.france24.com/en/tv-shows/business/20261005-trump-names-jay-clayton-as-ai-czar-to-lead-super-intelligence-force|Trump names Jay Clayton as AI czar to lead 'Super Intelligence Force'
-1791196516|https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html|China shuts hundreds of banks as Beijing moves to shore up its financial system
-1791196525|https://www.euronews.com/video/2026/10/05/medieval-ruler-tsar-samuels-remains-return-home-to-bulgaria-after-60-years|Medieval ruler Tsar Samuel’s remains return home to Bulgaria after 60 years
-1791197512|https://www.dw.com/en/klopp-s-first-germany-internationals-what-did-we-learn/a-79547308?maca=en-rss-en-all-1573-rdf|Klopp's first Germany internationals: What did we learn?
 1791197520|https://www.euronews.com/2026/10/05/musk-to-follow-trump-and-rebrand-spacexai-as-spacexsi|Musk to follow Trump and rebrand SpaceXAI as SpaceXSI
 1791197527|https://www.euronews.com/2026/10/05/anatomy-of-a-flop-digger-a-disaster-at-box-office-and-a-major-misfire-for-tom-cruise|Anatomy of a flop: ‘Digger’ a disaster at box office and a major misfire for Tom Cruise
 1791197534|https://www.japantimes.co.jp/commentary/2026/10/05/world/iraq-war-finally-over/|The Iraq War is finally over. It did some good.
@@ -1998,3 +1993,8 @@
 1791620053|https://lenta.ru/news/2026/10/10/rudkovskaya-postavila-zarubezhnyh-zvezd-v-primer-rossiyanam-po-chasti-otnosheniya-k-ee-synu/|Рудковская поставила зарубежных звезд в пример россиянам по части отношения к ее сыну
 1791620062|https://lenta.ru/news/2026/10/10/golden-steyt-stal-pervoy-zhenskoy-komandoy-s-vyruchkoy-bolee-100-millionov-dollarov/|«Голден Стэйт» стал первой женской командой с выручкой более 100 миллионов долларов
 1791620071|https://lenta.ru/news/2026/10/10/gruppa-neizvestnyh-napadala-na-rossiyan-v-obschestvennom-transporte/|Группа неизвестных нападала на россиян в общественном транспорте
+1791621035|https://news.sky.com/story/indias-cockroach-movement-founder-detained-along-with-scores-of-protesters-13597121|India's 'Cockroach' movement founder detained along with scores of protesters
+1791621041|https://www.euronews.com/2026/10/10/no-one-ever-heard-of-her-trump-goes-off-on-petty-rant-after-nobel-peace-prize-snub|'No one ever heard of her': Trump goes off on petty rant after Nobel Peace Prize snub
+1791621049|https://lenta.ru/news/2026/10/10/v-germanii-sdelali-zayavlenie-o-rossiyskom-gaze/|В Германии сделали заявление о российском газе
+1791621054|https://lenta.ru/news/2026/10/10/darth-vader/|Легендарный меч Дарта Вейдера выставят на аукцион за миллион долларов
+1791621059|https://lenta.ru/news/2026/10/10/v-nato-otsenili-veroyatnost-blokirovki-kaliningrada/|В НАТО оценили вероятность блокировки Калининграда
