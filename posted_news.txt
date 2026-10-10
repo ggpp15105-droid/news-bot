@@ -1,8 +1,3 @@
-1791197520|https://www.euronews.com/2026/10/05/musk-to-follow-trump-and-rebrand-spacexai-as-spacexsi|Musk to follow Trump and rebrand SpaceXAI as SpaceXSI
-1791197527|https://www.euronews.com/2026/10/05/anatomy-of-a-flop-digger-a-disaster-at-box-office-and-a-major-misfire-for-tom-cruise|Anatomy of a flop: ‘Digger’ a disaster at box office and a major misfire for Tom Cruise
-1791197534|https://www.japantimes.co.jp/commentary/2026/10/05/world/iraq-war-finally-over/|The Iraq War is finally over. It did some good.
-1791197542|https://www.japantimes.co.jp/news/2026/10/05/asia-pacific/south-korea-probe-north-mines/|South Korean probe concludes North Korea planted DMZ mines
-1791198196|https://www.aljazeera.com/video/newsfeed/2026/10/5/gaza-mothers-seek-breastfeeding-support-amid-hunger-and-siege?traffic_source=rss|Gaza mothers seek breastfeeding support amid hunger and siege
 1791198203|https://www.aljazeera.com/news/2026/10/5/former-prince-andrew-launches-challenge-to-quash-police-search-warrants?traffic_source=rss|Former Prince Andrew launches challenge to ‘quash’ police search warrants
 1791198209|https://www.aljazeera.com/news/2026/10/5/libyan-teachers-strike-escalates-as-union-demands-major-education-reforms?traffic_source=rss|Libyan teachers’ strike escalates as union demands major education reforms
 1791198216|https://www.euronews.com/2026/10/05/the-terminator-scenario-how-realistic-is-the-ai-apocalypse|The 'Terminator scenario': How realistic is the AI apocalypse?
@@ -1998,3 +1993,8 @@
 1791621049|https://lenta.ru/news/2026/10/10/v-germanii-sdelali-zayavlenie-o-rossiyskom-gaze/|В Германии сделали заявление о российском газе
 1791621054|https://lenta.ru/news/2026/10/10/darth-vader/|Легендарный меч Дарта Вейдера выставят на аукцион за миллион долларов
 1791621059|https://lenta.ru/news/2026/10/10/v-nato-otsenili-veroyatnost-blokirovki-kaliningrada/|В НАТО оценили вероятность блокировки Калининграда
+1791622015|https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children|Live: Russian strikes on Ukraine's Zaporizhzhia kill at least seven, including children
+1791622019|https://lenta.ru/news/2026/10/10/judith/|58-летняя юмористка рассказала о борьбе с раком и пообещала ходить без бюстгальтера
+1791622028|https://www.kommersant.ru/doc/9023722|Пожар площадью 2 тыс. кв. м разгорелся на территории птицефабрики в Томске
+1791622037|https://www.kommersant.ru/doc/9023720|Собянин сообщил о летевших на Москву 403 беспилотниках
+1791622045|https://www.kommersant.ru/doc/9023716|В Минобороны КНР заявили о готовности укреплять отношения с армией США
