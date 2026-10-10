@@ -1,8 +1,3 @@
-1791165693|https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-rdf|US pulls bombers out of UK's Fairford airbase after arrests
-1791165698|https://news.sky.com/story/bolsonaro-and-lula-to-compete-in-brazilian-presidential-run-off-after-tight-vote-13595195|Bolsonaro and Lula to compete in Brazilian presidential run-off after tight vote
-1791165703|https://www.japantimes.co.jp/business/2026/10/05/companies/taiyo-oil-ceo-japan-mideast/|Japan should keep focus on cheap Mideast oil, local refiner says
-1791165708|https://www.japantimes.co.jp/news/2026/10/05/japan/maritime-self-defense-force-uncrewed-surveillance-aircraft/|MSDF deploys V-BAT uncrewed surveillance aircraft
-1791166724|https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html|‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate
 1791166730|https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html|Why surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet
 1791166736|https://www.japantimes.co.jp/business/2026/10/05/companies/nippon-paint-akzo-nobel-southeast-asia/|Nippon Paint to buy Akzo’s Southeast Asia unit for $1.35 billion
 1791166741|https://www.japantimes.co.jp/news/2026/10/05/asia-pacific/taiwan-trump-us-arms-sale/|Taiwan’s envoy prods Trump administration on stalled arms sale
@@ -1998,3 +1993,8 @@
 1791593780|https://www.japantimes.co.jp/business/2026/10/10/economy/china-eu-hybrid-exports/|China and EU strike deal to halve Chinese hybrid exports
 1791594643|https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss|Dual quakes devastate southern Panama
 1791594650|https://www.japantimes.co.jp/news/2026/10/10/world/iran-guards-missiles-trump/|Iran guards ability to build missiles as Trump eases attacks
+1791595703|https://www.japantimes.co.jp/news/2026/10/10/world/panama-quake-avoids-major-destruction/|Strong Panama quake shakes nation, but avoids major destruction
+1791595708|https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny|Magic: The Gathering Returns to Marvel with Darkhold Destiny
+1791595715|https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely|GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely
+1791595721|https://lenta.ru/news/2026/10/10/long-eto-ochevidnaya-slabost-zelenskiy-vpal-v-isteriku-iz-za-razgovora-putina-i-trampa-chto-ego-vozmutilo/|«Это очевидная слабость». Зеленский впал в истерику из-за разговора Путина и Трампа. Что его возмутило?
+1791595725|https://lenta.ru/news/2026/10/10/ryad-rossiyan-poluchit-pensii-za-noyabr-dosrochno/|Ряд россиян получит пенсии за ноябрь досрочно
