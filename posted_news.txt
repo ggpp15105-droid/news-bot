@@ -1,8 +1,3 @@
-1791190077|https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-rdf|Israel observes October 7 anniversary with national memorial day
-1791190083|https://www.france24.com/en/europe/20261005-ex-prince-andrew-launches-bid-to-quash-epstein-affair-search-warrants|Ex-prince Andrew launches bid to ‘quash’ Epstein-affair search warrants
-1791190090|https://www.euronews.com/video/2026/10/05/iran-war-europe-not-being-at-the-table-is-a-failure-charles-michel-says|Iran war: 'Europe not being at the table is a failure', Charles Michel says
-1791190098|https://www.euronews.com/video/2026/10/05/dogs-turtle-and-snail-receive-blessings-in-churches|Dogs, turtle and snail receive blessings in churches
-1791190944|https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf|Israel's mental health crisis in the wake of Oct. 7 attacks
 1791190950|https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off|Bolsonaro in 'very strong position' as Brazil election heads to run-off
 1791190957|https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html|Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments
 1791190965|https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election|Euro hits 17-month low as French debt fears mount and Spain heads for snap election
@@ -1998,3 +1993,8 @@
 1791614625|https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss|India protest live: Police detain Cockroach leaders, New Delhi in lockdown
 1791614631|https://lenta.ru/news/2026/10/10/prichinu-poyavleniya-osenney-depressii-ob-yasnili/|Причину осенней депрессии объяснили
 1791614635|https://lenta.ru/news/2026/10/10/artemiy-lebedev-vozmutilsya-pereimenovaniyu-kotlety-po-kievski-v-stolovoy-gosdumy/|Артемий Лебедев возмутился переименованию котлеты по-киевски в столовой Госдумы
+1791615628|https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss|Yemen’s Taiz under siege again as food and fuel prices rise
+1791615635|https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403|What are we all playing this weekend?
+1791615643|https://lenta.ru/news/2026/10/10/moskvichka-edva-perezhila-vstrechu-s-yadovitoy-ryboy-na-shri-lanke/|Москвичка едва пережила встречу с ядовитой рыбой на Шри-Ланке
+1791615652|https://lenta.ru/news/2026/10/10/trusova-otkazalas-ot-uchastiya-v-turnire-v-budapeshte/|Трусова отказалась от участия в турнире в Будапеште
+1791615657|https://lenta.ru/news/2026/10/10/vzryv/|В Киеве прогремел второй за утро взрыв
