@@ -1,8 +1,3 @@
-1791178434|https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss|Who were the top teen athletes at the Asian Games?
-1791178442|https://www.aljazeera.com/news/2026/10/5/samoa-pm-apologises-after-nazi-salute-video-emerges?traffic_source=rss|Samoa PM apologises after Nazi salute video emerges
-1791178448|https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss|Bolsonaro beats expectations in Brazil vote, faces Lula in runoff
-1791178452|https://www.france24.com/en/live-news/20261005-rubio-visits-iceland-as-us-boosts-arctic-presence|Rubio visits Iceland as US boosts Arctic presence
-1791179545|https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-all-1573-rdf|Hundreds of French schools closed amid protests
 1791179552|https://www.euronews.com/2026/10/05/serb-separatist-politician-milorad-dodik-thanks-trump-putin-as-he-declares-victory-in-cont|Serb separatist politician Milorad Dodik thanks Trump, Putin as he declares victory in contested Bosnia vote
 1791179559|https://www.euronews.com/2026/10/05/tooth-with-jade-inlay-reveals-ancient-maya-skill-as-dentists|Tooth with jade inlay reveals ancient Maya skill as dentists
 1791179565|https://www.euronews.com/2026/10/05/intelligence-everywhere-inside-europes-next-technology-era|Intelligence Everywhere: Inside Europe’s Next Technology Era
@@ -1998,3 +1993,8 @@
 1791604807|https://lenta.ru/news/2026/10/10/rossiyskie-ottsy-prizvali-zapretit-seks-shopy/|Российские отцы призвали запретить секс-шопы
 1791604812|https://www.kommersant.ru/doc/9023658|На подлете к Москве сбили 10 беспилотников
 1791604816|https://www.kommersant.ru/doc/9023656|Во время атаки на Ростовскую область были повреждены дома и железнодорожный мост
+1791605726|https://www.aa.com.tr/en/world/morning-briefing-oct-10-2026/4084157|Morning Briefing: Oct. 10, 2026
+1791605731|https://lenta.ru/news/2026/10/10/rossiyan-predupredili-ob-opasnosti-rasprostranennoy-gigienicheskoy-privychki/|Россиян предупредили об опасности распространенной гигиенической привычки
+1791605736|https://tass.ru/obschestvo/28200771|Врач Готина рассказала о риске принять депрессию у пожилых за обычное старение
+1791605740|https://tass.ru/armiya-i-opk/28200773|Командир Тринадцатый рассказал об уничтожении БПЛА "Мрак" в Харьковской области
+1791605744|https://tass.ru/nedvizhimost/28200769|Эксперт Галкин: новая семейная ипотека поможет многодетным покупать большие квартиры
