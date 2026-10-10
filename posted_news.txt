@@ -1,8 +1,3 @@
-1791260097|https://lenta.ru/news/2026/10/06/raskryt-gonorar-15-letnim-shkolnikam-za-diversiyu-na-rossiyskoy-zheleznoy-doroge/|Раскрыт гонорар 15-летним школьникам за диверсию на российской железной дороге
-1791260101|https://lenta.ru/news/2026/10/06/popytka-ataki-dronov-vsu-na-moskvu-stala-odnoy-iz-samyh-krupnyh-za-dva-goda/|Попытка атаки дронов ВСУ на Москву стала одной из самых крупных за два года
-1791260106|https://lenta.ru/news/2026/10/06/proktolog-otsenil-vozmozhnost-vychislit-na-prieme-lyubiteley-analnogo-seksa/|Проктолог оценил возможность вычислить на приеме любителей анального секса
-1791261205|https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss|Mexican and Colombian cartel mercenaries filmed fighting in Ukraine
-1791261212|https://www.euronews.com/2026/10/06/fake-nato-deaths-epstein-claims-and-drones-how-russia-targets-elections-in-the-baltics|Fake NATO deaths, Epstein claims and drones: how Russia targets elections in the Baltics
 1791261218|https://www.euronews.com/2026/10/06/police-braces-for-nationwide-day-of-protests-across-french-high-schools-demanding-reforms-|Police braces for nationwide day of protests across French high schools demanding reforms and more resources
 1791261225|https://www.euronews.com/2026/10/06/musical-residencies-business-is-booming-but-who-pays-the-bill|Musical residencies: Business is booming, but who pays the most for pop stars playing in Europe?
 1791261232|https://www.euronews.com/2026/10/06/climate-damage-already-locked-in-but-these-10-insights-show-our-future-is-still-being-deci|Climate damage already ‘locked in’ – but these 10 insights show our future is still being decided
@@ -1998,3 +1993,8 @@
 1791668995|https://tass.ru/obschestvo/28202441|"Уралвагонзавод" предложил учредить госнаграду за трудовую династию
 1791668999|https://tass.ru/armiya-i-opk/28202435|Уралвагонзавод продолжает модернизировать БМПТ "Спиридон" с учетом опыта СВО
 1791669003|https://tass.ru/ekonomika/28202439|УВЗ ведет новые разработки машин на базе газотурбинного двигателя
+1791669619|https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss|Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
+1791669625|https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial|Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial
+1791669630|https://lenta.ru/news/2026/10/11/zaharova-otvetila-premieru-estonii-na-slova-o-rossiyskih-npz/|Захарова ответила премьеру Эстонии на слова о российских НПЗ
+1791669635|https://lenta.ru/news/2026/10/11/v-rodnom-gorode-zelenskogo-ostanovitsya-krupneyshiy-metallurgicheskiy-kombinat/|В родном городе Зеленского остановится крупнейший металлургический завод
+1791669640|https://lenta.ru/news/2026/10/11/udar-rossii-po-tsentralnomu-ofisu-ukrainskogo-internet-provaydera-v-odesse-popal-na-video/|Удар России по центральному офису украинского интернет-провайдера в Одессе попал на видео
