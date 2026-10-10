@@ -1,8 +1,3 @@
-1791214006|https://www.france24.com/en/americas/20261005-how-lulas-successes-in-brazil-may-have-paved-the-way-for-his-presidential-defeat|How Lula’s successes in Brazil may have paved the way for his presidential defeat
-1791214011|https://www.france24.com/en/video/20261005-7-4-million-visitors-6-7-million-litres-of-beer-oktoberfest-comes-to-an-end|7.4 million visitors, 6.7 million litres of beer: Oktoberfest comes to an end
-1791214016|https://www.france24.com/en/video/20261005-french-school-protests-continue-with-larger-demonstrations-set-for-tuesday|French school protests continue with larger demonstrations set for Tuesday
-1791214022|https://www.france24.com/en/video/20261005-i-could-feel-the-petrol-dripping-the-violent-attacks-that-have-marred-france-school-protests|'I could feel the petrol dripping': The violent attacks that have marred France school protests
-1791215061|https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss|Nigeria launches rescue after military plane crashes with 32 aboard
 1791215067|https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss|Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge
 1791215073|https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss|What happened between Ireland and Israel in their Nations League match?
 1791215078|https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss|A drive through the West Bank
@@ -1998,3 +1993,8 @@
 1791633573|https://lenta.ru/news/2026/10/10/mishin-pohvalil-trusovu-posle-pobedy-na-turnire/|Мишин похвалил Трусову после победы на турнире
 1791633582|https://lenta.ru/news/2026/10/10/gru-zayavil-o-gotovnosti-vernutsya-k-rabote-v-khl/|Гру заявил о готовности вернуться к работе в КХЛ
 1791633590|https://lenta.ru/news/2026/10/10/clop/|Российский регион атаковали вонючие клопы
+1791634558|https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss|Russian glide bomb attack on Zaporizhzhia kills at least 15 people
+1791634566|https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf|Operations Plan Germany: How the Bundeswehr trains for NATO collective defense
+1791634570|https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027|🔴 Palestinian president Abbas postpones legislative elections, sets presidential poll for September 2027
+1791634578|https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost|Russian modder slaps DLSS 5 onto Pac-Man with 4x Multipass
+1791634586|https://lenta.ru/news/2026/10/10/obstanovka-v-kievskom-metro-posle-ostanovki-popala-na-video/|Обстановка в киевском метро после остановки попала на видео
