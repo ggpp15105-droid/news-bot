@@ -1,8 +1,3 @@
-1791262898|https://lenta.ru/news/2026/10/06/zamorozivshaya-zazhivo-mladentsa-rossiyanka-poluchila-srok/|Заморозившая заживо младенца россиянка получила срок
-1791262903|https://lenta.ru/news/2026/10/06/v-rossii-nazvali-krupneyshie-mestorozhdeniya-platiny/|В России назвали крупнейшие месторождения платины
-1791262909|https://lenta.ru/news/2026/10/06/vblizi-moskvy-sbili-esche-19-bespilotnikov/|Вблизи Москвы сбили 19 беспилотников
-1791263874|https://www.dw.com/en/india-news-opposition-leaders-set-to-march-to-election-commission/live-79557629?maca=en-rss-en-all-1573-rdf|India news: Opposition leaders set to march to Election Commission
-1791263881|https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes|Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads
 1791263888|https://www.euronews.com/2026/10/06/ronaldos-next-chapter-what-lies-ahead-after-portugals-nations-league-progress|Ronaldo’s next chapter: What lies ahead after Portugal’s Nations League progress?
 1791263895|https://www.euronews.com/2026/10/06/could-teenage-fitness-shape-your-mental-health-decades-later-new-research-suggests-it-migh|Could teenage fitness shape your mental health decades later? New research suggests it might
 1791263901|https://www.euronews.com/2026/10/06/simpler-itineraries-longer-stays-how-travellers-embrace-doing-less-while-on-holiday|Simpler itineraries, longer stays: How travellers embrace doing less while on holiday
@@ -1998,3 +1993,8 @@
 1791671361|https://tass.ru/proisshestviya/28202475|UKMTO сообщил о попадании снаряда в танкер в Ормузском проливе
 1791671365|https://tass.ru/obschestvo/28202471|Путин поздравил аграриев с профессиональным праздником
 1791671368|https://tass.ru/ekonomika/28202469|В ФТС рассказали, какие цветы ввозили в Россию чаще всего
+1791672242|https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss|Twelve killed in attack on airport in Saudi capital Riyadh
+1791672247|https://tass.ru/ekonomika/28202479|Трамп заявил, что ФРГ была на грани вымирания из-за зеленой энергетики
+1791672251|https://tass.ru/proisshestviya/28202481|В Днепре произошел взрыв
+1791672255|https://tass.ru/obschestvo/28202477|Ущерб урожаю в Башкирии составил порядка 70 млн рублей из-за ливней
+1791672261|https://www.vedomosti.ru/politics/news/2026/10/10/1236043-miroshnik-otsenil|Мирошник оценил реакцию Киева на слова Трампа о смене лидера Украины
