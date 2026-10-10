@@ -1,8 +1,3 @@
-1791252746|https://www.japantimes.co.jp/news/2026/10/06/japan/japan-climate-change-tree-cover-tokyo/|‘Act before it’s too late’: Tokyo residents fight for more trees
-1791252751|https://lenta.ru/news/2026/10/06/nesmytye-fekalii-v-unitazah-finskih-deputatov-ob-yasnili-proiskami-rossiyskoy-razvedki/|Несмытые фекалии в унитазах финских депутатов объяснили происками российской разведки
-1791252757|https://lenta.ru/news/2026/10/06/veroyatnost-prekrascheniya-finansirovaniya-ukrainy-evrosoyuzom-otsenili/|Вероятность прекращения финансирования Украины Евросоюзом оценили
-1791253736|https://lenta.ru/news/2026/10/06/sily-pvo-unichtozhili-bolee-sta-bespilotnikov-na-podlete-k-moskve/|Силы ПВО уничтожили более ста беспилотников на подлете к Москве
-1791253741|https://lenta.ru/news/2026/10/06/stalo-izvestno-o-vliyanii-el-nino-na-milliony-detey-po-vsemu-miru/|Стало известно о влиянии Эль-Ниньо на миллионы детей по всему миру
 1791253747|https://lenta.ru/news/2026/10/06/tramp-dopustil-unichtozhenie-dvuh-amerikanskih-gorodov-v-konflikte-s-iranom/|Трамп допустил уничтожение двух американских городов в конфликте с Ираном
 1791253752|https://www.kommersant.ru/doc/9006927|Сьерра-Леоне готова предоставить России земли для выращивания кофе
 1791253757|https://www.kommersant.ru/doc/9006929|Bloomberg: OpenAI обсуждает привлечение $10 млрд от фондов из ОАЭ
@@ -1998,3 +1993,8 @@
 1791662330|https://www.kommersant.ru/doc/9023858|США выделят 4 млн баррелей нефти из резервов из-за урагана «Исайяс» // ExxonMobil и BP America получат 4 млн баррелей нефти из резервов США
 1791662334|https://tass.ru/ekonomika/28202301|ТАСС: аэропорт Эр-Рияда будет закрыт, ориентировочно, еще сутки
 1791662338|https://tass.ru/kultura/28202295|Умер актер из "Улицы разбитых фонарей" Владимир Баранов
+1791663072|https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss|Why is the Trump administration trying to dismantle the ICC?
+1791663079|https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss|Lionel Messi returns from Argentina farewell as Inter Miami face DC United
+1791663084|https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss|Azerbaijan school pupils protest over reported hijab restrictions
+1791663092|https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss|Manchester United held by ten-man Tottenham as woes for both continue
+1791663100|https://lenta.ru/news/2026/10/10/na-zapade-raskryli-otnoshenie-trampa-k-zelenskomu/|На Западе раскрыли отношение Трампа к Зеленскому
