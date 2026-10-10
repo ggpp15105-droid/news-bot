@@ -1,8 +1,3 @@
-1791239097|https://www.france24.com/en/switching-on-brain-cells-the-nobel-winning-science-of-optogenetics|Switching on brain cells: the Nobel-winning science of optogenetics
-1791239103|https://www.france24.com/en/quebec-votes-as-separatist-surge-poses-test-for-canada-pm|Quebec votes as separatist surge poses test for Canada PM
-1791239109|https://www.aa.com.tr/en/world/trump-says-us-looking-very-strongly-at-reported-plague-case-in-russia-/4079042|Trump says US 'looking very strongly' at reported plague case in Russia
-1791239115|https://www.aa.com.tr/en/science-technology/turkiye-s-aselsan-reveals-homegrown-communications-satellite-constellation/4078986|Türkiye’s Aselsan reveals homegrown communications satellite constellation
-1791239872|https://www.ign.com/articles/ubisoft-boss-says-watch-dogs-is-important-to-companys-future-but-dont-expect-any-new-entries-anytime-soon|Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon
 1791239878|https://www.ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz|Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ
 1791239884|https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations|RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations
 1791239890|https://www.ign.com/articles/final-fantasy-7-revelation-hot-springs-scenes-reveal-new-bathing-suit-skins-for-the-party|Final Fantasy 7 Revelation Hot Springs Scenes Reveal New Bathing Suit Skins for the Party
@@ -1998,3 +1993,8 @@
 1791649204|https://www.france24.com/en/video/20261010-kenya-ebola-tests-negative-as-contact-tracing-continues|Kenya: Ebola tests negative as contact tracing continues
 1791649208|https://www.france24.com/en/video/20261010-midterms-it-does-look-like-the-republicans-will-lose-control-of-the-house-of-representatives|Midterms: "It does look like the Republicans will lose control of the House of Representatives"
 1791649214|https://www.euronews.com/2026/10/10/pope-leo-condemns-death-penalty-vance-vows-not-to-watch-hasans-execution-live|Pope Leo condemns death penalty, Vance vows not to watch Hasan’s execution live
+1791650171|https://www.aa.com.tr/en/world/hundreds-of-thousands-rally-in-london-to-mark-3-years-of-genocide-in-gaza/4084636|Hundreds of thousands rally in London to mark 3 years of genocide in Gaza
+1791650177|https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme|GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme
+1791650183|https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos|Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos
+1791650189|https://www.tomshardware.com/pc-components/ugreens-100w-4-port-gan-charger-drops-27-percent-today-get-100w-of-power-and-four-ports-for-just-usd39-98|Ugreen’s 100W 4-port GaN charger drops 27% today
+1791650194|https://lenta.ru/news/2026/10/10/fedotov-otsenil-udalenie-vratarya-spartaka-maksimenko/|Федотов оценил удаление вратаря «Спартака» Максименко
