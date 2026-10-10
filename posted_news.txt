@@ -1,8 +1,3 @@
-1791223430|https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms|Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company
-1791223437|https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book|The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does
-1791223445|https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events|"It has to be more over the top, more insane, more in your face" - Rockstar explains why GTA 6 doesn't satirise real-world events
-1791223451|https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts|Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts
-1791224785|https://www.aa.com.tr/en/world/international-criminal-court-unseals-arrest-warrants-for-4-taliban-figures-over-alleged-persecution/4078913|International Criminal Court unseals arrest warrants for 4 Taliban figures over alleged persecution
 1791224791|https://www.aa.com.tr/en/world/formula-1-launches-review-into-software-glitch-that-disrupted-bahrain-gp-in-malaysia/4078905|Formula 1 launches review into software glitch that disrupted Bahrain GP in Malaysia
 1791224797|https://www.aa.com.tr/en/world/us-urges-citizens-in-saudi-arabia-to-remain-vigilant-over-risk-of-drone-missile-attacks/4078899|US urges citizens in Saudi Arabia to remain ‘vigilant’ over risk of drone, missile attacks
 1791224804|https://www.ign.com/articles/kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-that-just-focus-on-power-fantasy|Kingdom Come: Deliverance Dev Calls Out RPGs 'for Teenagers' That Just Focus on 'Power Fantasy'
@@ -1998,3 +1993,8 @@
 1791642785|https://lenta.ru/news/2026/10/10/raskryty-podrobnosti-ob-otravivshey-syna-uksusom-rossiyanke/|Раскрыты подробности об отравившей сына уксусом россиянке
 1791642790|https://lenta.ru/news/2026/10/10/prezident-afrikanskoy-respubliki-priedet-na-sammit-v-moskvu/|Президент африканской республики приедет на саммит в Москву
 1791642795|https://lenta.ru/news/2026/10/10/premier-gruzii-schel-pravilnym-reshenie-ne-vvodit-sanktsii-protiv-rossii/|Премьер Грузии счел правильным решение не вводить санкции против России
+1791643663|https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss|Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top
+1791643668|https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss|Jerusalem Daily: Israeli settlers attack olive farmers
+1791643674|https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss|Mexican judge sentences three men for murders of Australian, US surfers
+1791643680|https://www.france24.com/en/tv-shows/sports/20261010-lens-see-off-lyon-as-ligue-1-season-resumes-after-international-break|Lens see off Lyon as Ligue 1 season resumes after international break
+1791643687|https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data|Senate investigation says that some AI data center claims are misleading
