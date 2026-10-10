@@ -1,5 +1,3 @@
-1791165034|https://lenta.ru/news/2026/10/05/paren-reshil-otmenit-platnuyu-podpisku-i-sdelal-nepriyatnoe-otkrytie/|Парень решил отменить платную подписку и сделал неприятное открытие
-1791165687|https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us?traffic_source=rss|Can the KKK find a new foothold in the US?
 1791165693|https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-rdf|US pulls bombers out of UK's Fairford airbase after arrests
 1791165698|https://news.sky.com/story/bolsonaro-and-lula-to-compete-in-brazilian-presidential-run-off-after-tight-vote-13595195|Bolsonaro and Lula to compete in Brazilian presidential run-off after tight vote
 1791165703|https://www.japantimes.co.jp/business/2026/10/05/companies/taiyo-oil-ceo-japan-mideast/|Japan should keep focus on cheap Mideast oil, local refiner says
@@ -1998,3 +1996,5 @@
 1791593766|https://news.sky.com/story/three-found-guilty-of-killing-australian-brothers-and-american-friend-on-mexico-surf-trip-13597092|Three found guilty of killing Australian brothers and American friend on surf trip
 1791593773|https://www.japantimes.co.jp/news/2026/10/10/asia-pacific/china-militia-boat-first-taiwan-east-coast/|China militia boat spotted for first time off Taiwan’s east coast, patrol finds
 1791593780|https://www.japantimes.co.jp/business/2026/10/10/economy/china-eu-hybrid-exports/|China and EU strike deal to halve Chinese hybrid exports
+1791594643|https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss|Dual quakes devastate southern Panama
+1791594650|https://www.japantimes.co.jp/news/2026/10/10/world/iran-guards-missiles-trump/|Iran guards ability to build missiles as Trump eases attacks
