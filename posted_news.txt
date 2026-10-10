@@ -1,8 +1,3 @@
-1791194333|https://www.france24.com/en/video/20261005-us-withdraws-all-bombers-from-uk-base-at-centre-of-suspected-terror-attack|US withdraws all bombers from UK base at centre of suspected terror attack
-1791194337|https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel|🔴 Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel
-1791194342|https://www.france24.com/en/video/20261005-britain-s-green-party-votes-to-class-zionism-as-a-form-of-racism|Britain's Green Party votes to class Zionism as a form of racism
-1791194349|https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html|Saudi Aramco chief says replenishing global oil stockpiles could take two years
-1791195317|https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss|Nobel Prize awarded for showing how nerve cells shape feelings
 1791195324|https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss|Yemen forces claim to seize Dhubab, sites near Bab al-Mandeb from Houthis
 1791195330|https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss|Yemen war: What’s the latest, as government forces claim advances?
 1791195337|https://www.euronews.com/2026/10/05/middle-east-oil-exports-return-to-pre-war-levels-excluding-iran|Middle East oil exports return to pre-war levels, excluding Iran
@@ -1998,3 +1993,8 @@
 1791618511|https://www.aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss|‘How can you stop these kids?’ Indian capital on lockdown before protests
 1791618517|https://www.euronews.com/2026/10/10/silent-killer-study-finds-most-with-high-blood-pressure-unaware|Silent killer: study finds most with high blood pressure unaware
 1791618522|https://lenta.ru/news/2026/10/10/v-moskve-zafiksirovali-temperaturnyy-rekord/|В Москве зафиксировали температурный рекорд
+1791619173|https://www.dw.com/en/indian-police-detain-cockroach-movement-founder-and-dozens-of-protesters-in-new-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf|Indian police detain 'Cockroach' movement founder and dozens of protesters in New Delhi. Follow live.
+1791619177|https://www.france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel|'Constructive discussions': US, Europe and Ukraine work on joint plan to end war
+1791619186|https://lenta.ru/news/2026/10/10/moshenniki/|Россиянам напомнили о популярной схеме мошенничества
+1791619190|https://lenta.ru/news/2026/10/10/v-paname-nazvali-chislo-postradavshih-pri-moschnom-zemletryasenii/|В Панаме назвали число пострадавших при мощном землетрясении
+1791619195|https://lenta.ru/news/2026/10/10/chastota-mocheispuskaniy-nochyu/|Уролог назвал допустимое число ночных походов в туалет
