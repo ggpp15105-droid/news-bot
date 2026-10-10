@@ -1,8 +1,3 @@
-1791201338|https://www.euronews.com/2026/10/05/ai-weiwei-we-are-losing-privacy-and-without-it-we-stop-being-individuals|Ai Weiwei: "We are losing privacy and without it we stop being individuals"
-1791201345|https://www.aa.com.tr/en/middle-east/israeli-army-tightens-gaza-blockade-with-wide-trench-earthen-embankment-report/4078327|Israeli army tightens Gaza blockade with ‘wide trench, earthen embankment’: Report
-1791201351|https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-100-fighter-jets-involved-in-yemen-operation-against-houthis/4078276|Saudi-led coalition says 100 fighter jets involved in Yemen operation against Houthis
-1791201356|https://www.aa.com.tr/en/world/german-spy-chief-warns-of-violent-conflict-risk-with-russia/4078248|German spy chief warns of violent conflict risk with Russia
-1791202105|https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss|Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say
 1791202112|https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf|Suspected pneumonic plague in Siberia: What we know about the disease
 1791202118|https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html|Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death
 1791202125|https://www.aa.com.tr/en/middle-east/yemeni-government-forces-claim-control-of-bab-el-mandeb-strait-from-houthis/4078221|Yemeni government forces claim control of Bab el-Mandeb Strait from Houthis
@@ -1998,3 +1993,8 @@
 1791624614|https://www.france24.com/en/video/20261010-france-scientists-conduct-microgravity-experiments-on-parabolic-flights|France: Scientists conduct microgravity experiments on parabolic flights
 1791624619|https://www.france24.com/en/video/20261010-trump-hails-russia-deal-to-release-diesel-as-midterms-loom|Trump hails Russia deal to release diesel as midterms loom
 1791624626|https://www.euronews.com/2026/10/10/russian-strikes-on-southeastern-ukraine-kill-eight-including-three-children-authorities-sa|Russian strikes on southeastern Ukraine kill eight, including three children, authorities say
+1791625557|https://lenta.ru/news/2026/10/10/oni-khotyat/|Власти балканского региона вспомнили про российский газ
+1791625563|https://lenta.ru/news/2026/10/10/falsifikat/|Министра ЕЭК из Армении заподозрили в причастности к поставке контрафакта в Россию
+1791625571|https://lenta.ru/news/2026/10/10/rossiyskaya-armiya-vzyala-pod-kontrol-dva-naselennyh-punkta-v-harkovskoy-oblasti/|Российская армия взяла под контроль два населенных пункта в Харьковской области
+1791625577|https://lenta.ru/news/2026/10/10/long-rossiya-udarila-po-portam-ukrainy-i-porazila-suhogruz-s-voennymi-gruzami-geran-vpervye-doletela-do-lvova/|Россия ударила по портам Украины и поразила сухогруз с военными грузами. «Герань» впервые долетела до Львова
+1791625582|https://lenta.ru/news/2026/10/10/v-kremle-raskryli-odnu-iz-klyuchevyh-tem-razgovora-putina-i-trampa/|В Кремле раскрыли одну из ключевых тем разговора Путина и Трампа
