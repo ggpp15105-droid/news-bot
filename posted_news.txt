@@ -1,8 +1,3 @@
-1791235965|https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss|France braces for national day of school protests after injuries and mass arrests
-1791235971|https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss|Spain PM pins hopes on housing crisis to help win snap election
-1791235976|https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss|Super-subs help France demolish Belgium with late flurry
-1791235982|https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss|Ethiopia’s PM insists on access to Red Sea despite regional conflict threat
-1791236623|https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss|Trump says US ready to aid Russia with plague outbreak in Siberia
 1791236629|https://www.aljazeera.com/video/newsfeed/2026/10/5/brazils-presidential-race-head-for-a-tough-runoff?traffic_source=rss|Brazil’s presidential race head for a tough runoff
 1791236635|https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss|What’s next for Bosnia after elections?
 1791236643|https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf|ICC unseals Taliban leaders' warrants over persecuting women
@@ -1998,3 +1993,8 @@
 1791646038|https://www.tomshardware.com/video-games/playstation/ps5-hack-delivers-native-ps2-disc-support-and-4k-upscaling-where-sony-refused-to-after-ps2-breakthrough-homebrew-dev-confirms-ps3-disc-support-is-next-for-ps5|PS5 hack delivers native PS2 disc support and 4K upscaling where Sony refused to — after PS2 breakthrough, homebrew dev confirms PS3 disc support is next for PS5
 1791646047|https://lenta.ru/news/2026/10/10/gruz/|В России начали останавливать продажи грузинской воды и алкоголя
 1791646056|https://lenta.ru/news/2026/10/10/tasoev-zavoeval-zoloto-chempionata-mira-po-dzyudo/|Тасоев завоевал золото чемпионата мира по дзюдо
+1791646935|https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss|Christa Pike discharged from hospital and returned to prison, her lawyers say
+1791646942|https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss|Three injured in third school attack in Poland in less than a week
+1791646948|https://www.aa.com.tr/en/world/not-the-time-to-ease-pressure-on-russia-eu-s-kallas-warns-against-suspending-sanctions/4084608|'Not the time to ease pressure on Russia,' EU’s Kallas warns against suspending sanctions
+1791646955|https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics|SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors
+1791646963|https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges|Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China
