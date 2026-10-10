@@ -1,8 +1,3 @@
-1791266468|https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html|How quant funds beat the market by being 'early, contrarian and right'
-1791266477|https://lenta.ru/news/2026/10/06/v-rossii-nazvali-tsel-ataki-vsu-na-moskovskuyu-oblast/|В России назвали цель атаки ВСУ на Московскую область
-1791266483|https://lenta.ru/news/2026/10/06/v-podpolie-raskryli-pomosch-zhiteley-ukrainy-armii-rossii/|В подполье раскрыли помощь жителей Украины армии России
-1791267688|https://www.france24.com/en/europe/20261006-massive-ukrainian-drone-attack-targets-moscow-russian-officials-say|Massive Ukrainian drone attack targets Moscow, Russian officials say
-1791267694|https://www.cnbc.com/2026/10/06/daily-open-red-diesel-trump-midterms.html|CNBC Daily Open: 'Red' diesel to hit U.S. highways
 1791267702|https://www.euronews.com/2026/10/06/europe-today-sanchez-calls-snap-election-in-spain-as-french-students-protest-again|Europe Today: Sánchez calls snap election in Spain as French students protest again
 1791267708|https://www.euronews.com/2026/10/06/frances-sovereign-debt-crisis-explained-how-dangerous-could-it-be|France's sovereign debt crisis explained: How dangerous could it be?
 1791267716|https://www.japantimes.co.jp/news/2026/10/06/world/science-health/ebola-spread-health-workers-exhaustion/|Ebola spreads ‘like wildfire’ as health workers battle exhaustion
@@ -1998,3 +1993,8 @@
 1791674490|https://lenta.ru/news/2026/10/11/v-rossii-ob-yasnili-prizyv-trampa-smenit-zelenskogo/|В России объяснили призыв Трампа сменить Зеленского
 1791674494|https://tass.ru/obschestvo/28202495|Миронов призвал расширить перечень продуктов для мониторинга цен
 1791674498|https://tass.ru/mezhdunarodnaya-panorama/28202501|Атака на аэропорт в Эр-Рияде была совершена хуситами
+1791675335|https://lenta.ru/news/2026/10/11/raskryto-glavnoe-zabluzhdenie-zapada-o-vtoroy-mirovoy-voyne/|Раскрыто главное заблуждение Запада о Второй мировой войне
+1791675340|https://lenta.ru/news/2026/10/11/hokkeynyy-trener-yuliya-karpova-umerla-v-vozraste-42-let/|Хоккейный тренер Юлия Карпова умерла в возрасте 42 лет
+1791675345|https://www.kommersant.ru/doc/9023869|Саудовская Аравия обвинила хуситов в ударе по аэропорту Эр-Рияда
+1791675350|https://tass.ru/obschestvo/28202505|Стали известны регионы с самой высокой долей курящих
+1791675354|https://tass.ru/obschestvo/28202493|Эксперт Кобзева назвала последствия введения доплат за стаж
