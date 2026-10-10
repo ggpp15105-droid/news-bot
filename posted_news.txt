@@ -1,8 +1,3 @@
-1791192260|https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss|‘If I didn’t write what moved me, it’d be like putting myself in prison’
-1791192267|https://www.euronews.com/video/2026/10/05/bolsonaro-win-could-put-eu-brazil-ties-at-risk-says-former-mep-albuquerque|'Bolsonaro win could put EU-Brazil ties at risk,' says former MEP Albuquerque
-1791192274|https://www.japantimes.co.jp/news/2026/10/05/japan/tokyo-record-rain-end/|Tokyo’s record streak of rain comes to an end
-1791192281|https://www.japantimes.co.jp/commentary/2026/10/05/world/ai-grievance-machine/|AI is the greatest grievance machine ever
-1791193378|https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss|'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa
 1791193385|https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf|As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously
 1791193391|https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine/a-79544130?maca=en-rss-en-all-1573-rdf|German and US scientists win Nobel Prize in medicine
 1791193397|https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round|Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round
@@ -1998,3 +1993,8 @@
 1791616589|https://www.euronews.com/2026/10/10/life-threatening-hurricane-isaias-makes-landfall-in-florida-bringing-high-winds-and-heavy-|Life-threatening Hurricane Isaias makes landfall in Florida, bringing high winds and heavy rain
 1791616595|https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff|What we've been playing - "It's pure video game popcorn movie stuff"
 1791616600|https://lenta.ru/news/2026/10/10/ugroza/|Пушилин заявил об угрозе боевых действий для жителей подконтрольных ВСУ городов
+1791617600|https://lenta.ru/news/2026/10/10/v-moskovskih-aeroportah-sorvalis-bolee-280-reysov/|В московских аэропортах сорвались более 280 рейсов
+1791617605|https://lenta.ru/news/2026/10/10/detroyt-proigral-sietlu-v-matche-nhl/|«Детройт» проиграл «Сиэтлу» в матче НХЛ
+1791617610|https://lenta.ru/news/2026/10/10/damba-zavershil-karieru-v-nhl-v-32-goda/|Дамба завершил карьеру в НХЛ в 32 года
+1791617615|https://lenta.ru/news/2026/10/10/ronaldu-zabil-980-y-myach-v-kariere-v-pervom-matche-posle-ot-ezda-iz-sbornoy-portugalii/|Роналду забил 980-й мяч в карьере в первом матче после отъезда из сборной Португалии
+1791617624|https://www.kommersant.ru/doc/9023710|Более 20 самолетов ушли в Пулково из-за ограничений в аэропортах Москвы
