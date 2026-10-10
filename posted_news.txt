@@ -1,8 +1,3 @@
-1791258309|https://www.japantimes.co.jp/news/2026/10/06/asia-pacific/politics/south-korea-north-korea-response-apology/|South Korea preparing to force North Korea to apologize over DMZ mine blast
-1791258314|https://lenta.ru/news/2026/10/06/vrach-nazval-ukazyvayuschie-na-anemiyu-sostoyaniya-organizma/|Врач назвал указывающие на анемию состояния организма
-1791258318|https://lenta.ru/news/2026/10/06/ilon-mask-nazval-glavnuyu-slozhnost-dlya-bespilotnyh-mashin-po-nocham/|Илон Маск назвал главную сложность для беспилотных машин по ночам
-1791259158|https://lenta.ru/news/2026/10/06/zapad-predupredili-o-posledstviyah-antirossiyskoy-politiki/|Запад предупредили о последствиях антироссийской политики
-1791259162|https://lenta.ru/news/2026/10/06/v-mid-rossii-zayavili-o-molchanii-zapada-ob-uscherbe-chernomu-moryu-ot-atak-kieva/|В МИД России заявили о молчании Запада об ущербе Черному морю от атак Киева
 1791259167|https://lenta.ru/news/2026/10/06/rossiyanam-raskryli-nyuansy-ispolzovaniya-matkapitala/|Россиянам раскрыли нюансы использования маткапитала
 1791259172|https://www.kommersant.ru/doc/9006931|Непал завершил поиски пропавших после обвала ледника в августе
 1791259176|https://tass.ru/obschestvo/28184939|В Мьянме задержали 87 человек по делу о кибермошенничестве
@@ -1998,3 +1993,8 @@
 1791667261|https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss|Yemen’s Houthis release video of drone attacks on gov’t forces
 1791667266|https://lenta.ru/news/2026/10/11/vyzhivshuyu-posle-kazni-zhenschinu-vernuli-v-tyurmu-v-ssha/|Выжившую после казни женщину вернули в тюрьму в США
 1791667275|https://www.kommersant.ru/doc/9023865|FT: как минимум 50 человек пострадали при ракетном ударе по аэропорту Эр-Рияда
+1791668172|https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss|Hundreds of doctors demand World Medical Association suspend Israel
+1791668180|https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high|Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High
+1791668189|https://lenta.ru/news/2026/10/10/padenie-bloka-rakety-amerikanskogo-zrk-patriot-na-zhilye-doma-v-kieve-popalo-na-video/|Падение блока ракеты американского ЗРК Patriot на жилые дома в Киеве попало на видео
+1791668194|https://lenta.ru/news/2026/10/11/rossiyanka-popytalas-zadushit-svoih-detey-v-kolyaske/|Россиянка попыталась задушить своих детей в коляске
+1791668198|https://tass.ru/obschestvo/28202423|День многодетной семьи отмечают в Подмосковье
