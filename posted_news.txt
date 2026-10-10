@@ -1,8 +1,3 @@
-1791243605|https://www.tomshardware.com/pc-components/these-32gb-ddr5-memory-kits-are-the-cheapest-available-on-the-market-we-found-the-cheapest-one-around-plus-amd-and-intel-tailored-options|Get into a 32GB DDR5 memory kit for less this Big Deals Day with these picks
-1791243613|https://www.tomshardware.com/pc-components/cpus/its-finally-a-good-time-to-buy-a-raptor-lake-cpu-during-prime-big-deals-day-chips-drop-to-all-time-low-prices-as-inventory-seemingly-stabilizes|It's finally a good time to buy a Raptor Lake CPU during Prime Big Deals Day
-1791243618|https://lenta.ru/news/2026/10/06/sobyanin-soobschil-o-13-sbityh-vblizi-moskvy-dronov-vsu/|Собянин сообщил о 13 сбитых вблизи Москвы дронах ВСУ
-1791243624|https://lenta.ru/news/2026/10/06/striptizersha-rasskazala-o-vstreche-s-seriynym-nasilnikom/|Стриптизерша рассказала о встрече с «серийным насильником»
-1791244238|https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html|CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk
 1791244243|https://lenta.ru/news/2026/10/06/v-mid-raskritikovali-zelenuyu-povestku-es/|В МИД раскритиковали зеленую повестку ЕС
 1791244247|https://lenta.ru/news/2026/10/06/minoborony-rossii-zayavilo-o-sodeystvii-rassledovaniyu-dela-gendirektora-parka-patriot/|Минобороны России заявило о содействии расследованию дела гендиректора парка «Патриот»
 1791244252|https://www.kommersant.ru/doc/9006921|Вблизи Москвы сбиты 13 беспилотников
@@ -1998,3 +1993,8 @@
 1791654228|https://lenta.ru/news/2026/10/10/neoch/|В Финляндии уточнили детали решения суда по расторжению контракта с «Росатомом»
 1791654237|https://lenta.ru/news/2026/10/10/tramp-zayavil-o-zhelanii-zelenskogo-sozdavat-problemy-vsemu-miru/|Трамп заявил о желании Зеленского создавать проблемы всему миру
 1791654241|https://lenta.ru/news/2026/10/10/posetitel-zooparka-zaprygnul-v-kletku-s-tigrom/|Посетитель зоопарка запрыгнул в клетку с тигром
+1791654903|https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf|Trump slams Zelenskyy, says Ukraine should elect new president
+1791654911|https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer|Nivalis Nights might not have any combat, "but that doesn't mean it's a cosy game," so says its lead writer
+1791654919|https://lenta.ru/news/2026/10/10/tramp-zhestko-vyskazalsya-o-laureate-nobelevskoy-premii-mira/|Трамп жестко высказался о лауреате Нобелевской премии мира
+1791654924|https://lenta.ru/news/2026/10/10/rianna-snyalas-s-detmi-v-odinakovyh-obrazah/|Рианна снялась с детьми в одинаковых образах
+1791654929|https://lenta.ru/news/2026/10/10/spetspredstavitel-putina-prokommentiroval-zayavlenie-trampa-o-zelenskom/|Спецпредставитель Путина прокомментировал заявление Трампа о Зеленском
