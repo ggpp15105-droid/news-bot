@@ -1,8 +1,3 @@
-1791195324|https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss|Yemen forces claim to seize Dhubab, sites near Bab al-Mandeb from Houthis
-1791195330|https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss|Yemen war: What’s the latest, as government forces claim advances?
-1791195337|https://www.euronews.com/2026/10/05/middle-east-oil-exports-return-to-pre-war-levels-excluding-iran|Middle East oil exports return to pre-war levels, excluding Iran
-1791195344|https://www.euronews.com/2026/10/05/new-molecule-restores-memory-in-animals-with-alzheimers-disease|New molecule restores memory in animals with Alzheimer's' disease
-1791196495|https://www.aljazeera.com/opinions/2026/10/5/the-republican-consensus-on-israel-is-starting-to-fracture?traffic_source=rss|The Republican consensus on Israel is starting to fracture
 1791196504|https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-all-1573-rdf|Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged
 1791196510|https://www.france24.com/en/tv-shows/business/20261005-trump-names-jay-clayton-as-ai-czar-to-lead-super-intelligence-force|Trump names Jay Clayton as AI czar to lead 'Super Intelligence Force'
 1791196516|https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html|China shuts hundreds of banks as Beijing moves to shore up its financial system
@@ -1998,3 +1993,8 @@
 1791619186|https://lenta.ru/news/2026/10/10/moshenniki/|Россиянам напомнили о популярной схеме мошенничества
 1791619190|https://lenta.ru/news/2026/10/10/v-paname-nazvali-chislo-postradavshih-pri-moschnom-zemletryasenii/|В Панаме назвали число пострадавших при мощном землетрясении
 1791619195|https://lenta.ru/news/2026/10/10/chastota-mocheispuskaniy-nochyu/|Уролог назвал допустимое число ночных походов в туалет
+1791620044|https://www.aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss|Ronaldo returns after Portugal quarrel to score in Al-Nassr win
+1791620049|https://www.france24.com/en/europe/20261010-all-human-emotion-french-astronaut-sophie-adenot-first-words-since-returning-earth|'All Human Emotion': French astronaut Sophie Adenot's first words since returning to Earth
+1791620053|https://lenta.ru/news/2026/10/10/rudkovskaya-postavila-zarubezhnyh-zvezd-v-primer-rossiyanam-po-chasti-otnosheniya-k-ee-synu/|Рудковская поставила зарубежных звезд в пример россиянам по части отношения к ее сыну
+1791620062|https://lenta.ru/news/2026/10/10/golden-steyt-stal-pervoy-zhenskoy-komandoy-s-vyruchkoy-bolee-100-millionov-dollarov/|«Голден Стэйт» стал первой женской командой с выручкой более 100 миллионов долларов
+1791620071|https://lenta.ru/news/2026/10/10/gruppa-neizvestnyh-napadala-na-rossiyan-v-obschestvennom-transporte/|Группа неизвестных нападала на россиян в общественном транспорте
