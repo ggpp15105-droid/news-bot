@@ -1,8 +1,3 @@
-1791250458|https://www.japantimes.co.jp/news/2026/10/06/world/politics/flydubai-hijacking-israeli-election/|FlyDubai hijacking turns into flash point in Israeli election
-1791250465|https://www.japantimes.co.jp/news/2026/10/06/world/politics/lula-improbable-comeback/|Lula hunts for one more improbable comeback after shock election setback
-1791250472|https://www.tomshardware.com/pc-components/external-hdds/get-a-rare-deal-on-the-shuckable-16tb-seagate-expansion-desktop-drive-at-usd0-02-per-gb-save-usd100-on-this-big-drive-ahead-of-prime-big-deal-days|Get a rare deal on a shuckable 16TB Seagate Expansion Desktop drive at $0.02 per GB
-1791251252|https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss|Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder
-1791251260|https://www.dw.com/en/measles-cases-are-spreading-in-the-us-this-year-with-over-1-000-infections-reported-in-pennsylvania/a-79557286?maca=en-rss-en-all-1573-rdf|Measles cases are spreading in the US this year, with over 1,000 infections reported in Pennsylvania
 1791251266|https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html|Trump offers U.S. help after plague death in Russia; WHO assesses the situation as low risk
 1791251273|https://www.japantimes.co.jp/news/2026/10/06/world/terror-threat-us-uk-base/|Trump says U.S. moved bombers from U.K. base after ‘threats’
 1791251281|https://lenta.ru/news/2026/10/06/ukrainu-predupredili-o-poslednem-shanse-na-mir/|Украину предупредили о последнем шансе на мир
@@ -1998,3 +1993,8 @@
 1791660232|https://lenta.ru/news/2026/10/10/doch-lyubovi-uspenskoy-otvetila-na-kritiku-vneshnosti/|Дочь Любови Успенской ответила на критику внешности
 1791660237|https://lenta.ru/news/2026/10/10/long-on-hochet-sozdavat-problemy-miru-tramp-prizval-zelenskogo-ostanovitsya-i-dal-sovet-ukraintsam/|«Он хочет создавать проблемы миру». Трамп выразил недовольство Зеленским и призвал украинцев выбрать нового лидера
 1791660246|https://www.kommersant.ru/doc/9023855|Глава Палестины перенес выборы на год // Президентские и парламентские выборы в Палестине перенесли на сентябрь 2027 года
+1791661010|https://www.euronews.com/2026/10/10/lee-claims-world-gold-as-tasoev-secures-his-third-world-title-in-baku|Lee Claims World Gold as Tasoev Secures His Third World Title in Baku
+1791661015|https://lenta.ru/news/2026/10/10/v-rade-sravnili-otnoshenie-k-zelenskomu-s-travley-tarakanov/|В Раде сравнили отношение к Зеленскому с травлей тараканов
+1791661020|https://lenta.ru/news/2026/10/10/dvoe-rossiyan-postradali-pri-atake-bpla/|Двое россиян пострадали при атаке БПЛА
+1791661024|https://lenta.ru/news/2026/10/10/v-rossii-otreagirovali-na-slova-trampa-o-smene-prezidenta-na-ukraine/|В России отреагировали на слова Трампа о смене президента на Украине
+1791661028|https://tass.ru/sport/28202283|Мусаев назвал болезненным поражение "Краснодара" от "Зенита" в матче РПЛ
