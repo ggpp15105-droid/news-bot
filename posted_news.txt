@@ -1,8 +1,3 @@
-1791187671|https://www.japantimes.co.jp/commentary/2026/10/05/japan/japan-wants-pharma-boom/|Japan wants a pharma boom. It needs a new strategy.
-1791187677|https://www.japantimes.co.jp/commentary/2026/10/05/world/ai-world-war/|Preventing artificial intelligence from triggering a world war
-1791187684|https://www.aa.com.tr/en/europe/spain-s-sanchez-calls-early-elections-after-housing-measures-rejected/4078089|Spain’s Sanchez calls early elections after housing measures rejected
-1791187690|https://www.aa.com.tr/en/turkiye/ahead-of-cop31-in-turkiye-fiji-hosts-pacific-leaders-with-focus-on-oceans-blue-economy/4078039|Ahead of COP31 in Türkiye, Fiji hosts Pacific leaders with focus on oceans, blue economy
-1791188957|https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss|France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format
 1791188963|https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory|Yemen launches more than 1,000 strikes in bid to retake territory lost to Houthi rebels
 1791188969|https://www.france24.com/en/tv-shows/press-review/20261005-mum-if-you-see-this-it-s-for-my-future|"Mum if you see this it's for my future"
 1791188976|https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html|Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks
@@ -1998,3 +1993,8 @@
 1791612062|https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf|India's 'Cockroach' leaders detained ahead of major protest
 1791612071|https://lenta.ru/news/2026/10/10/shest-chelovek-postradali-pri-atake-vsu-na-rostovskuyu-oblast/|Шесть человек пострадали при атаке ВСУ на Ростовскую область
 1791612080|https://lenta.ru/news/2026/10/10/vrach-posovetovala-ubrat-dva-produkta-iz-ratsiona-pri-grippe/|Врач посоветовала убрать несколько продуктов из рациона при гриппе
+1791613210|https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf|How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond
+1791613217|https://www.euronews.com/2026/10/10/as-russia-escalates-its-war-the-eu-admits-its-support-for-ukraine-wont-be-enough|As Russia escalates its war, the EU realises its support for Ukraine won't be enough
+1791613221|https://lenta.ru/news/2026/10/10/rossiyskiy-boets-rasskazal-ob-izmenenii-taktiki-boevyh-deystviy-s-nachala-svo/|Российский боец рассказал об изменении тактики боевых действий с начала СВО
+1791613226|https://www.kommersant.ru/doc/9023687|В Турции с 1 ноября запретят использование соцсетей детьми младше 15 лет
+1791613234|https://www.kommersant.ru/doc/9023675|Минобороны России отчиталось об ударе по судну с грузом для ВСУ
