@@ -1,8 +1,3 @@
-1791199329|https://news.sky.com/story/two-men-dead-after-attempted-small-boat-channel-crossing-13595246|Two dead after attempted small boat Channel crossing
-1791199336|https://www.euronews.com/2026/10/05/schneider-electric-shares-plunge-on-record-226bn-ptc-deal|Schneider Electric shares plunge on record $22.6bn PTC deal
-1791199344|https://www.euronews.com/2026/10/05/french-students-set-fire-to-paris-school-entrance-on-eve-of-nationwide-day-of-action|French students set fire to Paris school entrance on eve of nationwide day of action
-1791199351|https://www.japantimes.co.jp/business/2026/10/05/economy/bank-of-japan-underlying-inflation-rate/|BOJ to declare underlying inflation has reached 2%, sources say
-1791200401|https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss|Spanish PM Sánchez calls early election after housing protests
 1791200407|https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss|Photos: Yemen’s hospitals struggle to operate amid persistent power outages
 1791200412|https://www.france24.com/en/mountaineer-takes-cancer-research-and-quality-of-life-to-new-heights-8-000-metres-to-be-precise|Mountaineer takes cancer research and quality of life to new heights... 8,000 metres, to be precise!
 1791200418|https://www.euronews.com/video/2026/10/05/pink-perfume-and-power-inside-copenhagens-new-exhibition-on-ancient-roman-fashion|Pink, perfume and power: Inside Copenhagen's new exhibition on ancient Roman fashion
@@ -1998,3 +1993,8 @@
 1791622766|https://www.aljazeera.com/news/2026/10/10/a-decade-of-lajee-celtic-the-palestinian-club-whose-fans-include-cantona?traffic_source=rss|A decade of Lajee Celtic: The Palestinian club whose fans include Cantona
 1791622775|https://lenta.ru/news/2026/10/10/prokopov-rassudit-match-fakela-i-lokomotiva/|Прокопов рассудит матч «Факела» и «Локомотива»
 1791622780|https://lenta.ru/news/2026/10/10/vozmutilsya/|Трамп назвал позором отказ присудить ему Нобелевскую премию мира
+1791623601|https://lenta.ru/news/2026/10/10/na-zapade-voshitilis-schedrostyu-putina/|На Западе восхитились щедростью Путина
+1791623606|https://lenta.ru/news/2026/10/10/v-sovfede-otsenili-znachenie-sdelki-rossii-i-ssha/|В Совфеде оценили значение сделки России и США
+1791623611|https://lenta.ru/news/2026/10/10/na-zaes-rasskazali-o-krayne-slozhnoy-situatsii-s-logistikoy-iz-za-atak-vsu/|На ЗАЭС рассказали о крайне сложной ситуации с логистикой из-за атак ВСУ
+1791623615|https://www.kommersant.ru/doc/9023734|Минобороны сообщило об уничтожении 725 беспилотников за сутки
+1791623624|https://www.kommersant.ru/doc/9023730|Российские войска заняли два села в Харьковской области
