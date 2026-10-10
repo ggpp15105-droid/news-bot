@@ -1,8 +1,3 @@
-1791173813|https://www.aljazeera.com/video/newsfeed/2026/10/5/bosnian-serb-nationalist-claims-party-victory-in-bosnia-elections?traffic_source=rss|Bosnian Serb nationalist claims party victory in Bosnia elections
-1791173820|https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed|Skull fractures suggest servants of Egypt’s ancient kings were sacrificed
-1791173827|https://www.euronews.com/2026/10/05/brazil-heads-to-a-runoff-presidential-vote-after-bolsonaro-and-lula-fail-to-acquire-outrig|Brazil heads to a runoff presidential vote after Bolsonaro and Lula fail to acquire outright majority needed
-1791173835|https://www.japantimes.co.jp/business/2026/10/05/companies/millennium-jera-power-trader-hire/|Millennium to hire Jera power trader in Japan energy push
-1791175173|https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss|FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son
 1791175178|https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss|Russian lab worker dies of suspected plague in Siberia; US monitoring case
 1791175183|https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html|Russia hospitalizes almost 200 people after researcher's death from plague: reports
 1791175189|https://www.japantimes.co.jp/news/2026/10/05/japan/hiroshima-rural-schools-nationwide/|Hiroshima’s rural high schools attract students from across Japan
@@ -1998,3 +1993,8 @@
 1791601912|https://www.aa.com.tr/en/americas/chile-declares-part-of-santiago-disaster-zone-after-heavy-rains/4084151|Chile declares part of Santiago disaster zone after heavy rains
 1791601919|https://www.aa.com.tr/en/africa/un-chief-gravely-concerned-by-renewed-fighting-in-ethiopia/4084150|UN chief 'gravely concerned' by renewed fighting in Ethiopia
 1791601928|https://lenta.ru/news/2026/10/10/vrach-vyskazalsya-o-grozyaschey-neobratimymi-posledstviyami-dozirovke-alkogolya/|Врач высказался о грозящей необратимыми последствиями дозировке алкоголя
+1791602932|https://www.aa.com.tr/en/americas/trump-administration-mandates-ai-incident-reporting-after-anthropic-disclosure-report/4084155|Trump administration mandates AI incident reporting after Anthropic disclosure: Report
+1791602941|https://lenta.ru/news/2026/10/10/v-rossii-rasskazali-o-vygode-ot-soglasheniya-s-ssha-po-diztoplivu/|В России рассказали о выгоде от лицензии США на дизтопливо
+1791602946|https://lenta.ru/news/2026/10/10/terapevt-razveyal-odin-iz-glavnyh-mifov-pro-orvi/|Терапевт развеял один из главных мифов про ОРВИ
+1791602950|https://www.kommersant.ru/doc/9023654|Трамп: Нобелевская премия мира дискредитирована радикальными антидемократами
+1791602954|https://tass.ru/ekonomika/28200741|В аэропортах Котласа и Сыктывкара сняли временные ограничения
