@@ -1,8 +1,3 @@
-1791239878|https://www.ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz|Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ
-1791239884|https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations|RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations
-1791239890|https://www.ign.com/articles/final-fantasy-7-revelation-hot-springs-scenes-reveal-new-bathing-suit-skins-for-the-party|Final Fantasy 7 Revelation Hot Springs Scenes Reveal New Bathing Suit Skins for the Party
-1791239897|https://www.ign.com/articles/physint-update-hideo-kojima-shares-new-info-on-his-upcoming-metal-gear-spiritual-successor|Physint Update: Hideo Kojima Shares New Info on His Upcoming Metal Gear Spiritual Successor
-1791240627|https://www.cnbc.com/2026/10/05/trump-ads-election.html|Trump says he'll pay for TV ads that praised him and which government funded
 1791240635|https://www.gamespot.com/articles/halloweens-first-dlc-reveals-even-the-bad-sequels-will-get-some-love/|Halloween’s First DLC Reveals Even The Bad Sequels Will Get Some Love
 1791240642|https://www.gamespot.com/articles/uncharted-5-release-date-trailer-story/1100-6539504/|Uncharted 5: Everything We Know About The Unconfirmed Game
 1791240648|https://www.gamespot.com/articles/amid-uncharted-5-rumors-nathan-drake-actor-says-he-would-come-back-but-with-one-catch/|Amid Uncharted 5 Rumors, Nathan Drake Actor Says He Would Come Back, But With One Catch
@@ -1998,3 +1993,8 @@
 1791650183|https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos|Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos
 1791650189|https://www.tomshardware.com/pc-components/ugreens-100w-4-port-gan-charger-drops-27-percent-today-get-100w-of-power-and-four-ports-for-just-usd39-98|Ugreen’s 100W 4-port GaN charger drops 27% today
 1791650194|https://lenta.ru/news/2026/10/10/fedotov-otsenil-udalenie-vratarya-spartaka-maksimenko/|Федотов оценил удаление вратаря «Спартака» Максименко
+1791651052|https://www.dw.com/en/several-injured-after-attack-on-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-rdf|Several injured after attack on Saudi Arabia's Riyadh Airport
+1791651057|https://news.sky.com/story/uk-nationals-told-to-avoid-saudi-arabia-airport-after-missile-strikes-leave-many-wounded-13563284|UK nationals told to avoid Saudi Arabia airport after missile strikes 'leave many wounded'
+1791651064|https://www.euronews.com/2026/10/10/left-wing-primary-more-than-half-of-registered-voters-have-already-voted-say-organisers|Left-wing primary: more than half of registered voters have already voted, say organisers
+1791651072|https://www.aa.com.tr/en/middle-east/us-uk-embassies-urge-citizens-to-avoid-riyadh-airport-following-attacks/4084655|US, UK embassies urge citizens to avoid Riyadh airport following attacks
+1791651077|https://lenta.ru/news/2026/10/10/chetyre-cheloveka-postradali-pri-ocherednyh-atakah-vsu/|Четыре человека пострадали при очередных атаках ВСУ
