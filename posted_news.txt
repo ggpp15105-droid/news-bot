@@ -1,8 +1,3 @@
-1791207353|https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html|GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'
-1791207359|https://www.euronews.com/2026/10/05/vat-rise-canal-threatens-to-scale-back-support-for-cinema|VAT rise: Canal+ threatens to scale back support for cinema
-1791207365|https://www.euronews.com/video/2026/10/05/thousands-of-pilgrims-make-overnight-journey-to-lujan-ahead-of-pope-leos-visit|Thousands of pilgrims make overnight journey to Luján ahead of Pope Leo’s visit
-1791207370|https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi|'Situation under control' say Russian authorities after reports of plague in Siberia
-1791208515|https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss|Is Iran charging a toll to allow oil traffic through Hormuz?
 1791208520|https://www.euronews.com/2026/10/05/this-new-japanese-walking-trail-connects-six-cities-across-320-kilometres|This new Japanese walking trail connects six cities across 320 kilometres
 1791208528|https://www.euronews.com/2026/10/05/is-kazakhstan-the-birthplace-of-apples-heres-how-the-fruit-spread-across-the-world|Is Kazakhstan the birthplace of apples? Here’s how the fruit spread across the world
 1791208538|https://www.aa.com.tr/en/science-technology/top-global-government-ministers-discuss-goals-strategies-at-astronautical-space-congress-in-turkiye/4078700|Top global government ministers discuss goals, strategies at astronautical/space congress in Türkiye
@@ -1998,3 +1993,8 @@
 1791628839|https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out|Ukrainian drones strike Russia's largest data center, multiple parts of 1.4 million square foot campus knocked offline
 1791628848|https://lenta.ru/news/2026/10/10/rospotrebnadzor-zapretil-vvoz-v-rossiyu-proizvedennoy-v-gruzii-koly/|Роспотребнадзор запретил ввоз в Россию произведенной в Грузии колы
 1791628853|https://lenta.ru/news/2026/10/10/40-letnyaya-ledi-gaga-pokazala-vneshnost-bez-makiyazha/|40-летняя Леди Гага показала внешность без макияжа
+1791629622|https://lenta.ru/news/2026/10/10/narusheno/|В Брянской области из-за атак дронов нарушено движение по железной дороге
+1791629627|https://lenta.ru/news/2026/10/10/fis-izmenit-format-finala-kubka-mira-po-lyzhnym-gonkam/|FIS изменит формат финала Кубка мира по лыжным гонкам
+1791629633|https://lenta.ru/news/2026/10/10/venger-mozhet-sostavit-konkurentsiyu-infantino-na-vyborah-prezidenta-fifa/|Венгер может составить конкуренцию Инфантино на выборах президента ФИФА
+1791629638|https://www.kommersant.ru/doc/9023757|РБК: Роспотребнадзор запретил ввоз некоторых вин и напитков из Грузии // РБК сообщил о запрете Роспотребнадзора на ввоз некоторых напитков из Грузии
+1791629643|https://www.kommersant.ru/doc/9023754|Режим ЧС ввели на улицах Ростова-на-Дону, где повреждены дома после атаки БПЛА
