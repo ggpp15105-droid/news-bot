@@ -1,8 +1,3 @@
-1791202112|https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf|Suspected pneumonic plague in Siberia: What we know about the disease
-1791202118|https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html|Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death
-1791202125|https://www.aa.com.tr/en/middle-east/yemeni-government-forces-claim-control-of-bab-el-mandeb-strait-from-houthis/4078221|Yemeni government forces claim control of Bab el-Mandeb Strait from Houthis
-1791202132|https://www.ign.com/articles/gta-6-research-gang-members|Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research
-1791203562|https://www.aljazeera.com/opinions/2026/10/5/wma-members-must-call-for-release-of-detained-palestinian-medics?traffic_source=rss|WMA members must call for release of detained Palestinian medics
 1791203570|https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah|Guardian readers fund life-changing surgery for Somali boy injured in US airstrike
 1791203576|https://www.euronews.com/2026/10/05/ukraine-warns-of-fake-government-and-media-sites-tied-to-russian-intelligence|Ukraine warns of fake government and media sites tied to Russian intelligence
 1791203584|https://www.euronews.com/2026/10/05/eu-monitors-very-closely-suspected-outbreak-of-pneumonic-plague-in-russia|EU monitors 'very closely' suspected outbreak of pneumonic plague in Russia
@@ -1998,3 +1993,8 @@
 1791625571|https://lenta.ru/news/2026/10/10/rossiyskaya-armiya-vzyala-pod-kontrol-dva-naselennyh-punkta-v-harkovskoy-oblasti/|Российская армия взяла под контроль два населенных пункта в Харьковской области
 1791625577|https://lenta.ru/news/2026/10/10/long-rossiya-udarila-po-portam-ukrainy-i-porazila-suhogruz-s-voennymi-gruzami-geran-vpervye-doletela-do-lvova/|Россия ударила по портам Украины и поразила сухогруз с военными грузами. «Герань» впервые долетела до Львова
 1791625582|https://lenta.ru/news/2026/10/10/v-kremle-raskryli-odnu-iz-klyuchevyh-tem-razgovora-putina-i-trampa/|В Кремле раскрыли одну из ключевых тем разговора Путина и Трампа
+1791626288|https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss|A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing
+1791626294|https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss|Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca
+1791626302|https://lenta.ru/news/2026/10/10/apple-watch/|Россияне пожаловались на проблемы с кожей из-за новых часов Apple
+1791626307|https://lenta.ru/news/2026/10/10/rosatom-vyigral-sud-protiv-finskoy-kompanii/|«Росатом» выиграл суд против финской компании
+1791626312|https://lenta.ru/news/2026/10/10/mezhdunarodnyy-sud-priznal-nezakonnym-rastorzhenie-finnami-kontrakta-s-rosatomom/|Международный суд признал незаконным расторжение финнами контракта с «Росатомом»
