@@ -1,7 +1,3 @@
-1791269132|https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html|Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms
-1791269140|https://www.euronews.com/video/2026/10/06/housing-protest-turns-violent-in-barcelona-with-fires-and-arrests|Housing protest turns violent in Barcelona with fires and arrests
-1791269148|https://www.euronews.com/2026/10/06/with-pedro-sanchez-at-the-helm-spains-socialist-stronghold-is-cracking|With Pedro Sánchez at the helm, Spain’s socialist stronghold is cracking
-1791270128|https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss|Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?
 1791270136|https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss|Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head
 1791270144|https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-all-1573-rdf|Canada: Quebec separatists return to power, promise new independence referendum
 1791270151|https://www.euronews.com/2026/10/06/germanys-far-right-afd-bids-to-take-helm-of-state-parliament-in-saxony-anhalt|Germany's far-right AfD bids to take helm of state parliament in Saxony-Anhalt
@@ -1998,3 +1994,7 @@
 1791676141|https://tass.ru/obschestvo/28202503|В Брянской области более 50% экспорта продукции АПК приходится на Белоруссию
 1791676146|https://www.vedomosti.ru/politics/news/2026/10/10/1236039-unichtozhili-78-bespilotnikov|Силы ПВО за день уничтожили 78 украинских беспилотников над регионами РФ
 1791676151|https://www.vedomosti.ru/politics/news/2026/10/10/1236036-postradali-v-aeroportu|Reuters: несколько человек пострадали в результате взрыва в аэропорту Эр-Рияда
+1791676732|https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss|Young men live in fear of being snatched off the streets and sold to Myanmar's army
+1791676737|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-treh-vygodnyh-stimulah-ot-ssha-dlya-rossii-radi-peremiriya/|Стало известно о трех «выгодных стимулах» от США для России ради перемирия
+1791676745|https://www.igromania.ru/news/169220/ekshen-valor-mortis-sozdatelej-ghostrunner-poluchil-gejmplejnyij-trejler-versij-dlya-ps5-i-xbox-series/|Экшен Valor Mortis создателей Ghostrunner получил геймплейный трейлер режимов на PS5 и Xbox Series
+1791676755|https://www.igromania.ru/news/169218/mstiteli-vojna-beskonechnosti-v-marvel-rivals-mezhsezonnoe-obnovlenie-s-novinkami-uzhe-vyishlo/|«Мстители: Война бесконечности» в Marvel Rivals — межсезонное обновление с новинками уже вышло
