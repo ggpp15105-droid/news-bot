@@ -1,8 +1,3 @@
-1791240635|https://www.gamespot.com/articles/halloweens-first-dlc-reveals-even-the-bad-sequels-will-get-some-love/|Halloween’s First DLC Reveals Even The Bad Sequels Will Get Some Love
-1791240642|https://www.gamespot.com/articles/uncharted-5-release-date-trailer-story/1100-6539504/|Uncharted 5: Everything We Know About The Unconfirmed Game
-1791240648|https://www.gamespot.com/articles/amid-uncharted-5-rumors-nathan-drake-actor-says-he-would-come-back-but-with-one-catch/|Amid Uncharted 5 Rumors, Nathan Drake Actor Says He Would Come Back, But With One Catch
-1791240657|https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions|GTA 6 devs tried "not to jump on the bandwagon" of passing trends and instead created their "own slanted, overblown versions"
-1791241235|https://www.aljazeera.com/news/2026/10/5/trumps-approval-hits-new-low-among-hispanic-voters-ahead-of-midterms?traffic_source=rss|Trump’s approval hits new low among Hispanic voters ahead of midterms
 1791241242|https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot|Halo Studios says "it is absolutely our intent" to release new Halo book, despite layoffs and a rumored lore reboot from Activision
 1791241249|https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process|"Even if I knew how it would end, I would do it again": Hellblade developers Ninja Theory appear to have kicked off the redundancy process
 1791241256|https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific|GTA 6 writer says the series has never had "much focus on national politics" beyond GTA 4's war on terror, and the latest entry won't get "too specific"
@@ -1998,3 +1993,8 @@
 1791651064|https://www.euronews.com/2026/10/10/left-wing-primary-more-than-half-of-registered-voters-have-already-voted-say-organisers|Left-wing primary: more than half of registered voters have already voted, say organisers
 1791651072|https://www.aa.com.tr/en/middle-east/us-uk-embassies-urge-citizens-to-avoid-riyadh-airport-following-attacks/4084655|US, UK embassies urge citizens to avoid Riyadh airport following attacks
 1791651077|https://lenta.ru/news/2026/10/10/chetyre-cheloveka-postradali-pri-ocherednyh-atakah-vsu/|Четыре человека пострадали при очередных атаках ВСУ
+1791651659|https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss|Celebrations in Ethiopian city after reported Eritrean ‘incursion’
+1791651665|https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss|Eritrea urges UN to intervene in standoff with Ethiopia
+1791651671|https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf|Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries
+1791651676|https://lenta.ru/news/2026/10/10/kievskie-mosty-reshili-zaschitit-s-pomoschyu-setok/|Киевские мосты решили защитить с помощью сеток
+1791651684|https://lenta.ru/news/2026/10/10/tramp-zayavil-chto-ukraine-sleduet-vybrat-novogo-lidera/|Трамп посоветовал украинцам выбрать нового лидера
