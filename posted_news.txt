@@ -1,8 +1,3 @@
-1791210737|https://www.france24.com/en/video/20261005-spain-mini-hurricane-kills-at-least-two-people-in-catalonia|Spain: 'Mini-hurricane' kills at least two people in Catalonia
-1791210742|https://news.sky.com/story/failed-asylum-seeker-who-attempted-knife-attack-on-israeli-embassy-in-london-jailed-for-life-13595402|Failed asylum seeker who attempted knife attack on Israeli embassy jailed for life
-1791210747|https://www.euronews.com/2026/10/05/a-decade-of-the-azerbaijan-grand-prix-more-than-just-a-race|A decade of the Azerbaijan Grand Prix: more than just a race
-1791210754|https://www.euronews.com/2026/10/05/female-ai-agents-would-get-paid-10-less-than-male-ones-study-finds|Female AI agents would get paid 10% less than male ones, study finds
-1791211907|https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss|Murder in Okinawa: The US military’s history of alleged crime in Japan
 1791211913|https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss|US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?
 1791211918|https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf|Euro plummets against US dollar: has the next crisis begun?
 1791211923|https://www.euronews.com/2026/10/05/germany-and-france-agree-new-trade-tool-to-counter-china|Germany and France agree new trade tool to counter China
@@ -1998,3 +1993,8 @@
 1791631067|https://www.cnbc.com/2026/10/10/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee.html|India unveils tough curbs on dollar demand to defend rupee
 1791631072|https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks|Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees
 1791631081|https://lenta.ru/news/2026/10/10/krasnoyarskiy-klub-ne-smog-dobratsya-v-moskvu-na-match-edinoy-ligi-vtb/|Красноярский клуб не смог добраться в Москву на матч Единой лиги ВТБ
+1791632000|https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss|What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?
+1791632007|https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss|Manchester City whistleblower Rui Pinto to remain under police protection
+1791632015|https://www.dw.com/en/indian-police-crack-down-on-cockroach-protesters-in-delhi/live-79624339?maca=en-rss-en-all-1573-rdf|Indian police crack down on 'Cockroach' protesters in Delhi
+1791632021|https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer|Arc Raiders could eventually be split into PvE and PvP, says executive producer
+1791632031|https://lenta.ru/news/2026/10/10/psihoterapevt-posovetovala-rossiyanam-lenitsya/|Психотерапевт посоветовала россиянам лениться
