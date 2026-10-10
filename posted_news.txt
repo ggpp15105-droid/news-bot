@@ -1,8 +1,3 @@
-1791188963|https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory|Yemen launches more than 1,000 strikes in bid to retake territory lost to Houthi rebels
-1791188969|https://www.france24.com/en/tv-shows/press-review/20261005-mum-if-you-see-this-it-s-for-my-future|"Mum if you see this it's for my future"
-1791188976|https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html|Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks
-1791188983|https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html|Treasury yields inch lower as investors pare back Fed rate hike bets
-1791190070|https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss|Pakistan installs fishing nets at security outposts to block drone attacks
 1791190077|https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-rdf|Israel observes October 7 anniversary with national memorial day
 1791190083|https://www.france24.com/en/europe/20261005-ex-prince-andrew-launches-bid-to-quash-epstein-affair-search-warrants|Ex-prince Andrew launches bid to ‘quash’ Epstein-affair search warrants
 1791190090|https://www.euronews.com/video/2026/10/05/iran-war-europe-not-being-at-the-table-is-a-failure-charles-michel-says|Iran war: 'Europe not being at the table is a failure', Charles Michel says
@@ -1998,3 +1993,8 @@
 1791613221|https://lenta.ru/news/2026/10/10/rossiyskiy-boets-rasskazal-ob-izmenenii-taktiki-boevyh-deystviy-s-nachala-svo/|Российский боец рассказал об изменении тактики боевых действий с начала СВО
 1791613226|https://www.kommersant.ru/doc/9023687|В Турции с 1 ноября запретят использование соцсетей детьми младше 15 лет
 1791613234|https://www.kommersant.ru/doc/9023675|Минобороны России отчиталось об ударе по судну с грузом для ВСУ
+1791614612|https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss|Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says
+1791614619|https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss|Three men found guilty of murdering Australian brothers and US friend in Mexico
+1791614625|https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss|India protest live: Police detain Cockroach leaders, New Delhi in lockdown
+1791614631|https://lenta.ru/news/2026/10/10/prichinu-poyavleniya-osenney-depressii-ob-yasnili/|Причину осенней депрессии объяснили
+1791614635|https://lenta.ru/news/2026/10/10/artemiy-lebedev-vozmutilsya-pereimenovaniyu-kotlety-po-kievski-v-stolovoy-gosdumy/|Артемий Лебедев возмутился переименованию котлеты по-киевски в столовой Госдумы
