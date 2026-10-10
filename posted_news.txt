@@ -1,8 +1,3 @@
-1791179552|https://www.euronews.com/2026/10/05/serb-separatist-politician-milorad-dodik-thanks-trump-putin-as-he-declares-victory-in-cont|Serb separatist politician Milorad Dodik thanks Trump, Putin as he declares victory in contested Bosnia vote
-1791179559|https://www.euronews.com/2026/10/05/tooth-with-jade-inlay-reveals-ancient-maya-skill-as-dentists|Tooth with jade inlay reveals ancient Maya skill as dentists
-1791179565|https://www.euronews.com/2026/10/05/intelligence-everywhere-inside-europes-next-technology-era|Intelligence Everywhere: Inside Europe’s Next Technology Era
-1791179573|https://www.japantimes.co.jp/life/2026/10/05/travel/supreme-class-shinkansen-debut-travel-trains/|A first look aboard the shinkansen’s new Supreme Class
-1791180269|https://www.dw.com/en/india-news-top-court-to-hear-petitions-against-chief-election-commisioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-rdf|India news: Top court to hear petitions against Chief Election Commisioner Gyanesh Kumar
 1791180274|https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election|Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election
 1791180280|https://www.japantimes.co.jp/sports/2026/10/05/baseball/braves-win-even-nlds/|Braves bounce back with victory to pull even in NLDS against Dodgers
 1791180285|https://www.japantimes.co.jp/news/2026/10/05/japan/miyagi-onagawa-music-town/|Instrument seller works to make disaster-hit town in Miyagi a music hub
@@ -1998,3 +1993,8 @@
 1791605736|https://tass.ru/obschestvo/28200771|Врач Готина рассказала о риске принять депрессию у пожилых за обычное старение
 1791605740|https://tass.ru/armiya-i-opk/28200773|Командир Тринадцатый рассказал об уничтожении БПЛА "Мрак" в Харьковской области
 1791605744|https://tass.ru/nedvizhimost/28200769|Эксперт Галкин: новая семейная ипотека поможет многодетным покупать большие квартиры
+1791606791|https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss|India deploys police and restricts transport ahead of mass protest in Delhi
+1791606797|https://www.aa.com.tr/en/americas/hurricane-isaias-makes-landfall-on-us-gulf-coast-forcing-evacuations-power-outages/4084159|Hurricane Isaias makes landfall on US Gulf Coast, forcing evacuations, power outages
+1791606802|https://lenta.ru/news/2026/10/09/obsluzhivavshiy-matchi-chm-2026-sudya-rasskazal-o-svoey-rabote-v-avtomasterskoy/|Обслуживавший матчи ЧМ-2026 судья рассказал о своей работе в автомастерской
+1791606806|https://lenta.ru/news/2026/10/10/vo-frantsii-dali-rezkiy-sovet-o-zelenskom/|Во Франции дали резкий совет о Зеленском
+1791606811|https://lenta.ru/news/2026/10/10/kolumbiyskie-naemniki-otkazalis-idti-na-shturm-pod-harkovom/|Колумбийские наемники отказались идти на штурм под Харьковом
