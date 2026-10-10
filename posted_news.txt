@@ -1,8 +1,3 @@
-1791224791|https://www.aa.com.tr/en/world/formula-1-launches-review-into-software-glitch-that-disrupted-bahrain-gp-in-malaysia/4078905|Formula 1 launches review into software glitch that disrupted Bahrain GP in Malaysia
-1791224797|https://www.aa.com.tr/en/world/us-urges-citizens-in-saudi-arabia-to-remain-vigilant-over-risk-of-drone-missile-attacks/4078899|US urges citizens in Saudi Arabia to remain ‘vigilant’ over risk of drone, missile attacks
-1791224804|https://www.ign.com/articles/kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-that-just-focus-on-power-fantasy|Kingdom Come: Deliverance Dev Calls Out RPGs 'for Teenagers' That Just Focus on 'Power Fantasy'
-1791224812|https://www.ign.com/articles/gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram|Gears of War: E-Day Runs Smoothly on Xbox Series S By Using SSD as RAM
-1791226058|https://www.gamespot.com/articles/new-gears-of-war-e-day-patch-addresses-giant-vomiting-frog-error-codes/|New Gears Of War: E-Day Patch Addresses Giant Vomiting Frog Error Codes
 1791226064|https://www.gamespot.com/articles/why-gta-studio-co-founder-is-avoiding-gta-6-and-all-open-world-games/|Why GTA Studio Co-Founder Is Avoiding GTA 6–And All Open-World Games
 1791226071|https://www.eurogamer.net/sword-sage-awakening-gamescom-preview|Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued
 1791226078|https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc|Noematica is a lucid dreamer's "n-dimensional" take on The Sims that proudly boasts it will never ever gouge you for DLC
@@ -1998,3 +1993,8 @@
 1791643674|https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss|Mexican judge sentences three men for murders of Australian, US surfers
 1791643680|https://www.france24.com/en/tv-shows/sports/20261010-lens-see-off-lyon-as-ligue-1-season-resumes-after-international-break|Lens see off Lyon as Ligue 1 season resumes after international break
 1791643687|https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data|Senate investigation says that some AI data center claims are misleading
+1791644330|https://lenta.ru/news/2026/10/10/ukraina-poteryala-neskolko-samoletov-iz-za-staryh-sovetskih-raket/|Украина потеряла несколько самолетов из-за старых советских ракет
+1791644339|https://lenta.ru/news/2026/10/10/doch-navki-i-peskova-debyutirovala-na-sorevnovaniyah/|Дочь Навки и Пескова дебютировала на соревнованиях
+1791644344|https://lenta.ru/news/2026/10/10/mistake/|Европа раскритиковала договоренность Трампа с Путиным по дизелю
+1791644349|https://lenta.ru/news/2026/10/10/v-ssha-proizoshla-strelba-s-mnogochislennymi-zhertvami/|В США произошла стрельба с многочисленными жертвами
+1791644354|https://lenta.ru/news/2026/10/10/borodin-zavoeval-serebro-na-kubke-mira-v-tashkente/|Бородин завоевал серебро на Кубке мира в Ташкенте
