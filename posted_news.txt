@@ -1,8 +1,3 @@
-1791291611|https://www.france24.com/en/video/20261006-tigray-students-relocated-by-conflict-say-fled-forced-conscription|Tigray students relocated by conflict say fled forced conscription
-1791291616|https://www.france24.com/en/video/20261006-students-protest-cornell-s-response-to-gang-rape-complaint|Students protest Cornell's response to gang rape complaint
-1791291621|https://www.france24.com/en/video/20261006-france-school-protests-students-determined-to-win-concessions-that-mean-something|France school protests: Students determined to win 'concessions that mean something'
-1791291626|https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html|Russian lab worker's suspected plague death leaves questions unanswered
-1791292678|https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss|Ukraine launches major drone attack on Russia’s Moscow region, killing two
 1791292685|https://www.dw.com/en/spain-approves-new-emergency-housing-measures/a-79564344?maca=en-rss-en-all-1573-rdf|Spain approves new emergency housing measures
 1791292691|https://www.france24.com/en/video/20261006-heavy-police-presence-as-students-set-to-march-in-paris|'Heavy police presence' as students set to march in Paris
 1791292697|https://www.france24.com/en/tv-shows/focus/20261006-mexico-makes-push-for-fracking-despite-environmental-concerns|Mexico makes push for fracking despite environmental concerns
@@ -1998,3 +1993,8 @@
 1791698316|https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-posledstviyah-ne-vyvoza-musora-v-srok/|Россиянам рассказали о последствиях не вывоза мусора в срок
 1791698321|https://lenta.ru/news/2026/10/11/v-germanii-zastupilis-za-shredera-posle-predatelstva-evropy-iz-za-vstrechi-s-putinym/|В Германии заступились за Шредера после «предательства Европы» из-за встречи с Путиным
 1791698325|https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-pribavke-k-pensii-i-izmenenii-grafika-detskih-vyplat/|Россиянам рассказали о прибавке к пенсии и изменении графика детских выплат
+1791698951|https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race|Teen revolt or revolution? The student protests threatening France's presidential race
+1791698960|https://lenta.ru/news/2026/10/11/chlen-kongressa-ssha-obvinila-v-litsemerii-prizyvayuschih-postavlyat-kievu-oruzhie-kolleg/|Член Конгресса США обвинила в лицемерии призывающих поставлять Киеву оружие коллег
+1791698965|https://www.kommersant.ru/doc/9023893|Минобороны отчиталось об ударе по дата-центру в Одессе и сухогрузу в Черном море
+1791698972|https://www.kommersant.ru/doc/9023890|Фицо заявил о наивности руководства ЕС после топливной сделки России и США
+1791698982|https://www.kommersant.ru/doc/9023889|Главные анонсы 12–18 октября // Важные и интересные события предстоящей недели
