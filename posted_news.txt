@@ -1,8 +1,3 @@
-1791336819|https://lenta.ru/news/2026/10/07/varnava-hudoba/|Екатерина Варнава напугала фанатов худобой на фото в мини-юбке
-1791336827|https://lenta.ru/news/2026/10/07/v-britanii/|В Британии нашли способ избежать войны с Россией
-1791336832|https://lenta.ru/news/2026/10/07/usilenie-udarov-po-kievu-ob-yasnili/|Усиление ударов по Киеву объяснили
-1791336836|https://lenta.ru/news/2026/10/07/onischenko-nazval-predelnyy-vozrast-dlya-rozhdeniya-detey/|Россиянкам назвали предельный возраст для рождения детей
-1791337758|https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss|Syrian embassy returns seized passport after 43 years
 1791337765|https://www.japantimes.co.jp/news/2026/10/07/world/alien-phoenix-planet-dying-star/|Alien ‘phoenix planet’ was born from the ashes of a dying star
 1791337773|https://lenta.ru/news/2026/10/07/nazvany-tseli-udara/|Названы цели удара российских военных по Киеву
 1791337783|https://lenta.ru/news/2026/10/07/mer-kieva-soobschil-o-posledstviyah/|Кличко сообщил о последствиях удара по Киеву
@@ -1998,3 +1993,8 @@
 1791742670|https://lenta.ru/news/2026/10/11/rossiyskaya-pensionerka-zasudila-obmanuvshego-ee-santehnika-na-211-tysyach-rubley/|Российская пенсионерка засудила обманувшего ее сантехника на 211 тысяч рублей
 1791742675|https://lenta.ru/news/2026/10/11/ahmat-i-baltika-sygrali-vnichyu-v-groznom/|«Ахмат» и «Балтика» сыграли вничью в Грозном
 1791742680|https://lenta.ru/news/2026/10/11/germaniya-potrebovala-nakazat-shredera-za-vizit-k-putinu/|Германия потребовала наказать Шредера за визит к Путину
+1791743887|https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss|Lebanon’s first electric train hopes to revive railway system
+1791743892|https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796|Pakistan's president declares state of emergency in province run by Imran Khan's party
+1791743900|https://www.euronews.com/2026/10/11/french-social-democratic-primary-raphael-glucksmann-wins-big-in-first-round|French Social democratic primary: Raphaël Glucksmann wins big in first round
+1791743909|https://lenta.ru/news/2026/10/11/na-ukraine-priznali-nesposobnost-protivostoyat-rossiyskim-reaktivnym-geranyam/|На Украине признали неспособность противостоять российским реактивным «Гераням»
+1791743914|https://lenta.ru/news/2026/10/11/dinamo-stalo-liderom-rpl/|«Динамо» стало лидером РПЛ
