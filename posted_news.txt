@@ -1,8 +1,3 @@
-1791324412|https://www.tomshardware.com/peripherals/controllers-gamepads/grab-some-of-our-favorite-controllers-for-pc-gaming-for-less-than-the-cost-of-a-dualsense-get-a-quality-controller-with-more-features-during-prime-day|Grab some of our favorite controllers for PC gaming for less than the cost of a DualSense
-1791324416|https://lenta.ru/news/2026/10/07/zhenschiny-nazvali-glavnye-otkrytiya-posle-nachala-zhizni-s-muzhchinami/|Женщины назвали главные открытия после начала жизни с мужчинами
-1791324422|https://lenta.ru/news/2026/10/07/45-letnyaya-supermodel-poradovala-fanatov-snimkami-s-goloy-grudyu/|45-летняя супермодель порадовала фанатов снимками с голой грудью
-1791324427|https://lenta.ru/news/2026/10/07/v-otnoshenii-ukraintsev-k-vlastyam-zametili-izmenenie/|В отношении украинцев к властям заметили изменение
-1791325428|https://www.ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off|Insomniac Finally Lets Players Toggle Wolverine's Scent Trails on and Off
 1791325433|https://www.ign.com/articles/aion-2s-character-creator-is-going-viral-for-its-bust-size-options-or-lack-thereof|Aion 2's Character Creator Is Going Viral for Its Bust Size Options, or Lack Thereof
 1791325438|https://lenta.ru/news/2026/10/07/putin-vstretit-den-rozhdeniya-za-gosudarstvennymi-delami/|Путин встретит день рождения за государственными делами
 1791325443|https://www.kommersant.ru/doc/9007738|Матвиенко: для России лучше стабильная и спокойная Европа
@@ -1998,3 +1993,8 @@
 1791731356|https://lenta.ru/news/2026/10/11/proverku-dokumentov-bolshunova-uzhestochili-iz-za-evropeytsev/|Проверку документов Большунова ужесточили из-за европейцев
 1791731361|https://www.kommersant.ru/doc/9024063|Посол России в Черногории объяснил реакцию властей страны на задержание «Рыбаря»
 1791731367|https://www.kommersant.ru/doc/9024049|Топ-менеджеру КБХА вменили превышение полномочий с ущербом на 5 млрд рублей
+1791732343|https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf|German 'lawfare': When lawsuits become a political weapon
+1791732350|https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns|Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles
+1791732355|https://lenta.ru/news/2026/10/11/zelenskiy-okazalsya-ne-v-kurse-ob-yavlennogo-trampom-energeticheskogo-peremiriya/|Зеленский оказался не в курсе объявленного Трампом «энергетического перемирия»
+1791732361|https://lenta.ru/news/2026/10/11/servisy-yandeksa-nachali-vozvraschatsya-k-rabote-posle-sboya/|Сервисы «Яндекса» начали возвращаться к работе после сбоя
+1791732370|https://www.kommersant.ru/doc/9024040|Зеленский: Украина проведет выборы при согласии России на 60-дневное перемирие
