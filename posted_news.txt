@@ -1,8 +1,3 @@
-1791283550|https://www.aljazeera.com/sports/2026/10/6/uefa-to-investigate-spitting-incident-at-ireland-israel-football?traffic_source=rss|UEFA to investigate spitting incident at Ireland–Israel football match
-1791283556|https://www.france24.com/en/tv-shows/press-review/20261006-should-we-be-worried-about-a-plague-outbreak-in-russia|Should we be worried about a plague outbreak in Russia?
-1791283561|https://www.france24.com/en/video/20261006-trump-s-deportation-push-sees-lgbt-migrants-sent-to-hostile-countries|Trump's deportation push sees LGBT migrants sent to hostile countries
-1791283568|https://www.cnbc.com/2026/10/06/mattel-barbie-ariel-sale-investor-pressure.html|Barbie maker Mattel faces investor pressure to consider a sale amid stagnating growth
-1791284365|https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss|Saudi Arabia says three wounded in attacks on airports near Yemen border
 1791284370|https://www.france24.com/en/video/20261006-student-protests-first-images-from-demonstrations-in-paris|Student protests: First images from demonstrations in Paris
 1791284376|https://www.euronews.com/2026/10/06/the-eudi-wallet-building-trust-unlocking-growth-in-europe|The EUDI wallet: Building trust, unlocking growth in Europe
 1791284383|https://www.euronews.com/video/2026/10/06/keith-haring-retrospective-opens-at-romes-palazzo-braschi-with-more-than-140-works|Keith Haring retrospective opens at Rome’s Palazzo Braschi with more than 140 works
@@ -1998,3 +1993,8 @@
 1791691135|https://tass.ru/obschestvo/28202711|В Иркутской области 11 населенных пунктов остались без электричества
 1791691140|https://tass.ru/nedvizhimost/28202713|Эксперт Анохин рассказал, сколько ипотек берут россияне
 1791691144|https://tass.ru/obschestvo/28202709|Во Владивостоке более 34 тыс. человек остались без электричества
+1791691851|https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf|US: Justice Department probes Trump's press pool boycott for antitrust violation
+1791691859|https://www.japantimes.co.jp/sports/2026/10/11/more-sports/cancel/|NASCAR and IndyCar look to generate Formula One-type growth overseas
+1791691863|https://lenta.ru/news/2026/10/11/long-aeroport-saudovskoy-aravii-snova-podvergsya-raketnomu-udaru-sotni-chelovek-postradali-i-12-pogibli-chto-esche-izvestno/|Аэропорт Саудовской Аравии снова подвергся ракетному удару. Сотни человек пострадали и 12 погибли. Что еще известно?
+1791691867|https://lenta.ru/news/2026/10/11/vrach-nazvala-negativno-vliyayuschiy-na-immunnuyu-sistemu-produkt/|Врач назвала негативно влияющий на иммунную систему продукт
+1791691876|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-mnogochasovoy-detonatsii-sklada-boepripasov-vsu/|Стало известно о многочасовой детонации склада боеприпасов ВСУ
