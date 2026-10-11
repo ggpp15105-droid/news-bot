@@ -1,8 +1,3 @@
-1791327023|https://lenta.ru/news/2026/10/07/v-rossii-vystupili-s-preduprezhdeniem-k-stranam-pribaltiki/|В России выступили с предупреждением к странам Прибалтики
-1791327028|https://lenta.ru/news/2026/10/07/long-ya-rabotayu-nad-etim-tramp-poobeschal-skoroe-zavershenie-konflikta-na-ukraine-i-anonsiroval-razgovor-s-putinym/|«Я работаю над этим». Трамп пообещал скорое завершение конфликта на Украине и анонсировал разговор с Путиным
-1791327032|https://tass.ru/proisshestviya/28188451|У берегов Курил произошли два землетрясения магнитудой до 6,1
-1791327036|https://tass.ru/obschestvo/28188449|Обвиняемый в хищении золотых слитков на $40 млн экс-сотрудник ЦРУ признал вину
-1791327632|https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia|Trump says he will speak to Putin over reported plague death in Russia
 1791327642|https://www.kommersant.ru/doc/9007752|В центре Москвы подросток напал с ножом на бригаду скорой помощи
 1791327646|https://tass.ru/ekonomika/28188455|Аэропорт Ульяновска приостановил прием и выпуск самолетов
 1791327650|https://tass.ru/proisshestviya/28188447|Минздрав Приморья рассказал о состоянии пострадавшего при обрушении на руднике
@@ -1998,3 +1993,8 @@
 1791734090|https://lenta.ru/news/2026/10/11/rossiyskiy-pevets-xolidayboy-popal-v-bazu-mirotvortsa/|Российский певец Xolidayboy попал в базу «Миротворца»
 1791734095|https://www.kommersant.ru/doc/9024164|Коллекцию Гюстава Файе воссоздали на выставке в Fondation Louis Vuitton
 1791734100|https://www.kommersant.ru/doc/9024158|Хуситы заявили об ударе Саудовской Аравии по аэропорту Саны
+1791734657|https://lenta.ru/news/2026/10/11/ugrozhavshego-premier-ministru-evropeyskoy-strany-muzhchinu-zaderzhali/|Угрожавшего премьер-министру европейской страны мужчину задержали
+1791734662|https://lenta.ru/news/2026/10/11/v-germanii-vystupili-s-groznym-preduprezhdeniem-iz-za-podderzhki-ukrainy/|В Германии выступили с грозным предупреждением из-за поддержки Украины
+1791734667|https://lenta.ru/news/2026/10/11/vospitatelnitsa-izbila-detey-v-detskom-sadu-v-rossiyskom-gorode/|Воспитательница избила детей в детском саду в российском городе
+1791734672|https://lenta.ru/news/2026/10/11/peskov-otsenil-gotovnost-rossii-k-peregovoram-po-ukraine/|Песков оценил готовность России к переговорам по Украине
+1791734677|https://www.kommersant.ru/doc/9024174|Бессент назвал законными поставки российского дизеля в США и на мировой рынок // Глава Минфина США: закон Грэма не запрещает поставки российского дизеля
