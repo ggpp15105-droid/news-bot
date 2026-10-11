@@ -1,8 +1,3 @@
-1791316876|https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss|The new players in space
-1791316884|https://www.dw.com/en/french-ai-company-announces-new-private-model/a-79569597?maca=en-rss-en-all-1573-rdf|French AI company announces new, private model
-1791316890|https://www.france24.com/en/calls-to-block-social-media-platforms-for-minors-in-france-amid-school-protests|Calls to block social media platforms for minors in France amid school protests
-1791316895|https://news.sky.com/story/paramount-completes-81bn-takeover-of-warner-bros-discovery-13595899|Paramount completes $81bn takeover of Warner Bros Discovery
-1791317834|https://www.aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump?traffic_source=rss|Is there a MAGA after Trump?
 1791317840|https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss|Ronaldo apologizes for Portugal walkout; says Jesus broke promise
 1791317848|https://www.euronews.com/2026/10/06/judo-japan-crowns-two-new-world-champions-in-baku|Judo: Japan crowns two new world champions in Baku
 1791317855|https://www.aa.com.tr/en/americas/us-health-agency-says-it-is-monitoring-suspected-case-of-pneumonic-plague-in-russia/4080249|US health agency says it is monitoring suspected case of pneumonic plague in Russia
@@ -1998,3 +1993,8 @@
 1791723594|https://www.tomshardware.com/video-games/developer-turns-classic-windows-minesweeper-into-hand-holding-big-budget-triple-a-parody-browser-reboot-mocks-modern-gaming-with-chatty-npcs-internal-monologues-and-promised-loot-boxes|Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A’ parody
 1791723603|https://lenta.ru/news/2026/10/11/mid-rossii-otreagiroval-na-ataku-aeroporta-v-saudovskoy-aravii/|МИД России отреагировал на атаку аэропорта в Саудовской Аравии
 1791723612|https://lenta.ru/news/2026/10/11/sbornaya-rossii-obygrala-uzbekistan-i-vyshla-v-final-komandnogo-turnira/|Сборная России обыграла Узбекистан и вышла в финал командного турнира
+1791724425|https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss|Ukraine strikes Russian data centre again despite Trump warning
+1791724431|https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss|Ceuta migrants allege beatings as camps cleared ahead of royal visit
+1791724437|https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h|Riyadh airport stays shut after deadly attack as Trump says US may join Saudi strikes on Houthis
+1791724442|https://www.euronews.com/2026/10/11/macrons-popularity-hits-lowest-level-since-2017-as-bardella-and-le-pen-also-lose-ground|Macron's popularity hits lowest level since 2017 as Bardella and Le Pen also lose ground
+1791724449|https://www.tomshardware.com/pc-components/ssds/sandisk-nas-800-1-92tb-ssd-review|Sandisk NAS 800 1.92TB SSD Review: Endurance at a premium
