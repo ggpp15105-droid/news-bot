@@ -1,8 +1,3 @@
-1791273213|https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss|Trump jokes about letting Iran bomb Los Angeles and San Diego
-1791273219|https://www.aljazeera.com/sports/2026/10/6/gauff-in-racial-abuse-controversy-at-china-open-after-replayed-point?traffic_source=rss|Gauff in racial abuse controversy at China Open after replayed point
-1791273225|https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/|Western Pacific sees rare trio of storms
-1791273231|https://www.japantimes.co.jp/news/2026/10/06/japan/crime-legal/japan-protecting-against-cyberattacks/|How to protect yourself against cybersecurity threats
-1791273834|https://www.aljazeera.com/sports/2026/10/6/harmanpreet-kaur-steps-down-as-captain-of-indias-womens-cricket-team?traffic_source=rss|Harmanpreet Kaur steps down as captain of India’s women’s cricket team
 1791273838|https://www.france24.com/en/middle-east/20261006-israel-warns-gazans-will-pay-heavy-price-for-any-october-7-attacks-on-military|Israel warns Gazans will pay 'heavy price' for any October 7 attacks on military
 1791273843|https://www.japantimes.co.jp/news/2026/10/06/japan/society/japan-flood-barriers-underpass/|Remote-controlled traffic barriers to be installed at flood-prone underpasses
 1791273849|https://www.aa.com.tr/en/eurasia/russia-ready-to-grant-1b-loan-to-iran-report/4079243|Russia ready to grant $1B loan to Iran: Report
@@ -1998,3 +1993,8 @@
 1791680876|https://www.kommersant.ru/doc/9023872|Маск: Зеленский зашел слишком далеко
 1791680880|https://tass.ru/obschestvo/28202563|Звинчук рассказал, что оказался неинтересен США и странам ЕС
 1791680884|https://tass.ru/politika/28202559|Дмитриев назвал слова Маска о Зеленском "переломным моментом"
+1791681880|https://lenta.ru/news/2026/10/11/v-es-zayavili-o-zavisti-kallas-posle-sdelki-rossii-i-ssha/|В ЕС заявили о зависти Каллас после сделки Путина и Трампа
+1791681884|https://tass.ru/proisshestviya/28202587|ТАСС: Лерчек отказалась проходить полиграф в рамках проверки по исчезновению ее украшений
+1791681888|https://tass.ru/ekonomika/28202575|На ЗАЭС заявили о недопустимости создания чрезвычайных условий
+1791681892|https://tass.ru/obschestvo/28202581|На ЗАЭС назвали условия для ядерной безопасности на станции
+1791681896|https://tass.ru/mezhdunarodnaya-panorama/28202579|Трамп заявил, что Зеленский не хочет идти на сделку по урегулированию
