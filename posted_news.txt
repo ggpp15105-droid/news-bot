@@ -1,8 +1,3 @@
-1791271291|https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html|Treasury yields are broadly flat as investors anticipate FOMC minutes
-1791271297|https://www.euronews.com/2026/10/06/jeffrey-archer-bestselling-british-novelist-and-disgraced-politician-dies-at-86|Jeffrey Archer, bestselling British novelist and disgraced politician, dies aged 86
-1791271303|https://www.japantimes.co.jp/business/2026/10/06/south-korea-bank-hacks/|South Korea’s Lee says AI appears to have been used in bank hacks
-1791271310|https://www.japantimes.co.jp/news/2026/10/06/asia-pacific/uzbekistan-open-for-business/|With Uzbekistan open for business, investors watch reform staying power
-1791272290|https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss|Nigeria mourns as 32 killed in military plane crash
 1791272298|https://www.cnbc.com/2026/10/06/burnham-healey-budget-tax-bonds-gilts.html|Britain is on 'thin ice,' warns ex-Bank of England chief economist — and it must act to 'appease financial markets'
 1791272305|https://www.euronews.com/video/2026/10/06/sanchez-able-to-convert-housing-weakness-into-strenght-expert-says|Sánchez able 'to convert' housing weakness 'into strenght', expert says
 1791272312|https://www.euronews.com/video/2026/10/06/tear-gas-and-water-cannon-in-pristina-as-protesters-clash-with-police|Tear gas and water cannon in Pristina as protesters clash with police
@@ -1998,3 +1993,8 @@
 1791677944|https://lenta.ru/news/2026/10/11/na-zapade-zayavili-o-plachevnyh-posledstviyah-dlya-zelenskogo-iz-za-vypadov-v-adres-rossii/|На Западе заявили о плачевных последствиях для Зеленского из-за выпадов в адрес России
 1791677953|https://www.kommersant.ru/doc/9023870|Пережившую казнь американку вернули из больницы в тюрьму
 1791677957|https://tass.ru/obschestvo/28202527|Юрист Кравченко рассказал, кто возместит расходы на поиски Усольцевых в случае их бегства
+1791679794|https://www.japantimes.co.jp/news/2026/10/11/world/houthi-attack-saudi-airport/|Houthi attack on Saudi airport kills 12, over 300 wounded
+1791679799|https://lenta.ru/news/2026/10/11/raskryt-razmer-mrot-v-2027-godu/|Раскрыт размер МРОТ в 2027 году
+1791679804|https://lenta.ru/news/2026/10/11/pushkov-nazval-uzhasnuvshihsya-ot-sdelki-putina-s-trampom/|Пушков назвал ужаснувшихся сделкой Путина с Трампом
+1791679813|https://www.kommersant.ru/doc/9023871|Четыре человека погибли из-за урагана «Исайя» на юге США
+1791679817|https://tass.ru/politika/28202555|Карасин: призыв Трампа к смещению Зеленского отражает настроения украинцев
