@@ -1,8 +1,3 @@
-1791330935|https://www.france24.com/en/americas/20261006-christa-pike-regains-consciousness-after-botched-tennessee-execution-attempt|Christa Pike regains consciousness after botched Tennessee execution attempt
-1791330939|https://www.kommersant.ru/doc/9007714|Экспорт сырья стран Персидского залива вернулся к довоенному уровню
-1791330948|https://www.kommersant.ru/doc/9007717|Госкомпаниям разрешили закупки разработанных для них технологий без торгов
-1791330952|https://www.kommersant.ru/doc/9007721|Партийцы обсудили с политтехнологами свои успехи и неудачи на минувших выборах
-1791331651|https://lenta.ru/news/2026/10/07/obladatelnitsa-oskara-umerla-v-vozraste-102-let/|Обладательница «Оскара» Эва Мари Сэйнт умерла в возрасте 102 лет
 1791331658|https://lenta.ru/news/2026/10/07/cbs-uchenye-izuchat-tainstvennyy-ob-ekt-kotoryy-mozhet-byt-samoletom-erhart/|Ученые приступили к изучению таинственный объект в Тихом океане
 1791331663|https://lenta.ru/news/2026/10/07/seksolog-posovetovala-zhenschinam-neobychnyy-sposob-dostich-orgazma/|Сексолог посоветовала женщинам необычный способ достичь оргазма
 1791331667|https://lenta.ru/news/2026/10/07/v-britanii-rasskazali-o-panike-v-kieve/|В Британии рассказали о панике в Киеве
@@ -1998,3 +1993,8 @@
 1791738267|https://www.kommersant.ru/doc/9024195|Власти могут ввести мораторий на обнуление демпфера по дизтопливу
 1791738272|https://www.kommersant.ru/doc/9024193|Хуситы подтвердили удары по аэропорту в Эр-Рияде // Движение «Ансар Аллах»: атака на аэропорт в Эр-Рияде прошла в три этапа
 1791738277|https://www.kommersant.ru/doc/9024178|В Москве показали новый мюзикл «Дориан» по Оскару Уайльду
+1791739236|https://www.euronews.com/2026/10/11/thousands-urge-for-climate-action-at-brussels-demonstration|Ten of thousands urge EU for climate action at Brussels demonstration
+1791739242|https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december|Escape the Backrooms is throwing an After Party with three new levels this December
+1791739247|https://lenta.ru/news/2026/10/11/rossiyskaya-pensionerka-reshila-nayti-muzha-s-pomoschyu-vip-svahi-i-ostalas-ni-s-chem/|Российская пенсионерка решила найти мужа с помощью VIP-свахи и осталась ни с чем
+1791739251|https://lenta.ru/news/2026/10/11/iran-nazval-uslovie-otkrytiya-ormuzskogo-proliva/|Иран назвал условие открытия Ормузского пролива
+1791739256|https://www.kommersant.ru/doc/9024201|«Яндекс» объяснил ограничение работы части функций «Диска» // «Яндекс»: отдельные функции «Диска» ограничены для снижения нагрузки
