@@ -1,8 +1,3 @@
-1791313020|https://www.euronews.com/2026/10/06/uk-trial-of-three-iranians-over-alleged-plot-to-target-iran-dissident-journalists|UK trial of three Iranians over alleged plot to target Iran dissident journalists
-1791313029|https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no|"Keep it family friendly" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place
-1791313038|https://www.eurogamer.net/overwatch-defiled-anthem-china-skins|"Horrible day to be a Shion main" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world
-1791313045|https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics|Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more
-1791313689|https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss|Tear gas in Paris and Marseille as school protests grow across France
 1791313694|https://www.aa.com.tr/en/science-technology/turkish-space-agency-signs-2-agreements-to-expand-space-cooperation-at-iac-2026/4080203|Turkish Space Agency signs 2 agreements to expand space cooperation at IAC 2026
 1791313702|https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/|PlayStation Plus Free Games For October 2026 Are Live Now
 1791313708|https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview|I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls
@@ -1998,3 +1993,8 @@
 1791718546|https://news.sky.com/story/four-dead-as-hurricane-isaias-crashes-into-us-as-mexico-braces-itself-for-major-storm-13597710|Four dead as Hurricane Isaias crashes into US - as Mexico braces itself for major storm
 1791718553|https://www.euronews.com/video/2026/10/11/zaporizhzhia-airstrikes-kill-17-as-russia-intensifies-attacks-across-ukraine|Zaporizhzhia airstrikes kill 17 as Russia intensifies attacks across Ukraine
 1791718559|https://www.japantimes.co.jp/news/2026/10/11/japan/crime-legal/japan-drivers-license-data-breach-spread/|Driver’s license data breaches becoming major concern
+1791719464|https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss|The scramble to rewrite Biden’s record on Gaza
+1791719471|https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf|A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing
+1791719478|https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release|Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release
+1791719487|https://www.tomshardware.com/3d-printing/state-of-california-sues-3d-printer-filament-company-polymaker-for-promoting-ghost-guns-by-marketing-to-3d-printed-gun-community-state-alleges-company-turns-harmless-pla-filament-into-a-regulated-firearm-precursor-part|State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community
+1791719491|https://lenta.ru/news/2026/10/11/v-kremle-poshutili-o-razgovore-putina-i-trampa/|В Кремле пошутили о разговоре Путина и Трампа
