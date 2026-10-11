@@ -1,8 +1,3 @@
-1791280665|https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf|Germany faces a triple threat from Russia, China and domestic far-right extremists
-1791280671|https://www.cnbc.com/2026/10/06/france-student-protests-budget.html|Student riots engulf France as far-right presidential frontrunner Le Pen vows fiscal turnaround
-1791280679|https://www.euronews.com/2026/10/06/new-european-ski-lodges-and-hotels-opening-in-winter-2026-2027|New European ski lodges and hotels opening in winter 2026-2027
-1791280686|https://www.euronews.com/video/2026/10/06/mermaids-compete-in-warsaws-deepest-swimming-pool|Mermaids compete in Warsaw's deepest swimming pool
-1791281457|https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-rdf|AI models keep hacking real systems during tests. What does this mean?
 1791281463|https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf|Nobel Physics Prize goes to Francis Halzen for neutrino work
 1791281468|https://www.france24.com/en/video/20261006-as-students-protest-how-dilapidated-really-are-france-s-school-buildings|As students protest, how dilapidated really are France's school buildings?
 1791281473|https://www.france24.com/en/video/20261006-japan-holds-first-competitive-sleeping-contest|Japan holds first ‘competitive sleeping’ contest
@@ -1998,3 +1993,8 @@
 1791688011|https://lenta.ru/news/2026/10/11/politologe-predrek-ukraine-poslednyuyu-voennuyu-zimu/|Политолог предрек Украине последнюю военную зиму
 1791688016|https://www.kommersant.ru/doc/9023875|Австрийская оппозиция потребовала объяснить транзит 200 кг «специального груза» из Киева // В Австрии потребовали отчета о перевозке «специального груза» из Украины
 1791688020|https://tass.ru/sport/28202673|Капризов первым из россиян оформил хет-трик в новом сезоне НХЛ
+1791689174|https://www.japantimes.co.jp/news/2026/10/11/world/politics/trump-replacing-ukraine-zelenskyy/|Trump calls for replacing Zelenskyy in tussle over diesel deal with Russia
+1791689179|https://www.kommersant.ru/doc/9023876|Суд заменил реальный срок на условный фигуранту дела о поставках бронежилетов
+1791689183|https://tass.ru/obschestvo/28202697|Депутат Бессараб: праздники не повлияют на оклады россиян
+1791689188|https://tass.ru/ekonomika/28202695|Премьер ДНР заявил о ежегодном росте инвестиций в основной капитал
+1791689192|https://tass.ru/ekonomika/28202689|В аэропорту Нижнего Новгорода отменили временные ограничения
