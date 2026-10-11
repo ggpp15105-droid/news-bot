@@ -1,8 +1,3 @@
-1791299514|https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss|In Gaza, we cannot even begin to recover from trauma
-1791299519|https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss|Saudi Arabia says East-West pipeline pumping 5.8 million bpd
-1791299525|https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf|Munich up against at least six competitors for 2036 Olympics
-1791299530|https://www.euronews.com/2026/10/06/book-weighing-over-200kg-illustrated-by-dali-and-cocteau-stolen-in-auvergne|Book weighing over 200kg illustrated by Dalí and Cocteau stolen in Auvergne
-1791300589|https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss|Birzeit University memorial destruction aims to crush Palestinian memory
 1791300595|https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss|Photos: School blockades, street protests grip France
 1791300602|https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss|‘Not the act of a friend’: Israel’s deadline to close UK consulate nears
 1791300608|https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261006-we-were-naive-about-hamas-israeli-ex-hostage-shoshan-haran-says|'We were naive' about Hamas, Israeli ex-hostage Shoshan Haran says
@@ -1998,3 +1993,8 @@
 1791706067|https://www.kommersant.ru/doc/9023912|В работе сервисов «Яндекса» произошел сбой
 1791706072|https://tass.ru/obschestvo/28202997|В районе Солнцево в Москве открылась школа для 1,2 тыс. учеников
 1791706076|https://tass.ru/ekonomika/28202999|"Россия" корректирует расписание из-за ограничений в аэропорту Сочи
+1791707136|https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss|US justice department investigates TV networks over Trump pool coverage
+1791707142|https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss|Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani
+1791707147|https://www.japantimes.co.jp/commentary/2026/10/11/japan/japan-china-tensions-rise/|With bilateral trade booming, why are Japan-China tensions rising?
+1791707152|https://lenta.ru/news/2026/10/11/de-breyne-oformil-dubl-v-matche-s-frozinone/|Де Брейне оформил дубль в матче с «Фрозиноне»
+1791707157|https://lenta.ru/news/2026/10/11/v-rossii-prokommentirovali-ataku-vsu-na-infrastrukturu-yandeksa-vo-vladimire/|В России прокомментировали атаку ВСУ на инфраструктуру «Яндекса» во Владимире
