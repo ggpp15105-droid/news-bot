@@ -1,8 +1,3 @@
-1791309044|https://www.ign.com/articles/nolan-north-is-staying-in-shape-just-in-case-sony-calls-about-uncharted-5|Nolan North Is Staying in Shape Just in Case Sony Calls About Uncharted 5
-1791309052|https://www.ign.com/articles/star-wars-zero-company-gets-its-first-big-discount-at-amazon-prime-day|Star Wars Zero Company Gets Its First Big Discount at Amazon for Prime Day
-1791309059|https://www.gamespot.com/articles/how-to-get-gta-6-100-edition-for-80-right-now/|How To Get GTA 6’s $100 Edition For $80 Right Now
-1791309068|https://www.eurogamer.net/diablo-2-vr-mod|Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series
-1791309660|https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss|Jerusalem Daily: Tension high in Israel ahead of October 7
 1791309666|https://www.aljazeera.com/video/newsfeed/2026/10/6/yemens-taiz-residents-fear-food-and-fuel-crisis-amid-fighting?traffic_source=rss|Yemen’s Taiz residents fear food and fuel crisis amid fighting
 1791309673|https://www.france24.com/en/colossal-failure-death-penalty-system-in-america-is-a-broken-process-from-start-to-finish|'Colossal failure: Death penalty system in America is a broken process from start to finish'
 1791309680|https://www.aa.com.tr/en/eurasia/fire-erupts-on-tanker-near-russia-s-sochi-official/4080163|Fire erupts on tanker near Russia’s Sochi: Official
@@ -1998,3 +1993,8 @@
 1791715166|https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says|Ukraine ready to halt refinery strikes if Moscow stops energy attacks, Zelensky says
 1791715170|https://news.sky.com/story/pope-leo-to-undergo-surgery-in-coming-days-after-nodule-discovered-on-his-lung-13597712|Pope Leo to undergo surgery in coming days after nodule discovered on his lung
 1791715178|https://www.tomshardware.com/tech-industry/supercomputers/working-cray-1-supercomputer-replica-packs-30-vintage-mac-minis-and-1-5-tflops-passively-cooled-tribute-is-9-375x-faster-than-the-1976-supercomputer|Working Cray-1 supercomputer replica packs 30 vintage Mac Minis and 1.5 TFLOPS
+1791716015|https://www.aljazeera.com/video/newsfeed/2026/10/11/anti-ice-protests-in-new-york-after-man-shot-in-car-with-child?traffic_source=rss|Anti-ICE protests in New York after man shot in car with child
+1791716021|https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-rdf|Poland on alert amid possible attack on PM, defense minister
+1791716027|https://www.cnbc.com/2026/10/11/kyiv-pushes-back-on-trumps-call-for-a-new-ukrainian-president.html|Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub
+1791716032|https://www.euronews.com/2026/10/11/us-police-criticise-anthropic-after-claude-ai-submits-false-information-about-an-unsolved-|US police criticise Anthropic after Claude AI submits false information about an unsolved murder
+1791716037|https://www.euronews.com/2026/10/11/polish-police-alerted-over-possible-attack-on-pm-donald-tusk|Polish police alerted over possible attack on PM Donald Tusk
