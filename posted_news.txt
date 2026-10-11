@@ -1,8 +1,3 @@
-1791308158|https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss|Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
-1791308163|https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss|Ship sinks off Bulgaria after drone attack in Black Sea
-1791308171|https://www.aa.com.tr/en/middle-east/6-civilians-killed-4-injured-in-houthi-shelling-south-of-taiz-yemen-state-media/4080139|6 civilians killed, 4 injured in Houthi shelling south of Taiz, Yemen: State media
-1791308178|https://www.aa.com.tr/en/health/who-urges-countries-not-to-impose-travel-trade-restrictions-for-ebola/4080132|WHO urges countries not to impose travel, trade restrictions for Ebola
-1791309037|https://www.aa.com.tr/en/middle-east/syria-arrests-senior-isis-operative-accused-of-deadly-2025-homs-mosque-bombing/4080127|Syria arrests senior ISIS operative accused of deadly 2025 Homs mosque bombing
 1791309044|https://www.ign.com/articles/nolan-north-is-staying-in-shape-just-in-case-sony-calls-about-uncharted-5|Nolan North Is Staying in Shape Just in Case Sony Calls About Uncharted 5
 1791309052|https://www.ign.com/articles/star-wars-zero-company-gets-its-first-big-discount-at-amazon-prime-day|Star Wars Zero Company Gets Its First Big Discount at Amazon for Prime Day
 1791309059|https://www.gamespot.com/articles/how-to-get-gta-6-100-edition-for-80-right-now/|How To Get GTA 6’s $100 Edition For $80 Right Now
@@ -1998,3 +1993,8 @@
 1791714190|https://www.euronews.com/2026/10/11/czech-pm-babiss-ano-faces-strong-challenge-in-first-round-of-senate-election|Czech PM Babiš's ANO faces strong challenge in first round of Senate election
 1791714195|https://lenta.ru/news/2026/10/11/rukovodstvo-fakela-otpravilo-v-otstavku-glavnogo-trenera-komandy/|Руководство «Факела» отправило в отставку главного тренера команды
 1791714199|https://lenta.ru/news/2026/10/11/izbityy-podrostkami-rossiyanin-opisal-povedenie-napadavshih-frazoy-beregov-ne-vidyat/|Избитый подростками россиянин описал поведение нападавших фразой «берегов не видят»
+1791715155|https://www.aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss|Photos: Thousands detained in police crackdown on India’s youth protest
+1791715161|https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns|Spain: Sánchez and Feijóo launch campaigns
+1791715166|https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says|Ukraine ready to halt refinery strikes if Moscow stops energy attacks, Zelensky says
+1791715170|https://news.sky.com/story/pope-leo-to-undergo-surgery-in-coming-days-after-nodule-discovered-on-his-lung-13597712|Pope Leo to undergo surgery in coming days after nodule discovered on his lung
+1791715178|https://www.tomshardware.com/tech-industry/supercomputers/working-cray-1-supercomputer-replica-packs-30-vintage-mac-minis-and-1-5-tflops-passively-cooled-tribute-is-9-375x-faster-than-the-1976-supercomputer|Working Cray-1 supercomputer replica packs 30 vintage Mac Minis and 1.5 TFLOPS
