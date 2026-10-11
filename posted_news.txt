@@ -1,8 +1,3 @@
-1791337765|https://www.japantimes.co.jp/news/2026/10/07/world/alien-phoenix-planet-dying-star/|Alien ‘phoenix planet’ was born from the ashes of a dying star
-1791337773|https://lenta.ru/news/2026/10/07/nazvany-tseli-udara/|Названы цели удара российских военных по Киеву
-1791337783|https://lenta.ru/news/2026/10/07/mer-kieva-soobschil-o-posledstviyah/|Кличко сообщил о последствиях удара по Киеву
-1791337787|https://www.kommersant.ru/doc/9007761|МИД РФ: Москва готова стать посредником в решении конфликта в Йемене
-1791338516|https://www.france24.com/en/sport/20261007-messi-bids-farewell-to-argentina-fans-in-emotional-international-finale|Messi bids farewell to Argentina fans in emotional international finale
 1791338523|https://www.japantimes.co.jp/news/2026/10/07/asia-pacific/us-china-nuclear/|U.S. and China discuss reciprocal visits to nuclear sites, CNN reports
 1791338529|https://www.japantimes.co.jp/news/2026/10/07/asia-pacific/north-korea-us-taiwan-russia/|North Korea warns U.S. over Taiwan while Kim pledges support for Russia
 1791338537|https://lenta.ru/news/2026/10/07/zhenschinam-raskryli-neochevidnyy-sposob-usilit-udovolstvie-ot-seksa/|Женщинам раскрыли неочевидный способ усилить удовольствие от секса
@@ -1998,3 +1993,8 @@
 1791743900|https://www.euronews.com/2026/10/11/french-social-democratic-primary-raphael-glucksmann-wins-big-in-first-round|French Social democratic primary: Raphaël Glucksmann wins big in first round
 1791743909|https://lenta.ru/news/2026/10/11/na-ukraine-priznali-nesposobnost-protivostoyat-rossiyskim-reaktivnym-geranyam/|На Украине признали неспособность противостоять российским реактивным «Гераням»
 1791743914|https://lenta.ru/news/2026/10/11/dinamo-stalo-liderom-rpl/|«Динамо» стало лидером РПЛ
+1791744982|https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss|Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza
+1791744990|https://www.euronews.com/2026/10/11/shakira-sets-amazon-music-record-in-madrid-with-most-watched-live-stream-by-a-female-artis|Shakira sets Amazon Music record in Madrid with most-watched live stream by a female artist
+1791744995|https://www.euronews.com/2026/10/11/antarctic-penguins-emit-up-to-7-million-tonnes-of-methane-a-year-study-finds|Antarctic penguins emit up to 7 million tonnes of methane a year, study finds
+1791745005|https://www.aa.com.tr/en/europe/2nd-day-of-london-halal-forum-kicks-off-with-palestinian-breakfast/4085445|2nd day of London Halal Forum kicks off with Palestinian breakfast
+1791745011|https://lenta.ru/news/2026/10/11/v-belorussii-sochli-protesty-v-evropeyskih-stranah-izderzhkami-pomoschi-ukraine/|В Белоруссии сочли протесты в европейских странах издержками помощи Украине
