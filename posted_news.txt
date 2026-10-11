@@ -1,8 +1,3 @@
-1791338523|https://www.japantimes.co.jp/news/2026/10/07/asia-pacific/us-china-nuclear/|U.S. and China discuss reciprocal visits to nuclear sites, CNN reports
-1791338529|https://www.japantimes.co.jp/news/2026/10/07/asia-pacific/north-korea-us-taiwan-russia/|North Korea warns U.S. over Taiwan while Kim pledges support for Russia
-1791338537|https://lenta.ru/news/2026/10/07/zhenschinam-raskryli-neochevidnyy-sposob-usilit-udovolstvie-ot-seksa/|Женщинам раскрыли неочевидный способ усилить удовольствие от секса
-1791338542|https://www.kommersant.ru/doc/9007762|Полиция Британии задержала седьмого подозреваемого в подготовке теракта на базе Фэрфорд
-1791339515|https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms|Israel marks third anniversary of October 7 attack as election looms
 1791339523|https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html|Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister
 1791339527|https://lenta.ru/news/2026/10/07/messi-zabil-gol-v-poslednem-matche-sbornoy-argentiny/|Месси забил гол в последнем матче сборной Аргентины
 1791339532|https://www.kommersant.ru/doc/9007760|NYP: ФБР следило за поездками Мелании и Бэррона Трамп перед обыском в Мар-а-Лаго
@@ -1998,3 +1993,8 @@
 1791744995|https://www.euronews.com/2026/10/11/antarctic-penguins-emit-up-to-7-million-tonnes-of-methane-a-year-study-finds|Antarctic penguins emit up to 7 million tonnes of methane a year, study finds
 1791745005|https://www.aa.com.tr/en/europe/2nd-day-of-london-halal-forum-kicks-off-with-palestinian-breakfast/4085445|2nd day of London Halal Forum kicks off with Palestinian breakfast
 1791745011|https://lenta.ru/news/2026/10/11/v-belorussii-sochli-protesty-v-evropeyskih-stranah-izderzhkami-pomoschi-ukraine/|В Белоруссии сочли протесты в европейских странах издержками помощи Украине
+1791745611|https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss|War and high debt to dominate IMF-World Bank meetings in Bangkok
+1791745621|https://lenta.ru/news/2026/10/12/premier-vengrii-poobeschal-sokratit-energeticheskuyu-zavisimost-ot-rossii/|Премьер Венгрии пообещал сократить энергетическую зависимость от России
+1791745625|https://lenta.ru/news/2026/10/11/vlasti-vladimira-soobschili-o-likvidatsii-boezaryadov-posle-ataki-bpla/|Власти Владимира сообщили о ликвидации боезарядов после атаки БПЛА
+1791745630|https://lenta.ru/news/2026/10/11/ssha-prigrozili-ukraine/|США пригрозили Украине
+1791745635|https://lenta.ru/news/2026/10/11/raskryty-posledstviya-sdelki-s-ssha-po-dizelyu-dlya-ukrainy/|Раскрыты последствия сделки с США по дизелю для Украины
