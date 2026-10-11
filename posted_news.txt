@@ -1,8 +1,3 @@
-1791325433|https://www.ign.com/articles/aion-2s-character-creator-is-going-viral-for-its-bust-size-options-or-lack-thereof|Aion 2's Character Creator Is Going Viral for Its Bust Size Options, or Lack Thereof
-1791325438|https://lenta.ru/news/2026/10/07/putin-vstretit-den-rozhdeniya-za-gosudarstvennymi-delami/|Путин встретит день рождения за государственными делами
-1791325443|https://www.kommersant.ru/doc/9007738|Матвиенко: для России лучше стабильная и спокойная Европа
-1791325452|https://www.kommersant.ru/doc/9007733|Трамп анонсировал новый телефонный разговор с Путиным // Трамп сообщил о планах очень скоро пообщаться с Путиным по телефону
-1791326266|https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss|Fans flood Buenos Aires ahead of Messi’s final international match
 1791326275|https://lenta.ru/news/2026/10/07/kim-chen-yn-obratilsya-k-putinu/|Ким Чен Ын обратился к Путину
 1791326284|https://www.kommersant.ru/doc/9007731|The Intercept: США могут не восстановить военное присутствие на Ближнем Востоке
 1791326288|https://www.kommersant.ru/doc/9007732|Минпромторг сообщил о стабильных поставках «Атаракса» в России // Минпромторг: в российских аптеках в наличии более 500 тысяч упаковок «Атаракса»
@@ -1998,3 +1993,8 @@
 1791732355|https://lenta.ru/news/2026/10/11/zelenskiy-okazalsya-ne-v-kurse-ob-yavlennogo-trampom-energeticheskogo-peremiriya/|Зеленский оказался не в курсе объявленного Трампом «энергетического перемирия»
 1791732361|https://lenta.ru/news/2026/10/11/servisy-yandeksa-nachali-vozvraschatsya-k-rabote-posle-sboya/|Сервисы «Яндекса» начали возвращаться к работе после сбоя
 1791732370|https://www.kommersant.ru/doc/9024040|Зеленский: Украина проведет выборы при согласии России на 60-дневное перемирие
+1791733235|https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss|Poland stabbings driven by online glorification of violence, Tusk says
+1791733241|https://www.ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world|‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World
+1791733250|https://www.ign.com/articles/marvel-tokon-dlc-roadmap-reveals-first-look-at-jane-foster-thor-venom-and-jubilee-coming-in-2027|Marvel Tokon DLC Roadmap Reveals First Look at Jane Foster Thor, Venom and Jubilee Coming in 2027
+1791733256|https://lenta.ru/news/2026/10/11/tsska-stal-liderom-rpl/|ЦСКА стал лидером РПЛ
+1791733261|https://lenta.ru/news/2026/10/11/passazhirskiy-terminal-aeroporta-v-saudovskoy-aravii-podvergsya-novomu-udaru/|Пассажирский терминал аэропорта в Саудовской Аравии подвергся новому удару
