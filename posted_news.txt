@@ -1,8 +1,3 @@
-1791285245|https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-all-1573-rdf|Fact check: Misleading claims spark plague fears in Russia
-1791285253|https://www.euronews.com/2026/10/06/electrification-ai-and-fossil-fuels-what-to-expect-as-turkiye-hosts-major-climate-summit-n|Electrification, AI and fossil fuels: What to expect as Türkiye hosts major climate summit next month
-1791285261|https://www.japantimes.co.jp/news/2026/10/06/japan/qilin-hacker-group-japan-germany/|Japan hands over ‘Qilin’ hacker group member to Germany
-1791285268|https://www.japantimes.co.jp/culture/2026/10/06/film/ozu-diaries/|‘The Ozu Diaries’: An engaging look at the man behind the myth
-1791286246|https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss|Pro-Palestine Greens challenge Labour’s grip on Starmer’s former seat
 1791286252|https://www.aljazeera.com/economy/2026/10/6/singapore-refers-eight-civil-servants-to-police-over-property-purchases?traffic_source=rss|Singapore refers eight civil servants to police over property purchases
 1791286258|https://www.dw.com/en/nigerian-military-plane-crash-kills-all-25-on-board/a-79552403?maca=en-rss-en-all-1573-rdf|Nigerian military plane crash kills all 25 on board
 1791286263|https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-all-1573-rdf|Kenya reports first-ever Ebola death
@@ -1998,3 +1993,8 @@
 1791692956|https://lenta.ru/news/2026/10/11/raskryt-spisok-zatronutyh-sboem-posle-ataki-na-data-tsentr-yandeksa-prilozheniy/|Раскрыт список затронутых сбоем после атаки на дата-центр «Яндекса» приложений
 1791692961|https://www.kommersant.ru/doc/9023879|Премьер-министр Эстонии пожаловался на смену позиции США по российскому топливу
 1791692965|https://tass.ru/obschestvo/28202733|Опрошенные россияне назвали главные требования к идеальному офису
+1791693941|https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss|ICE agent in New York shooting also involved in assault of pregnant woman
+1791693945|https://lenta.ru/news/2026/10/11/proverku-zreniya-nazvali-sposobom-opredelit-nalichie-simptomov-diabeta/|Проверку зрения назвали способом определить наличие симптомов диабета
+1791693951|https://lenta.ru/news/2026/10/11/raskryt-dolg-ukrainy-pered-mvf-i-vsemirnym-bankom/|Раскрыт долг Украины перед МВФ и Всемирным банком
+1791693955|https://www.kommersant.ru/doc/9023884|Пожар произошел при ударе беспилотников по инфраструктуре в пригороде Владимира
+1791693959|https://tass.ru/sport/28202763|Ассистентский дубль Кучерова помог "Тампе" обыграть "Айлендерс" в матче НХЛ
