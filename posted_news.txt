@@ -1,8 +1,3 @@
-1791295559|https://www.euronews.com/2026/10/06/france-test-fires-new-nuclear-capable-missile-from-submarine-for-first-time|France test-fires new nuclear-capable missile from submarine for first time
-1791295566|https://www.euronews.com/2026/10/06/paramount-and-warner-bros-complete-merger-to-form-hollywood-giant-skydance|Paramount and Warner Bros complete merger to form Hollywood giant Skydance
-1791295573|https://www.euronews.com/2026/10/06/burnout-at-work-meps-call-for-stronger-eu-protections|Burnout at work: MEPs call for stronger EU protections
-1791295579|https://www.euronews.com/2026/10/06/from-desalination-to-irrigation-how-countries-are-adapting-to-water-scarcity|From desalination to irrigation: How countries are adapting to water scarcity
-1791296754|https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss|Hormuz ship attacks surge: Are increased oil exports sustainable?
 1791296761|https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss|‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy
 1791296768|https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf|Paramount and Warner Bros merge into one Hollywood giant
 1791296776|https://www.dw.com/en/spain-court-lifts-puigdemont-arrest-warrant-clearing-way-for-his-return-home-ahead-of-november-elections/a-79565853?maca=en-rss-en-all-1573-rdf|Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections
@@ -1998,3 +1993,8 @@
 1791702502|https://lenta.ru/news/2026/10/11/50-letnyaya-rossiyanka-vyigrala-mezhdunarodnyy-konkurs-krasoty/|50-летняя россиянка выиграла международный конкурс красоты
 1791702508|https://www.kommersant.ru/doc/9023900|Основатель «Рыбаря» вернулся в Россию после задержания в Черногории
 1791702513|https://www.kommersant.ru/doc/9023896|Минобороны: силы ПВО ночью сбили 479 дронов над территорией России
+1791703667|https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he|Four dead as Isaias continues to push across the Southeast US, bringing strong winds and heavy rain
+1791703671|https://lenta.ru/news/2026/10/11/long-vsu-vnov-atakovali-infrastrukturu-yandeksa-masshtabnyy-sboy-zatronul-taksi-sluzhby-dostavki-i-onlayn-magaziny/|ВСУ вновь атаковали инфраструктуру «Яндекса». Масштабный сбой затронул приложения такси, кафе и магазинов
+1791703676|https://lenta.ru/news/2026/10/11/v-rossiyskom-aeroporte-vveli-ogranicheniya-na-polety/|Работу российского аэропорта приостановили
+1791703680|https://lenta.ru/news/2026/10/11/rossiyanam-raskryli-smertelnuyu-dozu-sahara/|Россиянам раскрыли смертельную дозу сахара
+1791703685|https://www.kommersant.ru/doc/9023910|За сутки над Курской областью уничтожили 188 беспилотников ВСУ
