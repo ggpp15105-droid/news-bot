@@ -1,8 +1,3 @@
-1791342178|https://www.japantimes.co.jp/news/2026/10/07/japan/japan-extra-disaster-budget/|Japan considering another extra budget for disaster relief, Yomiuri reports
-1791342186|https://lenta.ru/news/2026/10/07/elektrik-dal-sovet-po-otklyucheniyu-tehniki-iz-rozetki-pered-uhodom-iz-doma/|Электрик дал совет по отключению техники из розетки перед уходом из дома
-1791342195|https://lenta.ru/news/2026/10/07/nazvany-samye-vostrebovannye-i-oplachivaemye-vakansii-v-rossii/|Названы самые востребованные и оплачиваемые вакансии в России
-1791342203|https://lenta.ru/news/2026/10/07/oderzhimyy-molodostyu-millioner-prosnulsya-v-krovi-iz-za-strashnyh-snov/|Одержимый молодостью миллионер проснулся в крови из-за страшных снов
-1791343289|https://www.japantimes.co.jp/business/2026/10/07/economy/takaichi-real-wages/|Japan’s real wages rise again, aided by Takaichi’s relief
 1791343298|https://lenta.ru/news/2026/10/07/po-saudovskoy-aravii-nanesli-massirovannyy-udar/|По Саудовской Аравии нанесли массированный удар
 1791343306|https://lenta.ru/news/2026/10/07/dietolog-nazvala-pomogayuschie-sohranit-pamyat-produkty/|Диетолог назвала помогающие сохранить память продукты
 1791343315|https://www.kommersant.ru/doc/9007765|Нидерланды в случае ЧС привлекут для оказания помощи 150 тыс. резервистов
@@ -1998,3 +1993,8 @@
 1791748311|https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote|UK PM Burnham warns French voters of Russian political influence on back of Brexit vote
 1791748316|https://www.euronews.com/2026/10/11/judo-japan-reclaim-mixed-team-world-title-with-eighth-gold-in-baku|Judo: Japan reclaim mixed team world title with eighth gold in Baku
 1791748324|https://www.kommersant.ru/doc/9024228|Песков назвал огромным спрос на российское дизельное топливо // Песков: Россия без проблем поставит дизель на мировые рынки
+1791748910|https://lenta.ru/news/2026/10/11/dinamo-obygralo-zenit-i-vyshlo-v-final-kubka-legend/|«Динамо» обыграло «Зенит» и вышло в финал Кубка легенд
+1791748919|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-pomoschi-lyudey-v-forme-vsu-v-mobilizatsii-zhiteley-lvova/|Стало известно о помощи людей в форме ВСУ в мобилизации жителей Львова
+1791748927|https://www.kommersant.ru/doc/9024230|Один человек погиб при ударе БПЛА по машине в Белгородской области
+1791748931|https://www.kommersant.ru/doc/9024223|В Польше задержали более 100 подростков из-за угроз нападений на школы
+1791748935|https://tass.ru/mezhdunarodnaya-panorama/28203925|Bloomberg: Эр-Рияд разочарован недостаточной поддержкой Запада в конфликте с хуситами
