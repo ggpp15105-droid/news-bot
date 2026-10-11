@@ -1,8 +1,3 @@
-1791347126|https://www.euronews.com/2026/10/07/former-german-foreign-intelligence-chief-august-hanning-arrested-on-suspicion-of-espionge-|Former German foreign intelligence chief August Hanning arrested on suspicion of espionge, attempted treason
-1791347134|https://www.euronews.com/2026/10/07/sanchez-announces-21-urgent-housing-measures-after-nationwide-protests-ahead-of-snap-elect|Sánchez announces 21 urgent housing measures after nationwide protests ahead of snap election
-1791347139|https://lenta.ru/news/2026/10/07/rossiyskie-boytsy-unichtozhili-krupnyy-punkt-dislokatsii-vsu/|Российские бойцы уничтожили крупный пункт дислокации ВСУ
-1791347145|https://lenta.ru/news/2026/10/07/v-germanii-obratilis-s-voprosom-k-nato-iz-za-kaliningrada/|В Германии обратились с вопросом к НАТО из-за Калининграда
-1791348255|https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-all-1573-rdf|Where is Spain headed after the snap election announcement?
 1791348263|https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html|Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery
 1791348270|https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html|India’s central bank hikes rates for the first time since 2023 as inflation creeps up
 1791348277|https://www.japantimes.co.jp/news/2026/10/07/japan/crime-legal/man-arrested-body-miyagi/|Man arrested after girlfriend’s body found in mountains of Miyagi Prefecture
@@ -1998,3 +1993,8 @@
 1791752476|https://lenta.ru/news/2026/10/11/nazvano-samoe-poleznoe-myaso-pri-nizkom-gemoglobine/|Названо самое полезное мясо при низком гемоглобине
 1791752481|https://lenta.ru/news/2026/10/12/glava-mid-belorussii-vyskazalsya-o-normalizatsii-otnosheniy-s-polshey/|Глава МИД Белоруссии высказался о нормализации отношений с Польшей
 1791752485|https://www.kommersant.ru/doc/9024233|Нетаньяху потребовал привлечь к ответственности авторов фильма о гибели гражданских в Газе // Премьер Израиля инициирует уголовное дело против героев фильма NAZA
+1791753299|https://lenta.ru/news/2026/10/12/mirnyy-zhitel-pogib-pri-atake-bespilotnika-v-dnr/|Мирный житель погиб при атаке беспилотника в ДНР
+1791753304|https://www.kommersant.ru/doc/9024200|Объем рынка факторинга перевалил за 3 трлн рублей
+1791753309|https://www.kommersant.ru/doc/9024235|Группа сенаторов обвинила Трампа в нарушении закона за дизельную сделку с РФ
+1791753319|https://www.kommersant.ru/doc/9024232|Axios: Уиткофф и Кушнер отложили поездку в Москву // Axios: США ждут согласования единого предложения по переговорам от Украины и ЕС
+1791753323|https://tass.ru/ekonomika/28203963|Выездные заседания руководства МВФ и Всемирного банка откроются в Бангкоке
