@@ -1,8 +1,3 @@
-1791323129|https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss|CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
-1791323135|https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss|US arrests suspect in connection with Tumbler Ridge school shooting
-1791323142|https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss|Merino scores twice as Spain beat Croatia 2-1 in Nations League
-1791323148|https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss|Tokyo protests US military presence after Okinawa killing
-1791323819|https://www.euronews.com/2026/10/06/armed-man-shot-outside-swedens-royal-palace-in-stockholm|Armed Man shot outside Sweden's Royal Palace in Stockholm
 1791323828|https://www.ign.com/articles/pdp-riffmaster-crkd-les-paul-guitar-controller-deals-october-prime-day-2026|Upgrade Your Fortnite Festival Setup With Prime Day Deals on PDP and CRKD Guitar Controllers
 1791323836|https://www.rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun|ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun
 1791323846|https://lenta.ru/news/2026/10/07/frantsuzskie-shkolniki-ob-yasnili-reshenie-vyyti-na-protesty/|Французские школьники объяснили решение выйти на протесты
@@ -1998,3 +1993,8 @@
 1791729926|https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire|🔴 Trump says Russia and Ukraine agree to 'energy ceasefire'
 1791729932|https://www.france24.com/en/video/20261011-india-s-cockroach-leaders-vow-to-keep-up-election-protests|India's 'cockroach' leaders vow to keep up election protests
 1791729938|https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition|Strike on Riyadh: What options for the Saudi-led coalition?
+1791730693|https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss|Children among 109 dead after boat capsizes off Djibouti, UN says
+1791730698|https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss|Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties
+1791730704|https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution|Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot
+1791730709|https://lenta.ru/news/2026/10/11/v-snyatii-sanktsiy-s-rossiyskogo-dizelya-usmotreli-izmenenie-politiki-trampa/|В снятии санкций с российского дизеля усмотрели изменение политики Трампа
+1791730714|https://lenta.ru/news/2026/10/11/andreeva-sravnyalas-s-peguloy-po-chislu-pobed-v-sezone/|Андреева сравнялась с Пегулой по числу побед в сезоне
