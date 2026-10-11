@@ -1,8 +1,3 @@
-1791316311|https://www.france24.com/en/students-unions-and-teachers-in-mass-movement-to-demand-better-learning-conditions|Students, unions and teachers in mass movement to demand better learning conditions
-1791316317|https://www.cnbc.com/2026/10/06/emmy-awards-prime-video.html|Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal
-1791316323|https://www.aa.com.tr/en/economy/iata-official-calls-turkiye-aviation-powerhouse/4080241|IATA official calls Türkiye aviation powerhouse
-1791316330|https://www.tomshardware.com/desktops/gaming-pcs/hp-takes-usd2200-off-a-ryzen-7-9800x3d-and-rtx-5080-prebuilt-at-usd2-799-sale-slashes-44-percent-off-an-omen-system-thats-ready-to-game-however-you-want|HP takes $2200 off a Ryzen 7 9800X3D and RTX 5080 prebuilt at $2,799
-1791316870|https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss|Yemen’s government is on the attack against the Houthis. What has changed?
 1791316876|https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss|The new players in space
 1791316884|https://www.dw.com/en/french-ai-company-announces-new-private-model/a-79569597?maca=en-rss-en-all-1573-rdf|French AI company announces new, private model
 1791316890|https://www.france24.com/en/calls-to-block-social-media-platforms-for-minors-in-france-amid-school-protests|Calls to block social media platforms for minors in France amid school protests
@@ -1998,3 +1993,8 @@
 1791722420|https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss|Polish police probe alleged plot to assassinate PM Tusk, defence minister
 1791722427|https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video|GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked
 1791722434|https://www.tomshardware.com/video-games/retro-gaming/programmer-ports-super-mario-64-to-microsofts-zune-hd-media-player-the-2009-ipod-rival-runs-the-game-natively-on-its-nvidia-tegra-chip-with-touchscreen-controls-and-saves|Programmer ports Super Mario 64 to Microsoft’s Zune HD media player
+1791723580|https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html|AI’s quiet safety gatekeepers are stepping into the spotlight
+1791723587|https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night|Denmark tests humanoid robots in supermarkets to help to ease staff workload at night
+1791723594|https://www.tomshardware.com/video-games/developer-turns-classic-windows-minesweeper-into-hand-holding-big-budget-triple-a-parody-browser-reboot-mocks-modern-gaming-with-chatty-npcs-internal-monologues-and-promised-loot-boxes|Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A’ parody
+1791723603|https://lenta.ru/news/2026/10/11/mid-rossii-otreagiroval-na-ataku-aeroporta-v-saudovskoy-aravii/|МИД России отреагировал на атаку аэропорта в Саудовской Аравии
+1791723612|https://lenta.ru/news/2026/10/11/sbornaya-rossii-obygrala-uzbekistan-i-vyshla-v-final-komandnogo-turnira/|Сборная России обыграла Узбекистан и вышла в финал командного турнира
