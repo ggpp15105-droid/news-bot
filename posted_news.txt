@@ -1,8 +1,3 @@
-1791351215|https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks|How Netanyahu survived the political fallout from the October 7 attacks
-1791351220|https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary|Middle East live: Houthis target airport in Yemen as Israel marks October 7 anniversary
-1791351227|https://www.euronews.com/2026/10/07/these-are-the-best-wine-regions-in-europe-with-slovenia-claiming-top-spot-above-france-and|These are the best wine regions in Europe, with Slovenia claiming top spot above France and Italy
-1791351235|https://www.euronews.com/2026/10/07/qatar-eyes-2036-olympics-after-it-hosts-asian-games-as-f1-confirms-gulf-races|Qatar eyes 2036 Olympics after it hosts Asian Games as F1 confirms Gulf races
-1791352209|https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss|What is pneumonic plague and how does it spread?
 1791352217|https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss|Libya’s parliament removes Speaker Saleh after 12 years as discontent grows
 1791352222|https://www.france24.com/en/tv-shows/sports/20261007-lionel-messi-scores-as-argentina-beat-benin-for-his-last-international-game|Lionel Messi scores as Argentina beat Benin for his last international game
 1791352230|https://www.euronews.com/2026/10/07/ubs-only-european-bank-in-top-10-of-ai-adoption-as-jpmorgan-chase-leads|UBS only European bank in top 10 of AI adoption as JPMorgan Chase leads
@@ -1998,3 +1993,8 @@
 1791756036|https://www.kommersant.ru/doc/9024250|Глава МИД Саудовской Аравии созвонился с Аракчи после удара хуситов по аэропорту
 1791756041|https://www.kommersant.ru/doc/9024249|За день над Россией сбили 112 беспилотников
 1791756046|https://www.kommersant.ru/doc/9024234|Axios: РФ пока не согласилась на объявленное Трампом энергетическое перемирие
+1791756781|https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform|Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda
+1791756788|https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html|Stock futures are little changed with big banks set to kick off earnings season: Live updates
+1791756796|https://lenta.ru/news/2026/10/12/rossiyanam-nazvali-neobhodimoe-vremya-v-nedelyu-dlya-zanyatiy-sportom/|Россиянам назвали необходимое время в неделю для занятий спортом
+1791756805|https://lenta.ru/news/2026/10/12/nazvana-idealnaya-temperatura-v-spalne-dlya-krepkogo-sna/|Названа идеальная температура в спальне для крепкого сна
+1791756810|https://lenta.ru/news/2026/10/12/dua-lipa-bez-byustgaltera-snyalas-v-prozrachnom-bodi/|Дуа Липа без бюстгальтера снялась в прозрачном боди
