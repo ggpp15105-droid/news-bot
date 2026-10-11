@@ -1,8 +1,3 @@
-1791355496|https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss|Yemen’s displaced children dream of returning to school
-1791355502|https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss|Finland orders halt to work on Google data centre sites
-1791355509|https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html|Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva
-1791355516|https://www.euronews.com/2026/10/07/spat-over-israeli-flag-removal-engulfs-the-european-parliament-on-october-7-anniversary|Spat over Israeli flag removal engulfs the European Parliament on October 7 anniversary
-1791356561|https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss|Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh
 1791356568|https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss|Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?
 1791356576|https://www.euronews.com/video/2026/10/07/israelis-mourn-nova-festival-victims-three-years-after-hamas-attack|Israelis mourn Nova festival victims three years after Hamas attack
 1791356583|https://www.euronews.com/video/2026/10/07/tear-gas-and-fireworks-as-student-protests-turn-violent-in-paris|Tear gas and fireworks as student protests turn violent in Paris
@@ -1998,3 +1993,8 @@
 1791759567|https://lenta.ru/news/2026/10/12/v-kremle-nazvali-vazhnyy-dlya-moskvy-punkt-v-deystviyah-kieva/|В Кремле назвали важный для Москвы пункт в действиях Киева
 1791759572|https://lenta.ru/news/2026/10/12/miroshnik-predupredil-o-vozmozhnyh-provokatsiyah-na-fone-sdelki-rossii-i-ssha/|Мирошник предупредил о возможных провокациях на фоне сделки России и США
 1791759577|https://lenta.ru/news/2026/10/12/ovechkin-obnovil-snayperskiy-rekord-nhl/|Овечкин обновил снайперский рекорд НХЛ
+1791760194|https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss|Footage shows moment Russian strike hits Ukrainian grocery store
+1791760200|https://www.japantimes.co.jp/business/2026/10/12/tech/hydrovault-startup/|Cooling innovation from a hot startup
+1791760209|https://lenta.ru/news/2026/10/12/muzhchina-poymal-zhenu-s-lyubovnikom-i-zastavil-ih-zanyatsya-seksom-na-lyudyah/|Мужчина поймал жену с любовником и заставил их заняться сексом на людях
+1791760214|https://lenta.ru/news/2026/10/12/pcs/|Поставки компьютеров рухнули
+1791760223|https://www.kommersant.ru/doc/9024255|ЕС выделит Украине дополнительное финансирование на ракеты и беспилотники
