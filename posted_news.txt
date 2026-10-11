@@ -1,8 +1,3 @@
-1791343298|https://lenta.ru/news/2026/10/07/po-saudovskoy-aravii-nanesli-massirovannyy-udar/|По Саудовской Аравии нанесли массированный удар
-1791343306|https://lenta.ru/news/2026/10/07/dietolog-nazvala-pomogayuschie-sohranit-pamyat-produkty/|Диетолог назвала помогающие сохранить память продукты
-1791343315|https://www.kommersant.ru/doc/9007765|Нидерланды в случае ЧС привлекут для оказания помощи 150 тыс. резервистов
-1791343319|https://www.kommersant.ru/doc/9007764|Администрация Трампа отказалась от наблюдателей ОБСЕ на промежуточных выборах
-1791344359|https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss|Former Australian bishop jailed for sexually abusing young men
 1791344364|https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss|Oman evacuates injured crew from attacked tanker in Strait of Hormuz
 1791344371|https://www.japantimes.co.jp/business/2026/10/07/companies/kawasaki-heavy-industries-dog-robots/|Kawasaki Heavy unveils dog-shaped robot companion for older people
 1791344380|https://lenta.ru/news/2026/10/07/v-evrope-ispugalis-posledstviy-zayavleniya-minoborony-o-zelenskom/|В Европе испугались последствий заявления Минобороны о Зеленском
@@ -1998,3 +1993,8 @@
 1791748927|https://www.kommersant.ru/doc/9024230|Один человек погиб при ударе БПЛА по машине в Белгородской области
 1791748931|https://www.kommersant.ru/doc/9024223|В Польше задержали более 100 подростков из-за угроз нападений на школы
 1791748935|https://tass.ru/mezhdunarodnaya-panorama/28203925|Bloomberg: Эр-Рияд разочарован недостаточной поддержкой Запада в конфликте с хуситами
+1791749744|https://lenta.ru/news/2026/10/11/peskov-vyskazalsya-o-prodazhe-rossiyskogo-dizelya/|Песков высказался о продаже российского дизеля
+1791749749|https://lenta.ru/news/2026/10/12/v-minoborony-evropeyskoy-strany-pozhalovalis-na-naznacheniya-po-znakomstvu/|В Минобороны европейской страны пожаловались на назначения по знакомству
+1791749754|https://lenta.ru/news/2026/10/11/v-irane-prigrozili-iduschim-cherez-ormuzskiy-proliv-sudam/|В Иране пригрозили идущим через Ормузский пролив судам
+1791749759|https://lenta.ru/news/2026/10/11/peskov-otsenil-debyut-docheri-na-sorevnovaniyah-po-figurnomu-kataniyu/|Песков оценил дебют дочери на соревнованиях по фигурному катанию
+1791749763|https://tass.ru/obschestvo/28203927|Аэропорт Нижнего Новгорода принял 15 следовавших в Москву рейсов
