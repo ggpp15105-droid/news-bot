@@ -1,8 +1,3 @@
-1791309666|https://www.aljazeera.com/video/newsfeed/2026/10/6/yemens-taiz-residents-fear-food-and-fuel-crisis-amid-fighting?traffic_source=rss|Yemen’s Taiz residents fear food and fuel crisis amid fighting
-1791309673|https://www.france24.com/en/colossal-failure-death-penalty-system-in-america-is-a-broken-process-from-start-to-finish|'Colossal failure: Death penalty system in America is a broken process from start to finish'
-1791309680|https://www.aa.com.tr/en/eurasia/fire-erupts-on-tanker-near-russia-s-sochi-official/4080163|Fire erupts on tanker near Russia’s Sochi: Official
-1791309686|https://www.gamespot.com/articles/razers-wolverine-v4-controller-is-overkill-for-most-gamers-and-thats-the-point/|Razer’s Wolverine V4 Controller Is Overkill For Most Gamers, And That’s The Point
-1791310762|https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss|Indian opposition leaders detained during voter lists protest
 1791310769|https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss|Tuareg rebels withdraw from strategic town of Kidal in northern Mali
 1791310776|https://www.dw.com/en/naked-trump-statue-goes-on-display-in-strasbourg/a-79568640?maca=en-rss-en-all-1573-rdf|Naked Trump statue goes on display in Strasbourg
 1791310783|https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf|EU seeks ways to make expansion more palatable to members
@@ -1998,3 +1993,8 @@
 1791716027|https://www.cnbc.com/2026/10/11/kyiv-pushes-back-on-trumps-call-for-a-new-ukrainian-president.html|Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub
 1791716032|https://www.euronews.com/2026/10/11/us-police-criticise-anthropic-after-claude-ai-submits-false-information-about-an-unsolved-|US police criticise Anthropic after Claude AI submits false information about an unsolved murder
 1791716037|https://www.euronews.com/2026/10/11/polish-police-alerted-over-possible-attack-on-pm-donald-tusk|Polish police alerted over possible attack on PM Donald Tusk
+1791716722|https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss|Pope Leo to have surgery after lump found on lung
+1791716729|https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss|Modi is in trouble
+1791716736|https://www.aljazeera.com/sports/2026/10/11/indonesia-gp-motogp-bezzecchi-martin-world-championship?traffic_source=rss|Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead
+1791716742|https://www.japantimes.co.jp/business/2026/10/11/companies/japan-cyber-defense-services-inquiry-surge/|Major electronics firms bombarded with cyberdefense inquiries
+1791716749|https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next|Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications
