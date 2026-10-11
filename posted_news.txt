@@ -1,8 +1,3 @@
-1791303425|https://www.france24.com/en/video/20261006-norway-eyes-temporary-ban-of-smart-glasses|Norway eyes temporary ban of smart glasses
-1791303431|https://www.france24.com/en/video/20261006-tense-atmosphere-as-tens-of-thousands-join-french-student-protests|'Tense' atmosphere as tens of thousands join French student protests
-1791303437|https://www.france24.com/en/video/20261006-ukraine-fires-nearly-900-drones-at-russia-says-moscow|Ukraine fires nearly 900 drones at Russia, says Moscow
-1791303444|https://www.france24.com/en/tv-shows/arts24/20261006-paris-fashion-week-nicole-kidman-dua-lipa-and-rihanna-light-up-the-front-row|Paris Fashion Week: Nicole Kidman, Dua Lipa and Rihanna light up the front row
-1791304619|https://www.france24.com/en/americas/20261006-paramount-completes-takeover-of-warner-bros-creating-media-behemoth-skydance|Paramount completes takeover of Warner Bros, creating media behemoth Skydance
 1791304625|https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html|Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies
 1791304632|https://www.aa.com.tr/en/world/interview-well-be-up-and-operational-before-iss-retires-axiom-space-ceo/4080073|INTERVIEW - 'We'll be up and operational' before ISS retires: Axiom Space CEO
 1791304640|https://www.ign.com/articles/final-fantasy-prime-big-deal-days-discount-rebirth|Score 50% off Select Final Fantasy Games at Amazon During Prime Big Deal Days
@@ -1998,3 +1993,8 @@
 1791709604|https://lenta.ru/news/2026/10/11/v-mali-zayavili-o-podderzhke-terroristov-ukrainskoy-voennoy-razvedkoy/|В Мали заявили о поддержке террористов украинской военной разведкой
 1791709613|https://lenta.ru/news/2026/10/11/hachanov-i-rublev-snyalis-s-parnogo-turnira-v-shanhae/|Хачанов и Рублев снялись с парного турнира в Шанхае
 1791709622|https://lenta.ru/news/2026/10/11/long-armiya-rossii-atakovala-devyat-oblastey-ukrainy-pod-udar-popala-klyuchevaya-elektropodstantsiya-kievskoy-oblasti/|Армия России атаковала девять областей Украины. Под удар попала ключевая электроподстанция Киевской области
+1791710640|https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss|What can Man City expect against Liverpool at Anfield on Sunday?
+1791710647|https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss|Trump calls for Ukraine election, says Zelenskyy failed to end war
+1791710651|https://news.sky.com/story/residents-evacuated-after-flash-flooding-destroys-homes-in-nepal-13597674|Flash flooding destroys homes in Nepal
+1791710659|https://www.euronews.com/2026/10/11/protesters-take-to-the-streets-in-portugal-over-rising-living-costs-and-housing-prices|Protesters take to the streets in Portugal over rising living costs and housing prices
+1791710665|https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale|"We have to go a different path" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale
