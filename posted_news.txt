@@ -1,8 +1,3 @@
-1791335783|https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations|Haiti postpones elections indefinitely as gang violence hampers preparations
-1791335789|https://www.cnbc.com/2026/10/07/trump-hormuz-oil-diesel-iran-anthropic-ai.html|CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz
-1791335797|https://www.japantimes.co.jp/business/2026/10/07/paramount-warner-merger-deal/|Paramount closes Warner merger in historic Hollywood deal
-1791335806|https://www.tomshardware.com/desktops/gaming-pcs/get-usd500-off-this-sweet-ryzen-7-7800x3d-and-rtx-5070-powered-gaming-pc-at-just-usd1799-32gb-of-ddr5-6000-comes-standard-too-at-a-22-percent-discount|Get 22% off this sweet Ryzen 7 7800X3D and RTX 5070-powered gaming PC at just $1799
-1791336811|https://www.japantimes.co.jp/business/2026/10/07/apple-smart-home-lg-electronics/|Apple’s smart home push includes doorbell, lock and thermostat codeveloped with LG
 1791336819|https://lenta.ru/news/2026/10/07/varnava-hudoba/|Екатерина Варнава напугала фанатов худобой на фото в мини-юбке
 1791336827|https://lenta.ru/news/2026/10/07/v-britanii/|В Британии нашли способ избежать войны с Россией
 1791336832|https://lenta.ru/news/2026/10/07/usilenie-udarov-po-kievu-ob-yasnili/|Усиление ударов по Киеву объяснили
@@ -1998,3 +1993,8 @@
 1791741724|https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss|Is the Yemen war entering a new phase?
 1791741729|https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss|Israel pushes its ‘Yellow Line’ deeper into Gaza
 1791741734|https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president|A profile of Raphaël Glucksmann, the man who wants to be French President
+1791742653|https://news.sky.com/story/at-least-13-miners-killed-in-airstrike-on-sudan-egypt-border-says-medical-group-13597904|At least 13 miners killed in airstrike
+1791742661|https://lenta.ru/news/2026/10/11/bolee-100-migrantov-pogibli-v-rezultate-krushenii-sudna-u-beregov-dzhibuti/|Более 100 мигрантов погибли в результате крушения судна у берегов Джибути
+1791742670|https://lenta.ru/news/2026/10/11/rossiyskaya-pensionerka-zasudila-obmanuvshego-ee-santehnika-na-211-tysyach-rubley/|Российская пенсионерка засудила обманувшего ее сантехника на 211 тысяч рублей
+1791742675|https://lenta.ru/news/2026/10/11/ahmat-i-baltika-sygrali-vnichyu-v-groznom/|«Ахмат» и «Балтика» сыграли вничью в Грозном
+1791742680|https://lenta.ru/news/2026/10/11/germaniya-potrebovala-nakazat-shredera-za-vizit-k-putinu/|Германия потребовала наказать Шредера за визит к Путину
