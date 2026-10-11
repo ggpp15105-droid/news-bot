@@ -1,8 +1,3 @@
-1791340603|https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf|Football: Lionel Messi plays final game for Argentina
-1791340610|https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html|Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia
-1791340618|https://www.japantimes.co.jp/sports/2026/10/07/tennis/alcaraz-wins-japan-open/|Alcaraz wins Japan Open for first title since injury return
-1791340626|https://www.japantimes.co.jp/news/2026/10/07/japan/crime-legal/dewi-sukarno-fined/|TV personality Dewi Sukarno fined over assaults on ex-employees
-1791341506|https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss|Explosion shutters Venezuela’s second-largest oil refinery
 1791341511|https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss|Why do airport and flight rules exist?
 1791341518|https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss|Australia top court rules against coal mine expansion, citing climate harm
 1791341525|https://www.dw.com/en/mali-junta-forces-retake-strategic-town-of-kidal-from-separatists/a-79570617?maca=en-rss-en-all-1573-rdf|Mali: Junta forces retake strategic town of Kidal from separatists
@@ -1998,3 +1993,8 @@
 1791746582|https://lenta.ru/news/2026/10/11/desyatki-samoletov-ne-smogli-prizemlitsya-v-aeroportah-moskvy/|Десятки самолетов не смогли приземлиться в аэропортах Москвы
 1791746589|https://www.kommersant.ru/doc/9024225|«Яндекс»: деньги клиентов «Пэй» в безопасности
 1791746594|https://www.kommersant.ru/doc/9024222|Силы ПВО уничтожили 23 БПЛА на подлете к Москве за сутки
+1791747472|https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss|Republican senator says Trump diesel agreement with Russia may be illegal
+1791747477|https://lenta.ru/news/2026/10/11/premier-kanady-obsudil-s-zelenskim-soglashenie-po-dizelyu/|Премьер Канады обсудил с Зеленским соглашение по дизелю
+1791747486|https://lenta.ru/news/2026/10/12/netanyahu-sozval-soveschanie-v-minoborony/|Нетаньяху созвал совещание в Минобороны
+1791747494|https://lenta.ru/news/2026/10/11/v-peterburge-pyanyy-voditel-vrezalsya-v-pamyatnik-voinskoy-slavy/|В Петербурге пьяный водитель врезался в памятник воинской славы
+1791747504|https://www.kommersant.ru/doc/9024221|FT: США пригрозили Киеву заблокировать программу поставок оружия PURL
