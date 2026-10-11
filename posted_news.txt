@@ -1,8 +1,3 @@
-1791354113|https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss|How three years of Israel’s genocidal war have changed Gaza
-1791354120|https://www.dw.com/en/germany-news-government-presents-plan-for-railroad-revamp/live-79570924?maca=en-rss-en-all-1573-rdf|Germany news: Government presents plan for railroad revamp
-1791354128|https://www.euronews.com/2026/10/07/christa-pike-awake-a-week-after-lethal-injection-as-her-lawyers-seek-answers|Christa Pike awake a week after lethal injection as her lawyers seek answers
-1791354136|https://www.euronews.com/2026/10/07/invasive-plant-spreads-across-portugal-and-lengthens-allergy-season|Invasive plant spreads across Portugal and lengthens allergy season
-1791355488|https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss|At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine
 1791355496|https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss|Yemen’s displaced children dream of returning to school
 1791355502|https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss|Finland orders halt to work on Google data centre sites
 1791355509|https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html|Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva
@@ -1998,3 +1993,8 @@
 1791758720|https://tass.ru/obschestvo/28204035|В ОП предложили ввести в школах поощрения за дежурство в школе
 1791758724|https://tass.ru/proisshestviya/28204033|На Алтае загорелась школа
 1791758729|https://tass.ru/mezhdunarodnaya-panorama/28204031|При атаке на аэропорт Эр-Рияда погиб человек
+1791759551|https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss|CCTV shows moment of deadly Houthi strike on Riyadh airport
+1791759558|https://www.dw.com/en/saudi-arabia-second-strike-kills-11-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf|Saudi Arabia: Second strike kills 11 at Riyadh airport
+1791759567|https://lenta.ru/news/2026/10/12/v-kremle-nazvali-vazhnyy-dlya-moskvy-punkt-v-deystviyah-kieva/|В Кремле назвали важный для Москвы пункт в действиях Киева
+1791759572|https://lenta.ru/news/2026/10/12/miroshnik-predupredil-o-vozmozhnyh-provokatsiyah-na-fone-sdelki-rossii-i-ssha/|Мирошник предупредил о возможных провокациях на фоне сделки России и США
+1791759577|https://lenta.ru/news/2026/10/12/ovechkin-obnovil-snayperskiy-rekord-nhl/|Овечкин обновил снайперский рекорд НХЛ
