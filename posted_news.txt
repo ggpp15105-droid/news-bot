@@ -1,8 +1,3 @@
-1791313694|https://www.aa.com.tr/en/science-technology/turkish-space-agency-signs-2-agreements-to-expand-space-cooperation-at-iac-2026/4080203|Turkish Space Agency signs 2 agreements to expand space cooperation at IAC 2026
-1791313702|https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/|PlayStation Plus Free Games For October 2026 Are Live Now
-1791313708|https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview|I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls
-1791313714|https://www.rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right|"Your word is undeniable truth": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right
-1791314657|https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss|Catalan separatist Puigdemont to return to Spain after warrant lifted
 1791314668|https://www.aa.com.tr/en/sports/timeline-messi-s-21-year-argentina-journey-from-difficult-debut-to-final-farewell/4080232|TIMELINE – Messi’s 21-year Argentina journey from difficult debut to final farewell
 1791314675|https://www.ign.com/articles/blood-of-dawnwalker-ps5-xbox-discount-amazon-prime-day|The Blood of Dawnwalker Gets Its First Major Discount in Amazon's Prime Day Sale
 1791314683|https://www.gamespot.com/articles/xbox-was-at-an-all-time-low-but-is-now-growing-again-after-huge-cuts-ceo-says/|Xbox Was At An “All Time Low,” But Is Now Growing Again After Huge Cuts, CEO Says
@@ -1998,3 +1993,8 @@
 1791719478|https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release|Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release
 1791719487|https://www.tomshardware.com/3d-printing/state-of-california-sues-3d-printer-filament-company-polymaker-for-promoting-ghost-guns-by-marketing-to-3d-printed-gun-community-state-alleges-company-turns-harmless-pla-filament-into-a-regulated-firearm-precursor-part|State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community
 1791719491|https://lenta.ru/news/2026/10/11/v-kremle-poshutili-o-razgovore-putina-i-trampa/|В Кремле пошутили о разговоре Путина и Трампа
+1791720170|https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers|Cryptomining malware that locates its control server in a GitHub poem has hit more than 3,400 servers, researchers say
+1791720176|https://lenta.ru/news/2026/10/11/v-ssha-zayavili-o-nizshey-tochke-v-otnosheniyah-trampa-i-zelenskogo/|В США заявили о низшей точке в отношениях Трампа и Зеленского
+1791720181|https://lenta.ru/news/2026/10/11/sobyanin-soobschil-o-novoy-popytke-vsu-atakovat-moskvu/|Собянин сообщил о новой попытке ВСУ атаковать Москву
+1791720186|https://lenta.ru/news/2026/10/11/zelenskogo-prizvali-perestat-zhdat-pomoschi-ot-evropy/|Зеленского призвали перестать ждать помощи от Европы
+1791720191|https://lenta.ru/news/2026/10/11/vuchich-sdelal-zayavlenie-o-sdelke-rossii-i-ssha-po-dizelyu/|Вучич сделал заявление о сделке России и США по дизелю
