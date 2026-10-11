@@ -1,8 +1,3 @@
-1791327642|https://www.kommersant.ru/doc/9007752|В центре Москвы подросток напал с ножом на бригаду скорой помощи
-1791327646|https://tass.ru/ekonomika/28188455|Аэропорт Ульяновска приостановил прием и выпуск самолетов
-1791327650|https://tass.ru/proisshestviya/28188447|Минздрав Приморья рассказал о состоянии пострадавшего при обрушении на руднике
-1791327655|https://www.vedomosti.ru/politics/news/2026/10/07/1234885-tramp-anonsiroval-razgovor|Трамп анонсировал телефонный разговор с Путиным
-1791328444|https://lenta.ru/news/2026/10/07/kanadu-predupredili-v-svyazi-s-vozmozhnym-resheniem-po-rossii/|Канаду предупредили о последствиях связанного с Россией решения
 1791328453|https://lenta.ru/news/2026/10/07/charging/|Названа подходящая зарядка для ноутбука
 1791328459|https://lenta.ru/news/2026/10/07/v-ssha-nazvali-mesto-dlya-evakuatsii-zelenskogo-iz-kieva/|В США назвали место для эвакуации Зеленского из Киева
 1791328464|https://lenta.ru/news/2026/10/07/mat-odinochka-zaregistrirovalas-na-onlyfans-i-skoro-pozhalela-ob-etom/|Мать-одиночка зарегистрировалась на OnlyFans и скоро пожалела об этом
@@ -1998,3 +1993,8 @@
 1791734667|https://lenta.ru/news/2026/10/11/vospitatelnitsa-izbila-detey-v-detskom-sadu-v-rossiyskom-gorode/|Воспитательница избила детей в детском саду в российском городе
 1791734672|https://lenta.ru/news/2026/10/11/peskov-otsenil-gotovnost-rossii-k-peregovoram-po-ukraine/|Песков оценил готовность России к переговорам по Украине
 1791734677|https://www.kommersant.ru/doc/9024174|Бессент назвал законными поставки российского дизеля в США и на мировой рынок // Глава Минфина США: закон Грэма не запрещает поставки российского дизеля
+1791735660|https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss|Tour bus crash in Turkiye leaves at least 11 dead
+1791735666|https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released|Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released
+1791735672|https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12|Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12
+1791735678|https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky|Trump's energy ceasefire announcement was 'news for me' (Zelensky)
+1791735685|https://www.euronews.com/2026/10/11/police-clear-guano-beach-camp-in-ceuta-days-before-royal-visit|Police clear Guano beach camp in Ceuta days before royal visit
