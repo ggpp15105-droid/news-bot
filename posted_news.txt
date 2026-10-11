@@ -1,8 +1,3 @@
-1791345972|https://www.japantimes.co.jp/business/2026/10/07/economy/india-economic-advisor-interview/|India set to overtake Japan as fourth-biggest economy next year, adviser says
-1791345979|https://www.aa.com.tr/en/world/nasa-s-artemis-ii-findings-ai-for-mars-missions-and-japan-deal-to-feature-on-day-3-of-global-space-congress-in-turkiye/4080359|NASA’s Artemis II findings, AI for Mars missions and Japan deal to feature on day 3 of global space congress in Türkiye
-1791345984|https://lenta.ru/news/2026/10/07/rossiyanam-nazvali-obyazatelnye-pravila-uhoda-za-mashinoy-v-oktyabre/|Россиянам назвали обязательные правила ухода за машиной в октябре
-1791345992|https://lenta.ru/news/2026/10/07/amerikanskiy-razvedchik-rasskazal-ob-unichtozhenii-reptiloidov-iz-razbivshegosya-nlo/|Американский разведчик рассказал об уничтожении рептилоидов из разбившегося НЛО
-1791347120|https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss|What Israeli schools teach
 1791347126|https://www.euronews.com/2026/10/07/former-german-foreign-intelligence-chief-august-hanning-arrested-on-suspicion-of-espionge-|Former German foreign intelligence chief August Hanning arrested on suspicion of espionge, attempted treason
 1791347134|https://www.euronews.com/2026/10/07/sanchez-announces-21-urgent-housing-measures-after-nationwide-protests-ahead-of-snap-elect|Sánchez announces 21 urgent housing measures after nationwide protests ahead of snap election
 1791347139|https://lenta.ru/news/2026/10/07/rossiyskie-boytsy-unichtozhili-krupnyy-punkt-dislokatsii-vsu/|Российские бойцы уничтожили крупный пункт дислокации ВСУ
@@ -1998,3 +1993,8 @@
 1791751760|https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-rdf|Who are the Ukrainian 'volunteers' under Russian command?
 1791751764|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-nedovolstve-trampa-otnosheniem-zelenskogo-k-podderzhke-ssha/|Стало известно о недовольстве Трампа отношением Зеленского к поддержке США
 1791751769|https://lenta.ru/news/2026/10/11/na-yuge-rossii-proizoshlo-zemletryasenie/|На юге России произошло землетрясение
+1791752467|https://lenta.ru/news/2026/10/11/rossiyskie-figuristy-vernulis-v-moskvu-posle-turnira/|Российские фигуристы вернулись в Москву после турнира
+1791752472|https://lenta.ru/news/2026/10/11/v-ormuzskom-prolive-esche-odin-tanker-stolknulsya-s-morskoy-minoy/|В Ормузском проливе еще один танкер столкнулся с морской миной
+1791752476|https://lenta.ru/news/2026/10/11/nazvano-samoe-poleznoe-myaso-pri-nizkom-gemoglobine/|Названо самое полезное мясо при низком гемоглобине
+1791752481|https://lenta.ru/news/2026/10/12/glava-mid-belorussii-vyskazalsya-o-normalizatsii-otnosheniy-s-polshey/|Глава МИД Белоруссии высказался о нормализации отношений с Польшей
+1791752485|https://www.kommersant.ru/doc/9024233|Нетаньяху потребовал привлечь к ответственности авторов фильма о гибели гражданских в Газе // Премьер Израиля инициирует уголовное дело против героев фильма NAZA
