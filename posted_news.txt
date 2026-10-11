@@ -1,8 +1,3 @@
-1791339523|https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html|Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister
-1791339527|https://lenta.ru/news/2026/10/07/messi-zabil-gol-v-poslednem-matche-sbornoy-argentiny/|Месси забил гол в последнем матче сборной Аргентины
-1791339532|https://www.kommersant.ru/doc/9007760|NYP: ФБР следило за поездками Мелании и Бэррона Трамп перед обыском в Мар-а-Лаго
-1791339536|https://www.kommersant.ru/doc/9007757|Американка пришла в сознание после неудачной попытки казни
-1791340596|https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss|Two Houthi missiles target Yemen’s Aden International Airport
 1791340603|https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf|Football: Lionel Messi plays final game for Argentina
 1791340610|https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html|Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia
 1791340618|https://www.japantimes.co.jp/sports/2026/10/07/tennis/alcaraz-wins-japan-open/|Alcaraz wins Japan Open for first title since injury return
@@ -1998,3 +1993,8 @@
 1791745625|https://lenta.ru/news/2026/10/11/vlasti-vladimira-soobschili-o-likvidatsii-boezaryadov-posle-ataki-bpla/|Власти Владимира сообщили о ликвидации боезарядов после атаки БПЛА
 1791745630|https://lenta.ru/news/2026/10/11/ssha-prigrozili-ukraine/|США пригрозили Украине
 1791745635|https://lenta.ru/news/2026/10/11/raskryty-posledstviya-sdelki-s-ssha-po-dizelyu-dlya-ukrainy/|Раскрыты последствия сделки с США по дизелю для Украины
+1791746572|https://lenta.ru/news/2026/10/11/yandeks-zaveril-klientov-v-sohrannosti-deneg-v-yandeks-pey/|«Яндекс» заверил клиентов в сохранности денег в «Яндекс Пэй»
+1791746577|https://lenta.ru/news/2026/10/11/vo-frantsii-podderzhali-zayavlenie-trampa-o-zelenskom/|Во Франции поддержали заявление Трампа о Зеленском
+1791746582|https://lenta.ru/news/2026/10/11/desyatki-samoletov-ne-smogli-prizemlitsya-v-aeroportah-moskvy/|Десятки самолетов не смогли приземлиться в аэропортах Москвы
+1791746589|https://www.kommersant.ru/doc/9024225|«Яндекс»: деньги клиентов «Пэй» в безопасности
+1791746594|https://www.kommersant.ru/doc/9024222|Силы ПВО уничтожили 23 БПЛА на подлете к Москве за сутки
