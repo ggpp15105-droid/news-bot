@@ -1,8 +1,3 @@
-1791331658|https://lenta.ru/news/2026/10/07/cbs-uchenye-izuchat-tainstvennyy-ob-ekt-kotoryy-mozhet-byt-samoletom-erhart/|Ученые приступили к изучению таинственный объект в Тихом океане
-1791331663|https://lenta.ru/news/2026/10/07/seksolog-posovetovala-zhenschinam-neobychnyy-sposob-dostich-orgazma/|Сексолог посоветовала женщинам необычный способ достичь оргазма
-1791331667|https://lenta.ru/news/2026/10/07/v-britanii-rasskazali-o-panike-v-kieve/|В Британии рассказали о панике в Киеве
-1791331676|https://www.kommersant.ru/doc/9007755|Возле Курильских островов произошло землетрясение магнитудой 5,9
-1791333344|https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss|South Sudan’s aid crisis deepens as food stocks run low
 1791333350|https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss|French mayor tear-gassed after shielding protesters from police
 1791333357|https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss|Iran war live: Yemen forces claim control over strategic Taiz mountain peak
 1791333364|https://www.japantimes.co.jp/life/2026/10/07/food-drink/sushi-bus-conveyor-belt-tourism-tokyo/|Forgive me, Father, for I have sinned: A Sushi Bus confession
@@ -1998,3 +1993,8 @@
 1791739247|https://lenta.ru/news/2026/10/11/rossiyskaya-pensionerka-reshila-nayti-muzha-s-pomoschyu-vip-svahi-i-ostalas-ni-s-chem/|Российская пенсионерка решила найти мужа с помощью VIP-свахи и осталась ни с чем
 1791739251|https://lenta.ru/news/2026/10/11/iran-nazval-uslovie-otkrytiya-ormuzskogo-proliva/|Иран назвал условие открытия Ормузского пролива
 1791739256|https://www.kommersant.ru/doc/9024201|«Яндекс» объяснил ограничение работы части функций «Диска» // «Яндекс»: отдельные функции «Диска» ограничены для снижения нагрузки
+1791740195|https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss|Poland detains man suspected of planning assassination of PM Tusk
+1791740200|https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss|‘Who will represent us?’ Palestinians react to election delay
+1791740207|https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss|Turkiye highway crash kills 11, injures 27 after tour bus hits truck
+1791740215|https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops|Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November
+1791740220|https://lenta.ru/news/2026/10/11/zaharyan-vpervye-s-2025-goda-zabil-v-chempionate-ispanii/|Захарян впервые с 2025 года забил в чемпионате Испании
