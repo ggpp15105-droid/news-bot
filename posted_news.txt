@@ -1,8 +1,3 @@
-1791334781|https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss|Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF
-1791334788|https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html|Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next
-1791334796|https://www.japantimes.co.jp/news/2026/10/07/world/politics/trump-california-los-angeles-iran/|Californians blast Trump remark that Iran could ‘take out’ Los Angeles, San Diego
-1791334804|https://www.ign.com/articles/best-pokemon-deals-amazon-october-prime-day-2026|Amazon Is Discounting All Things Pokémon for October Prime Day This Year
-1791335777|https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss|What’s behind Israel’s growing shift to the right?
 1791335783|https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations|Haiti postpones elections indefinitely as gang violence hampers preparations
 1791335789|https://www.cnbc.com/2026/10/07/trump-hormuz-oil-diesel-iran-anthropic-ai.html|CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz
 1791335797|https://www.japantimes.co.jp/business/2026/10/07/paramount-warner-merger-deal/|Paramount closes Warner merger in historic Hollywood deal
@@ -1998,3 +1993,8 @@
 1791741069|https://www.euronews.com/video/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood|Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood
 1791741075|https://lenta.ru/news/2026/10/11/moshenniki-natselilis-na-gotovyaschihsya-k-ege-uchenikov/|Мошенники нацелились на готовящихся к ЕГЭ учеников
 1791741080|https://lenta.ru/news/2026/10/11/zaharova-otvetila-na-slova-zelenskogo-o-smene-vlasti-na-ukraine-frazoy-vydal-bazu/|Захарова ответила на слова Зеленского о смене власти на Украине фразой «выдал базу»
+1791741710|https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss|Liverpool fans give Manchester City a fiery welcome at Anfield
+1791741718|https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss|Man City beat 10-man Liverpool 3-0 in first game after guilty verdict
+1791741724|https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss|Is the Yemen war entering a new phase?
+1791741729|https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss|Israel pushes its ‘Yellow Line’ deeper into Gaza
+1791741734|https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president|A profile of Raphaël Glucksmann, the man who wants to be French President
