@@ -1,8 +1,3 @@
-1791287246|https://www.euronews.com/2026/10/06/belgian-physicist-wins-nobel-for-turning-antarctic-ice-into-a-telescope|Belgian physicist wins Nobel for turning Antarctic ice into a telescope
-1791287253|https://www.japantimes.co.jp/news/2026/10/06/japan/takaichi-trump-north-korea-abductee/|Takaichi asked Trump to broker Japan-North Korea summit
-1791287259|https://www.japantimes.co.jp/business/2026/10/06/companies/india-seven-eleven-exit/|7-Eleven exits India amid mounting competition
-1791287264|https://www.aa.com.tr/en/eurasia/russia-says-potential-deployment-of-nato-base-nuclear-arms-in-lithuania-to-raise-tensions/4079677|Russia says potential deployment of NATO base, nuclear arms in Lithuania to raise tensions
-1791288018|https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss|How Palestinian reporters defied Israel’s genocide to redefine journalism
 1791288025|https://www.aljazeera.com/news/2026/10/6/russia-plague-quarantine-following-lab-death-should-we-be-worried?traffic_source=rss|Russia plague quarantine following lab death: Should we be worried?
 1791288031|https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief?traffic_source=rss|India opposition leaders briefly arrested in protest against election chief
 1791288039|https://www.euronews.com/2026/10/06/trump-defers-diesel-tax-for-truckers-as-fuel-costs-bite-weeks-before-us-midterms|Trump defers diesel tax for truckers as fuel costs bite weeks before US midterms
@@ -1998,3 +1993,8 @@
 1791694837|https://lenta.ru/news/2026/10/11/kot-otkryl-kran-i-zatopil-kvartiru-na-sotni-tysyach-rubley/|Кот открыл кран и затопил квартиру на сотни тысяч рублей
 1791694841|https://lenta.ru/news/2026/10/11/gubernator-raskryl-posledstviya-naleta-bpla-na-vladimir/|Губернатор раскрыл последствия налета БПЛА на Владимир
 1791694846|https://lenta.ru/news/2026/10/11/v-polshe-razoblachili-zelenskogo-posle-soglasheniya-putina-s-trampom/|В Польше разоблачили игру Зеленского после соглашения Путина с Трампом
+1791695534|https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport|Live : Saudi Arabia vows 'decisive response' after deadly Houthi strike on Riyadh airport
+1791695542|https://www.euronews.com/2026/10/11/farming-and-solar-power-are-competing-for-land-can-agrivoltaics-solve-the-problem|Farming and solar power are competing for land. Can agrivoltaics solve the problem?
+1791695549|https://www.euronews.com/2026/10/11/europes-best-christmas-markets-to-visit-in-2026-according-to-travellers|Europe's best Christmas markets to visit in 2026, according to travellers
+1791695557|https://www.euronews.com/2026/10/11/esa-director-general-reveals-10bn-plan-to-get-to-space-without-nasa|ESA director general reveals €10bn plan to get to space without NASA
+1791695564|https://www.japantimes.co.jp/sports/2026/10/11/baseball/mlb/guardians-beats-white-sox-alds/|Guardians beat White Sox to complete comeback and punch ticket to ALCS
