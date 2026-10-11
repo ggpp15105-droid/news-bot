@@ -1,8 +1,3 @@
-1791302402|https://www.aa.com.tr/en/europe/student-unrest-escalates-in-belgium-s-liege-amid-education-protests/4080022|Student unrest escalates in Belgium’s Liege amid education protests
-1791302408|https://www.aa.com.tr/en/middle-east/clashes-with-police-put-ultra-orthodox-haredi-jews-draft-issue-at-center-of-israel-s-election-campaign/4080018|Clashes with police put ultra-Orthodox Haredi Jews draft issue at center of Israel’s election campaign
-1791302415|https://www.aa.com.tr/en/sports/coco-gauff-condemns-racist-abuse-after-disputed-point-at-china-open/4079970|Coco Gauff condemns racist abuse after disputed point at China Open
-1791302420|https://www.aa.com.tr/en/europe/france-to-suspend-high-school-classes-at-end-of-week-amid-student-protests/4079944|France to suspend high school classes at end of week amid student protests
-1791303419|https://www.france24.com/en/video/20261006-tens-of-thousands-demand-better-education-in-demonstrations-across-france|Tens of thousands demand better education in demonstrations across France
 1791303425|https://www.france24.com/en/video/20261006-norway-eyes-temporary-ban-of-smart-glasses|Norway eyes temporary ban of smart glasses
 1791303431|https://www.france24.com/en/video/20261006-tense-atmosphere-as-tens-of-thousands-join-french-student-protests|'Tense' atmosphere as tens of thousands join French student protests
 1791303437|https://www.france24.com/en/video/20261006-ukraine-fires-nearly-900-drones-at-russia-says-moscow|Ukraine fires nearly 900 drones at Russia, says Moscow
@@ -1998,3 +1993,8 @@
 1791709037|https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests|Spanish PM begins vote campaign overshadowed by housing protests
 1791709043|https://lenta.ru/news/2026/10/11/evrokomissiya-predlozhit-uzhestochit-vizovye-pravila-dlya-rossiyan/|Еврокомиссия предложит ужесточить визовые правила для россиян
 1791709048|https://lenta.ru/news/2026/10/11/v-kazahstane-i-kirgizii-soobschili-o-sboyah-v-rabote-servisov-yandeksa/|В двух странах СНГ сообщили о сбоях в работе сервисов «Яндекса»
+1791709592|https://www.japantimes.co.jp/community/2026/10/11/how-tos/permanent-residency-application-dos-donts/|The do’s, don’ts and pitfalls when applying for permanent residency in Japan
+1791709599|https://www.japantimes.co.jp/culture/2026/10/11/tv-streaming/netflix-strategy-plastic-beauty/|Netflix vies to be a cut above in TV production
+1791709604|https://lenta.ru/news/2026/10/11/v-mali-zayavili-o-podderzhke-terroristov-ukrainskoy-voennoy-razvedkoy/|В Мали заявили о поддержке террористов украинской военной разведкой
+1791709613|https://lenta.ru/news/2026/10/11/hachanov-i-rublev-snyalis-s-parnogo-turnira-v-shanhae/|Хачанов и Рублев снялись с парного турнира в Шанхае
+1791709622|https://lenta.ru/news/2026/10/11/long-armiya-rossii-atakovala-devyat-oblastey-ukrainy-pod-udar-popala-klyuchevaya-elektropodstantsiya-kievskoy-oblasti/|Армия России атаковала девять областей Украины. Под удар попала ключевая электроподстанция Киевской области
