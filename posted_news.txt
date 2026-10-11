@@ -1,8 +1,3 @@
-1791348263|https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html|Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery
-1791348270|https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html|India’s central bank hikes rates for the first time since 2023 as inflation creeps up
-1791348277|https://www.japantimes.co.jp/news/2026/10/07/japan/crime-legal/man-arrested-body-miyagi/|Man arrested after girlfriend’s body found in mountains of Miyagi Prefecture
-1791348284|https://www.japantimes.co.jp/news/2026/10/07/japan/society/tokyo-hyakudan-kaidan-building-reopens/|Tokyo’s historic Hyakudan Kaidan building reopens after one year
-1791349176|https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss|Tree nearly as old as US torn down to expand Mexico border wall
 1791349183|https://www.euronews.com/2026/10/07/celebrating-the-october-7-massacre-is-inhumanity-not-solidarity|Celebrating the October 7 massacre is inhumanity, not solidarity
 1791349191|https://www.euronews.com/2026/10/07/record-bets-against-the-euro-how-low-could-it-fall-amid-frances-fiscal-crisis-and-europes-|Record bets against the euro: how low could it fall amid France's fiscal crisis and Europe's energy shock?
 1791349199|https://www.euronews.com/2026/10/07/argentina-waves-football-great-lionel-messi-off-after-3-0-win-over-benin-in-final-internat|Argentina waves football great Lionel Messi off after 3-0 win over Benin in final international appearance
@@ -1998,3 +1993,8 @@
 1791753309|https://www.kommersant.ru/doc/9024235|Группа сенаторов обвинила Трампа в нарушении закона за дизельную сделку с РФ
 1791753319|https://www.kommersant.ru/doc/9024232|Axios: Уиткофф и Кушнер отложили поездку в Москву // Axios: США ждут согласования единого предложения по переговорам от Украины и ЕС
 1791753323|https://tass.ru/ekonomika/28203963|Выездные заседания руководства МВФ и Всемирного банка откроются в Бангкоке
+1791754270|https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss|Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says
+1791754276|https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss|Waves crash into homes as excavators try to protect California properties
+1791754281|https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss|UK Greens leader seeks rule change after party declares Zionism is racism
+1791754286|https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss|Two killed near Israeli-occupied area in south Lebanon
+1791754294|https://www.ign.com/articles/best-deals-for-october-11-2026|The Best Deals Today: Doom: The Dark Ages, Star Wars Zero Company, 007 4K Blu-ray, and More
