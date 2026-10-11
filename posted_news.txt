@@ -1,8 +1,3 @@
-1791333350|https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss|French mayor tear-gassed after shielding protesters from police
-1791333357|https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss|Iran war live: Yemen forces claim control over strategic Taiz mountain peak
-1791333364|https://www.japantimes.co.jp/life/2026/10/07/food-drink/sushi-bus-conveyor-belt-tourism-tokyo/|Forgive me, Father, for I have sinned: A Sushi Bus confession
-1791333372|https://www.japantimes.co.jp/news/2026/10/07/world/france-student-protests/|‘2026 is the new 1789’: French students take school anger to Paris streets
-1791334774|https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss|Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz
 1791334781|https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss|Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF
 1791334788|https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html|Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next
 1791334796|https://www.japantimes.co.jp/news/2026/10/07/world/politics/trump-california-los-angeles-iran/|Californians blast Trump remark that Iran could ‘take out’ Los Angeles, San Diego
@@ -1998,3 +1993,8 @@
 1791740207|https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss|Turkiye highway crash kills 11, injures 27 after tour bus hits truck
 1791740215|https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops|Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November
 1791740220|https://lenta.ru/news/2026/10/11/zaharyan-vpervye-s-2025-goda-zabil-v-chempionate-ispanii/|Захарян впервые с 2025 года забил в чемпионате Испании
+1791741057|https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote|🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote
+1791741061|https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner|Ukraine: Coerced into a Corner?
+1791741069|https://www.euronews.com/video/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood|Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood
+1791741075|https://lenta.ru/news/2026/10/11/moshenniki-natselilis-na-gotovyaschihsya-k-ege-uchenikov/|Мошенники нацелились на готовящихся к ЕГЭ учеников
+1791741080|https://lenta.ru/news/2026/10/11/zaharova-otvetila-na-slova-zelenskogo-o-smene-vlasti-na-ukraine-frazoy-vydal-bazu/|Захарова ответила на слова Зеленского о смене власти на Украине фразой «выдал базу»
