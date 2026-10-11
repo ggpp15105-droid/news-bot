@@ -1,8 +1,3 @@
-1791323828|https://www.ign.com/articles/pdp-riffmaster-crkd-les-paul-guitar-controller-deals-october-prime-day-2026|Upgrade Your Fortnite Festival Setup With Prime Day Deals on PDP and CRKD Guitar Controllers
-1791323836|https://www.rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun|ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun
-1791323846|https://lenta.ru/news/2026/10/07/frantsuzskie-shkolniki-ob-yasnili-reshenie-vyyti-na-protesty/|Французские школьники объяснили решение выйти на протесты
-1791323851|https://lenta.ru/news/2026/10/07/keyn-povtoril-rekord-shiltona-po-matcham-za-sbornuyu-anglii/|Кейн повторил рекорд Шилтона по матчам за сборную Англии
-1791324406|https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss|Houthis, Saudi-led forces claim victories as Yemen fighting rages on
 1791324412|https://www.tomshardware.com/peripherals/controllers-gamepads/grab-some-of-our-favorite-controllers-for-pc-gaming-for-less-than-the-cost-of-a-dualsense-get-a-quality-controller-with-more-features-during-prime-day|Grab some of our favorite controllers for PC gaming for less than the cost of a DualSense
 1791324416|https://lenta.ru/news/2026/10/07/zhenschiny-nazvali-glavnye-otkrytiya-posle-nachala-zhizni-s-muzhchinami/|Женщины назвали главные открытия после начала жизни с мужчинами
 1791324422|https://lenta.ru/news/2026/10/07/45-letnyaya-supermodel-poradovala-fanatov-snimkami-s-goloy-grudyu/|45-летняя супермодель порадовала фанатов снимками с голой грудью
@@ -1998,3 +1993,8 @@
 1791730704|https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution|Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot
 1791730709|https://lenta.ru/news/2026/10/11/v-snyatii-sanktsiy-s-rossiyskogo-dizelya-usmotreli-izmenenie-politiki-trampa/|В снятии санкций с российского дизеля усмотрели изменение политики Трампа
 1791730714|https://lenta.ru/news/2026/10/11/andreeva-sravnyalas-s-peguloy-po-chislu-pobed-v-sezone/|Андреева сравнялась с Пегулой по числу побед в сезоне
+1791731345|https://lenta.ru/news/2026/10/11/voennyy-ekspert-vyskazalsya-o-perehode-kieva-na-zhestkiy-paek/|Военный эксперт высказался о переходе Киева на «жесткий паек»
+1791731351|https://lenta.ru/news/2026/10/11/sbornaya-rossii-razgromila-kirgiziyu-na-chm-po-mikrofutzalu/|Сборная России разгромила Киргизию на ЧМ по микрофутзалу
+1791731356|https://lenta.ru/news/2026/10/11/proverku-dokumentov-bolshunova-uzhestochili-iz-za-evropeytsev/|Проверку документов Большунова ужесточили из-за европейцев
+1791731361|https://www.kommersant.ru/doc/9024063|Посол России в Черногории объяснил реакцию властей страны на задержание «Рыбаря»
+1791731367|https://www.kommersant.ru/doc/9024049|Топ-менеджеру КБХА вменили превышение полномочий с ущербом на 5 млрд рублей
