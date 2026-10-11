@@ -1,8 +1,3 @@
-1791276956|https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html|Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive
-1791276962|https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis|Yemen government forces advance on Bab el-Mandeb in offensive against Houthis
-1791276969|https://www.euronews.com/2026/10/06/pneumonic-plague-in-russia-what-do-experts-say-about-the-risk|Pneumonic plague in Russia: What do experts say about the risk?
-1791276974|https://www.japantimes.co.jp/news/2026/10/06/japan/politics/yana-scandal/|Takaichi starts Diet session having to deal with agriculture minister’s scandal
-1791277686|https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss|Yemeni military says it has 'secured' Red Sea waterway
 1791277693|https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss|Kenya confirms its first Ebola death as outbreak spreads
 1791277700|https://www.aljazeera.com/sports/2026/10/6/sahibzada-farhan-named-pakistans-t20-captain-as-naseem-shah-returns?traffic_source=rss|Sahibzada Farhan named Pakistan’s T20 captain as Naseem Shah returns
 1791277706|https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss|Yemen war: What’s the latest on the battlefield?
@@ -1998,3 +1993,8 @@
 1791684437|https://tass.ru/mezhdunarodnaya-panorama/28202603|Конгрессвумен Луна назвала лицемерами призывающих поставлять Киеву оружие коллег
 1791684441|https://tass.ru/mezhdunarodnaya-panorama/28202601|Трамп заявил о контактах США с хуситами
 1791684445|https://tass.ru/ekonomika/28202597|В Башкирии планируют запустить 15 инвестпроектов в АПК
+1791685412|https://www.japantimes.co.jp/news/2026/10/11/world/crime-legal/us-lethal-injection-survivor-returns-prison/|Survivor of botched U.S. lethal injection returns to prison
+1791685417|https://lenta.ru/news/2026/10/11/yandeks-soobschil-o-nepoladkah-v-odnom-iz-data-tsentrov/|«Яндекс» сообщил о неполадках в одном из дата-центров
+1791685421|https://tass.ru/obschestvo/28202647|Онищенко предупредил об опасности домашних клещей из-за неправильной стирки
+1791685424|https://tass.ru/armiya-i-opk/28202643|Механики-водители пусковых установок "Ярс" сдали экзамены в школе техников РВСН
+1791685428|https://tass.ru/armiya-i-opk/28202639|Бойцы "Востока" уничтожили минометы и пехоту ВСУ в Запорожской области
