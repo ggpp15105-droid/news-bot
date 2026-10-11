@@ -1,8 +1,3 @@
-1791306246|https://www.ign.com/articles/warhammer-survivors-release-date-revealed-alongside-a-new-demo-you-can-play-right-now|Warhammer Survivors Release Date Revealed Alongside a New Demo You Can Play Right Now
-1791306254|https://www.gamespot.com/articles/call-of-dutys-richtofen-actor-wants-him-to-come-back-says-2027s-cod-could-be-from-sledgehammer/|Call Of Duty’s Richtofen Actor Wants Him To Come Back, Says 2027’s CoD Could Be From Sledgehammer
-1791306262|https://www.gamespot.com/articles/solo-horror-dev-makes-a-creepy-connection-to-a-real-haunted-island-in-mexico/|Solo Horror Dev Makes A Creepy Connection To A Real Haunted Island In Mexico
-1791306268|https://www.gamespot.com/articles/gamestop-is-preparing-us-for-next-gen-pricing-with-1400-used-ps5-pros/|GameStop Is Preparing Us For Next-Gen Pricing With $1,400 Used PS5 Pros
-1791307237|https://www.dw.com/en/russia-denies-anti-plague-measures-after-pneumonia-death/a-79567922?maca=en-rss-en-all-1573-rdf|Russia denies anti-plague measures after pneumonia death
 1791307245|https://www.france24.com/en/tv-shows/a-propos/20261006-brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says|Brazil 'has moved to the right progressively over the last two decades', expert says
 1791307251|https://www.aa.com.tr/en/middle-east/iran-summons-french-ambassador-over-student-protests/4080106|Iran summons French ambassador over student protests
 1791307258|https://www.aa.com.tr/en/middle-east/tanker-attacks-continue-in-hormuz-as-gulf-shipping-rates-remain-elevated/4080104|Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated
@@ -1998,3 +1993,8 @@
 1791712637|https://news.sky.com/story/inside-ukraines-wartime-postal-service-which-risks-everything-to-take-supplies-to-frontline-towns-13597690|'If we don't do it, nobody else will': Inside Ukraine's wartime postal service
 1791712642|https://lenta.ru/news/2026/10/11/sobranie-ob-ustanovke-shlagbauma-v-rossiyskom-dvore-zakonchilos-sudom/|Собрание об установке шлагбаума в российском дворе закончилось судом
 1791712647|https://lenta.ru/news/2026/10/11/moskvicham-poobeschali-grozu-i-liven/|Москвичам пообещали грозу и ливень
+1791713206|https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss|Russia’s Yandex says data centre in Vladimir shut down after drone attack
+1791713210|https://news.sky.com/story/ai-and-nuclear-war-threaten-human-extinction-by-2100-report-warns-13597676|AI and nuclear war threaten human extinction by 2100, report warns
+1791713218|https://www.rockpapershotgun.com/the-sunday-papers-831|The Sunday Papers
+1791713224|https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-earth-10-ton-ghost-vehicle-gets-first-real-world-test-sierra-space-drops-radio-and-whiskey-from-68-500-feet-to-test-starcraft-like-supply-drops|U.S. military-backed cargo pod promises 90-minute orbital delivery anywhere on Earth
+1791713233|https://lenta.ru/news/2026/10/11/v-rossii-prizvali-evrosoyuz-prekratit-razzhigat-voynu/|В России призвали Евросоюз прекратить разжигать войну
