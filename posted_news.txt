@@ -1,8 +1,3 @@
-1791352217|https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss|Libya’s parliament removes Speaker Saleh after 12 years as discontent grows
-1791352222|https://www.france24.com/en/tv-shows/sports/20261007-lionel-messi-scores-as-argentina-beat-benin-for-his-last-international-game|Lionel Messi scores as Argentina beat Benin for his last international game
-1791352230|https://www.euronews.com/2026/10/07/ubs-only-european-bank-in-top-10-of-ai-adoption-as-jpmorgan-chase-leads|UBS only European bank in top 10 of AI adoption as JPMorgan Chase leads
-1791352237|https://www.euronews.com/2026/10/07/puigdemont-welcomes-spains-amnesty-but-warns-it-is-not-the-solution-for-catalonia|Puigdemont welcomes Spain's amnesty but warns it is not the solution for Catalonia
-1791352857|https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv|At least two killed in fire caused by 'massive strikes' on Kyiv
 1791352861|https://news.sky.com/story/how-october-7-changed-israels-defence-politics-and-society-13595996|Why October 7 will change lives for generations
 1791352868|https://www.euronews.com/2026/10/07/france-government-slams-marine-le-pens-alternative-budget|France: government slams Marine Le Pen's alternative budget
 1791352875|https://www.japantimes.co.jp/news/2026/10/07/japan/science-health/tokyo-sunlight-depression/|For mind and body, Tokyo hopes for brighter October after record run of rain
@@ -1998,3 +1993,8 @@
 1791756796|https://lenta.ru/news/2026/10/12/rossiyanam-nazvali-neobhodimoe-vremya-v-nedelyu-dlya-zanyatiy-sportom/|Россиянам назвали необходимое время в неделю для занятий спортом
 1791756805|https://lenta.ru/news/2026/10/12/nazvana-idealnaya-temperatura-v-spalne-dlya-krepkogo-sna/|Названа идеальная температура в спальне для крепкого сна
 1791756810|https://lenta.ru/news/2026/10/12/dua-lipa-bez-byustgaltera-snyalas-v-prozrachnom-bodi/|Дуа Липа без бюстгальтера снялась в прозрачном боди
+1791757771|https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf|UK's Burnham accuses Russia of meddling in Brexit vote
+1791757776|https://lenta.ru/news/2026/10/12/u-beregov-indoneziyskogo-ostrova-proizoshlo-zemletryasenie/|У берегов индонезийского острова произошло землетрясение
+1791757781|https://lenta.ru/news/2026/10/12/v-slovakii-vystupili-za-prodolzhenie-postavok-rossiyskogo-gaza/|В Словакии выступили за продолжение поставок российского газа
+1791757786|https://www.kommersant.ru/doc/9024252|Хуситы атаковали аэропорт Эд-Даммама в Саудовской Аравии
+1791757791|https://tass.ru/mezhdunarodnaya-panorama/28204027|Конгрессмен Мэсси поддержал договоренности России и США по дизелю
