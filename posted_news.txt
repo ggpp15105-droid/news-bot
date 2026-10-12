@@ -1,8 +1,3 @@
-1791424566|https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html|Oil gains as Middle East hostilities stoke supply worries
-1791424571|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-ukraine-defense-cooperation/|Japan and Ukraine further ties as Tokyo weighs unprecedented security linkup
-1791424577|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-nuke-subs-study-security-documents/|Japan considers having nuclear-powered-sub study in security documents
-1791424584|https://www.aa.com.tr/en/world/world-s-largest-penguin-colony-loses-nearly-two-thirds-of-population-amid-climate-change-study/4081613|World’s largest penguin colony loses nearly two-thirds of population amid climate change: Study
-1791425262|https://www.tomshardware.com/desktops/pc-building/these-are-the-best-prime-day-deals-ive-found-on-tools-i-use-to-maintain-my-pc-from-screwdrivers-to-air-blowers-these-tools-will-keep-your-pc-in-tip-top-shape|These are the best Prime Day deals I've found on tools I use to maintain my PC
 1791425269|https://lenta.ru/news/2026/10/08/zhenivshiesya-na-seks-rabotnitsah-muzhchiny-rasskazali-ob-otnosheniyah-s-nimi/|Женившиеся на секс-работницах мужчины рассказали об отношениях с ними
 1791425277|https://lenta.ru/news/2026/10/08/bpla-atakovali-rossiyskiy-gorod/|БПЛА атаковали российский город
 1791425285|https://lenta.ru/news/2026/10/07/uchenye-predskazali-tochnuyu-datu-i-prichinu-kontsa-sveta-uzhe-v-2026-godu/|Ученые предсказали точную дату и причину конца света уже в 2026 году
@@ -1998,3 +1993,8 @@
 1791839176|https://www.tomshardware.com/3d-printing/3d-scanning/bambu-lab-announces-its-first-3d-scanner-and-it-might-be-expensive|Bambu Lab officially teases its first 3D scanner
 1791839184|https://www.tomshardware.com/tech-industry/artificial-intelligence/jev-like-decision-models-are-flooding-the-ai-market-after-researcher-claims-typesafe-copied-their-research-microsoft-openai-among-companies-releasing-lightweight-system-one-ai-models|Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research
 1791839191|https://www.tomshardware.com/pc-components/gpus/meet-the-modders-porting-ringfenced-dlss-features-to-older-gpus-how-dlss-5-and-multi-frame-generation-were-unlocked-for-older-architectures|Meet the modders porting ringfenced DLSS features to older GPUs
+1791840176|https://www.aljazeera.com/video/newsfeed/2026/10/12/israel-demolitions-in-negev-displace-400-palestinians?traffic_source=rss|Israel demolitions in Negev displace 400 Palestinians
+1791840183|https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html|Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor
+1791840190|https://www.euronews.com/2026/10/12/ceuta-troops-absent-as-spain-holds-national-day-parade-in-madrid|Ceuta troops absent as Spain holds National Day parade in Madrid
+1791840197|https://www.tomshardware.com/video-games/console-gaming/xbox-cloud-gaming-is-now-available-on-jailbroken-ps5s-allows-upscaling-to-4k-using-the-ps5-gpu|Developer uses Claude to enable Xbox Cloud Gaming on jailbroken PS5s
+1791840201|https://lenta.ru/news/2026/10/13/13-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/|13 октября: какой праздник отмечают в России и мире
