@@ -1,8 +1,3 @@
-1791401681|https://www.france24.com/en/trump-says-we-don-t-think-russian-plague-is-bio-weapon|Trump says 'we don't think' Russian plague is bio-weapon
-1791401688|https://www.euronews.com/2026/10/07/trump-mocks-sheinbaum-over-gulf-of-mexico-and-imitates-her-alleged-reaction-no-no-please|Trump mocks Sheinbaum over Gulf of Mexico and imitates her alleged reaction: 'No, no, please'
-1791401694|https://www.ign.com/articles/call-of-duty-e-sports-commentator-resigns-after-pursuing-relationship-with-co-commentators-ex-wife|Call of Duty e-Sports Commentator Resigns After Pursuing Relationship With Co-Commentator's Ex-Wife
-1791401700|https://www.ign.com/articles/gears-of-war-e-day-is-a-natural-choice-to-be-an-exclusive-studio-head-mike-crump-claims-series-carries-the-banner-for-xbox|Gears of War E-Day is a 'Natural Choice to Be an Exclusive' – Studio Head Mike Crump Claims Series Carries The Banner For Xbox
-1791402531|https://www.ign.com/articles/toem-2-review|TOEM 2 Review
 1791402539|https://www.ign.com/articles/capcom-clarifies-stance-on-ai-after-re-engine-conference-comments|Capcom Clarifies Stance on AI After RE Engine Conference Comments
 1791402546|https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs/|The New Guitar Hero-Like Game, Stage Tour, Has A Pretty Excellent Soundtrack
 1791402553|https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/|Resident Evil Movie Will Become Zach Cregger’s Biggest Ever, Surpassing Weapons
@@ -1998,3 +1993,8 @@
 1791811286|https://www.france24.com/en/ukraine-zelensky-says-learned-of-trump-s-energy-ceasefire-through-media|Ukraine: Zelensky says learned of Trump's 'energy ceasefire' through media
 1791811294|https://www.france24.com/en/video/20261012-citro%C3%ABn-bets-on-nostalgia-at-paris-motor-show-amis-struggling-french-sales|Citroën bets on nostalgia at Paris motor show amis struggling French sales
 1791811299|https://www.france24.com/en/striking-images-show-new-flash-floods-hitting-central-nepal|Striking images show new flash floods hitting central Nepal
+1791813203|https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured?traffic_source=rss|At least 20 injured in northern Israel explosion
+1791813210|https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/12/confronting-the-largest-energy-security?traffic_source=rss|Confronting the ‘largest energy security threat’
+1791813217|https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf|Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
+1791813222|https://news.sky.com/story/former-irish-olympic-swimming-coach-jailed-over-indecent-assaults-13598158|Former Irish Olympic swimming coach jailed over indecent assaults
+1791813228|https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html|Zelenskyy accuses Russia of violating Trump’s energy ceasefire as drone attacks continue
