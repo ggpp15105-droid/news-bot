@@ -1,8 +1,3 @@
-1791415520|https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company|Bit Reactor CEO Welcomes Return of Some Furloughed Staff for 'Continued Support' of Star Wars Zero Company
-1791415529|https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-manga-is-on-sale-for-prime-big-deal-days-2026|The Legend of Zelda: Ocarina of Time Manga Is on Sale at Amazon Today
-1791415534|https://lenta.ru/news/2026/10/08/raskryt-razryv-mezhdu-sredney-pensiey-nerabotayuschih-v-rossiyskih-regionah/|Раскрыт разрыв между средней пенсией неработающих в российских регионах
-1791415544|https://www.kommersant.ru/doc/9008701|На самой глубокой шахте России произошла авария // На угольной шахте «Комсомольская» в Коми произошла авария
-1791416416|https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss|Christa Pike was nearly taken off life support before waking, lawyers say
 1791416421|https://lenta.ru/news/2026/10/08/pohabnaya-prosba-muzha-vselila-razdrazhenie-i-paniku-v-ego-zhenu/|Похабная просьба мужа вселила раздражение и панику в его жену
 1791416426|https://www.kommersant.ru/doc/9008693|Иран и Оман направят договор по Ормузскому проливу в международный орган
 1791416435|https://www.kommersant.ru/doc/9008582|Греф призвал государство не подавлять стимулы компаний к инновациям
@@ -1998,3 +1993,8 @@
 1791829911|https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss|Ethiopian forces enter strategic Tigray town of Adwa, witnesses say
 1791829917|https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss|Zohran Mamdani orders use-of-force review for New York City police
 1791829924|https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf|Hundreds of French supermarkets hit by a cyberattack that defrosted refrigeration systems
+1791831267|https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss|UK PM says RAF base incidents ‘likely coordinated’ by Iran
+1791831272|https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss|Egypt’s press union chief rejects pressure over detained journalists
+1791831279|https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-all-1573-rdf|Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month
+1791831285|https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks|How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks
+1791831289|https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html|The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging
