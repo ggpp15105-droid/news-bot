@@ -1,8 +1,3 @@
-1791388226|https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss|How Israel’s genocide in Gaza pulled Britons into the Palestine movement
-1791388232|https://www.euronews.com/2026/10/07/russia-dismisses-transparency-calls-amid-reports-of-second-siberia-plague-case|Russia dismisses transparency calls amid reports of second Siberia plague case
-1791388239|https://www.euronews.com/2026/10/07/deadly-drone-attacks-raise-questions-over-europes-black-sea-defences|Deadly drone attacks raise questions over Europe’s Black Sea defences
-1791388246|https://www.euronews.com/2026/10/07/we-will-certainly-look-at-it-trump-says-he-will-consider-permanent-us-military-base-in-lit|‘We will certainly look at it’: Trump says he will consider permanent US military base in Lithuania
-1791389104|https://www.euronews.com/2026/10/07/milan-looks-east-chinese-fashion-takes-centre-stage-for-traditional-craftwork|Milan looks East: Chinese fashion takes centre stage for traditional craftwork
 1791389110|https://www.euronews.com/2026/10/07/meps-urge-tougher-action-against-china-as-tensions-hit-critical-point|MEPs urge tougher action against China as tensions hit ‘critical point’
 1791389116|https://www.aa.com.tr/en/world/explainer-what-to-know-about-plague-quarantine-in-siberian-region-of-russia/4081244|EXPLAINER - What to know about ‘plague’ quarantine in Siberian region of Russia?
 1791389122|https://www.aa.com.tr/en/world/who-seeks-additional-information-from-russia-after-lab-workers-death-reports-of-2nd-pneumonic-plague-case/4081176|WHO seeks additional information from Russia after lab worker's death, reports of 2nd pneumonic plague case
@@ -1998,3 +1993,8 @@
 1791795572|https://www.euronews.com/2026/10/12/what-is-pilgra-merch-the-travel-trend-turning-souvenirs-into-trip-inspiration|What is ‘pilgra-merch’? The travel trend turning souvenirs into trip inspiration
 1791795578|https://www.euronews.com/2026/10/12/eu-decries-concerning-trump-putin-deal-insists-sanctions-on-russia-will-continue|EU decries 'concerning' Trump-Putin deal, insists sanctions on Russia will continue
 1791795585|https://www.euronews.com/video/2026/10/12/footage-shows-glucksmann-covered-in-flour-after-winning-french-left-wing-presidential-prim|Footage shows Glucksmann covered in flour after winning French left-wing presidential primary
+1791796507|https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss|Delhi braces for more protests against election chief amid crackdown
+1791796514|https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss|What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?
+1791796519|https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss|Russia introduces drone classes in public schools
+1791796526|https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss|Photos: Gaza mothers endure endless lines as famine fears persist
+1791796533|https://www.euronews.com/2026/10/12/chinese-carmaker-byd-plans-to-open-factory-in-france|Chinese carmaker BYD plans to open factory in France
