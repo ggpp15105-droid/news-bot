@@ -1,8 +1,3 @@
-1791433602|https://www.euronews.com/2026/10/08/kosovo-lawmakers-elect-justina-pula-as-the-countrys-new-president-in-late-night-vote-to-av|Kosovo lawmakers elect Justina Pula as the country's new president in late-night vote to avert snap election
-1791433609|https://www.japantimes.co.jp/environment/2026/10/08/wildlife/wildlife-population-fall-survey/|Populations of wild species fell by an average of 73% from 1970 to 2022, WWF says
-1791433616|https://www.japantimes.co.jp/sports/2026/10/08/baseball/mlb/dodgers-beats-braves-clinch-nlds/|Dodgers get past Braves in Game 4 to reach NLCS
-1791433623|https://www.aa.com.tr/en/environment/el-nino-forecast-to-reach-record-strength-as-global-heat-weather-risks-rise-wmo/4081622|El Nino forecast to reach record strength as global heat, weather risks rise: WMO
-1791434630|https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-rdf|India news: Opposition doubles down against poll chief after detentions
 1791434638|https://www.euronews.com/2026/10/08/former-sri-lankan-first-lady-shiranthi-rajapaksa-arrested-on-charges-of-misusing-donation-|Former Sri Lankan first lady Shiranthi Rajapaksa arrested on charges of misusing donation funds and corruption
 1791434645|https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update|Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update
 1791434649|https://lenta.ru/news/2026/10/08/nazvany-prichiny-vozniknoveniya-allergii-na-holod/|Названы причины возникновения аллергии на холод
@@ -1998,3 +1993,8 @@
 1791848504|https://www.ign.com/articles/satisfactory-the-board-game-preview|Satisfactory: The Board Game Preview
 1791848509|https://lenta.ru/news/2026/10/13/bpla-atakovali-stavropolskiy-kray/|БПЛА атаковали Ставропольский край
 1791848517|https://lenta.ru/news/2026/10/13/muzhchina-zavel-novoe-hobbi-i-stolknulsya-s-polnym-neponimaniem-zheny/|Мужчина завел новое хобби и столкнулся с полным непониманием жены
+1791849397|https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html|S&P 500 futures are little changed after mixed session; traders await bank earnings: Live updates
+1791849402|https://lenta.ru/news/2026/10/13/mid-zayavil-o-sryve-kievom-vozmozhnosti-trehstoronnih-peregovorov/|МИД заявил о срыве Киевом возможности трехсторонних переговоров
+1791849407|https://lenta.ru/news/2026/10/13/long-on-dolzhen-sosredotochitsya-na-sdelke-tramp-rezko-otvetil-zelenskomu-v-kieve-oschuschayut-posledstviya-ih-novoy-ssory/|«Он должен сосредоточиться на сделке». Трамп резко ответил Зеленскому. В Киеве ощущают последствия их новой ссоры
+1791849412|https://lenta.ru/news/2026/10/13/v-ssha-predrekli-katastrofu-v-sluchae-otveta-rossii-na-initsiativy-frantsii-po-yadernomu-oruzhiyu/|В США предрекли катастрофу в случае ответа России на инициативы Франции по ядерному оружию
+1791849416|https://www.kommersant.ru/doc/9025082|Болгария запросила помощь ЕС и НАТО в расследовании атаки на суда в Черном море
