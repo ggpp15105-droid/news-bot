@@ -1,8 +1,3 @@
-1791394114|https://www.dw.com/en/russia-who-not-able-to-fully-assess-plague-situation/a-79584532?maca=en-rss-en-all-1573-rdf|Russia: WHO not able to 'fully' assess plague situation
-1791394120|https://www.france24.com/en/france/20261007-france-summons-iranian-ambassador-over-disinformation-on-student-protests|France summons Iranian ambassador over 'disinformation' on student protests
-1791394127|https://www.ign.com/articles/our-favorite-zelda-prime-day-deal-is-both-stylish-and-functional|The Best Zelda Merch Deal for Prime Day Is Here and Its Both Stylish and Functional
-1791394135|https://www.ign.com/articles/pokemon-tcg-mega-evolution-phantasmal-flames-booster-bundles-in-stock-on-amazon-prime-day|Pokémon TCG: Phantasmal Flames Booster Bundles In Stock on Amazon at Market Price
-1791395105|https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf|Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?
 1791395110|https://www.euronews.com/2026/10/07/rubio-in-athens-urges-europe-to-shoulder-more-of-its-defence-burden|Rubio in Athens urges Europe to shoulder more of its defence burden
 1791395118|https://www.ign.com/articles/pokemon-tcg-destined-rivals-etb-in-stock-at-amazon-for-prime-day|Pokémon TCG Destined Rivals ETB In Stock at Amazon for Prime Day
 1791395123|https://www.gamespot.com/articles/xbox-game-pass-gets-gears-of-war-e-day-and-these-11-games-in-october/|Xbox Game Pass Gets Gears Of War: E-Day And These 11 Games In October
@@ -1998,3 +1993,8 @@
 1791801360|https://www.france24.com/en/are-european-automakers-capable-of-withstanding-chinese-competition|Are European automakers capable of withstanding Chinese competition?
 1791801366|https://www.france24.com/en/at-least-139-migrants-die-in-boat-wreck-between-djibouti-and-yemen|At least 139 migrants die in boat wreck between Djibouti and Yemen
 1791801374|https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html|Brent tops $105 as doubts grow over supply boost from Trump’s ‘energy ceasefire’
+1791802536|https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss|Saudi minister vows 'serious response' to Houthi attacks on airports
+1791802543|https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss|What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield
+1791802551|https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf|Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia
+1791802561|https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf|Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict
+1791802568|https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html|Global travel warnings after Iran-backed Houthi militants strike Riyadh airport
