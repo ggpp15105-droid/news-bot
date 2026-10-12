@@ -1,8 +1,3 @@
-1791378062|https://www.euronews.com/2026/10/07/judo-2026-world-championships-koga-and-yusifov-strike-gold-on-opening-day-in-baku|Judo 2026 World Championships: Koga and Yusifov Strike Gold on Opening Day in Baku
-1791378069|https://www.japantimes.co.jp/business/2026/10/07/book-firm-anthropic/|Japanese firm confirms it sold books to Anthropic
-1791378076|https://www.japantimes.co.jp/business/2026/10/07/nomura-longer-term-returns/|Nomura Asset Management shifts focus to longer-term returns
-1791378084|https://www.aa.com.tr/en/science-technology/profile-henri-kagan-and-kenso-soai-chemists-who-made-molecules-choose-a-side/4081041|PROFILE - Henri Kagan and Kenso Soai: Chemists who made molecules choose a side
-1791379247|https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss|Israeli soldier assaults Palestinian woman in occupied West Bank
 1791379252|https://www.aljazeera.com/opinions/2026/10/7/the-uk-greens-are-wrong-zionism-is-not-racism?traffic_source=rss|The UK Greens are wrong – Zionism is not racism
 1791379258|https://www.aljazeera.com/opinions/2026/10/7/yes-zionism-is-racism?traffic_source=rss|Yes, Zionism is racism
 1791379265|https://www.dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254?maca=en-rss-en-all-1573-rdf|China's Golden Week reveals cautious consumer spending despite travel surge
@@ -1998,3 +1993,8 @@
 1791783774|https://www.euronews.com/2026/10/12/north-korea-fires-several-ballistic-missiles-into-sea-of-japan-seouls-military-says|North Korea fires 'several ballistic missiles' into Sea of Japan, Seoul's military says
 1791783781|https://www.japantimes.co.jp/sports/2026/10/12/more-sports/judo-team-gold/|Japan defeats Russia to win mixed team gold at World Judo
 1791783786|https://lenta.ru/news/2026/10/12/team-yandex-obygrala-team-spirit-v-blast-slam-viii/|Team Yandex обыграла Team Spirit в BLAST Slam VIII
+1791784770|https://lenta.ru/news/2026/10/12/direktor-russkoy-arktiki-ob-yasnil-prichinu-straha-buryh-medvedey-pered-ognem/|Директор «Русской Арктики» объяснил причину страха бурых медведей перед огнем
+1791784774|https://lenta.ru/news/2026/10/12/natsgvardiya-ukrainy-ispytala-slozhnosti-so-snabzheniem-na-odnom-iz-klyuchevyh-napravleniy/|Нацгвардия Украины испытала сложности со снабжением на одном из ключевых направлений
+1791784783|https://lenta.ru/news/2026/10/12/raskryty-dannye-o-nochnyh-udarah-vsu-po-regionam-rossii-posle-slov-zelenskogo-o-peremirii/|Раскрыты данные о ночных ударах ВСУ по регионам России после слов Зеленского о перемирии
+1791784791|https://lenta.ru/news/2026/10/12/ovechkin-obnovil-rekord-nhl-po-kolichestvu-propustivshih-ot-nego-vratarey/|Овечкин обновил рекорд НХЛ по количеству пропустивших от него вратарей
+1791784800|https://lenta.ru/news/2026/10/12/glavnymi-postavschikami-shokolada-v-rossiyu-okazalis-strany-nato/|Главными поставщиками шоколада в Россию оказались страны НАТО
