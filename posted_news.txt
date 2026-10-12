@@ -1,8 +1,3 @@
-1791380392|https://www.france24.com/en/tv-shows/perspective/20261007-time-doesn-t-heal-parents-of-aner-shapira-killed-on-october-7-2023|'Time doesn't heal': Parents of October 7 attacks victim Aner Shapira
-1791380398|https://www.france24.com/en/tv-shows/business/20261007-three-years-after-october-7-attacks-israel-s-economy-shows-its-strength|Three years after October 7 attacks, Israel's economy shows its strength
-1791380403|https://news.sky.com/story/seven-injured-in-attack-with-sharp-object-at-polish-school-say-police-13596114|Seven injured in attack with 'sharp object' at Polish school, say police
-1791380410|https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html|France is caught between angry students and unforgiving bond markets
-1791381348|https://www.aljazeera.com/news/2026/10/7/okinawa-governor-urges-japan-action-after-us-marine-arrested-over-killing?traffic_source=rss|Okinawa governor urges Japan action after US Marine arrested over killing
 1791381355|https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss|Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown
 1791381361|https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf|South Sudan's road to elections remains uncertain
 1791381366|https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case|Russia warns against spreading 'false information' as reports emerge of second plague case
@@ -1998,3 +1993,8 @@
 1791785849|https://www.japantimes.co.jp/news/2026/10/12/japan/tokyo-police-autonomous-driving/|Tokyo police to set up section for autonomous driving accidents
 1791785857|https://lenta.ru/news/2026/10/12/rost-rossiyskogo-rynka-iskusstvennogo-intellekta-otsenili/|Рост российского рынка искусственного интеллекта оценили
 1791785866|https://lenta.ru/news/2026/10/12/zelenskiy-rasserdil-trampa/|Зеленский рассердил Трампа
+1791787703|https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss|India protest live: Opposition to march to Supreme Court over ‘vote theft’
+1791787710|https://www.dw.com/en/germany-bas-quits-as-spd-co-chair-amid-coalition-friction/a-79636869?maca=en-rss-en-all-1573-rdf|Germany: Bas quits as SPD co-chair amid coalition friction
+1791787717|https://www.cnbc.com/2026/10/12/trump-russia-ukraine-saudi-oil.html|CNBC Daily Open: Trump's Russian roulette
+1791787725|https://www.euronews.com/video/2026/10/12/rare-kandinsky-masterpiece-and-hockneys-beloved-dog-painting-head-to-london-auction|Rare Kandinsky masterpiece and Hockney’s beloved dog painting head to London auction
+1791787732|https://www.euronews.com/2026/10/12/trump-turns-the-screws-on-kyiv-as-eu-budget-talks-hit-a-wall|Trump turns the screws on Kyiv as EU budget talks hit a wall
