@@ -1,8 +1,3 @@
-1791389110|https://www.euronews.com/2026/10/07/meps-urge-tougher-action-against-china-as-tensions-hit-critical-point|MEPs urge tougher action against China as tensions hit ‘critical point’
-1791389116|https://www.aa.com.tr/en/world/explainer-what-to-know-about-plague-quarantine-in-siberian-region-of-russia/4081244|EXPLAINER - What to know about ‘plague’ quarantine in Siberian region of Russia?
-1791389122|https://www.aa.com.tr/en/world/who-seeks-additional-information-from-russia-after-lab-workers-death-reports-of-2nd-pneumonic-plague-case/4081176|WHO seeks additional information from Russia after lab worker's death, reports of 2nd pneumonic plague case
-1791389128|https://www.aa.com.tr/en/world/cis-foreign-ministers-adopt-joint-statement-supporting-steps-to-prevent-arms-race-in-outer-space/4081118|CIS foreign ministers adopt joint statement supporting steps to prevent arms race in outer space
-1791390381|https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss|Israelis demand accountability over 7 October failures three years after attacks
 1791390389|https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-all-1573-rdf|German politicians warn of antisemitism on October 7 anniversary
 1791390398|https://www.euronews.com/2026/10/07/knife-attack-at-polish-school-in-ostroleka-a-student-injures-seven-two-are-in-critical-con|Knife attack at Polish school: in Ostroleka a student injures seven, two are in critical condition
 1791390407|https://www.euronews.com/video/2026/10/07/fantasy-worlds-come-to-life-on-nails-at-london-nail-art-competition|Fantasy worlds come to life on nails at London nail art competition
@@ -1998,3 +1993,8 @@
 1791796519|https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss|Russia introduces drone classes in public schools
 1791796526|https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss|Photos: Gaza mothers endure endless lines as famine fears persist
 1791796533|https://www.euronews.com/2026/10/12/chinese-carmaker-byd-plans-to-open-factory-in-france|Chinese carmaker BYD plans to open factory in France
+1791797905|https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis|Saudi Arabia: Riyadh airport struck again by Yemen's Houthis
+1791797911|https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent|Trump touts surprise 'energy ceasefire' – Zelensky says he hasn't seen details, Moscow silent
+1791797918|https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-diesel-prices.html|Trump turns to Russian diesel ahead of midterms, but analysts see little price relief
+1791797926|https://www.euronews.com/2026/10/12/we-still-love-you-nato-envoy-seeks-to-reassure-europe-over-us-military-pullback|‘We still love you’: NATO envoy seeks to reassure Europe over US military pullback
+1791797932|https://www.euronews.com/2026/10/12/zelenskyy-says-russia-ignored-trumps-ceasefire-and-kept-attacking-ukraine|Zelenskyy says Russia ignored Trump’s ceasefire and kept attacking Ukraine
