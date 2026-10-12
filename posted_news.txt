@@ -1,8 +1,3 @@
-1791365822|https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss|Fear and a far-right lurch: How October 7 reshaped Israel
-1791365830|https://www.dw.com/en/ronaldo-stays-on-under-cloud-as-messi-exits-internationals/a-79574551?maca=en-rss-en-all-1573-rdf|Ronaldo stays on under cloud as Messi exits internationals
-1791365838|https://www.euronews.com/2026/10/07/zelensky-says-russia-missile-attack-that-killed-12-is-birthday-gift-to-putin|Zelensky says Russia missile attack that killed 12 is birthday 'gift' to Putin
-1791365844|https://www.aa.com.tr/en/science-technology/south-korea-s-astronaut-urges-girls-don-t-limit-your-dreams-or-abilities-/4080750|South Korea’s astronaut urges girls: ‘Don’t limit your dreams or abilities’
-1791366864|https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss|California pair charged with abusing at least 14 surrogate-born children
 1791366870|https://www.aljazeera.com/news/2026/10/7/france-halts-police-use-of-stun-grenades-at-student-protests?traffic_source=rss|France halts police use of stun grenades at student protests
 1791366878|https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html|Google ordered to halt work on two data centers in ‘Texas of Europe’
 1791366885|https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html|Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate
@@ -1998,3 +1993,8 @@
 1791770358|https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack|NATO top commander to warn Russia over alliance’s ability to counter attack
 1791770363|https://lenta.ru/news/2026/10/12/vyyavlen-neozhidannyy-faktor-uspeshnogo-kontrolya-diabeta/|Выявлен неожиданный фактор успешного контроля диабета
 1791770367|https://lenta.ru/news/2026/10/12/premier-vengrii-vyskazalsya-o-voennoy-pomoschi-ukraine/|Премьер Венгрии высказался о военной помощи Украине
+1791771174|https://www.japantimes.co.jp/news/2026/10/12/japan/society/sports-clubs-physical-strength/|Sports club affiliation influences physical strength, survey shows
+1791771183|https://lenta.ru/news/2026/10/12/rossiyan-predupredili-o-novoy-sheme-obmana-s-detskimi-vyplatami/|Россиян предупредили о новой схеме обмана с детскими выплатами
+1791771192|https://lenta.ru/news/2026/10/12/devushka-vpervye-zanyalas-seksom-v-21-god-i-prinyala-vnezapnoe-reshenie/|Девушка впервые занялась сексом в 21 год и приняла внезапное решение
+1791771201|https://lenta.ru/news/2026/10/12/zelenskogo-predupredili-o-posledstviyah-hamstva-trampu/|Зеленского предупредили о последствиях хамства Трампу
+1791771210|https://www.kommersant.ru/doc/9024268|Билл Гейтс предупредил о «неприятных сюрпризах» от ИИ в 2027 году
