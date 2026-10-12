@@ -1,8 +1,3 @@
-1791372414|https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss|Doha Debates: Should We Trust the News?
-1791372421|https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss|Israeli attacks across Gaza kill at least four Palestinians
-1791372427|https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss|US sets new demands for Iran deal: What are they?
-1791372433|https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss|Girl pleads for world leaders to save her country from climate change
-1791373358|https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-all-1573-rdf|Germany: Did CDU lawmakers support the far-right AfD?
 1791373364|https://www.france24.com/en/tv-shows/press-review/20261007-israeli-papers-commemorate-october-7-attacks-three-years-on|Israeli papers commemorate October 7 attacks, three years on
 1791373370|https://www.euronews.com/2026/10/07/finland-orders-pause-on-google-ai-data-centre-over-environmental-concerns|Finland orders pause on Google AI data centres over environmental concerns
 1791373377|https://www.euronews.com/video/2026/10/07/tokyo-sleep-competition-offers-2-million-yen-prize-to-best-sleeper|Tokyo sleep competition offers 2 million yen prize to best sleeper
@@ -1998,3 +1993,8 @@
 1791777959|https://lenta.ru/news/2026/10/12/boets-vs-rossii-rasskazal-ob-ispolzovanii-vsu-plennyh-dlya-diversiy/|Боец ВС России рассказал об использовании ВСУ пленных для диверсий
 1791777963|https://lenta.ru/news/2026/10/12/v-rossiyskom-regione-otrazili-nochnuyu-ataku-bpla/|В российском регионе отразили ночную атаку БПЛА
 1791777972|https://lenta.ru/news/2026/10/12/vo-frantsii-potrebovali-otstavki-zelenskogo-posle-slov-trampa/|во Франции потребовали отставки Зеленского после слов Трампа
+1791779162|https://www.euronews.com/2026/10/12/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire|Stocks rise as oil prices tumble after Trump hails 'energy ceasefire'
+1791779168|https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/china-paraguay-belize-sanctions-taiwan/|China sanctions ministers from Paraguay and Belize over Taiwan ties
+1791779175|https://www.aa.com.tr/en/world/north-koreas-missile-launches-appear-to-be-response-to-south-korea-s-hypersonic-weapon-test-military/4085535|North Korea's missile launches appear to be response to South Korea’s hypersonic weapon test: Military
+1791779185|https://www.aa.com.tr/en/world/morning-briefing-oct-11-2026/4084845|Morning Briefing: Oct. 11, 2026
+1791779190|https://lenta.ru/news/2026/10/12/biolog-predupredil-o-nashestvii-aziatskih-bozhih-korovok-v-moskve/|Биолог предупредил о нашествии азиатских божьих коровок в Москве
