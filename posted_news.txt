@@ -1,8 +1,3 @@
-1791381355|https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss|Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown
-1791381361|https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf|South Sudan's road to elections remains uncertain
-1791381366|https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case|Russia warns against spreading 'false information' as reports emerge of second plague case
-1791381372|https://www.france24.com/en/tv-shows/focus/20261007-china-s-evolving-funeral-practices-from-traditional-burials-to-cremation|China's evolving funeral practices: From traditional burials to cremation
-1791382096|https://www.france24.com/en/video/20261007-from-mai-68-to-2026-france-s-long-student-protests-tradition|From Mai 68 to 2026: France’s long student protests tradition
 1791382102|https://www.france24.com/en/tv-shows/entre-nous/20261007-why-american-artist-mary-cassatt-s-legacy-still-resonates-in-france-today|Why American artist Mary Cassatt's legacy still resonates in France today
 1791382109|https://www.euronews.com/2026/10/07/italians-and-czechs-push-brussels-to-ease-green-rules-as-energy-crisis-hits-industry|Italians and Czechs push Brussels to ease green rules as energy crisis hits industry
 1791382115|https://www.euronews.com/2026/10/07/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran|Iran threatens pre-emptive strikes as US questions who runs Tehran
@@ -1998,3 +1993,8 @@
 1791787717|https://www.cnbc.com/2026/10/12/trump-russia-ukraine-saudi-oil.html|CNBC Daily Open: Trump's Russian roulette
 1791787725|https://www.euronews.com/video/2026/10/12/rare-kandinsky-masterpiece-and-hockneys-beloved-dog-painting-head-to-london-auction|Rare Kandinsky masterpiece and Hockney’s beloved dog painting head to London auction
 1791787732|https://www.euronews.com/2026/10/12/trump-turns-the-screws-on-kyiv-as-eu-budget-talks-hit-a-wall|Trump turns the screws on Kyiv as EU budget talks hit a wall
+1791789210|https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations|Melbourne Islamic leader linked to suspected Flydubai hijacker condemns 'false accusations'
+1791789215|https://www.euronews.com/2026/10/12/why-does-the-eu-want-a-european-security-council-take-our-poll|Why does the EU want a European Security Council? Take our poll
+1791789221|https://www.euronews.com/2026/10/12/how-can-a-new-security-council-boost-the-eus-defence-strategy-ask-the-euronews-ai-chatbot|How can a new Security Council boost the EU's defence strategy? Ask the Euronews AI chatbot
+1791789228|https://www.japantimes.co.jp/business/2026/10/12/china-hybrid-eu-curbs/|China’s $7.5 billion EU hybrid boom faces new curbs under deal with EU
+1791789234|https://www.japantimes.co.jp/business/2026/10/12/companies/french-defense-firm-japan-base/|French defense firm Thales to build Japan base, media report says
