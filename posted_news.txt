@@ -1,8 +1,3 @@
-1791384315|https://www.france24.com/en/video/20261007-new-comoros-law-bans-foreign-nationals-from-certain-jobs|New Comoros law bans foreign nationals from certain jobs
-1791384319|https://news.sky.com/story/russia-claims-there-is-no-epidemic-risk-after-death-of-plague-institute-worker-13596157|Russia claims there is no epidemic risk after death of plague institute worker
-1791384325|https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html|Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%
-1791384331|https://www.euronews.com/2026/10/07/menopause-drug-lenzetto-returns-to-spanish-pharmacies-in-november|Menopause drug Lenzetto returns to Spanish pharmacies in November
-1791385275|https://www.dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224?maca=en-rss-en-all-1573-rdf|Why music in Iran is more than just entertainment
 1791385283|https://www.euronews.com/2026/10/07/exclusive-the-left-group-wants-to-halve-mep-salaries|Exclusive: The Left group wants to halve MEP salaries
 1791385289|https://www.euronews.com/2026/10/07/eu-hopefuls-fear-new-safeguard-plans-could-create-second-class-members|EU hopefuls fear new safeguard plans could create second-class members
 1791385297|https://www.euronews.com/2026/10/07/espionage-scandal-involving-ex-bnd-chief-second-arrest-over-suspected-treason|Former BND chief's aide arrested as Germany's biggest spy scandal widens
@@ -1998,3 +1993,8 @@
 1791791925|https://www.france24.com/en/asia-pacific/20261012-opposition-leaders-and-journalists-allege-police-abuses-as-fresh-protests-break-out-in-india|Opposition leaders and journalists allege police abuses as fresh protests break out in India
 1791791932|https://www.aa.com.tr/en/middle-east/israel-not-expected-to-attack-iran-before-elections-opposition-leader-says/4085710|Israel not expected to attack Iran before elections, opposition leader says
 1791791937|https://www.ign.com/articles/riftbound-radiance-hands-on-preview-and-interview-riftbound-embraces-complexity|Riftbound: Radiance Hands-On Preview and Interview - Riftbound Embraces Complexity
+1791792865|https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss|Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks
+1791792871|https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss|If Netanyahu goes, does anything really change for Palestinians?
+1791792877|https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market|Fire burns down Paris's oldest covered food market
+1791792883|https://www.euronews.com/video/2026/10/12/frances-main-problem-is-its-inability-to-reduce-public-debt-economist-says|France’s main problem is its inability to reduce public debt, economist says
+1791792890|https://www.euronews.com/video/2026/10/12/tens-of-thousands-march-in-brussels-demanding-urgent-climate-action|Tens of thousands march in Brussels demanding urgent climate action
