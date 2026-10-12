@@ -1,8 +1,3 @@
-1791361699|https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html|Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse
-1791361706|https://www.euronews.com/video/2026/10/07/removing-russian-oligarchs-from-sanctions-list-sets-a-very-bad-precedent-browder-says|Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says
-1791361713|https://www.euronews.com/2026/10/07/imf-chief-signals-austerity-is-back-as-global-public-debt-heads-for-100-of-gdp|IMF chief signals austerity is back as global public debt heads for 100% of GDP
-1791361722|https://www.euronews.com/2026/10/07/balloons-baths-and-poppy-seed-cuisine-discover-afyonkarahisar|Balloons, baths and poppy-seed cuisine: discover Afyonkarahisar
-1791362733|https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss|India's opposition leader dragged onto bus as police break up protest
 1791362739|https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss|Three years of Israel’s mass dispossession of West Bank Palestinians
 1791362744|https://www.aljazeera.com/video/al-jazeera-world/2026/10/7/palestine-the-lost-team?traffic_source=rss|Palestine: The Lost Team
 1791362748|https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss|Israeli troops seen smashing memorial in occupied West Bank
@@ -1998,3 +1993,8 @@
 1791765242|https://lenta.ru/news/2026/10/12/v-ssha-zayavili-o-finalnoy-stadii-konflikta-na-ukraine/|В США заявили о финальной стадии конфликта на Украине
 1791765250|https://lenta.ru/news/2026/10/12/na-ukraine-zahoteli-prezidenta-kak-putin/|На Украине захотели президента как Путин
 1791765255|https://lenta.ru/news/2026/10/12/raskryt-sposob-bezopasno-poluchit-udovolstvie-ot-neobychnogo-fetisha-na-pogodu/|Раскрыт способ безопасно получить удовольствие от необычного фетиша на погоду
+1791767009|https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss|Iran’s FM urges diplomacy in call with Saudi counterpart
+1791767016|https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss|Hurricane Isaias leaves trail of destruction across the US Gulf Coast
+1791767022|https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss|Ceuta or Sebta? Why one city has two names and a disputed status
+1791767029|https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html|Judge orders Trump admin to stop airing challenged government-funded ads immediately
+1791767036|https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html|Why China is importing a record amount of gold — and what it means for prices
