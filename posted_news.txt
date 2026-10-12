@@ -1,8 +1,3 @@
-1791432468|https://www.euronews.com/2026/10/08/maricarmen-the-87-year-old-woman-whose-eviction-triggered-major-protests-has-died-in-hospi|Maricarmen, the 87-year-old woman whose eviction triggered major protests, has died in hospital, lawyer says
-1791432477|https://lenta.ru/news/2026/10/08/rossiyanam-dali-sovety-po-podgotovke-avtomobilya-k-dozhdyam-i-poholodaniyu/|Россиянам дали советы по подготовке автомобиля к дождям и похолоданию
-1791432482|https://lenta.ru/news/2026/10/08/ochen-druzhelyubnaya-35-letnyaya-uchitelnitsa-iznasilovala-shkolnika/|«Очень дружелюбная» 35-летняя учительница изнасиловала школьника
-1791432486|https://lenta.ru/news/2026/10/08/raskryt-sekret-bystryh-trenirovok-mettyu-makkonahi/|Раскрыт секрет быстрых тренировок Мэттью Макконахи
-1791433596|https://www.aljazeera.com/news/2026/10/8/south-korea-pledges-legal-action-over-alleged-fuel-exports-to-russia?traffic_source=rss|South Korea pledges legal action over alleged fuel exports to Russia
 1791433602|https://www.euronews.com/2026/10/08/kosovo-lawmakers-elect-justina-pula-as-the-countrys-new-president-in-late-night-vote-to-av|Kosovo lawmakers elect Justina Pula as the country's new president in late-night vote to avert snap election
 1791433609|https://www.japantimes.co.jp/environment/2026/10/08/wildlife/wildlife-population-fall-survey/|Populations of wild species fell by an average of 73% from 1970 to 2022, WWF says
 1791433616|https://www.japantimes.co.jp/sports/2026/10/08/baseball/mlb/dodgers-beats-braves-clinch-nlds/|Dodgers get past Braves in Game 4 to reach NLCS
@@ -1998,3 +1993,8 @@
 1791847553|https://lenta.ru/news/2026/10/13/kallas-ob-yavila-o-planah-vvesti-ekstrennyy-protokol-bezopasnosti-v-es/|Каллас объявила о планах ввести экстренный протокол безопасности в ЕС
 1791847557|https://www.kommersant.ru/doc/9025080|Силы ПВО отражают атаку БПЛА на промзоны Ставропольского края
 1791847561|https://tass.ru/proisshestviya/28207553|Силы ПВО Минобороны уничтожили 10 БПЛА, летевших на Москву
+1791848491|https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss|Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast
+1791848497|https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss|US archbishop says Catholics in army should not participate in firing squad
+1791848504|https://www.ign.com/articles/satisfactory-the-board-game-preview|Satisfactory: The Board Game Preview
+1791848509|https://lenta.ru/news/2026/10/13/bpla-atakovali-stavropolskiy-kray/|БПЛА атаковали Ставропольский край
+1791848517|https://lenta.ru/news/2026/10/13/muzhchina-zavel-novoe-hobbi-i-stolknulsya-s-polnym-neponimaniem-zheny/|Мужчина завел новое хобби и столкнулся с полным непониманием жены
