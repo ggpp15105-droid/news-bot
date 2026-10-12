@@ -1,8 +1,3 @@
-1791374236|https://www.aljazeera.com/sports/2026/10/7/lionel-messi-farewell-friendly-benin-india-fans-kerala-kolkata-mumbai?traffic_source=rss|Miles away from Argentina, Messi’s farewell hits home for his Indian fans
-1791374243|https://www.aljazeera.com/news/2026/10/7/justina-shiroka-pula-kosovos-new-president-elected-during-a-crisis?traffic_source=rss|Justina Shiroka Pula: Kosovo’s new president, elected during a crisis
-1791374249|https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss|US military aid to Israel continues three years into Gaza genocide
-1791374257|https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-rdf|Germany: Ex-spy chief sent to pretrial detention on treason charges
-1791375175|https://www.euronews.com/video/2026/10/07/willem-de-kooning-returns-to-the-netherlands-for-major-rijksmuseum-exhibition|Willem de Kooning returns to the Netherlands for major Rijksmuseum exhibition
 1791375182|https://www.euronews.com/video/2026/10/07/one-minute-siren-sounds-in-tel-aviv-to-mark-october-7-anniversary|One-minute siren sounds in Tel Aviv to mark October 7 anniversary
 1791375188|https://www.japantimes.co.jp/news/2026/10/07/japan/wang-takaichi-taiwan-remark/|China’s foreign minister suggested Takaichi resolve Taiwan remark issue
 1791375194|https://www.aa.com.tr/en/world/nasa-says-russia-china-could-join-artemis-accords-if-they-align-with-principles/4081002|NASA says Russia, China could join Artemis Accords if they align with principles
@@ -1998,3 +1993,8 @@
 1791780359|https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html|TikTok CEO sees major scientific breakthroughs from AI within three years
 1791780365|https://www.japantimes.co.jp/news/2026/10/12/japan/crime-legal/tokyo-police-haneda-airport/|Efforts to stop criminals fleeing the country stepped up
 1791780371|https://www.japantimes.co.jp/business/2026/10/12/japan-trade-minister-energy-security/|Japan urges oil stockpiling and development as Mideast risks rise
+1791781417|https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss|Netanyahu demands probe into sources for award-winning Gaza film NAZA
+1791781422|https://www.euronews.com/2026/10/12/which-european-countries-are-hit-the-hardest-by-annual-rent-inflation-and-why|Which European countries are hit the hardest by annual rent inflation and why?
+1791781428|https://www.euronews.com/2026/10/12/lumiere-festival-2026-in-lyon-stars-share-their-first-cinema-memories|Lumière festival 2026 in Lyon: Stars share their first cinema memories
+1791781434|https://www.japantimes.co.jp/sports/2026/10/12/more-sports/49ers-seahawks-vikings/|Unbeaten 49ers edge Seahawks while Vikings stay perfect
+1791781443|https://lenta.ru/news/2026/10/12/cellular/|Раскрыт способ сэкономить интернет на iPhone
