@@ -1,8 +1,3 @@
-1791368731|https://www.aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin?traffic_source=rss|Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin
-1791368737|https://www.france24.com/en/video/20261007-israel-marks-three-years-since-hamas-s-october-7-attack|Israel marks three years since Hamas's October 7 attack
-1791368744|https://www.france24.com/en/video/20261007-houthis-attack-aden-airport-as-fighting-intensifies-in-yemen|Houthis attack Aden airport as fighting intensifies in Yemen
-1791368749|https://www.france24.com/en/video/20261007-trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency|Trump to speak to Putin on plague as US, UN urge transparency
-1791369653|https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss|CAS to hear Senegal appeal over AFCON title awarded to Morocco
 1791369659|https://www.aljazeera.com/news/2026/10/7/christa-pike-is-awake-after-surviving-execution-what-happens-now?traffic_source=rss|Christa Pike is awake after surviving execution: What happens now?
 1791369665|https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss|Bulgaria ends search for missing crew after drone strike sinks cargo ship
 1791369670|https://www.france24.com/en/video/20261007-paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance|Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance
@@ -1998,3 +1993,8 @@
 1791773491|https://lenta.ru/news/2026/10/12/ataki-vsu-na-rossiyskie-data-tsentry-nazvali-terroristicheskimi/|Атаки ВСУ на российские дата-центры назвали террористическими
 1791773496|https://lenta.ru/news/2026/10/12/otnoshenie-trampa-k-evrope-i-ukraine-ob-yasnili-mestyu/|Отношение Трампа к Европе и Украине объяснили местью
 1791773500|https://lenta.ru/news/2026/10/12/v-minoborony-raskryli-podrobnosti-vzyatiya-annopolya-v-harkovskoy-oblasti/|В Минобороны раскрыли подробности взятия Аннополья в Харьковской области
+1791774349|https://lenta.ru/news/2026/10/12/muzhchina-sobralsya-vo-vtoroy-raz-zhenitsya-na-otrezavshey-emu-penis-zhenschine/|Мужчина собрался во второй раз жениться на отрезавшей ему пенис женщине
+1791774357|https://lenta.ru/news/2026/10/12/hobbi-zavzyatoy-dolzhnitsy-vyzvalo-stalo-kamnem-pretknoveniya-v-ee-otnosheniyah-s-muzhem/|Хобби завзятой должницы стало камнем преткновения в ее отношениях с мужем
+1791774362|https://lenta.ru/news/2026/10/12/na-ukraine-zayavili-o-gryaduschey-katastrofe-v-sluchae-prodolzheniya-boevyh-deystviy/|На Украине заявили о грядущей катастрофе в случае продолжения боевых действий
+1791774367|https://lenta.ru/news/2026/10/12/v-prokurature-raskryli-chislo-postradavshih-pri-dobyche-zolota-na-kamchatke/|В прокуратуре раскрыли число пострадавших при добыче золота на Камчатке
+1791774371|https://www.kommersant.ru/doc/9024273|КНДР провела испытания неопознанных ракет над Японским морем
