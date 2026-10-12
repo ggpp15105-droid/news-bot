@@ -1,8 +1,3 @@
-1791385283|https://www.euronews.com/2026/10/07/exclusive-the-left-group-wants-to-halve-mep-salaries|Exclusive: The Left group wants to halve MEP salaries
-1791385289|https://www.euronews.com/2026/10/07/eu-hopefuls-fear-new-safeguard-plans-could-create-second-class-members|EU hopefuls fear new safeguard plans could create second-class members
-1791385297|https://www.euronews.com/2026/10/07/espionage-scandal-involving-ex-bnd-chief-second-arrest-over-suspected-treason|Former BND chief's aide arrested as Germany's biggest spy scandal widens
-1791385303|https://www.aa.com.tr/en/world/chatgpt-for-teens-poses-unacceptable-risk-to-children-study/4081197|ChatGPT for Teens poses ‘unacceptable risk’ to children: Study
-1791386873|https://www.aljazeera.com/news/2026/10/7/ex-german-spy-chief-arrested-a-history-of-spooks-working-for-enemy-powers?traffic_source=rss|Ex-German spy chief arrested: A history of spooks working for enemy powers
 1791386880|https://www.dw.com/en/transgressive-edgy-diy-what-the-90s-meant-for-british-art/a-79581777?maca=en-rss-en-all-1573-rdf|Transgressive, edgy DIY: What the 90s meant for British art
 1791386885|https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-rdf|Germany news: Merz rails against extremism, AfD sympathizers
 1791386891|https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-rdf|EU enlargement: European Commission tables reforms to prepare bloc for new members
@@ -1998,3 +1993,8 @@
 1791792877|https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market|Fire burns down Paris's oldest covered food market
 1791792883|https://www.euronews.com/video/2026/10/12/frances-main-problem-is-its-inability-to-reduce-public-debt-economist-says|France’s main problem is its inability to reduce public debt, economist says
 1791792890|https://www.euronews.com/video/2026/10/12/tens-of-thousands-march-in-brussels-demanding-urgent-climate-action|Tens of thousands march in Brussels demanding urgent climate action
+1791794312|https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss|India opposition plans New Delhi protest to demand election chief resign
+1791794319|https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-all-1573-rdf|Frankfurt Book Fair: Rights lawyer Sands awarded peace prize
+1791794325|https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html|Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck
+1791794331|https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html|Stellantis CEO urges incentives for carmakers who build in Europe as Chinese rivals gain ground
+1791794337|https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html|World Bank jobs council urges 'crisis-era' support measures as IMF warns of AI ‘tsunami’ hit
