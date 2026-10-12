@@ -1,8 +1,3 @@
-1791392943|https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss|Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains
-1791392948|https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html|Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase
-1791392954|https://www.ign.com/articles/pokemon-legends-z-a-hits-brand-new-low-at-amazon-during-prime-big-deal-days-sale|Pokémon Legends: Z-A Hits Brand New Low at Amazon During Prime Big Deal Days Sale
-1791392960|https://www.ign.com/articles/gears-of-war-e-day-studio-boss-insists-the-next-game-will-not-take-nearly-as-long-to-make-responds-to-layoff-concern|Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern
-1791394107|https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss|US mortgage rates hit their highest level in three years
 1791394114|https://www.dw.com/en/russia-who-not-able-to-fully-assess-plague-situation/a-79584532?maca=en-rss-en-all-1573-rdf|Russia: WHO not able to 'fully' assess plague situation
 1791394120|https://www.france24.com/en/france/20261007-france-summons-iranian-ambassador-over-disinformation-on-student-protests|France summons Iranian ambassador over 'disinformation' on student protests
 1791394127|https://www.ign.com/articles/our-favorite-zelda-prime-day-deal-is-both-stylish-and-functional|The Best Zelda Merch Deal for Prime Day Is Here and Its Both Stylish and Functional
@@ -1998,3 +1993,8 @@
 1791800067|https://www.france24.com/en/france-founder-of-small-centre-left-party-wins-presidential-primary|France: Founder of small centre-left party wins presidential primary
 1791800072|https://www.france24.com/en/france/20261012-french-police-arrest-14-year-old-after-two-teaching-staff-wounded-by-hunting-rifle-fire|French police arrest 14-year-old after two teaching staff wounded by hunting rifle fire
 1791800077|https://news.sky.com/story/staff-shot-at-school-near-marseille-13598028|Pupil detained after staff shot at school near Marseille
+1791801348|https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss|Melbourne man linked to flydubai attack suspect rejects ‘false accusations’
+1791801354|https://www.france24.com/en/fire-destroys-historic-french-market-of-enfants-rouges-in-paris|Fire destroys historic French market of Enfants-Rouges in Paris
+1791801360|https://www.france24.com/en/are-european-automakers-capable-of-withstanding-chinese-competition|Are European automakers capable of withstanding Chinese competition?
+1791801366|https://www.france24.com/en/at-least-139-migrants-die-in-boat-wreck-between-djibouti-and-yemen|At least 139 migrants die in boat wreck between Djibouti and Yemen
+1791801374|https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html|Brent tops $105 as doubts grow over supply boost from Trump’s ‘energy ceasefire’
