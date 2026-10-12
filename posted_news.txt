@@ -1,8 +1,3 @@
-1791422686|https://www.cnbc.com/2026/10/08/fed-hike-inflation-samsung-lululemon-iea-oil.html|CNBC Daily Open: Another Fed hike is on the horizon — but when?
-1791422696|https://lenta.ru/news/2026/10/08/raskryta-neochevidnaya-opasnost-elektronnyh-sigaret-dlya-polosti-rta/|Раскрыта неочевидная опасность электронных сигарет для полости рта
-1791422700|https://lenta.ru/news/2026/10/08/vsu-vzorvali-gps-osheynik-na-rossiyskom-voennoplennom/|ВСУ взорвали GPS-ошейник на российском военнопленном
-1791422706|https://lenta.ru/news/2026/10/08/oftalmolog-dala-vazhnye-sovety-po-sohraneniyu-zreniya-u-detey/|Офтальмолог дала важные советы по сохранению зрения у детей
-1791423619|https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss|Democrats sue US President Trump over taxpayer-funded ad campaign
 1791423624|https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss|Death of 87-year old sparks furious Spain housing protests
 1791423628|https://news.sky.com/story/us-puts-inmate-to-death-for-first-time-since-botched-execution-of-christa-pike-13596335|US puts inmate to death for first time since botched execution
 1791423634|https://www.japantimes.co.jp/business/2026/10/08/south-korea-cyberattack-china-suspect/|South Korea bank hack suspect may be 26-year-old in China, U.S. firm says
@@ -1998,3 +1993,8 @@
 1791837151|https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador|Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador
 1791837157|https://www.france24.com/en/houthi-official-warns-of-swift-painful-response-if-us-enters-yemen-war|Houthi official warns of 'swift, painful response' if US enters Yemen war
 1791837163|https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky|'Increasingly evident' Russia won't accept 'energy ceasefire': Zelensky
+1791838348|https://www.france24.com/en/houthis-are-thriving-and-surviving-by-creating-war-yemen-ambassador-says|Houthis 'are thriving and surviving by creating war', Yemen ambassador says
+1791838355|https://www.euronews.com/2026/10/12/portugal-begins-construction-of-high-speed-rail-line-linking-lisbon-and-porto|Portugal begins construction of high-speed rail line linking Lisbon and Porto
+1791838362|https://www.rockpapershotgun.com/burn-with-me-is-a-hand-drawn-demon-card-game-featuring-the-artists-own-hand-and-also-a-refreshingly-finite-alternative-to-yer-balatro-likes|Burn With Me is a hand-drawn demon card game featuring the artist's own hand - and also, a refreshingly finite alternative to yer Balatro-likes
+1791838369|https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands|Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands
+1791838376|https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims|Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims
