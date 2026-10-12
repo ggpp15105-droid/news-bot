@@ -1,8 +1,3 @@
-1791375182|https://www.euronews.com/video/2026/10/07/one-minute-siren-sounds-in-tel-aviv-to-mark-october-7-anniversary|One-minute siren sounds in Tel Aviv to mark October 7 anniversary
-1791375188|https://www.japantimes.co.jp/news/2026/10/07/japan/wang-takaichi-taiwan-remark/|China’s foreign minister suggested Takaichi resolve Taiwan remark issue
-1791375194|https://www.aa.com.tr/en/world/nasa-says-russia-china-could-join-artemis-accords-if-they-align-with-principles/4081002|NASA says Russia, China could join Artemis Accords if they align with principles
-1791375200|https://www.aa.com.tr/en/world/erdogan-putin-discuss-turkiye-russia-ties-black-sea-security/4080989|Erdogan, Putin discuss Türkiye-Russia ties, Black Sea security
-1791376704|https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss|South Korea’s military service exemption could be cut for athletes
 1791376711|https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-rdf|France suspends use of stun grenades against protesters
 1791376719|https://www.euronews.com/2026/10/07/interlaken-vs-innsbruck-how-europes-adventure-travel-hotspots-compare-for-a-winter-holiday|Interlaken vs Innsbruck: How Europe’s adventure travel hotspots compare for a winter holiday
 1791376725|https://www.euronews.com/2026/10/07/eu-agrees-to-sanction-over-1600-people-and-entities-linked-to-russias-war|EU agrees to sanction over 1,600 people and entities linked to Russia's war
@@ -1998,3 +1993,8 @@
 1791781428|https://www.euronews.com/2026/10/12/lumiere-festival-2026-in-lyon-stars-share-their-first-cinema-memories|Lumière festival 2026 in Lyon: Stars share their first cinema memories
 1791781434|https://www.japantimes.co.jp/sports/2026/10/12/more-sports/49ers-seahawks-vikings/|Unbeaten 49ers edge Seahawks while Vikings stay perfect
 1791781443|https://lenta.ru/news/2026/10/12/cellular/|Раскрыт способ сэкономить интернет на iPhone
+1791782593|https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss|Documents falsified to evade tax on Abramovich's wealth
+1791782599|https://www.dw.com/en/how-iran-s-elite-forces-mold-the-minds-of-the-young-cadets/a-79609734?maca=en-rss-en-all-1573-rdf|How Iran's elite forces 'mold the minds of the young cadets'
+1791782604|https://www.euronews.com/2026/10/12/ikea-has-just-launched-another-second-hand-marketplace-but-will-it-stop-producing-fast-fur|IKEA has just launched another second-hand marketplace. But will it stop producing ‘fast furniture’?
+1791782610|https://www.euronews.com/2026/10/12/rockies-route-66-and-railway-hotels-why-2027-is-the-year-to-explore-the-us-by-train|Rockies, Route 66 and railway hotels: Why 2027 is the year to explore the US by train
+1791782615|https://www.japantimes.co.jp/sports/2026/10/12/baseball/brewers-dodgers-nlcs/|Brewers edge Dodgers 2-1 in National League Championship Series opener
