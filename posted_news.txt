@@ -1,8 +1,3 @@
-1791427974|https://lenta.ru/news/2026/10/08/spasshiy-devochek-iz-pozhara-rossiyanin-rasskazal-podrobnosti-intsidenta/|Спасший девочек из пожара россиянин рассказал подробности инцидента
-1791427983|https://lenta.ru/news/2026/10/08/long-dalshe-budet-tolko-huzhe-v-dnr-prizvali-zhiteley-podkontrolnyh-vsu-gorodov-pereehat-v-donetsk-o-chem-predupredili-grazhdan/|«Дальше будет только хуже». В ДНР призвали жителей подконтрольных ВСУ городов к эвакуации. О чем предупредили граждан?
-1791427988|https://lenta.ru/news/2026/10/08/trevel-bloger-opisal-gorod-na-severe-rossii-slovami-stydobischa-i-unylost/|Тревел-блогер описал город на севере России словами «стыдобища и унылость»
-1791427997|https://www.kommersant.ru/doc/9008707|Мадьяр дал показания по делу о краже телефона
-1791428595|https://www.aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china?traffic_source=rss|US bars Fiji-based man over corruption tied to China
 1791428601|https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss|Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says
 1791428607|https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html|Elon Musk blames Indian 'oligarchs' for stalling Starlink launch
 1791428614|https://www.japantimes.co.jp/news/2026/10/08/japan/explainer/explainer-us-liberty-rules/|How is the U.S. military responding to the Okinawa murder?
@@ -1998,3 +1993,8 @@
 1791842739|https://lenta.ru/news/2026/10/13/repera-p-diddy-ekstrenno-dostavili-v-bolnitsu-iz-tyurmy/|Рэпера P. Diddy экстренно доставили в больницу из тюрьмы
 1791842743|https://lenta.ru/news/2026/10/13/nasilnik-popytalsya-opravdat-sebya-mikropenisom-v-sude-i-sel-na-11-let/|Насильник попытался оправдать себя микропенисом в суде и сел на 11 лет
 1791842747|https://lenta.ru/news/2026/10/13/nayden-sposobnyy-borotsya-s-opasnoy-zheludochnoy-bakteriey-frukt/|Найден способный бороться с опасной желудочной бактерией фрукт
+1791843787|https://lenta.ru/news/2026/10/12/long-rossiya-i-ssha-nachali-peregovory-o-postavkah-dizelya-na-mirovye-rynki-kak-eto-skazhetsya-na-vnutrennem-rynke/|РФ и США начали переговоры о поставках дизеля на мировые рынки. Москве пророчат выход из санкционной изоляции вопреки критике ЕС
+1791843792|https://lenta.ru/news/2026/10/13/byvshiy-futbolist-sbornoy-niderlandov-vspomnil-o-sile-tsska/|Бывший футболист сборной Нидерландов вспомнил о силе ЦСКА
+1791843799|https://lenta.ru/news/2026/10/12/vsu-ne-smogli-predvidet-udar-po-kievu-posle-ugroz-ssha-lishit-ukrainu-dannyh-razvedki/|ВСУ не смогли предвидеть удар по Киеву после угроз США лишить Украину данных разведки
+1791843805|https://lenta.ru/news/2026/10/13/vrach-dal-rekomendatsii-po-sohraneniyu-erektsii-posle-70-let/|Врач дал рекомендации по сохранению эрекции после 70 лет
+1791843809|https://www.kommersant.ru/doc/9025078|Два аэропорта Москвы ввели ограничения на полеты
