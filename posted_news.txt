@@ -1,8 +1,3 @@
-1791425269|https://lenta.ru/news/2026/10/08/zhenivshiesya-na-seks-rabotnitsah-muzhchiny-rasskazali-ob-otnosheniyah-s-nimi/|Женившиеся на секс-работницах мужчины рассказали об отношениях с ними
-1791425277|https://lenta.ru/news/2026/10/08/bpla-atakovali-rossiyskiy-gorod/|БПЛА атаковали российский город
-1791425285|https://lenta.ru/news/2026/10/07/uchenye-predskazali-tochnuyu-datu-i-prichinu-kontsa-sveta-uzhe-v-2026-godu/|Ученые предсказали точную дату и причину конца света уже в 2026 году
-1791425290|https://lenta.ru/news/2026/10/08/vrach-nazvala-neozhidannuyu-prichinu-razdrazhitelnosti/|Врач назвала неожиданную причину раздражительности
-1791426251|https://www.japantimes.co.jp/sports/2026/10/08/basketball/nba-euroleague-owners-future/|Euroleague owners seek way forward as NBA prepares to enter Europe
 1791426255|https://lenta.ru/news/2026/10/08/umer-gitarist-grupp-kolibri-i-yugendshtil/|Умер гитарист групп «Колибри» и «Югендштиль»
 1791426261|https://lenta.ru/news/2026/10/08/v-mid-predupredili-o-vozmozhnyh-intsidentah-iz-za-deystviy-es/|В МИД предупредили о возможных инцидентах из-за действий ЕС
 1791426270|https://www.kommersant.ru/doc/9008706|Число пострадавших при нападении в техникуме в Польше выросло до девяти месяцев
@@ -1998,3 +1993,8 @@
 1791840190|https://www.euronews.com/2026/10/12/ceuta-troops-absent-as-spain-holds-national-day-parade-in-madrid|Ceuta troops absent as Spain holds National Day parade in Madrid
 1791840197|https://www.tomshardware.com/video-games/console-gaming/xbox-cloud-gaming-is-now-available-on-jailbroken-ps5s-allows-upscaling-to-4k-using-the-ps5-gpu|Developer uses Claude to enable Xbox Cloud Gaming on jailbroken PS5s
 1791840201|https://lenta.ru/news/2026/10/13/13-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/|13 октября: какой праздник отмечают в России и мире
+1791841229|https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss|Abdi-Wali makes history as first Somali-born refugee in UK Parliament
+1791841235|https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack|French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack
+1791841241|https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels|DR Congo's former president Joseph Kabila to lead new movement with M23 rebels
+1791841247|https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up|Paris Motor Show kicks off as China-EU rivalry heats up
+1791841254|https://www.france24.com/en/tv-shows/a-propos/20261012-it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says|'It's clear that Moscow is just playing with Washington', analyst says
