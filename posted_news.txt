@@ -1,8 +1,3 @@
-1791376711|https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-rdf|France suspends use of stun grenades against protesters
-1791376719|https://www.euronews.com/2026/10/07/interlaken-vs-innsbruck-how-europes-adventure-travel-hotspots-compare-for-a-winter-holiday|Interlaken vs Innsbruck: How Europe’s adventure travel hotspots compare for a winter holiday
-1791376725|https://www.euronews.com/2026/10/07/eu-agrees-to-sanction-over-1600-people-and-entities-linked-to-russias-war|EU agrees to sanction over 1,600 people and entities linked to Russia's war
-1791376733|https://www.euronews.com/2026/10/07/scientists-identify-ancient-egyptian-crocodile-whose-skull-is-missing-its-nose-like-the-sp|Scientists identify ancient Egyptian crocodile whose skull is missing its nose like the Sphinx
-1791378053|https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf|German spy scandal threatens national security
 1791378062|https://www.euronews.com/2026/10/07/judo-2026-world-championships-koga-and-yusifov-strike-gold-on-opening-day-in-baku|Judo 2026 World Championships: Koga and Yusifov Strike Gold on Opening Day in Baku
 1791378069|https://www.japantimes.co.jp/business/2026/10/07/book-firm-anthropic/|Japanese firm confirms it sold books to Anthropic
 1791378076|https://www.japantimes.co.jp/business/2026/10/07/nomura-longer-term-returns/|Nomura Asset Management shifts focus to longer-term returns
@@ -1998,3 +1993,8 @@
 1791782604|https://www.euronews.com/2026/10/12/ikea-has-just-launched-another-second-hand-marketplace-but-will-it-stop-producing-fast-fur|IKEA has just launched another second-hand marketplace. But will it stop producing ‘fast furniture’?
 1791782610|https://www.euronews.com/2026/10/12/rockies-route-66-and-railway-hotels-why-2027-is-the-year-to-explore-the-us-by-train|Rockies, Route 66 and railway hotels: Why 2027 is the year to explore the US by train
 1791782615|https://www.japantimes.co.jp/sports/2026/10/12/baseball/brewers-dodgers-nlcs/|Brewers edge Dodgers 2-1 in National League Championship Series opener
+1791783761|https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss|Clashes reported in Yemen as Houthis advance towards Taiz
+1791783767|https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire|Live: Oil prices fall after Trump unilaterally announces Russia-Ukraine 'energy ceasefire'
+1791783774|https://www.euronews.com/2026/10/12/north-korea-fires-several-ballistic-missiles-into-sea-of-japan-seouls-military-says|North Korea fires 'several ballistic missiles' into Sea of Japan, Seoul's military says
+1791783781|https://www.japantimes.co.jp/sports/2026/10/12/more-sports/judo-team-gold/|Japan defeats Russia to win mixed team gold at World Judo
+1791783786|https://lenta.ru/news/2026/10/12/team-yandex-obygrala-team-spirit-v-blast-slam-viii/|Team Yandex обыграла Team Spirit в BLAST Slam VIII
