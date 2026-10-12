@@ -1,8 +1,3 @@
-1791413273|https://www.aljazeera.com/video/newsfeed/2026/10/7/judge-orders-officials-to-preserve-pike-execution-evidence?traffic_source=rss|Judge orders officials to preserve Pike execution evidence
-1791413280|https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html|Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday
-1791413288|https://www.euronews.com/2026/10/08/russian-man-who-swam-from-kaliningrad-to-lithuania-in-asylum-attempt-sentenced-to-six-year|Russian man who swam from Kaliningrad to Lithuania in asylum attempt sentenced to six years hard labour
-1791413334|https://www.aa.com.tr/en/asia-pacific/pakistani-premier-un-chief-discuss-regional-peace-security-issues-in-islamabad/4081595|Pakistani premier, UN chief discuss regional peace, security issues in Islamabad
-1791413993|https://www.tomshardware.com/laptops/pre-orders-are-live-on-nvidia-rtx-spark-devices-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptop-starting-at-usd2-599-pricing-and-availability-revealed-on-several-models|Pre-orders are live on Nvidia RTX Spark devices — secure the Surface Laptop Ultra or other RTX Spark laptop, starting at $2,599
 1791413998|https://lenta.ru/news/2026/10/08/evrodeputat-raskryl-raskryl-hitryy-plan-fon-der-lyayen/|Евродепутат раскрыл раскрыл хитрый план фон дер Ляйен
 1791414003|https://lenta.ru/news/2026/10/08/v-rossii-vzleteli-prodazhi-knig-dvuh-sovetskih-avtorov/|В России взлетели продажи книг двух советских авторов
 1791414007|https://lenta.ru/news/2026/10/08/demokraty-podali-v-sud-na-administratsiyu-trampa-iz-za-reklamy/|Демократы подали в суд на администрацию Трампа из-за рекламы
@@ -1998,3 +1993,8 @@
 1791826991|https://www.aa.com.tr/en/science-technology/microsoft-unveils-maia-300-ai-chip-plans-expanded-rollout-from-2027/4086503|Microsoft unveils Maia 300 AI chip, plans expanded rollout from 2027
 1791826997|https://www.aa.com.tr/en/world/un-rights-chief-appalled-by-repeated-houthi-attacks-on-saudi-airports-urges-de-escalation/4086464|UN rights chief ‘appalled’ by repeated Houthi attacks on Saudi airports, urges de-escalation
 1791827003|https://www.ign.com/articles/street-fighter-6-movie-costumes-zangief-code|Street Fighter 6 Reveals Movie Costumes for Zangief, E. Honda and Dhalsim | IGN Fall Fan Fest 2026
+1791827871|https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss|Atletico Madrid vs Manchester United: Champions League – Predictions, teams
+1791827876|https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss|India’s voter list changes sparks fresh protests
+1791827881|https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270|Pope Leo cancels all public events ahead of lung surgery
+1791827887|https://www.euronews.com/video/2026/10/12/spain-national-day-highlights-territorial-unity-from-barcelona-to-ceuta|Spain: National Day highlights territorial unity from Barcelona to Ceuta
+1791827894|https://www.ign.com/articles/hit-my-line-the-walking-dead-star-chandler-riggs-made-his-own-resident-evil-7-fan-film-and-hed-love-to-work-with-zach-cregger-on-a-sequel|'Hit My Line' — The Walking Dead Star Chandler Riggs Made His Own Resident Evil 7 Fan Film, and He'd Love to Work With Zach Cregger on a Sequel
