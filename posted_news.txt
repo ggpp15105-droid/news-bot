@@ -1,8 +1,3 @@
-1791382102|https://www.france24.com/en/tv-shows/entre-nous/20261007-why-american-artist-mary-cassatt-s-legacy-still-resonates-in-france-today|Why American artist Mary Cassatt's legacy still resonates in France today
-1791382109|https://www.euronews.com/2026/10/07/italians-and-czechs-push-brussels-to-ease-green-rules-as-energy-crisis-hits-industry|Italians and Czechs push Brussels to ease green rules as energy crisis hits industry
-1791382115|https://www.euronews.com/2026/10/07/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran|Iran threatens pre-emptive strikes as US questions who runs Tehran
-1791382121|https://www.euronews.com/2026/10/07/longevity-why-do-poles-live-shorter-than-western-europeans|Longevity: why do Poles live shorter than Western Europeans?
-1791383302|https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss|Millions of Pakistanis get government fuel relief but some miss out
 1791383309|https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss|Why Paramount-Warner merger has sparked fears about press freedom
 1791383315|https://www.france24.com/en/video/20261007-scars-from-oct-7-fuel-deep-divisions-over-netanyahu-ahead-of-israeli-election|Scars from Oct. 7 fuel deep divisions over Netanyahu ahead of Israeli election
 1791383321|https://www.france24.com/en/video/20261007-african-tourists-cancelling-trip-as-xenophobia-shadows-south-africa-s-appeal|African tourists cancelling trip as xenophobia shadows South Africa's appeal
@@ -1998,3 +1993,8 @@
 1791789221|https://www.euronews.com/2026/10/12/how-can-a-new-security-council-boost-the-eus-defence-strategy-ask-the-euronews-ai-chatbot|How can a new Security Council boost the EU's defence strategy? Ask the Euronews AI chatbot
 1791789228|https://www.japantimes.co.jp/business/2026/10/12/china-hybrid-eu-curbs/|China’s $7.5 billion EU hybrid boom faces new curbs under deal with EU
 1791789234|https://www.japantimes.co.jp/business/2026/10/12/companies/french-defense-firm-japan-base/|French defense firm Thales to build Japan base, media report says
+1791790622|https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf|How green is Europe's urban public transport? A data-driven reality check
+1791790629|https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf|UK students call for school uniforms to be banned in pornography
+1791790636|https://www.euronews.com/video/2026/10/12/natos-kpi-is-peace-latvias-foreign-minister-says|'NATO's KPI is peace', Latvia's foreign minister says
+1791790643|https://www.euronews.com/2026/10/12/mystery-of-la-navidad-site-of-first-spanish-settlement-in-americas-unknown|Mystery of La Navidad: site of first Spanish settlement in Americas unknown
+1791790648|https://www.aa.com.tr/en/europe/germanys-senior-social-democrat-baerbel-bas-resigns-as-labor-minister/4085596|Germany's senior Social Democrat Baerbel Bas resigns as labor minister
