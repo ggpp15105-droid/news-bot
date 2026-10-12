@@ -1,8 +1,3 @@
-1791395110|https://www.euronews.com/2026/10/07/rubio-in-athens-urges-europe-to-shoulder-more-of-its-defence-burden|Rubio in Athens urges Europe to shoulder more of its defence burden
-1791395118|https://www.ign.com/articles/pokemon-tcg-destined-rivals-etb-in-stock-at-amazon-for-prime-day|Pokémon TCG Destined Rivals ETB In Stock at Amazon for Prime Day
-1791395123|https://www.gamespot.com/articles/xbox-game-pass-gets-gears-of-war-e-day-and-these-11-games-in-october/|Xbox Game Pass Gets Gears Of War: E-Day And These 11 Games In October
-1791395129|https://www.gamespot.com/articles/new-details-revealed-for-gta-6s-jason-and-lucia-including-physical-intimacy/|New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”
-1791395989|https://www.france24.com/en/video/20261007-resilience-of-israelis-as-they-the-mourn-loss-of-loved-ones-and-the-sense-that-we-can-be-safe|'Resilience' of Israelis as they mourn the loss of loved ones and 'the sense that we can be safe'
 1791395996|https://www.aa.com.tr/en/world/interpol-operation-nets-233-arrests-in-multi-nation-latin-american-environmental-crackdown/4081356|Interpol operation nets 233 arrests in multi-nation Latin American environmental crackdown
 1791396002|https://www.aa.com.tr/en/americas/un-holds-5th-straw-poll-in-race-to-succeed-antonio-guterres/4081348|UN holds 5th straw poll in race to succeed Antonio Guterres
 1791396007|https://www.aa.com.tr/en/russia-ukraine-war/un-chief-condemns-attacks-in-ukraine-warns-of-rising-civilian-toll/4081347|UN chief condemns attacks in Ukraine, warns of rising civilian toll
@@ -1998,3 +1993,8 @@
 1791802551|https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf|Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia
 1791802561|https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf|Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict
 1791802568|https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html|Global travel warnings after Iran-backed Houthi militants strike Riyadh airport
+1791803363|https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss|Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds
+1791803368|https://www.france24.com/en/prison-games-of-hope-olympics-in-italy-unite-inmates-and-staff|Prison 'Games of Hope' olympics in Italy unite inmates and staff
+1791803374|https://www.france24.com/en/poland-police-foils-alleged-assassination-attempt-against-pm|Poland: Police foils alleged assassination attempt against PM
+1791803379|https://www.france24.com/en/tv-shows/press-review/20261012-illegal-detentions-in-india-as-protesters-allege-foul-play-at-electoral-commission|'Illegal detentions' in India, as protesters allege foul play at Electoral Commission
+1791803385|https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html|India’s retail inflation jumps to 5.54% in September, above estimates
