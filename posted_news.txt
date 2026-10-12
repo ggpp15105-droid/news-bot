@@ -1,8 +1,3 @@
-1791408946|https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss|Gaza child’s autoimmune condition triggered amid Israel’s war
-1791408953|https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf|Christa Pike 'angry and confused' after botched execution
-1791408958|https://www.france24.com/en/french-pm-vows-to-address-debt-despite-student-protests|French PM vows to address debt despite student protests
-1791408963|https://www.france24.com/en/africa-joins-the-data-center-backlash|Africa joins the data center backlash
-1791409889|https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html|Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit
 1791409897|https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon|Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon
 1791409905|https://www.ign.com/articles/marathon-pc-steam-deal-fanatical-october-2026|This Fanatical Deal Drops Marathon on PC to $19.39, Cheaper Than Steam's Autumn Sale
 1791409913|https://www.tomshardware.com/pc-components/the-logitech-g29-racing-wheel-and-pedal-set-with-real-force-feedback-is-back-on-sale-with-steep-37-percent-discount-get-a-start-to-a-racing-sim-for-usd190|The Logitech G29 racing wheel and pedal set is back on sale with steep 37% discount
@@ -1998,3 +1993,8 @@
 1791821689|https://www.euronews.com/2026/10/12/nuclear-war-and-malicious-use-of-ai-could-end-humanity-by-2100-scientists-warn|Nuclear war and malicious use of AI could end humanity by 2100, scientists warn
 1791821695|https://www.japantimes.co.jp/news/2026/10/12/japan/unrwa-health-chief-gaza/|UNRWA warns Gaza is becoming an increasingly unlivable place
 1791821701|https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/taiwan-monitoring-china-drills/|Taiwan says it is closely monitoring a series of Chinese live-fire drills
+1791822885|https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss|Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
+1791822891|https://www.france24.com/en/thousands-of-indians-march-to-supreme-court-to-oust-election-chief|Thousands of Indians march to Supreme Court to oust election chief
+1791822897|https://www.france24.com/en/chinese-cars-vs-europe-who-will-win-the-battle-for-the-market|Chinese cars vs Europe: Who will win the battle for the market?
+1791822902|https://www.france24.com/en/video/20261012-the-revival-of-a-classic-citro%C3%ABn-unveils-new-electric-version-of-its-2cv|The revival of a classic: Citroën unveils new electric version of its 2CV
+1791822909|https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html|Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'
