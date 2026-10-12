@@ -1,8 +1,3 @@
-1791399635|https://news.sky.com/story/woman-87-whose-eviction-triggered-snap-election-in-spain-following-housing-protests-has-died-13596292|Woman, 87, whose eviction triggered snap election in Spain following housing protests has died
-1791399640|https://news.sky.com/story/man-to-face-trial-for-attempted-murder-of-british-girl-in-alps-knife-attack-13596277|Man to face trial for attempted murder of British girl in Alps knife attack
-1791399646|https://www.euronews.com/2026/10/07/maricarmen-symbol-of-spains-housing-protests-dies|Maricarmen, symbol of Spain's housing protests, dies
-1791399653|https://www.euronews.com/video/2026/10/07/unexpected-beach-guest-elephant-seal-draws-crowds-in-rio|Unexpected beach guest: Elephant seal draws crowds in Rio
-1791400661|https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss|Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare
 1791400666|https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss|Kenya on high alert amid concern over screening after first Ebola death
 1791400672|https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss|Saudi Arabia says Houthi attacks on airports killed three foreign nationals
 1791400677|https://www.aljazeera.com/video/newsfeed/2026/10/7/lsd-from-counterculture-to-clinical-trials?traffic_source=rss|LSD – from counterculture to clinical trials
@@ -1998,3 +1993,8 @@
 1791806906|https://www.euronews.com/2026/10/12/miriam-gonzalez-launches-new-party-to-take-on-spains-big-two-in-snap-election|Miriam González launches new party to take on Spain’s big two in snap election
 1791806912|https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/mdoi-power-playbook/|Crackdown exposes limits of Modi’s playbook for maintaining power
 1791806919|https://www.japantimes.co.jp/business/2026/10/12/war-geography-power/|War is forcing the world to reckon with geography’s power
+1791809076|https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss|Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?
+1791809083|https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss|Which banners did Liverpool fans display at Anfield against Man City?
+1791809090|https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss|Far right surges as crises threaten Sanchez: Could Vox lead Spain?
+1791809097|https://www.aljazeera.com/video/witness/2026/10/12/gaza-still-reporting?traffic_source=rss|Gaza: Still Reporting
+1791809103|https://www.france24.com/en/replay-nato-s-top-military-commander-warns-russia-over-alleged-sabotage|REPLAY: NATO's top military commander warns Russia over alleged sabotage
