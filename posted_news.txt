@@ -1,8 +1,3 @@
-1791370597|https://www.euronews.com/video/2026/10/07/kyiv-residents-take-refuge-underground-during-overnight-russian-attacks|Kyiv residents take refuge underground during overnight Russian attacks
-1791370601|https://www.euronews.com/2026/10/07/french-and-japanese-scientists-win-2026-nobel-prize-in-chemistry-for-what-could-change-how|French and Japanese scientists win 2026 Nobel Prize in Chemistry for what could change how medicines are made
-1791370608|https://www.euronews.com/2026/10/07/eu-to-put-energy-security-at-heart-of-cop31-push-for-faster-green-transition|EU to put energy security at heart of COP31 push for faster green transition
-1791370614|https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition|İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition
-1791371357|https://www.euronews.com/2026/10/07/eu-releases-124-billion-for-ukrainian-made-drones-and-munitions|EU releases €1.24 billion for Ukrainian-made drones and munitions
 1791371364|https://www.euronews.com/2026/10/07/plague-fears-in-siberia-how-are-irkutsk-residents-reacting|Plague fears in Siberia: How are Irkutsk residents reacting?
 1791371371|https://www.japantimes.co.jp/business/2026/10/07/imf-chief-concern-rates/|IMF chief concerned about high Japan and U.S. long-term rates
 1791371378|https://www.japantimes.co.jp/business/2026/10/07/topix-revamp-cull-stocks/|Topix’s largest-ever overhaul to cull hundreds of Japan stocks
@@ -1998,3 +1993,8 @@
 1791775606|https://lenta.ru/news/2026/10/12/v-ssha-prizvali-rassledovat-rol-starlink-v-atake-na-kolledzh-v-starobelske/|В США призвали расследовать роль Starlink в атаке на колледж в Старобельске
 1791775611|https://lenta.ru/news/2026/10/12/v-minoborony-zayavili-o-popytkah-vsu-sorvat-evakuatsiyu-zhiteley-konstantinovki/|В Минобороны заявили о попытках ВСУ сорвать эвакуацию жителей Константиновки
 1791775617|https://lenta.ru/news/2026/10/12/v-polshe-vysmeyali-soobscheniya-o-podgotovke-pokusheniya-na-tuska/|В Польше высмеяли сообщения о подготовке покушения на Туска
+1791776894|https://www.dw.com/en/north-korea-fires-missiles-after-seoul-s-hypersonic-test/a-79636110?maca=en-rss-en-all-1573-rdf|North Korea fires missiles after Seoul's hypersonic test
+1791776901|https://www.japantimes.co.jp/news/2026/10/12/world/rikers-jail-closure-new-york/|New York’s notorious Rikers jail awaits elusive closure
+1791776910|https://www.japantimes.co.jp/sports/2026/10/12/more-sports/verstappen-singapore-win/|Verstappen captures first Singapore Grand Prix on 10th attempt
+1791776915|https://lenta.ru/news/2026/10/12/v-es-zayavili-o-provale-idei-priglashat-blogerov-na-sammity-evropeyskih-liderov/|В ЕС заявили о провале идеи приглашать блогеров на саммиты европейских лидеров
+1791776920|https://lenta.ru/news/2026/10/12/stalo-izvestno-o-pogibshem-i-postradavshih-pri-novoy-atake-na-aeroport-v-er-riyade/|Стало известно о погибшем и пострадавших при новой атаке на аэропорт в Эр-Рияде
