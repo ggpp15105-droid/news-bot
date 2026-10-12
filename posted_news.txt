@@ -1,8 +1,3 @@
-1791405130|https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss|Former Catholic bishop sentenced for abusing indigenous men in Australia
-1791405135|https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations|France schools protests: more than 6,100 arrested since start of demonstrations
-1791405140|https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html|Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic
-1791405146|https://www.ign.com/articles/star-wars-tabletop-games-are-discounted-for-prime-day-including-unlimited|Star Wars Tabletop Games Are Discounted For Prime Day, Including Unlimited
-1791406150|https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss|US Republicans, independents express low trust in election integrity: Poll
 1791406157|https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/|Controversial Horror Series Ropes Me Back In With Silent Hill’s Original Composer And Lady Dimitrescu
 1791406165|https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania|Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania
 1791406173|https://www.eurogamer.net/xbox-game-pass-lineup-october-2026|Here are our Xbox Game Pass games for October 2026
@@ -1998,3 +1993,8 @@
 1791817280|https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss|Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz
 1791817285|https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss|Why are the Houthis striking Saudi airports?
 1791817291|https://www.dw.com/en/starlink-india-launch-why-elon-musk-is-still-waiting/a-79643043?maca=en-rss-en-all-1573-rdf|Starlink India launch: Why Elon Musk is still waiting
+1791818391|https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss|Fridges in French supermarkets hit by cyber attack
+1791818397|https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-omar/a-79643360?maca=en-rss-en-all-1573-rdf|US federal agents search home of Trump critic Omar
+1791818402|https://www.france24.com/en/india-s-opposition-leader-marches-with-thousands-against-election-chief|India's opposition leader marches with thousands against election chief
+1791818407|https://www.france24.com/en/video/20261012-five-people-missing-as-fresh-flash-floods-hit-central-nepal|Five people missing as fresh flash floods hit central Nepal
+1791818412|https://news.sky.com/story/daniel-kinahan-alleged-irish-crime-boss-will-vehemently-defend-himself-in-court-and-apply-for-bail-13598148|Alleged Irish crime boss Daniel Kinahan will 'vehemently defend' himself in court and apply for bail
