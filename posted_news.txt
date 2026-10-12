@@ -1,8 +1,3 @@
-1791373364|https://www.france24.com/en/tv-shows/press-review/20261007-israeli-papers-commemorate-october-7-attacks-three-years-on|Israeli papers commemorate October 7 attacks, three years on
-1791373370|https://www.euronews.com/2026/10/07/finland-orders-pause-on-google-ai-data-centre-over-environmental-concerns|Finland orders pause on Google AI data centres over environmental concerns
-1791373377|https://www.euronews.com/video/2026/10/07/tokyo-sleep-competition-offers-2-million-yen-prize-to-best-sleeper|Tokyo sleep competition offers 2 million yen prize to best sleeper
-1791373383|https://www.euronews.com/2026/10/07/trump-to-talk-plague-with-putin-as-russia-plays-down-fears-of-outbreak|Trump to talk plague with Putin as Russia plays down fears of outbreak
-1791374229|https://www.aljazeera.com/sports/2026/10/7/arsenal-boss-mikel-arteta-signs-new-contract-with-premier-league-champions?traffic_source=rss|Arsenal boss Mikel Arteta signs new contract with Premier League champions
 1791374236|https://www.aljazeera.com/sports/2026/10/7/lionel-messi-farewell-friendly-benin-india-fans-kerala-kolkata-mumbai?traffic_source=rss|Miles away from Argentina, Messi’s farewell hits home for his Indian fans
 1791374243|https://www.aljazeera.com/news/2026/10/7/justina-shiroka-pula-kosovos-new-president-elected-during-a-crisis?traffic_source=rss|Justina Shiroka Pula: Kosovo’s new president, elected during a crisis
 1791374249|https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss|US military aid to Israel continues three years into Gaza genocide
@@ -1998,3 +1993,8 @@
 1791779175|https://www.aa.com.tr/en/world/north-koreas-missile-launches-appear-to-be-response-to-south-korea-s-hypersonic-weapon-test-military/4085535|North Korea's missile launches appear to be response to South Korea’s hypersonic weapon test: Military
 1791779185|https://www.aa.com.tr/en/world/morning-briefing-oct-11-2026/4084845|Morning Briefing: Oct. 11, 2026
 1791779190|https://lenta.ru/news/2026/10/12/biolog-predupredil-o-nashestvii-aziatskih-bozhih-korovok-v-moskve/|Биолог предупредил о нашествии азиатских божьих коровок в Москве
+1791780347|https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss|Trump faces growing backlash over plans to import diesel from Russia
+1791780352|https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss|Ethiopian troops enter Adigrat in Tigray, near the Eritrean border
+1791780359|https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html|TikTok CEO sees major scientific breakthroughs from AI within three years
+1791780365|https://www.japantimes.co.jp/news/2026/10/12/japan/crime-legal/tokyo-police-haneda-airport/|Efforts to stop criminals fleeing the country stepped up
+1791780371|https://www.japantimes.co.jp/business/2026/10/12/japan-trade-minister-energy-security/|Japan urges oil stockpiling and development as Mideast risks rise
