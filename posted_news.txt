@@ -1,8 +1,3 @@
-1791418846|https://www.cnbc.com/2026/10/08/el-nino-food-economy-crisis-india.html|Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño
-1791418854|https://www.tomshardware.com/pc-components/this-is-the-cheapest-4tb-ssd-for-prime-day-at-only-10-cents-per-gigabyte-usd399-teamgroup-g50-evo-is-a-speedy-pcie-4-0-drive-at-cut-throat-pricing|This is the cheapest 4TB SSD for Prime Day at only 10 cents per gigabyte
-1791418860|https://lenta.ru/news/2026/10/08/muzhchina-vpervye-poluchil-priglashenie-zanyatsya-gruppovym-seksom-i-zadalsya-voprosom/|Мужчина впервые получил приглашение заняться групповым сексом и задался вопросом
-1791418869|https://lenta.ru/news/2026/10/08/detali-amerikanskogo-f-35-popali-v-druguyu-stranu/|Детали американского F-35 попали в другую страну
-1791420505|https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss|US stocks slide as oil prices fluctuate over renewed Iran war fears
 1791420510|https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss|Saudi Arabia confirms three dead in Houthi strikes on its airports
 1791420516|https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss|Yemen war live: Yemeni forces claim key heights as Houthi attacks go on
 1791420523|https://www.japantimes.co.jp/news/2026/10/08/world/october-seven-three-years/|Israelis mark three years since Oct. 7 as Palestinians mourn Gaza’s destruction
@@ -1998,3 +1993,8 @@
 1791834252|https://www.ign.com/articles/resident-evil-requiems-stars-leon-fever-crucial-character-moments-and-apocalypse-advice-ign-fall-fan-fest-2026|Resident Evil Requiem’s Stars: Leon Fever, Crucial Character Moments, and Apocalypse Advice | IGN Fall Fan Fest 2026
 1791834259|https://www.ign.com/articles/riftbound-digital-version-riot-games-hints-at-an-online-release-for-the-tcg|Riftbound Digital Version: Riot Games Hints at an Online Release for the TCG
 1791834267|https://www.gamespot.com/articles/haunted-chocolatier-is-still-missing-but-this-freaky-tea-party-sim-could-scratch-your-itch/|Haunted Chocolatier Is Still Missing, But This Freaky Tea Party Sim Could Scratch Your Itch
+1791835132|https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss|NATO says will do ‘anything and everything’ if alliance is attacked
+1791835138|https://www.euronews.com/2026/10/12/french-navy-intercepts-and-boards-shadow-fleet-ship-macron-says|French navy intercepts and boards 'shadow fleet' ship, Macron says
+1791835145|https://www.gamespot.com/articles/tim-burton-horror-lives-in-weird-steam-adventure-that-reminds-me-of-the-creepiest-2010s-games/|Tim Burton Horror Lives In Weird Steam Adventure That Reminds Me Of The Creepiest 2010s Games
+1791835152|https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development|Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces "AI-accelerated development"
+1791835159|https://www.eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire|No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire
