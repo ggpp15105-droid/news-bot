@@ -1,8 +1,3 @@
-1791402539|https://www.ign.com/articles/capcom-clarifies-stance-on-ai-after-re-engine-conference-comments|Capcom Clarifies Stance on AI After RE Engine Conference Comments
-1791402546|https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs/|The New Guitar Hero-Like Game, Stage Tour, Has A Pretty Excellent Soundtrack
-1791402553|https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/|Resident Evil Movie Will Become Zach Cregger’s Biggest Ever, Surpassing Weapons
-1791402561|https://www.gamespot.com/articles/whats-next-for-halo-under-activision-probably-not-the-endless/|What’s Next For Halo Under Activision? Probably Not The Endless
-1791403161|https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss|Indian opposition leader Rahul Gandhi detained over election chief protest
 1791403168|https://www.france24.com/en/it-s-still-unclear-whether-netanyahu-will-pay-for-what-happened-during-his-time-in-office|'It's still unclear whether Netanyahu will pay for what happened during his time in office'
 1791403174|https://www.france24.com/en/white-house-promotes-trump-tv-with-an-ai-altered-photo|White House promotes 'Trump TV' with an AI-altered photo
 1791403182|https://www.euronews.com/video/2026/10/07/southern-right-whales-return-to-south-africa-drawing-crowds-to-the-coast|Southern right whales return to South Africa, drawing crowds to the coast
@@ -1998,3 +1993,8 @@
 1791813217|https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf|Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
 1791813222|https://news.sky.com/story/former-irish-olympic-swimming-coach-jailed-over-indecent-assaults-13598158|Former Irish Olympic swimming coach jailed over indecent assaults
 1791813228|https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html|Zelenskyy accuses Russia of violating Trump’s energy ceasefire as drone attacks continue
+1791814416|https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss|US detains man accused in multi-billion Venezuelan money laundering scheme
+1791814422|https://www.aljazeera.com/news/2026/10/12/israeli-academic-and-al-jazeera-contributor-ori-goldberg-dies-at-50?traffic_source=rss|Israeli academic and Al Jazeera contributor Ori Goldberg dies at 50
+1791814430|https://www.aljazeera.com/sports/2026/10/12/champions-league-schedule-teams-matches-players?traffic_source=rss|What are the key matches to watch as the UEFA Champions League returns?
+1791814436|https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-settlers-abuse-and-reportedly-poison-goats-in-palestinian-village?traffic_source=rss|Israeli settlers abuse and reportedly poison goats in Palestinian village
+1791814442|https://www.france24.com/en/europe/20261012-eu-warns-online-platforms-over-livestreaming-us-execution-planned-by-pentagon|EU warns online platforms over livestreaming US execution planned by Pentagon
