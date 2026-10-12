@@ -1,8 +1,3 @@
-1791398519|https://www.aljazeera.com/news/2026/10/7/us-supreme-court-hears-challenge-to-air-force-uxo-detonations-in-guam?traffic_source=rss|US Supreme Court hears challenge to air force UXO detonations in Guam
-1791398525|https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss|Jerusalem Daily: Gaza’s devastation, three years after October 7
-1791398531|https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss|Spanish unions call general strike over housing before snap election
-1791398538|https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html|Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip
-1791399630|https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-rdf|Evicted Spanish pensioner who sparked housing protests has died, Madrid tenant union says
 1791399635|https://news.sky.com/story/woman-87-whose-eviction-triggered-snap-election-in-spain-following-housing-protests-has-died-13596292|Woman, 87, whose eviction triggered snap election in Spain following housing protests has died
 1791399640|https://news.sky.com/story/man-to-face-trial-for-attempted-murder-of-british-girl-in-alps-knife-attack-13596277|Man to face trial for attempted murder of British girl in Alps knife attack
 1791399646|https://www.euronews.com/2026/10/07/maricarmen-symbol-of-spains-housing-protests-dies|Maricarmen, symbol of Spain's housing protests, dies
@@ -1998,3 +1993,8 @@
 1791805847|https://www.france24.com/en/americas/20261012-inside-jeffrey-epstein-s-network-how-favours-money-and-influence-kept-it-running|Inside Jeffrey Epstein's network: How favours, money and influence kept it running
 1791805852|https://www.euronews.com/2026/10/12/as-drones-reshape-warfare-lithuania-brings-them-into-the-classroom|As drones reshape warfare, Lithuania brings them into the classroom
 1791805858|https://www.euronews.com/video/2026/10/12/citroen-revives-its-classic-2cv-with-a-new-electric-concept|Citroën revives its classic 2CV with a new electric concept
+1791806892|https://www.dw.com/en/ukraine-zelenskyy-accuses-russia-of-ceasefire-violations/a-79640911?maca=en-rss-en-all-1573-rdf|Ukraine: Zelenskyy accuses Russia of ceasefire violations
+1791806899|https://www.euronews.com/2026/10/12/what-to-know-about-pope-leo-xivs-upcoming-lung-surgery|What to know about Pope Leo XIV's upcoming lung surgery
+1791806906|https://www.euronews.com/2026/10/12/miriam-gonzalez-launches-new-party-to-take-on-spains-big-two-in-snap-election|Miriam González launches new party to take on Spain’s big two in snap election
+1791806912|https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/mdoi-power-playbook/|Crackdown exposes limits of Modi’s playbook for maintaining power
+1791806919|https://www.japantimes.co.jp/business/2026/10/12/war-geography-power/|War is forcing the world to reckon with geography’s power
