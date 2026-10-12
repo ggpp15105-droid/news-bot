@@ -1,8 +1,3 @@
-1791379252|https://www.aljazeera.com/opinions/2026/10/7/the-uk-greens-are-wrong-zionism-is-not-racism?traffic_source=rss|The UK Greens are wrong – Zionism is not racism
-1791379258|https://www.aljazeera.com/opinions/2026/10/7/yes-zionism-is-racism?traffic_source=rss|Yes, Zionism is racism
-1791379265|https://www.dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254?maca=en-rss-en-all-1573-rdf|China's Golden Week reveals cautious consumer spending despite travel surge
-1791379269|https://www.france24.com/en/video/20261007-three-years-on-questions-remain-over-what-netanyahu-knew-before-october-7|Three years on, questions remain over what Netanyahu knew before October 7
-1791380385|https://www.france24.com/en/video/20261007-devastation-in-gaza-three-years-of-war-reshape-the-enclave-beyond-recognition|Devastation in Gaza: Three years of war reshape the enclave beyond recognition
 1791380392|https://www.france24.com/en/tv-shows/perspective/20261007-time-doesn-t-heal-parents-of-aner-shapira-killed-on-october-7-2023|'Time doesn't heal': Parents of October 7 attacks victim Aner Shapira
 1791380398|https://www.france24.com/en/tv-shows/business/20261007-three-years-after-october-7-attacks-israel-s-economy-shows-its-strength|Three years after October 7 attacks, Israel's economy shows its strength
 1791380403|https://news.sky.com/story/seven-injured-in-attack-with-sharp-object-at-polish-school-say-police-13596114|Seven injured in attack with 'sharp object' at Polish school, say police
@@ -1998,3 +1993,8 @@
 1791784783|https://lenta.ru/news/2026/10/12/raskryty-dannye-o-nochnyh-udarah-vsu-po-regionam-rossii-posle-slov-zelenskogo-o-peremirii/|Раскрыты данные о ночных ударах ВСУ по регионам России после слов Зеленского о перемирии
 1791784791|https://lenta.ru/news/2026/10/12/ovechkin-obnovil-rekord-nhl-po-kolichestvu-propustivshih-ot-nego-vratarey/|Овечкин обновил рекорд НХЛ по количеству пропустивших от него вратарей
 1791784800|https://lenta.ru/news/2026/10/12/glavnymi-postavschikami-shokolada-v-rossiyu-okazalis-strany-nato/|Главными поставщиками шоколада в Россию оказались страны НАТО
+1791785838|https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss|Countries warn against travel to Saudi Arabia following Houthi attacks
+1791785843|https://www.euronews.com/2026/10/12/europe-today-trump-claims-ukraine-russia-energy-ceasefire-as-baltics-stay-on-alert|Europe Today: Trump claims Ukraine-Russia energy ceasefire as Baltics stay on alert
+1791785849|https://www.japantimes.co.jp/news/2026/10/12/japan/tokyo-police-autonomous-driving/|Tokyo police to set up section for autonomous driving accidents
+1791785857|https://lenta.ru/news/2026/10/12/rost-rossiyskogo-rynka-iskusstvennogo-intellekta-otsenili/|Рост российского рынка искусственного интеллекта оценили
+1791785866|https://lenta.ru/news/2026/10/12/zelenskiy-rasserdil-trampa/|Зеленский рассердил Трампа
