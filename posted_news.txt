@@ -1,8 +1,3 @@
-1791427119|https://www.japantimes.co.jp/news/2026/10/08/world/science-health/china-vienna-first-nuclear-clocks/|Scientists in Vienna and Beijing create world’s first nuclear clocks
-1791427125|https://www.japantimes.co.jp/environment/2026/10/08/wildlife/penguin-island-colony-climate-change/|Climate change strips island’s title of largest penguin colony, study shows
-1791427129|https://lenta.ru/news/2026/10/08/kitayskiy-byd-mgnovenno-otreagiroval-na-skandalnyy-film-s-uchastiem-svoey-mashiny/|Китайский BYD мгновенно отреагировал на скандальный фильм с участием своей машины
-1791427138|https://lenta.ru/news/2026/10/08/rossiyanam-perechislili-sposobnye-otpugnut-rabotodatelya-pyat-fraz-v-rezyume/|Россиянам перечислили способные отпугнуть работодателя пять фраз в резюме
-1791427965|https://www.japantimes.co.jp/news/2026/10/08/japan/crime-legal/japan-fatal-plant-fire-four-indicted/|Four former top managers indicted over fatal 2022 fire at rice cracker plant
 1791427974|https://lenta.ru/news/2026/10/08/spasshiy-devochek-iz-pozhara-rossiyanin-rasskazal-podrobnosti-intsidenta/|Спасший девочек из пожара россиянин рассказал подробности инцидента
 1791427983|https://lenta.ru/news/2026/10/08/long-dalshe-budet-tolko-huzhe-v-dnr-prizvali-zhiteley-podkontrolnyh-vsu-gorodov-pereehat-v-donetsk-o-chem-predupredili-grazhdan/|«Дальше будет только хуже». В ДНР призвали жителей подконтрольных ВСУ городов к эвакуации. О чем предупредили граждан?
 1791427988|https://lenta.ru/news/2026/10/08/trevel-bloger-opisal-gorod-na-severe-rossii-slovami-stydobischa-i-unylost/|Тревел-блогер описал город на севере России словами «стыдобища и унылость»
@@ -1998,3 +1993,8 @@
 1791842140|https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss|Why do Iran’s oil ‘intermediaries’ owe the government billions?
 1791842145|https://www.france24.com/en/tv-shows/truth-or-fake/20261012-no-these-pictures-do-not-show-the-houthi-attacks-on-riyadh-king-khalid-airport|No, these pictures do not show the Houthi attacks on Riyadh King Khalid Airport
 1791842151|https://www.ign.com/articles/exclusive-for-the-stars-screenshots-showcase-the-upcoming-space-sandbox-survival-multiplayer-game-ign-fall-fan-fest-2026|EXCLUSIVE: For the Stars Images Showcase the Upcoming Space Sandbox Survival Multiplayer Game | IGN Fall Fan Fest 2026
+1791842729|https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss|Breaking Bad actor RJ Mitte dies aged 34
+1791842734|https://lenta.ru/news/2026/10/13/tramp-sravnil-putina-i-zelenskogo/|Трамп сравнил Путина и Зеленского
+1791842739|https://lenta.ru/news/2026/10/13/repera-p-diddy-ekstrenno-dostavili-v-bolnitsu-iz-tyurmy/|Рэпера P. Diddy экстренно доставили в больницу из тюрьмы
+1791842743|https://lenta.ru/news/2026/10/13/nasilnik-popytalsya-opravdat-sebya-mikropenisom-v-sude-i-sel-na-11-let/|Насильник попытался оправдать себя микропенисом в суде и сел на 11 лет
+1791842747|https://lenta.ru/news/2026/10/13/nayden-sposobnyy-borotsya-s-opasnoy-zheludochnoy-bakteriey-frukt/|Найден способный бороться с опасной желудочной бактерией фрукт
