@@ -1,8 +1,3 @@
-1791417567|https://lenta.ru/news/2026/10/08/azarov-nazval-edinstvennoe-uslovie-vyzhivaniya-ukrainy/|Азаров назвал единственное условие выживания Украины
-1791417571|https://tass.ru/mezhdunarodnaya-panorama/28192111|The Times сообщила, что Израиль закроет консульство Британии 8 октября
-1791417575|https://tass.ru/ekonomika/28192097|В FT назвали основные причины сокращения бюджетного резерва Великобритании
-1791417579|https://tass.ru/obschestvo/28192103|Кения заявила об отсутствии вспышки Эболы в стране
-1791418838|https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss|EU-China trade talks begin in Beijing amid escalating pressure
 1791418846|https://www.cnbc.com/2026/10/08/el-nino-food-economy-crisis-india.html|Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño
 1791418854|https://www.tomshardware.com/pc-components/this-is-the-cheapest-4tb-ssd-for-prime-day-at-only-10-cents-per-gigabyte-usd399-teamgroup-g50-evo-is-a-speedy-pcie-4-0-drive-at-cut-throat-pricing|This is the cheapest 4TB SSD for Prime Day at only 10 cents per gigabyte
 1791418860|https://lenta.ru/news/2026/10/08/muzhchina-vpervye-poluchil-priglashenie-zanyatsya-gruppovym-seksom-i-zadalsya-voprosom/|Мужчина впервые получил приглашение заняться групповым сексом и задался вопросом
@@ -1998,3 +1993,8 @@
 1791833237|https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/|Baki’s Yujiro Hanma Is About To Turn Tekken 8 Into A Full-Blown Muscle Appreciation Simulator
 1791833244|https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/|The New Squadron 42 Trailer Looks Great, But That 2027 Release Date Is Hard To Believe
 1791833251|https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/|Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”
+1791834236|https://www.ign.com/articles/forza-horizon-6-ps5-where-to-buy|Forza Horizon 6 for PS5 Is Up for Preorder - Here's What Comes in Each Edition
+1791834243|https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter|Epic Reportedly Pushing Devs to Use AI, Delays Secret Star Wars and Marvel Crossover Shooter
+1791834252|https://www.ign.com/articles/resident-evil-requiems-stars-leon-fever-crucial-character-moments-and-apocalypse-advice-ign-fall-fan-fest-2026|Resident Evil Requiem’s Stars: Leon Fever, Crucial Character Moments, and Apocalypse Advice | IGN Fall Fan Fest 2026
+1791834259|https://www.ign.com/articles/riftbound-digital-version-riot-games-hints-at-an-online-release-for-the-tcg|Riftbound Digital Version: Riot Games Hints at an Online Release for the TCG
+1791834267|https://www.gamespot.com/articles/haunted-chocolatier-is-still-missing-but-this-freaky-tea-party-sim-could-scratch-your-itch/|Haunted Chocolatier Is Still Missing, But This Freaky Tea Party Sim Could Scratch Your Itch
