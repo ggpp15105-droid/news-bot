@@ -1,8 +1,3 @@
-1791409897|https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon|Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon
-1791409905|https://www.ign.com/articles/marathon-pc-steam-deal-fanatical-october-2026|This Fanatical Deal Drops Marathon on PC to $19.39, Cheaper Than Steam's Autumn Sale
-1791409913|https://www.tomshardware.com/pc-components/the-logitech-g29-racing-wheel-and-pedal-set-with-real-force-feedback-is-back-on-sale-with-steep-37-percent-discount-get-a-start-to-a-racing-sim-for-usd190|The Logitech G29 racing wheel and pedal set is back on sale with steep 37% discount
-1791409921|https://www.tomshardware.com/video-games/handheld-gaming/get-a-great-deal-on-the-original-msi-claw-during-best-buy-clearance-sale-handheld-with-intel-core-ultra-7-155h-and-1tb-ssd-is-just-usd562-usd187-off-list-price|Sneak a great deal on the original MSI Claw during Best Buy clearance sale
-1791410490|https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss|Pro-Palestine university groups march in London on October 7 anniversary
 1791410496|https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss|Trump on why he thinks he deserves the Nobel Peace Prize
 1791410505|https://www.tomshardware.com/pc-components/grab-a-steelseries-apex-pro-keyboard-at-up-to-50-percent-off-save-up-to-usd120-on-one-of-the-best-gaming-keyboards-you-can-buy-today|Grab a SteelSeries Apex Pro keyboard at up to 50% off — save up to $120 on one of the best gaming keyboards you can buy today
 1791410513|https://www.tomshardware.com/peripherals/deep-clean-your-pc-in-seconds-with-cordless-duster-deals-from-usd19-save-hundreds-on-canned-air-with-unlimited-high-rpm-dusting-power|Deep clean your PC in seconds with cordless duster deals from $19
@@ -1998,3 +1993,8 @@
 1791822897|https://www.france24.com/en/chinese-cars-vs-europe-who-will-win-the-battle-for-the-market|Chinese cars vs Europe: Who will win the battle for the market?
 1791822902|https://www.france24.com/en/video/20261012-the-revival-of-a-classic-citro%C3%ABn-unveils-new-electric-version-of-its-2cv|The revival of a classic: Citroën unveils new electric version of its 2CV
 1791822909|https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html|Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'
+1791824027|https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss|Photos: Protests over voter lists escalate in India’s capital
+1791824033|https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss|Pope Leo continues working after lung surgery announcement
+1791824040|https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss|UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU
+1791824048|https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-rdf|Germany news: Merz says Trump's Russia diesel deal 'out of question' for Europe
+1791824053|https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252|Hackers heat French supermarket fridges to 50C in 'large-scale' cyber attack
