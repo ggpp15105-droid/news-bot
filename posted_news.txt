@@ -1,8 +1,3 @@
-1791406157|https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/|Controversial Horror Series Ropes Me Back In With Silent Hill’s Original Composer And Lady Dimitrescu
-1791406165|https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania|Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania
-1791406173|https://www.eurogamer.net/xbox-game-pass-lineup-october-2026|Here are our Xbox Game Pass games for October 2026
-1791406178|https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3|Undead Labs speaks about its split from Xbox, revealing it has to "make some changes" to State of Decay 3 following layoffs
-1791406866|https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss|Spanish pensioner whose eviction sparked nationwide protests dies, union says
 1791406874|https://www.euronews.com/2026/10/07/french-prime-minister-says-government-not-indifferent-to-students-concerns-in-tv-address|French prime minister says government not indifferent to students' concerns in TV address
 1791406880|https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion|Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode
 1791406888|https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis|Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis
@@ -1998,3 +1993,8 @@
 1791818402|https://www.france24.com/en/india-s-opposition-leader-marches-with-thousands-against-election-chief|India's opposition leader marches with thousands against election chief
 1791818407|https://www.france24.com/en/video/20261012-five-people-missing-as-fresh-flash-floods-hit-central-nepal|Five people missing as fresh flash floods hit central Nepal
 1791818412|https://news.sky.com/story/daniel-kinahan-alleged-irish-crime-boss-will-vehemently-defend-himself-in-court-and-apply-for-bail-13598148|Alleged Irish crime boss Daniel Kinahan will 'vehemently defend' himself in court and apply for bail
+1791819727|https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss|Will Ukraine survive the winter?
+1791819732|https://www.france24.com/en/france/20261012-adieu-aux-enfants-rouges-tears-shock-fire-destroys-paris-oldest-covered-food-market|Adieu aux ‘Enfants Rouges’: Tears and shock as fire destroys Paris’s oldest covered food market
+1791819738|https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html|FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks
+1791819744|https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html|Starbucks says it is not buying Chipotle after takeover speculation
+1791819749|https://www.euronews.com/2026/10/12/eu-agrees-new-security-mission-in-lebanon-as-un-peacekeepers-prepare-to-leave|EU agrees new security mission in Lebanon as UN peacekeepers prepare to leave
