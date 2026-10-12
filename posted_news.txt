@@ -1,8 +1,3 @@
-1791426255|https://lenta.ru/news/2026/10/08/umer-gitarist-grupp-kolibri-i-yugendshtil/|Умер гитарист групп «Колибри» и «Югендштиль»
-1791426261|https://lenta.ru/news/2026/10/08/v-mid-predupredili-o-vozmozhnyh-intsidentah-iz-za-deystviy-es/|В МИД предупредили о возможных инцидентах из-за действий ЕС
-1791426270|https://www.kommersant.ru/doc/9008706|Число пострадавших при нападении в техникуме в Польше выросло до девяти месяцев
-1791426275|https://www.kommersant.ru/doc/9008705|Экс-глава Apple Тим Кук продал пакет акций компании почти на $64 млн
-1791427113|https://www.dw.com/en/imf-reaches-tentative-1-21-billion-bailout-deal-with-pakistan/a-79587047?maca=en-rss-en-all-1573-rdf|IMF reaches tentative $1.21 billion bailout deal with Pakistan
 1791427119|https://www.japantimes.co.jp/news/2026/10/08/world/science-health/china-vienna-first-nuclear-clocks/|Scientists in Vienna and Beijing create world’s first nuclear clocks
 1791427125|https://www.japantimes.co.jp/environment/2026/10/08/wildlife/penguin-island-colony-climate-change/|Climate change strips island’s title of largest penguin colony, study shows
 1791427129|https://lenta.ru/news/2026/10/08/kitayskiy-byd-mgnovenno-otreagiroval-na-skandalnyy-film-s-uchastiem-svoey-mashiny/|Китайский BYD мгновенно отреагировал на скандальный фильм с участием своей машины
@@ -1998,3 +1993,8 @@
 1791841241|https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels|DR Congo's former president Joseph Kabila to lead new movement with M23 rebels
 1791841247|https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up|Paris Motor Show kicks off as China-EU rivalry heats up
 1791841254|https://www.france24.com/en/tv-shows/a-propos/20261012-it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says|'It's clear that Moscow is just playing with Washington', analyst says
+1791842130|https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss|Canada’s Carney calls for unity as Alberta prepares for secession vote
+1791842135|https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss|Conflict, drought increasing risk of famine in Sudan: Monitor
+1791842140|https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss|Why do Iran’s oil ‘intermediaries’ owe the government billions?
+1791842145|https://www.france24.com/en/tv-shows/truth-or-fake/20261012-no-these-pictures-do-not-show-the-houthi-attacks-on-riyadh-king-khalid-airport|No, these pictures do not show the Houthi attacks on Riyadh King Khalid Airport
+1791842151|https://www.ign.com/articles/exclusive-for-the-stars-screenshots-showcase-the-upcoming-space-sandbox-survival-multiplayer-game-ign-fall-fan-fest-2026|EXCLUSIVE: For the Stars Images Showcase the Upcoming Space Sandbox Survival Multiplayer Game | IGN Fall Fan Fest 2026
