@@ -1,8 +1,3 @@
-1791360451|https://www.euronews.com/2026/10/07/israel-pauses-in-moment-of-silence-to-remember-those-killed-on-7-october|Israel pauses in moment of silence to remember those killed on 7 October
-1791360460|https://www.aa.com.tr/en/turkiye/turkiye-czechia-explore-new-recycling-cooperation-opportunities-at-istanbul-forum/4080520|Türkiye, Czechia explore new recycling cooperation opportunities at Istanbul forum
-1791360468|https://lenta.ru/news/2026/10/07/v-gosdume-nazvali-glavnoe-otlichie-putina-ot-zapadnyh-politikov/|В Госдуме назвали главное отличие Путина от западных политиков
-1791360473|https://lenta.ru/news/2026/10/07/prezident-abhazii-nazval-glavnye-kachestva-putina-kak-gosudarstvennogo-deyatelya/|Президент Абхазии назвал главные качества Путина как государственного деятеля
-1791361692|https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss|Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations
 1791361699|https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html|Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse
 1791361706|https://www.euronews.com/video/2026/10/07/removing-russian-oligarchs-from-sanctions-list-sets-a-very-bad-precedent-browder-says|Removing Russian oligarchs from sanctions list sets 'a very bad precedent', Browder says
 1791361713|https://www.euronews.com/2026/10/07/imf-chief-signals-austerity-is-back-as-global-public-debt-heads-for-100-of-gdp|IMF chief signals austerity is back as global public debt heads for 100% of GDP
@@ -1998,3 +1993,8 @@
 1791763454|https://tass.ru/proisshestviya/28204061|Почти 70% Киева осталось без водоснабжения из-за повреждения ЛЭП
 1791763458|https://tass.ru/nedvizhimost/28204057|В ОП предложили давать многодетным жилье из числа нераспроданных квартир
 1791763462|https://tass.ru/sport/28204059|"Вашингтон" проиграл "Сиэтлу" в матче НХЛ, несмотря на первый гол Овечкина
+1791765225|https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss|Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’
+1791765233|https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-hed-return-to-the-doom-series-in-a-heartbeat|Doom 2016 Composer Mick Gordon Says He'd Return to the Doom Series "In a Heartbeat"
+1791765242|https://lenta.ru/news/2026/10/12/v-ssha-zayavili-o-finalnoy-stadii-konflikta-na-ukraine/|В США заявили о финальной стадии конфликта на Украине
+1791765250|https://lenta.ru/news/2026/10/12/na-ukraine-zahoteli-prezidenta-kak-putin/|На Украине захотели президента как Путин
+1791765255|https://lenta.ru/news/2026/10/12/raskryt-sposob-bezopasno-poluchit-udovolstvie-ot-neobychnogo-fetisha-na-pogodu/|Раскрыт способ безопасно получить удовольствие от необычного фетиша на погоду
