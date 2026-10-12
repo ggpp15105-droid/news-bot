@@ -1,8 +1,3 @@
-1791397123|https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html|Fed officials see another hike coming, but no sign as to when, minutes show
-1791397129|https://www.aa.com.tr/en/europe/eu-reportedly-agrees-major-expansion-of-russia-sanctions-blacklist/4081363|EU reportedly agrees major expansion of Russia sanctions blacklist
-1791397135|https://www.aa.com.tr/en/americas/trump-says-us-does-not-believe-plague-death-in-russia-is-biological-weapon/4081361|Trump says US does not believe plague death in Russia is biological weapon
-1791397140|https://www.gamespot.com/articles/star-wars-zero-company-developer-sees-portion-of-furloughed-workers-return/|Star Wars Zero Company Developer Sees Portion Of Furloughed Workers Return
-1791398514|https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss|How genocide in Gaza followed Bosnia’s painful pattern
 1791398519|https://www.aljazeera.com/news/2026/10/7/us-supreme-court-hears-challenge-to-air-force-uxo-detonations-in-guam?traffic_source=rss|US Supreme Court hears challenge to air force UXO detonations in Guam
 1791398525|https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss|Jerusalem Daily: Gaza’s devastation, three years after October 7
 1791398531|https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss|Spanish unions call general strike over housing before snap election
@@ -1998,3 +1993,8 @@
 1791804620|https://www.france24.com/en/netanyahu-demands-probe-into-israeli-anonymous-whistleblowers-in-naza-documentary|Netanyahu demands probe into Israeli anonymous whistleblowers in 'NAZA' documentary
 1791804627|https://www.euronews.com/2026/10/12/thales-to-open-what-could-be-japans-first-foreign-run-defence-maintenance-base|Thales to open what could be Japan’s first foreign-run defence maintenance base
 1791804634|https://www.euronews.com/2026/10/12/french-mps-push-exit-tax-on-crypto-above-800000-and-fines-for-undeclared-wallets|French MPs push exit tax on crypto above €800,000 and fines for undeclared wallets
+1791805837|https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss|‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?
+1791805842|https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss|Giants Brigades lead southern Yemen fightback against the Houthis
+1791805847|https://www.france24.com/en/americas/20261012-inside-jeffrey-epstein-s-network-how-favours-money-and-influence-kept-it-running|Inside Jeffrey Epstein's network: How favours, money and influence kept it running
+1791805852|https://www.euronews.com/2026/10/12/as-drones-reshape-warfare-lithuania-brings-them-into-the-classroom|As drones reshape warfare, Lithuania brings them into the classroom
+1791805858|https://www.euronews.com/video/2026/10/12/citroen-revives-its-classic-2cv-with-a-new-electric-concept|Citroën revives its classic 2CV with a new electric concept
