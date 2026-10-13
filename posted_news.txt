@@ -1,8 +1,3 @@
-1791450580|https://www.dw.com/en/nasa-apollo-program-pioneer-margaret-hamilton-dies/a-79589778?maca=en-rss-en-all-1573-rdf|NASA Apollo program pioneer Margaret Hamilton dies
-1791450587|https://www.euronews.com/2026/10/08/winter-ukraine-fighting-light-heat-war|This winter, Ukraine will be fighting for more than light and heat
-1791450595|https://www.euronews.com/2026/10/08/meteors-to-light-up-the-skies-this-october-how-to-watch-the-draconid-and-orionid-showers|Meteors to light up the skies this October: How to watch the Draconid and Orionid showers
-1791450603|https://www.japantimes.co.jp/business/2026/10/08/tech/focus-japan-data-leak/|Japan and cybersecurity: What’s behind recent attacks and what’s being done?
-1791451740|https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss|Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms
 1791451746|https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise|School protests part of a broader French malaise?
 1791451750|https://www.france24.com/en/video/20261008-french-students-prepare-for-more-marches-as-hundreds-of-schools-close|French students prepare for more marches as hundreds of schools close
 1791451758|https://www.cnbc.com/2026/10/08/france-diesel-reserves-protests.html|France to release diesel reserves as student protests resume
@@ -1998,3 +1993,8 @@
 1791866981|https://lenta.ru/news/2026/10/13/vlasti-ob-yavili-o-povrezhdeniyah-v-rossiyskoy-promzone-posle-ochen-napryazhennoy-nochi/|Власти объявили о повреждениях в российской промзоне после «очень напряженной ночи»
 1791866986|https://lenta.ru/news/2026/10/13/na-zapade-opredelili-buduschee-zelenskogo-posle-ego-slov-o-trampe/|На Западе определили будущее Зеленского после его слов о Трампе
 1791866991|https://lenta.ru/news/2026/10/13/mvf-povysil-prognoz-po-inflyatsii-v-mire/|МВФ повысил прогноз по инфляции в мире
+1791867974|https://www.aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia?traffic_source=rss|Man dies after fall from Six Flags rollercoaster in Georgia
+1791867981|https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss|AI could self-replicate on home devices within ‘months’, Anthropic says
+1791867988|https://www.euronews.com/2026/10/13/outdated-and-inadequate-tefal-manufacturer-urged-to-drop-forever-chemicals-from-non-stick-|‘Outdated and inadequate’: Tefal manufacturer urged to drop ‘forever chemicals’ from non-stick pans
+1791867994|https://www.euronews.com/2026/10/13/glass-igloos-sky-villas-and-boutique-suites-new-places-to-stay-in-finnish-lapland-this-win|Glass igloos, sky villas and boutique suites: New places to stay in Finnish Lapland this winter
+1791868001|https://www.euronews.com/2026/10/13/rent-spikes-in-georgia-and-armenia-as-russians-flee-fearing-mobilisation|Rent spikes in Georgia and Armenia as Russians flee fearing mobilisation
