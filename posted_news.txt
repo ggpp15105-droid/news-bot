@@ -1,8 +1,3 @@
-1791502556|https://www.ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay|Jay and Silent Bob’s Joint Venture Trailer and Game Details Revealed for Weed Farming Sim | NYCC 2026
-1791502564|https://www.ign.com/articles/smile-2-star-kyle-gallner-wants-to-play-v-in-paramounts-cyberpunk-2077-movie|Smile 2 Star Kyle Gallner Wants to Play V in Paramount’s Cyberpunk 2077 Movie
-1791502572|https://www.eurogamer.net/2xko-sett-announcement-final-update|Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month
-1791502578|https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts|For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts
-1791503391|https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss|Man City charges: Mourinho jokes Premier League case will outlast him
 1791503397|https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks|OpenAI bans Russian, Iranian ChatGPT propaganda networks
 1791503404|https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2|Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals
 1791503410|https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too|You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too
@@ -1998,3 +1993,8 @@
 1791904252|https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say|Oil facility near Yemen capital Sanaa hit by Saudi Arabia, Houthis say
 1791904259|https://www.france24.com/en/france-student-protesters-want-to-keep-the-pressure-up-on-the-government|France: Student protesters want to 'keep the pressure up on the government'
 1791904266|https://www.euronews.com/2026/10/13/russia-funnels-nearly-half-its-budget-into-defence-cutting-social-spending|Russia funnels nearly half its budget into defence, cutting social spending
+1791905550|https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss|Trump’s ambassador to Greece asked to resign amid misconduct allegations
+1791905557|https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss|Houthis threaten Saudi Arabia’s Aramco facilities and airports
+1791905563|https://www.aljazeera.com/news/2026/10/13/block-blunt-break-whats-in-natos-new-russia-war-plan?traffic_source=rss|‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
+1791905571|https://www.dw.com/en/india-can-cockroaches-threaten-modi-s-political-grip/a-79649732?maca=en-rss-en-all-1573-rdf|India: Can 'cockroaches' threaten Modi's political grip?
+1791905577|https://www.france24.com/en/tv-shows/france-in-focus/20261013-broken-children-france-confronts-crisis-of-sexual-violence-against-minors|Broken children: France confronts crisis of sexual violence against minors
