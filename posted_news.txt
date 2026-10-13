@@ -1,8 +1,3 @@
-1791514338|https://www.aa.com.tr/en/europe/labour-holds-onto-greater-london-seat-formerly-held-by-starmer-with-2nd-place-green-party-leader-vowing-to-stay-at-helm/4082849|Labour holds onto Greater London seat formerly held by Starmer, with 2nd-place Green Party leader vowing to stay at helm
-1791514342|https://lenta.ru/news/2026/10/09/stala-izvestna-data-zasedaniya-sovbeza-oon-po-ukraine/|Стала известна дата заседания Совбеза ООН по Украине
-1791514347|https://lenta.ru/news/2026/10/09/originalnyy-avtomobil-iz-kultovogo-filma-tima-bertona-vystavili-na-auktsion/|Оригинальный автомобиль из культового фильма Тима Бертона выставили на аукцион
-1791514351|https://lenta.ru/news/2026/10/09/voennyy-nazval-sposob-zaschititsya-ot-atak-vglub-rossii/|Военный назвал способ защититься от атак вглубь России
-1791514974|https://www.japantimes.co.jp/news/2026/10/09/japan/crime-legal/okinawa-marine-murder-protest-tokyo/|Dozens protest in Tokyo after U.S. Marine accused of murder in Okinawa
 1791514980|https://www.japantimes.co.jp/business/2026/10/09/companies/japan-alcohol-rtd/|Alcohol makers in Japan tap into U.S. ready-to-drink market
 1791514989|https://www.japantimes.co.jp/sports/2026/10/09/basketball/wnba-mvp-wilson-fifth-award/|Aces star A’ja Wilson collects record fifth MVP award
 1791514994|https://lenta.ru/news/2026/10/09/gen/|Опровергнуто популярное заблуждение об алкоголизме
@@ -1998,3 +1993,8 @@
 1791917139|https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss|US Supreme Court agrees to hear watchdog case on Elon Musk’s DOGE records
 1791917144|https://www.aljazeera.com/video/newsfeed/2026/10/13/presidential-hopeful-melenchon-joins-france-school-protest-march?traffic_source=rss|Presidential hopeful Melenchon joins France school protest march
 1791917149|https://www.aljazeera.com/sports/2026/10/13/man-city-charges-any-political-interference-and-ill-quit-says-regulator?traffic_source=rss|Man City charges: Any political interference and I’ll quit, says regulator
+1791918895|https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss|Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
+1791918902|https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss|Saudi coalition strikes fuel depot near Yemen's capital
+1791918909|https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss|Russia arrests Japanese reporter for alleged espionage
+1791918916|https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss|Cornell suspends fraternity parties after alleged campus gang rape case
+1791918922|https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss|Who killed Tupac?
