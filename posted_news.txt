@@ -1,8 +1,3 @@
-1791518925|https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html|'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls
-1791518932|https://www.euronews.com/2026/10/09/kyiv-open-to-constructive-dialogue-after-seoul-recalls-its-ambassador-amid-north-korean-po|Kyiv open to 'constructive dialogue' after Seoul recalls its ambassador amid North Korean POW disclosure row
-1791518938|https://www.euronews.com/2026/10/09/barcelona-research-team-creates-ai-to-detect-ageing-in-blood-stem-cells|Barcelona team develops AI that detects ageing in blood stem cells
-1791518947|https://lenta.ru/news/2026/10/09/vrach-predupredil-ob-opasnosti-termicheskoy-obrabotki-prosrochennyh-produktov/|Врач предупредил об опасности термической обработки просроченных продуктов
-1791520071|https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss|Northern Ireland’s Sinn Fein faces police probe as protest tensions fester
 1791520078|https://www.euronews.com/2026/10/09/masked-ice-officers-shoot-a-man-while-making-an-arrest-in-new-york-officials-say|Masked ICE officers shoot a man while making an arrest in New York, officials say
 1791520086|https://lenta.ru/news/2026/10/09/rossiyskiy-voennyy-rasskazal-ob-otsutstvii-edy-i-vody-u-vsu-na-dobropolskom-napravlenii/|Российский военный рассказал об отсутствии еды и воды у ВСУ на добропольском направлении
 1791520095|https://lenta.ru/news/2026/10/09/long-rech-idet-o-vyzhivanii-mer-kieva-obratilsya-s-trevozhnym-preduprezhdeniem-k-zhitelyam-ukrainskoy-stolitsy/|«Речь идет о выживании». Мэр Киева обратился с тревожным предупреждением к жителям украинской столицы
@@ -1998,3 +1993,8 @@
 1791925830|https://www.france24.com/en/former-gang-leader-sentenced-to-minimum-40-years-for-tupac-killing|Former gang leader sentenced to minimum 40 years for Tupac killing
 1791925836|https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal|Trump asks Greece ambassador to resign amid ethics scandal
 1791925841|https://www.france24.com/en/kabila-launches-new-coalition-with-m23|Kabila launches new coalition with M23
+1791927420|https://www.dw.com/en/open-ai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf|Open AI says employee caught planting listening device
+1791927428|https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions|Egyptian journalists plan weekend protest over detention of six colleagues
+1791927435|https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html|Airport attacks put aviation in crosshairs of geopolitical conflicts
+1791927442|https://www.cnbc.com/2026/10/13/pope-leo-diagnosed-lung-cancer-vatican-says.html|Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says
+1791927450|https://www.euronews.com/2026/10/13/cornell-university-suspends-frat-parties-over-gang-rape-allegations|Cornell University suspends frat parties over gang rape allegations
