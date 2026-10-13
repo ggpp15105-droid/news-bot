@@ -1,8 +1,3 @@
-1791509494|https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss|USS Abraham Lincoln returns after record-breaking deployment
-1791509501|https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss|UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal
-1791509507|https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html|U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'
-1791509514|https://www.japantimes.co.jp/news/2026/10/09/world/zelenskyy-us-inaction-russian-strikes/|Zelenskyy accuses U.S. of inaction as Russian strikes kill over 70 in two days
-1791510598|https://www.cnbc.com/2026/10/09/trump-iran-war-gas-openai-nvidia-microsoft-.html|CNBC Daily Open: Is cheap gas America's Godot?
 1791510605|https://www.japantimes.co.jp/business/2026/10/09/economy/japan-household-spending-falls/|Japan’s household spending falls again despite wage gains
 1791510612|https://www.japantimes.co.jp/news/2026/10/09/world/society/madrid-protesters-mourn-evicted-retiree/|Madrid mourns evicted retiree, ‘icon’ of Spain housing protests
 1791510620|https://lenta.ru/news/2026/10/09/anthropic-zapretila-polzovatelyam-zhestoko-obraschatsya-s-neyrosetyu-claude/|Anthropic запретила пользователям жестоко обращаться с нейросетью Claude
@@ -1998,3 +1993,8 @@
 1791911258|https://www.japantimes.co.jp/news/2026/10/13/japan/politics/nuclear-submarine-study-split/|Lawmakers split on including nuclear submarine study in security documents
 1791911267|https://www.aa.com.tr/en/world/trump-says-houthis-acting-very-badly-amid-intensifying-attacks/4087646|Trump says Houthis acting 'very badly' amid intensifying attacks
 1791911274|https://www.aa.com.tr/en/world/iran-s-intensifying-attacks-on-ships-threatening-oil-export-recovery-report/4087640|Iran’s intensifying attacks on ships, threatening oil export recovery: Report
+1791912380|https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss|Floods submerge cars, homes and hospitals in Libya’s Tripoli
+1791912387|https://www.france24.com/en/video/20261013-student-protesters-tell-police-to-join-them-in-paris-demonstrations|Student protesters tell police to join them in Paris demonstrations
+1791912394|https://www.euronews.com/2026/10/13/russian-strike-injures-dozens-at-rivne-university-as-ballistic-missiles-hit-kyiv|Russian strike injures dozens at Rivne University as ballistic missiles hit Kyiv
+1791912400|https://www.aa.com.tr/en/world/trump-claims-both-putin-zelenskyy-want-to-end-war-but-don-t-know-how-to-get-there/4087636|Trump claims both Putin, Zelenskyy 'want to end' war but 'don’t know how to get there'
+1791912405|https://www.aa.com.tr/en/world/explainer-what-to-know-about-nord-stream-sabotage-trial/4087452|EXPLAINER - What to know about Nord Stream sabotage trial
