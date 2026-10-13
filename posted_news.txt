@@ -1,8 +1,3 @@
-1791491174|https://www.france24.com/en/france/20261008-nothing-will-stop-us-french-student-protests-show-few-signs-of-ending|‘Nothing will stop us’: French student protests show few signs of ending
-1791491181|https://www.france24.com/en/fighting-for-our-future-france-high-school-students-vow-no-let-up|'Fighting for our future': France high school students vow no let-up
-1791491188|https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray|Ethiopia launches drone attack against Eritrean troops who crossed into Tigray
-1791491193|https://news.sky.com/story/airlines-suspend-flights-to-saudi-capital-after-houthis-claim-attack-on-airport-13596623|Flights to Saudi capital suspended after Houthis 'attack on airport'
-1791492201|https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss|How much worse can Yemen’s humanitarian crisis become?
 1791492208|https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf|Afghan women facing arrest for dress code violations: UN
 1791492212|https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-facing-torture-charges-13596583|Venezuela's Nicolas Maduro and wife face new charges
 1791492216|https://news.sky.com/story/lithuania-pm-confident-of-huge-nato-response-if-russia-attacks-13596524|Lithuania PM confident of 'huge' NATO response if Russia attacks
@@ -1998,3 +1993,8 @@
 1791888630|https://www.euronews.com/2026/10/13/our-future-is-being-robbed-greta-thunberg-joins-france-student-protests-against-school-con|'Our future is being robbed': Greta Thunberg joins France student protests against school conditions
 1791888635|https://www.euronews.com/2026/10/13/hungarian-lawmakers-vote-to-cut-anti-lgbtq-legislation-from-orban-era-law|Hungarian lawmakers vote to cut anti-LGBTQ+ legislation from Orbán-era law
 1791888640|https://www.euronews.com/2026/10/13/eu-ends-anti-corruption-funding-curbs-on-hungary-freeing-42bn|EU ends anti-corruption funding curbs on Hungary, freeing €4.2bn
+1791889634|https://www.aljazeera.com/video/centre-stage/2026/10/13/a-look-at-the-countrys-local-regional-and-global-initiatives?traffic_source=rss|A look at the country’s local, regional and global initiatives
+1791889640|https://www.france24.com/en/india-s-youth-led-cockroach-movement-defies-protest-ban|India’s youth-led Cockroach movement defies protest ban
+1791889647|https://www.france24.com/en/tv-shows/press-review/20261013-the-times-how-infantino-s-second-salary-paid-for-luxury-life-in-miami|The Times: How Infantino's 'second salary' paid for luxury life in Miami
+1791889654|https://www.france24.com/en/france-climate-activist-greta-thunberg-joins-teens-on-new-day-of-school-protests|France: climate activist Greta Thunberg joins teens on new day of school protests
+1791889661|https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles|Scientists discover 180,000 giant tortoises on one Seychelles island
