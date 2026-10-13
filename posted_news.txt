@@ -1,8 +1,3 @@
-1791494059|https://www.euronews.com/video/2026/10/08/fire-rages-at-yandex-data-centre-after-ukraine-drone-attack|Fire rages at Yandex data centre after Ukraine drone attack
-1791494064|https://www.euronews.com/2026/10/08/ex-prince-andrew-warrants-ruled-unlawful-as-police-investigation-continues|Ex-prince Andrew warrants ruled 'unlawful' as police investigation continues
-1791494071|https://www.euronews.com/2026/10/08/tsunoda-claims-world-gold-as-murao-retains-his-title-in-baku|Tsunoda Claims World Gold as Murao Retains His Title in Baku
-1791494076|https://www.euronews.com/2026/10/08/taxes-account-for-over-53-of-labour-costs-in-spain-study-finds|Taxes account for over 53% of labour costs in Spain, study finds
-1791495147|https://www.france24.com/en/europe/20261008-trump-envoys-ukraine-peace-talks-miami|Trump envoys, European officials to discuss ‘new ideas’ for Ukraine peace in Miami
 1791495154|https://www.france24.com/en/tv-shows/the-debate/20261008-black-sea-and-black-ops-how-exposed-is-europe-to-ukraine-war-spillover|Black sea and black ops: How exposed is Europe to Ukraine war spillover?
 1791495160|https://www.france24.com/en/spain-mourns-maricarmen-abascal-whose-eviction-sparked-housing-protests|Spain mourns Maricarmen Abascal, whose eviction sparked housing protests
 1791495168|https://www.japantimes.co.jp/culture/2026/10/09/entertainment-news/adrian-bianco-obituary-sabukaru/|Adrian Bianco championed Japan’s underground culture
@@ -1998,3 +1993,8 @@
 1791891990|https://www.euronews.com/2026/10/13/pope-leo-xiv-arrives-at-romes-gemelli-hospital-for-lung-operation-vatican-says|Pope Leo XIV arrives at Rome's Gemelli hospital for lung operation, Vatican says
 1791891996|https://www.japantimes.co.jp/business/2026/10/13/economy/boj-lean-against-october-rate-hike/|BOJ is said to lean against back-to-back rate hike in October
 1791892003|https://www.japantimes.co.jp/news/2026/10/13/japan/crime-legal/us-japan-okinawa-troop-rules-review/|Japan and U.S. review troops’ off-duty rules after Okinawa killing
+1791893010|https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss|India’s $87bn river-linking plan leaves villagers fighting for their homes
+1791893018|https://www.dw.com/en/houthis-and-saudis-strike-each-other-in-latest-escalation/a-79649973?maca=en-rss-en-all-1573-rdf|Houthis and Saudis strike each other in latest escalation
+1791893025|https://www.dw.com/en/germany-nuremberg-airport-closed-over-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-rdf|Germany: Nuremberg airport closed over in-flight emergency
+1791893033|https://www.euronews.com/video/2026/10/13/kazakhstans-first-open-asian-falconry-cup-showcases-ancient-hunting-heritage|Kazakhstan’s first Open Asian Falconry Cup showcases ancient hunting heritage
+1791893040|https://www.japantimes.co.jp/news/2026/10/13/japan/politics/komeito-leader-interview/|Komeito’s new chief eyes political realignment
