@@ -1,8 +1,3 @@
-1791517230|https://lenta.ru/news/2026/10/09/vrach-nazvala-samye-rasprostranennye-psihicheskie-zabolevaniya/|Врач назвала самые распространенные психические заболевания
-1791517238|https://lenta.ru/news/2026/10/09/rossiyanam-nazvali-sposob-dosrochno-poluchit-pensionnye-nakopleniya/|Россиянам назвали способ досрочно получить пенсионные накопления
-1791517247|https://lenta.ru/news/2026/10/09/nazvan-sposob-vernut-chast-rashodov-za-postroennyy-dom-cherez-nalogovyy-vychet/|Назван способ вернуть часть расходов за построенный дом через налоговый вычет
-1791517252|https://lenta.ru/news/2026/10/09/waterproof/|Реальную влагозащиту смартфона объяснили
-1791518189|https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss|ICE agent shoots man in car with five-year-old child in New York: Mayor
 1791518196|https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/|Nvidia-backed Lumentum sold out of AI server parts till 2029
 1791518201|https://lenta.ru/news/2026/10/09/stalo-izvestno-o-nehvatke-sredstv-u-ukrainy-na-voennye-nuzhdy-v-2027-godu/|Стало известно о нехватке средств у Украины на военные нужды в 2027 году
 1791518207|https://www.kommersant.ru/doc/9009576|Bloomberg: Disney обсуждает с киностудиями продвижение конкурента IMAX
@@ -1998,3 +1993,8 @@
 1791922288|https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss|Trump says Houthis trying to increase oil prices before US elections
 1791922295|https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss|Will NATO’s ‘theory of victory’ work?
 1791922301|https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss|Eight orangutans find new forest home in Indonesia after wildfire rescue
+1791924134|https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss|Pope diagnosed with lung cancer but had successful surgery, Vatican says
+1791924140|https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss|How podcasts became political powerhouses
+1791924146|https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss|Scientists urge tighter AI controls to prevent global cyber risks
+1791924153|https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf|Ukraine and the US: What's next after Trump's diesel deal with Russia?
+1791924159|https://www.france24.com/en/france-s-youth-undergoing-a-crisis-of-hope|France's youth undergoing 'a crisis of hope'
