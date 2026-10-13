@@ -1,8 +1,3 @@
-1791440671|https://news.sky.com/story/israel-confirms-it-is-closing-the-british-consulate-in-east-jerusalem-after-uk-ban-on-trade-with-illegal-west-bank-settlements-13596361|Israel confirms it is closing the British consulate in East Jerusalem
-1791440678|https://www.euronews.com/2026/10/08/monte-carlo-added-to-glamorous-venice-simplon-orient-express-rail-itinerary-for-2027|Monte Carlo added to glamorous Venice Simplon-Orient-Express rail itinerary for 2027
-1791440684|https://www.euronews.com/2026/10/08/europe-today-rubio-urges-europe-to-wake-up-as-eu-trade-chief-begins-key-china-trip|Europe Today: Rubio urges Europe to wake up as EU trade chief begins key China trip
-1791440693|https://lenta.ru/news/2026/10/08/rossiyane-nazvali-glavnye-red-flagi-poputchikov-v-puteshestviyah/|Россияне назвали главные «ред-флаги» попутчиков в путешествиях
-1791442092|https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss|Acclaimed Indian actor Nana Patekar dies aged 75
 1791442098|https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss|How October 7 redrew the map of the Middle East
 1791442105|https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss|What did Palestinians take when they fled after October 7?
 1791442112|https://www.dw.com/en/us-to-lay-fresh-torture-charges-against-venezuela-s-maduro-and-wife/a-79588019?maca=en-rss-en-all-1573-rdf|US to lay fresh torture charges against Venezuela's Maduro and wife
@@ -1998,3 +1993,8 @@
 1791856959|https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/nepal-flooding-trekkers-stranded/|More than 100 foreign trekkers stranded in flood-hit region of Nepal, official says
 1791856965|https://www.japantimes.co.jp/news/2026/10/13/japan/politics/jcp-draft-militarism-revival-concern/|JCP’s draft manifesto voices concern over revival of militarism
 1791856973|https://www.aa.com.tr/en/middle-east/israel-brands-netherlands-antisemitism-hotspot-over-ban-on-israeli-football-fans/4086721|Israel brands Netherlands 'antisemitism hotspot' over ban on Israeli football fans
+1791857965|https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss|Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?
+1791857972|https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html|SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off
+1791857980|https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html|Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF
+1791857984|https://lenta.ru/news/2026/10/13/letevshie-v-moskvu-turetskie-samolety-povernuli-obratno/|Летевшие в Москву турецкие самолеты повернули обратно
+1791857990|https://lenta.ru/news/2026/10/13/seksologi-nazvali-ne-trebuyuschie-usiliy-pozy-v-sekse/|Сексологи назвали не требующие усилий позы в сексе
