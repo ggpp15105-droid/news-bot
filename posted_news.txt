@@ -1,8 +1,3 @@
-1791495154|https://www.france24.com/en/tv-shows/the-debate/20261008-black-sea-and-black-ops-how-exposed-is-europe-to-ukraine-war-spillover|Black sea and black ops: How exposed is Europe to Ukraine war spillover?
-1791495160|https://www.france24.com/en/spain-mourns-maricarmen-abascal-whose-eviction-sparked-housing-protests|Spain mourns Maricarmen Abascal, whose eviction sparked housing protests
-1791495168|https://www.japantimes.co.jp/culture/2026/10/09/entertainment-news/adrian-bianco-obituary-sabukaru/|Adrian Bianco championed Japan’s underground culture
-1791495175|https://www.japantimes.co.jp/culture/2026/10/09/entertainment-news/anime-survey-watching/|Anime is winning over a new generation of fans
-1791496212|https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss|Police use tear gas and water cannons on student protestors in Paris
 1791496219|https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss|Trump gives top US science awards to Elon Musk and other tech executives
 1791496225|https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss|What is the Mecca defence pact?
 1791496233|https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/south-korea-hypersonic-test/|South Korea test-fires its first homegrown hypersonic weapon: presidency
@@ -1998,3 +1993,8 @@
 1791893025|https://www.dw.com/en/germany-nuremberg-airport-closed-over-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-rdf|Germany: Nuremberg airport closed over in-flight emergency
 1791893033|https://www.euronews.com/video/2026/10/13/kazakhstans-first-open-asian-falconry-cup-showcases-ancient-hunting-heritage|Kazakhstan’s first Open Asian Falconry Cup showcases ancient hunting heritage
 1791893040|https://www.japantimes.co.jp/news/2026/10/13/japan/politics/komeito-leader-interview/|Komeito’s new chief eyes political realignment
+1791894483|https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws?traffic_source=rss|How protests have shaped India: From anti-Hindi agitation to farm laws
+1791894489|https://www.dw.com/en/critics-warn-of-espionage-risks-loss-of-trust-within-nato-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf|Critics warn of espionage risks, loss of trust within NATO as Slovakia restores military-diplomatic representation with Russia
+1791894495|https://www.france24.com/en/tv-shows/spotlight/20261013-transactional-diplomacy-greece-positioning-itself-as-the-us-most-reliable-ally-in-the-region|'Transactional diplomacy': Greece positioning itself as Trump’s most 'reliable ally in the region'
+1791894502|https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html|Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms
+1791894510|https://www.euronews.com/2026/10/13/spanish-crown-returns-to-ceuta-after-19-years-amid-lingering-migration-crisis|Spanish crown returns to Ceuta after 19 years amid lingering migration crisis
