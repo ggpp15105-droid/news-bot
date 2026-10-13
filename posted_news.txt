@@ -1,8 +1,3 @@
-1791443181|https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death|‘Adios Maricarmen’: Hundreds protest in Madrid after pensioner’s death
-1791443188|https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing|EU-China talks enter critical phase as trade chief Šefčovič touches down in Beijing
-1791443193|https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war|Oil prices are climbing on concerns about an escalating Iran war
-1791443200|https://www.euronews.com/2026/10/08/portuguese-hospital-lets-pets-visit-owners-in-wards-a-paradigm-shift|Portuguese hospital lets pets visit owners in wards: a paradigm shift?
-1791444392|https://www.france24.com/en/africa/20261008-senegal-and-morocco-set-for-afcon-title-rematch-%E2%80%93-swiss-sports-court|Senegal and Morocco set for AFCON title rematch – in Swiss sports court
 1791444397|https://www.euronews.com/2026/10/08/type-1-diabetes-should-not-set-the-limits-on-a-childs-sports-dreams|Type 1 diabetes 'should not set the limits on a child's sports dreams'
 1791444403|https://www.euronews.com/2026/10/08/uks-exclusion-from-made-in-eu-scheme-would-weaken-europe-minister-warns|UK’s exclusion from ‘Made in EU’ scheme would ‘weaken’ Europe, minister warns
 1791444409|https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/politics/us-myanmar-open-talks/|U.S. opens direct talks with Myanmar’s generals, reversing years of isolation
@@ -1998,3 +1993,8 @@
 1791859259|https://www.japantimes.co.jp/business/2026/10/13/katayama-first-chair-imf-world-bank-panel/|Katayama to be first Japanese chair of IMF-World Bank development panel
 1791859266|https://www.ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road|Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road
 1791859275|https://lenta.ru/news/2026/10/13/onkolog-rasskazala-o-nezametnom-priznake-raka/|Онколог рассказала о незаметном признаке рака
+1791860319|https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html|How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen
+1791860327|https://www.euronews.com/2026/10/13/imf-forecasts-31-global-growth-in-2026-with-eurozone-at-11|IMF forecasts 3.1% global growth in 2026, with eurozone at 1.1%
+1791860335|https://www.japantimes.co.jp/business/2026/10/13/economy/producer-price-september/|Producer price grown cools, easing urgency for further Bank of Japan hikes
+1791860344|https://lenta.ru/news/2026/10/13/vuchich-nazval-svyazannoe-s-rossiey-uslovie-vstupleniya-serbii-v-es/|Вучич назвал связанное с Россией условие вступления Сербии в ЕС
+1791860350|https://lenta.ru/news/2026/10/13/muzhchina-vypal-s-amerikanskih-gorok-i-razbilsya/|Мужчина выпал с американских горок и разбился
