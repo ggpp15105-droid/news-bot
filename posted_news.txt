@@ -1,8 +1,3 @@
-1791454945|https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre|Dozens killed in Russian strike on buses in Ukraine's Kramatorsk as Kyiv targets data centre
-1791454950|https://www.france24.com/en/video/20261008-uk-germany-to-launch-partnership-to-counter-cyberattacks-as-burnham-visits-berlin|UK, Germany to launch partnership to counter cyberattacks as Burnham visits Berlin
-1791454956|https://www.euronews.com/video/2026/10/08/this-serbian-cafe-lets-you-enjoy-your-coffee-alongside-alpacas|This Serbian cafe lets you enjoy your coffee alongside alpacas
-1791454962|https://www.euronews.com/2026/10/08/us-probes-eu-carbon-border-tax-over-potential-trade-barriers|US probes EU carbon border tax over potential trade barriers
-1791456014|https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss|Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
 1791456021|https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf|Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk
 1791456027|https://www.euronews.com/2026/10/08/uk-airport-e-gates-to-become-passport-free-and-contactless-by-early-2027|UK airport e-gates to become passport-free and contactless by early 2027
 1791456033|https://www.japantimes.co.jp/environment/2026/10/08/climate-change/cop-chief-climate-defense-spending/|Climate needs same urgency as defense spending, COP31 chief says
@@ -1998,3 +1993,8 @@
 1791871299|https://www.euronews.com/video/2026/10/13/belgium-9-minors-arrested-as-clashes-erupt-near-brussels-midi|Belgium: 9 minors arrested as clashes erupt near Brussels-Midi
 1791871305|https://www.euronews.com/2026/10/13/people-survive-on-one-meal-a-day-oleshky-official-warns-against-giving-russia-more-territo|'People survive on one meal a day': Oleshky official warns against giving Russia more territory
 1791871313|https://www.japantimes.co.jp/news/2026/10/13/japan/politics/icc-japan-takaichi-support/|Takaichi pledges support for the ICC and its Japanese president
+1791872551|https://www.dw.com/en/india-opposition-to-huddle-over-tea-after-thousands-march-in-their-delhi-protest/live-79646819?maca=en-rss-en-all-1573-rdf|India opposition to huddle over tea after thousands march in their Delhi protest
+1791872558|https://www.euronews.com/2026/10/13/more-parks-rivers-and-green-corridors-how-guimaraes-is-preparing-for-extreme-heat|More parks, rivers and green corridors: how Guimarães is preparing for extreme heat
+1791872566|https://www.euronews.com/2026/10/13/europe-today-nato-warns-russia-amid-escalating-hybrid-attacks-from-moscow|Europe Today: NATO warns Russia amid escalating hybrid attacks from Moscow
+1791872573|https://www.euronews.com/2026/10/13/us-theme-park-operator-six-flags-shuts-nine-roller-coasters-after-man-dies|US theme park operator Six Flags shuts nine roller coasters after man dies
+1791872580|https://www.japantimes.co.jp/business/2026/10/13/economy/multiple-debt-borrowers-number-increase/|Number of multiple-debt borrowers in Japan hits 12-year high
