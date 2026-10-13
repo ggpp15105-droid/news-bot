@@ -1,8 +1,3 @@
-1791516148|https://lenta.ru/news/2026/10/09/rossiyan-predupredili-o-riske-vstrechi-s-golodnymi-medvedyami-shatunami/|Россиян предупредили о риске встречи с голодными медведями-шатунами
-1791516154|https://lenta.ru/news/2026/10/09/paren-zadal-devushke-odin-vopros-posle-rasstavaniya-i-nemedlenno-rassvirepel/|Парень задал девушке один вопрос после расставания и немедленно рассвирепел
-1791516163|https://www.kommersant.ru/doc/9009569|Десять человек погибли во время тюремного бунта в Мексике
-1791516171|https://www.kommersant.ru/doc/9009570|В Забайкалье ввели режим повышенной готовности из-за возможной вспышки ящура
-1791517225|https://lenta.ru/news/2026/10/09/v-fns-ob-yasnili-otpravku-detyam-pisem-iz-nalogovoy/|В ФНС объяснили отправку детям писем из налоговой
 1791517230|https://lenta.ru/news/2026/10/09/vrach-nazvala-samye-rasprostranennye-psihicheskie-zabolevaniya/|Врач назвала самые распространенные психические заболевания
 1791517238|https://lenta.ru/news/2026/10/09/rossiyanam-nazvali-sposob-dosrochno-poluchit-pensionnye-nakopleniya/|Россиянам назвали способ досрочно получить пенсионные накопления
 1791517247|https://lenta.ru/news/2026/10/09/nazvan-sposob-vernut-chast-rashodov-za-postroennyy-dom-cherez-nalogovyy-vychet/|Назван способ вернуть часть расходов за построенный дом через налоговый вычет
@@ -1998,3 +1993,8 @@
 1791920743|https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-rdf|Tupac Shakur murder trial: Former gang leader Duane Davis sentenced to 40 years
 1791920749|https://www.dw.com/en/germany-news-left-leaning-berlin-coalition-talks-break-down/live-79647092?maca=en-rss-en-all-1573-rdf|Germany news: Left-leaning Berlin coalition talks break down
 1791920757|https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf|Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
+1791922275|https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss|Iconic Iguazu Falls walkway dismantled amid record water levels
+1791922282|https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss|DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter
+1791922288|https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss|Trump says Houthis trying to increase oil prices before US elections
+1791922295|https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss|Will NATO’s ‘theory of victory’ work?
+1791922301|https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss|Eight orangutans find new forest home in Indonesia after wildfire rescue
