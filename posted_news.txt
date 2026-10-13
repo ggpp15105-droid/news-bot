@@ -1,8 +1,3 @@
-1791439268|https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf|Germany news: UK's Burnham, Merz to talk security in Berlin
-1791439273|https://lenta.ru/news/2026/10/08/rezhim-bespilotnoy-opasnosti-ob-yavili-v-regione-v-1800-kilometrah-ot-ukrainy/|Режим беспилотной опасности объявили в регионе в 1800 километрах от Украины
-1791439281|https://lenta.ru/news/2026/10/08/vrach-nazvala-prichiny-vnezapnogo-povysheniya-davleniya-osenyu/|Врач назвала причины внезапного повышения давления осенью
-1791439289|https://lenta.ru/news/2026/10/08/stalo-izvestno-o-neobychnom-trebovanii-kitaya-k-ssha/|Стало известно о необычном требовании Китая к США
-1791440667|https://www.france24.com/en/environment/20261008-el-nino-set-to-intensify-before-peaking-in-december-un-warns|El Nino set to intensify before peaking in December, UN warns
 1791440671|https://news.sky.com/story/israel-confirms-it-is-closing-the-british-consulate-in-east-jerusalem-after-uk-ban-on-trade-with-illegal-west-bank-settlements-13596361|Israel confirms it is closing the British consulate in East Jerusalem
 1791440678|https://www.euronews.com/2026/10/08/monte-carlo-added-to-glamorous-venice-simplon-orient-express-rail-itinerary-for-2027|Monte Carlo added to glamorous Venice Simplon-Orient-Express rail itinerary for 2027
 1791440684|https://www.euronews.com/2026/10/08/europe-today-rubio-urges-europe-to-wake-up-as-eu-trade-chief-begins-key-china-trip|Europe Today: Rubio urges Europe to wake up as EU trade chief begins key China trip
@@ -1998,3 +1993,8 @@
 1791856022|https://www.aa.com.tr/en/middle-east/47-palestinian-families-face-forced-displacement-amid-israeli-blockade/4086719|47 Palestinian families face forced displacement amid Israeli blockade
 1791856028|https://www.aa.com.tr/en/middle-east/israeli-forces-abduct-man-in-southern-syria-amid-fresh-incursions/4086717|Israeli forces abduct man in southern Syria amid fresh incursions
 1791856033|https://www.aa.com.tr/en/world/un-calls-on-israel-to-abide-by-1974-disengagement-agreement-respect-syrian-sovereignty/4086716|UN calls on Israel to abide by 1974 Disengagement Agreement, respect Syrian sovereignty
+1791856945|https://www.cnbc.com/2026/10/13/cnbc-daily-open-trumps-russia-deal-ukraine-fed-microsoft-ai.html|CNBC Daily Open: Trump defends diesel deal
+1791856952|https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/philippines-social-media-access/|Philippine’s lower house approves bill restricting minors’ social media access
+1791856959|https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/nepal-flooding-trekkers-stranded/|More than 100 foreign trekkers stranded in flood-hit region of Nepal, official says
+1791856965|https://www.japantimes.co.jp/news/2026/10/13/japan/politics/jcp-draft-militarism-revival-concern/|JCP’s draft manifesto voices concern over revival of militarism
+1791856973|https://www.aa.com.tr/en/middle-east/israel-brands-netherlands-antisemitism-hotspot-over-ban-on-israeli-football-fans/4086721|Israel brands Netherlands 'antisemitism hotspot' over ban on Israeli football fans
