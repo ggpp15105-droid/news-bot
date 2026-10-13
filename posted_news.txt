@@ -1,8 +1,3 @@
-1791521132|https://www.euronews.com/2026/10/09/police-boost-presence-and-detain-17-year-old-after-bloody-friday-threat-to-polish-schools|Police boost presence and detain 17-year-old after 'Bloody Friday' threat to Polish schools
-1791521140|https://www.aa.com.tr/en/asia-pacific/japan-s-okinawa-assembly-seeks-review-of-us-forces-pact-after-marine-accused-of-murder/4082851|Japan’s Okinawa assembly seeks review of US forces pact after Marine accused of murder
-1791521145|https://lenta.ru/news/2026/10/09/suprugi-stali-zhertvami-ataki-vsu-na-rossiyskiy-region/|Супруги стали жертвами атаки ВСУ на российский регион
-1791521150|https://lenta.ru/news/2026/10/09/v-britanii-zayavili-o-sokrytii-ukrainskimi-spetssluzhbami-posledstviy-rossiyskih-udarov/|В Британии заявили о сокрытии украинскими спецслужбами последствий российских ударов
-1791521996|https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss|Mexico prison clash in strife-torn Sinaloa state leaves 10 dead
 1791522001|https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss|Uproar in NY after ICE shoots man with child in the car
 1791522008|https://www.euronews.com/2026/10/09/from-barbershops-to-nature-courses-how-community-driven-campaigns-are-rethinking-mens-ment|From barbershops to nature courses: How community-driven campaigns are rethinking men’s mental health
 1791522017|https://lenta.ru/news/2026/10/09/v-rossii-zametno-vyroslo-chislo-likvidatsiy-kompaniy-iz-odnoy-otrasli/|В России заметно выросло число ликвидаций компаний из одной отрасли
@@ -1998,3 +1993,8 @@
 1791929096|https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss|Vatican confirms Pope Leo’s surgery was successful
 1791929102|https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss|Food shortages in Yemen’s Taiz as Houthi siege hits supplies
 1791929108|https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss|Surveillance video shows moment ICE vehicle strikes man in Houston
+1791930618|https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss|Man City vs PSG: Champions League – teams, predictions, line ups
+1791930625|https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss|US trial begins for Rwandan-American accused of role in genocide
+1791930632|https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss|Arsenal beat Lille 3-0 as perfect Champions League start continues
+1791930639|https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united|Arsenal thrash Lille as Atletico Madrid beat Manchester United
+1791930644|https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation|Pope Leo has cancerous growth removed in lung operation
