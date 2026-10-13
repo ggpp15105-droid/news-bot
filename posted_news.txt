@@ -1,8 +1,3 @@
-1791456021|https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf|Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk
-1791456027|https://www.euronews.com/2026/10/08/uk-airport-e-gates-to-become-passport-free-and-contactless-by-early-2027|UK airport e-gates to become passport-free and contactless by early 2027
-1791456033|https://www.japantimes.co.jp/environment/2026/10/08/climate-change/cop-chief-climate-defense-spending/|Climate needs same urgency as defense spending, COP31 chief says
-1791456040|https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/politics/south-korea-ukraine-envoy-recall/|South Korea to recall ambassador from Ukraine amid deepening row
-1791456954|https://www.aljazeera.com/news/2026/10/8/malaysia-to-help-myanmar-reintegrate-into-asean-despite-rights-concerns?traffic_source=rss|Malaysia PM says will work on Myanmar’s ASEAN reintegration
 1791456960|https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss|Russian attack on Ukraine’s Kramatorsk kills at least 12 people
 1791456968|https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf|As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
 1791456973|https://www.euronews.com/2026/10/08/ryanair-ceo-sees-no-european-jet-fuel-shortages-into-summer-2027|Ryanair CEO sees no European jet fuel shortages into summer 2027
@@ -1998,3 +1993,8 @@
 1791872566|https://www.euronews.com/2026/10/13/europe-today-nato-warns-russia-amid-escalating-hybrid-attacks-from-moscow|Europe Today: NATO warns Russia amid escalating hybrid attacks from Moscow
 1791872573|https://www.euronews.com/2026/10/13/us-theme-park-operator-six-flags-shuts-nine-roller-coasters-after-man-dies|US theme park operator Six Flags shuts nine roller coasters after man dies
 1791872580|https://www.japantimes.co.jp/business/2026/10/13/economy/multiple-debt-borrowers-number-increase/|Number of multiple-debt borrowers in Japan hits 12-year high
+1791874394|https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss|Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa
+1791874401|https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss|Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says
+1791874408|https://www.dw.com/en/germany-news-economy-set-for-stronger-growth-wine-harvest-hit-by-drought/live-79647092?maca=en-rss-en-all-1573-rdf|Germany news: Economy set for stronger growth, wine harvest hit by drought
+1791874415|https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488?maca=en-rss-en-all-1573-rdf|What is holding back Cyprus's Schengen ambitions?
+1791874422|https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html|Visa gets Beijing's green light for bank card business after 40 years of working with China
