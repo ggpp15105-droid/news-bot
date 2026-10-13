@@ -1,8 +1,3 @@
-1791508317|https://www.japantimes.co.jp/news/2026/10/09/world/maduro-new-torture-charge/|Maduro faces new charge of torturing U.S. citizens in custody
-1791508323|https://www.japantimes.co.jp/culture/2026/10/09/stage/elvis-noh-theater-tokyo-festival/|Elvis comes back as a ghost in a noh theater play
-1791508329|https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance|Finland orders Google to stop work on two AI data centers over alleged deforestation
-1791508334|https://lenta.ru/news/2026/10/09/zhena-gollivudskoy-zvezdy-shayi-labafa-podala-na-razvod/|Жена голливудской звезды Шайи ЛаБафа подала на развод
-1791509489|https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss|Protests, debate follow death of Maricarmen, 87, Spain protest symbol
 1791509494|https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss|USS Abraham Lincoln returns after record-breaking deployment
 1791509501|https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss|UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal
 1791509507|https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html|U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'
@@ -1998,3 +1993,8 @@
 1791910285|https://www.euronews.com/2026/10/13/europes-satellite-sovereignty-push-faces-funding-test-as-eu-space-budget-cycle-ends|Europe’s satellite sovereignty push faces funding test as EU space budget cycle ends
 1791910291|https://www.euronews.com/2026/10/13/qatars-emir-vows-that-country-will-emerge-stronger-as-he-outlines-national-strategies|Qatar’s emir vows that country will emerge stronger as he outlines national strategies
 1791910297|https://www.euronews.com/2026/10/13/netflix-secures-2030-world-cup-rights-in-spain-and-andorra|Netflix secures 2030 World Cup rights in Spain and Andorra
+1791911244|https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss|Jerusalem Daily: Israeli forces raid NGOs in Ramallah
+1791911251|https://www.japantimes.co.jp/news/2026/10/13/japan/society/foreign-population-up/|Japanese municipalities with over 5% foreign nationals up more than twofold
+1791911258|https://www.japantimes.co.jp/news/2026/10/13/japan/politics/nuclear-submarine-study-split/|Lawmakers split on including nuclear submarine study in security documents
+1791911267|https://www.aa.com.tr/en/world/trump-says-houthis-acting-very-badly-amid-intensifying-attacks/4087646|Trump says Houthis acting 'very badly' amid intensifying attacks
+1791911274|https://www.aa.com.tr/en/world/iran-s-intensifying-attacks-on-ships-threatening-oil-export-recovery-report/4087640|Iran’s intensifying attacks on ships, threatening oil export recovery: Report
