@@ -1,8 +1,3 @@
-1791499069|https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss|French giants Bordeaux relegated to sixth tier for financial irregularities
-1791499077|https://www.japantimes.co.jp/life/2026/10/09/food-drink/50-best-bars-2026/|Tokyo walks away with two spots on 50 Best Bars list
-1791499084|https://www.aa.com.tr/en/americas/first-poll-since-brazil-s-first-round-presidential-election-predicts-flavio-53-lula-47-in-upcoming-runoff/4082839|First poll since Brazil’s first round presidential election predicts Flavio 53%, Lula 47% in upcoming runoff
-1791499091|https://www.aa.com.tr/en/americas/uss-abraham-lincoln-returns-to-san-diego-after-supporting-iran-war/4082825|USS Abraham Lincoln returns to San Diego after supporting Iran war
-1791499986|https://www.ign.com/articles/street-fighter-6-producer-reveals-how-he-helped-save-capcoms-iconic-fighting-game-franchise-from-dying|Street Fighter 6 Producer Reveals How He Helped Save Capcom’s Iconic Fighting Game Franchise From ‘Dying’
 1791499994|https://www.ign.com/articles/ben-affleck-says-he-gets-into-arguments-with-kids-in-fortnite-his-new-movie-took-inspiration-from-games-skins|Ben Affleck Says He Gets Into Arguments With Kids in Fortnite, His New Movie Took Inspiration from Game's Skins
 1791500002|https://www.ign.com/articles/resident-evil-requiem-was-originally-planned-as-an-online-game-producer-says|Resident Evil Requiem Was Originally Planned as an Online Game, Producer Says
 1791500009|https://www.ign.com/articles/forza-horizon-6-is-finally-coming-to-ps5-in-january-alongside-first-expansion|Forza Horizon 6 Is Finally Coming to PS5 in January Alongside First Expansion
@@ -1998,3 +1993,8 @@
 1791899120|https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss|Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident
 1791899129|https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss|Iran threatens Gulf data centres: How exposed is the region’s internet?
 1791899136|https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa?traffic_source=rss|Rwanda to host a Grand Prix in 2030s as Formula One returns to Africa
+1791900478|https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss|Yemeni government launches air strikes on Houthi positions
+1791900483|https://www.aljazeera.com/video/newsfeed/2026/10/13/f1-set-to-return-to-africa-for-first-time-in-three-decades?traffic_source=rss|F1 set to return to Africa for first time in three decades
+1791900490|https://www.dw.com/en/hungary-s-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826?maca=en-rss-en-all-1573-rdf|Hungary's parliament votes to reverse anti-LGBTQ legislation from Orban era
+1791900495|https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis|French embassy in Riyadh tells citizens to avoid Saudi airports targeted by Houthis
+1791900501|https://www.france24.com/en/tv-shows/perspective/20261013-preserving-lebanon-s-stories-amid-war-france-s-lebanese-film-festival|Preserving Lebanon's stories amid war: France's Lebanese Film Festival
