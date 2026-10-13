@@ -1,8 +1,3 @@
-1791500604|https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/|Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him
-1791500608|https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/|Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year
-1791500614|https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/|Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board
-1791500620|https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/|GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail
-1791501619|https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss|Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire
 1791501628|https://www.dw.com/en/man-injured-after-new-york-shooting-involving-dhs-agents/a-79606159?maca=en-rss-en-all-1573-rdf|Man injured after New York shooting involving DHS agents
 1791501634|https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html|S&P 500 futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates
 1791501640|https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover|"It's clear that we both adore one another's games a lot" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven
@@ -1998,3 +1993,8 @@
 1791901847|https://www.france24.com/en/tv-shows/entre-nous/20261013-french-student-protests-from-confiscated-signs-to-catchy-slogans|French student protests: From confiscated signs to catchy slogans
 1791901853|https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire|Russia pounds Ukrainian cities, spares energy targets for first time since Trump 'ceasefire'
 1791901861|https://www.france24.com/en/hope-so-heavy-to-carry-al-shaer-on-harrowing-plight-emotional-toll-struggle-to-survive-in-gaza|'Hope so heavy to carry': Al-Shaer on harrowing plight, emotional toll, struggle to survive in Gaza
+1791903197|https://www.france24.com/en/belgium-greener-schools-thanks-to-european-funding|Belgium: Greener schools thanks to European funding
+1791903203|https://www.france24.com/en/video/20261013-russia-seeks-to-overwhelm-nato-allies-with-crises-across-a-wide-spectrum-of-geographic-locations|Russia seeks to overwhelm NATO allies with crises 'across a wide spectrum of geographic locations'
+1791903211|https://www.france24.com/en/tv-shows/arts24/20261013-musical-trailblazer-lakecia-benjamin-from-chasing-prince-to-touring-with-stevie-wonder|Musical trailblazer Lakecia Benjamin: From chasing Prince to touring with Stevie Wonder
+1791903216|https://news.sky.com/story/formula-one-to-return-to-africa-as-rwanda-race-confirmed-for-early-2030s-13598765|Formula One to return to Africa for first time in 30 years
+1791903224|https://www.euronews.com/2026/10/13/apple-gets-smart-in-your-home-from-homeview-to-smart-door-locks-heres-what-to-know|Apple gets smart in your home. From ‘HomeView’ to smart door locks, here’s what to know
