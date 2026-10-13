@@ -1,8 +1,3 @@
-1791522939|https://www.euronews.com/2026/10/09/el-nino-could-weaken-the-polar-vortex-does-a-scorching-summer-mean-a-freezing-winter|El Niño could weaken the polar vortex. Does a scorching summer mean a freezing winter?
-1791522946|https://www.euronews.com/2026/10/09/russia-slashes-cancer-care-as-defence-spending-hits-post-soviet-record|Russia slashes cancer care as defence spending hits post-Soviet record
-1791522953|https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-morning|Latest news bulletin | October 9th, 2026 – Morning
-1791522959|https://www.euronews.com/2026/10/09/santorini-wine-gastronomy-and-unique-experiences-beyond-the-famous-sunsets|Santorini: Wine, gastronomy and unique experiences beyond the famous sunsets
-1791524046|https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss|Photos: Gaza before and after – a city transformed by war
 1791524054|https://www.japantimes.co.jp/business/2026/10/09/companies/germany-kadewe-japan-rice/|Department store in Berlin to offer high-end Japanese rice on trial basis
 1791524060|https://www.japantimes.co.jp/environment/2026/10/09/climate-change/rain-climate-chiba-japan/|Extreme rain is testing Japan’s flood defences
 1791524066|https://www.japantimes.co.jp/business/2026/10/09/companies/rakuten-medical-light-cancer-therapy/|Rakuten Medical eyes U.S. market for its novel idea to conquer cancer
@@ -1998,3 +1993,8 @@
 1791932303|https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says|Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says
 1791932307|https://news.sky.com/story/japanese-journalist-arrested-in-russia-on-suspicion-of-spying-13598988|Japanese journalist arrested in Russia on suspicion of spying
 1791932313|https://www.euronews.com/2026/10/13/violence-in-paris-as-tens-of-thousands-turn-out-for-student-protests-across-france|Violence in Paris as tens of thousands turn out for student protests across France
+1791933446|https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss|Manchester United’s Martinez blasts board’s lack of investment
+1791933452|https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss|Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
+1791933457|https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss|Mauritius imposes curfew after night of unrest over police shooting
+1791933463|https://www.aa.com.tr/en/asia-pacific/pakistan-urges-us-iran-to-honor-peace-agreement-amid-rising-gulf-tensions/4087922|Pakistan urges US, Iran to honor peace agreement amid rising Gulf tensions
+1791933469|https://www.aa.com.tr/en/middle-east/netanyahu-may-launch-military-operation-before-election-to-stay-in-power-israeli-opposition-leader/4087920|Netanyahu may launch military operation before election to stay in power: Israeli opposition leader
