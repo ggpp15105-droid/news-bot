@@ -1,8 +1,3 @@
-1791510605|https://www.japantimes.co.jp/business/2026/10/09/economy/japan-household-spending-falls/|Japan’s household spending falls again despite wage gains
-1791510612|https://www.japantimes.co.jp/news/2026/10/09/world/society/madrid-protesters-mourn-evicted-retiree/|Madrid mourns evicted retiree, ‘icon’ of Spain housing protests
-1791510620|https://lenta.ru/news/2026/10/09/anthropic-zapretila-polzovatelyam-zhestoko-obraschatsya-s-neyrosetyu-claude/|Anthropic запретила пользователям жестоко обращаться с нейросетью Claude
-1791510625|https://lenta.ru/news/2026/10/09/zelenskomu-dali-sovet-posle-zhaloby-na-rubio/|Зеленскому дали совет после жалобы на Рубио
-1791511367|https://www.japantimes.co.jp/news/2026/10/09/world/society/france-student-protests-teachers/|France to fight student unrest by dispatching thousands of teachers
 1791511372|https://lenta.ru/news/2026/10/09/mvd-predupredilo-ob-opasnosti-hraneniya-lichnyh-dannyh-v-smartfonah/|МВД предупредило об опасности хранения личных данных в смартфонах
 1791511377|https://lenta.ru/news/2026/10/09/obnaruzheno-neozhidannoe-sredstvo-protiv-ozhireniya-pecheni/|Обнаружено неожиданное средство против ожирения печени
 1791511382|https://www.kommersant.ru/doc/9009567|NYT: Пентагон подготовил план трехдневной военной операции в Иране
@@ -1998,3 +1993,8 @@
 1791912394|https://www.euronews.com/2026/10/13/russian-strike-injures-dozens-at-rivne-university-as-ballistic-missiles-hit-kyiv|Russian strike injures dozens at Rivne University as ballistic missiles hit Kyiv
 1791912400|https://www.aa.com.tr/en/world/trump-claims-both-putin-zelenskyy-want-to-end-war-but-don-t-know-how-to-get-there/4087636|Trump claims both Putin, Zelenskyy 'want to end' war but 'don’t know how to get there'
 1791912405|https://www.aa.com.tr/en/world/explainer-what-to-know-about-nord-stream-sabotage-trial/4087452|EXPLAINER - What to know about Nord Stream sabotage trial
+1791913443|https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss|Cholera cases surge in Yemen as conflict intensifies, WHO says
+1791913449|https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss|New White House press secretary Katie Zacharia holds first briefing
+1791913456|https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-rdf|Iran seeking 'harder targets' for attacks abroad, UK warns
+1791913462|https://www.france24.com/en/tv-shows/the-observers/20261013-syria-israeli-army-accused-arbitrary-arrests-detention|Syria: Israeli army accused of arbitrary arrests and detention
+1791913471|https://www.aa.com.tr/en/economy/wheat-prices-post-sharpest-drop-in-over-2-years-amid-easing-geopolitical-risks/4087443|Wheat prices post sharpest drop in over 2 years amid easing geopolitical risks
