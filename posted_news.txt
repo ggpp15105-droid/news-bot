@@ -1,8 +1,3 @@
-1791437497|https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss|Signage at UK consulate in East Jerusalem removed as Israel’s deadline over
-1791437504|https://www.japantimes.co.jp/news/2026/10/08/japan/science-health/kenso-soai-research-significance/|Nobel winner Kenso Soai says he understood the significance of his research
-1791437511|https://www.japantimes.co.jp/news/2026/10/08/japan/japan-late-pm-abe-corridor-india/|Corridor named after late PM Abe completed in India
-1791437520|https://lenta.ru/news/2026/10/08/vrach-otsenila-vliyanie-vremeni-priema-lekarstv-na-son/|Врач оценила влияние времени приема лекарств на сон
-1791438536|https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss|US and Lebanon protecting wanted Syrian general, BBC finds
 1791438542|https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss|Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90
 1791438548|https://www.france24.com/en/tv-shows/sports/20261008-portugal-cristiano-ronaldo-controversy-rumbles-on|Portugal: Cristiano Ronaldo controversy rumbles on
 1791438555|https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html|America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice
@@ -1998,3 +1993,8 @@
 1791853646|https://www.japantimes.co.jp/news/2026/10/13/world/saudi-airport-carnage-trump/|Saudi airport carnage pressures Trump to boost U.S. role in Yemen
 1791853653|https://www.japantimes.co.jp/business/2026/10/13/french-supermarket-cyberattack/|Hackers heat French supermarket fridges, sparking fires and spoiling food
 1791853662|https://lenta.ru/news/2026/10/13/emili-ratakovski-v-oblegayuschem-naryade-bez-nizhnego-belya-posetila-blagotvoritelnyy-vecher/|Эмили Ратаковски в облегающем наряде без нижнего белья посетила благотворительный вечер
+1791854844|https://www.japantimes.co.jp/news/2026/10/13/world/politics/americans-oppose-betting-elections/|Most Americans oppose betting on elections and government events, poll finds
+1791854852|https://www.japantimes.co.jp/news/2026/10/13/world/politics/us-immigration-raid-ilhan-omar/|U.S. immigration authorities raid home of Democratic Trump critic Ilhan Omar
+1791854856|https://lenta.ru/news/2026/10/13/nato-nasyschaet-voyska-deshevym-nastupatelnym-vooruzheniem/|Стало известно о насыщении войск НАТО дешевым наступательным вооружением
+1791854861|https://lenta.ru/news/2026/10/13/tainstvennyy-risunok-pered-domom-pozabavil-polzovateley-seti/|Мистический рисунок перед домом позабавил пользователей сети
+1791854865|https://lenta.ru/news/2026/10/13/audit/|В ЕС задумались об объемах хищений помощи Украине
