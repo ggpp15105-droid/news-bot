@@ -1,8 +1,3 @@
-1791496219|https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss|Trump gives top US science awards to Elon Musk and other tech executives
-1791496225|https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss|What is the Mecca defence pact?
-1791496233|https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/south-korea-hypersonic-test/|South Korea test-fires its first homegrown hypersonic weapon: presidency
-1791496240|https://www.japantimes.co.jp/business/2026/10/08/economy/boj-economic-assessment/|BOJ raises economic assessment for Tohoku and Shikoku as tech demand remains strong
-1791496940|https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss|What Man City charges anger Liverpool before Premier League game?
 1791496945|https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon|Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says
 1791496953|https://www.euronews.com/video/2026/10/08/hundreds-of-farmers-rally-in-paris-against-eu-mercosur-pact-and-import-fears|Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears
 1791496959|https://www.japantimes.co.jp/news/2026/10/08/japan/crime-legal/germany-arrest-qilin-japan-extradite/|Germany arrests member of Qilin hacker group who was extradited from Japan
@@ -1998,3 +1993,8 @@
 1791894495|https://www.france24.com/en/tv-shows/spotlight/20261013-transactional-diplomacy-greece-positioning-itself-as-the-us-most-reliable-ally-in-the-region|'Transactional diplomacy': Greece positioning itself as Trump’s most 'reliable ally in the region'
 1791894502|https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html|Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms
 1791894510|https://www.euronews.com/2026/10/13/spanish-crown-returns-to-ceuta-after-19-years-amid-lingering-migration-crisis|Spanish crown returns to Ceuta after 19 years amid lingering migration crisis
+1791896193|https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss|Australia bowl out South Africa to win first Test in Durban
+1791896198|https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting?traffic_source=rss|Yemeni families’ search for missing loved ones hindered by new fighting
+1791896205|https://www.dw.com/en/nord-stream-trial-of-ukrainian-attack-suspect-begins-in-germany/a-79647617?maca=en-rss-en-all-1573-rdf|Nord Stream: Trial of Ukrainian attack suspect begins in Germany
+1791896210|https://www.france24.com/en/tv-shows/focus/20261013-asia-s-fertility-hub-thailand-emerges-as-top-destination-for-ivf-treatment|Asia's fertility hub: Thailand emerges as top destination for IVF treatment
+1791896216|https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html|Why this little known Chinese chipmaker has caused a global stock rout
