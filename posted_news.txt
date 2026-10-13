@@ -1,8 +1,3 @@
-1791518196|https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/|Nvidia-backed Lumentum sold out of AI server parts till 2029
-1791518201|https://lenta.ru/news/2026/10/09/stalo-izvestno-o-nehvatke-sredstv-u-ukrainy-na-voennye-nuzhdy-v-2027-godu/|Стало известно о нехватке средств у Украины на военные нужды в 2027 году
-1791518207|https://www.kommersant.ru/doc/9009576|Bloomberg: Disney обсуждает с киностудиями продвижение конкурента IMAX
-1791518212|https://www.kommersant.ru/doc/9009578|Глава Минобороны Нидерландов назвала Россию врагом
-1791518917|https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions|Egyptian journalists plan weekend protest over detention of six colleagues
 1791518925|https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html|'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls
 1791518932|https://www.euronews.com/2026/10/09/kyiv-open-to-constructive-dialogue-after-seoul-recalls-its-ambassador-amid-north-korean-po|Kyiv open to 'constructive dialogue' after Seoul recalls its ambassador amid North Korean POW disclosure row
 1791518938|https://www.euronews.com/2026/10/09/barcelona-research-team-creates-ai-to-detect-ageing-in-blood-stem-cells|Barcelona team develops AI that detects ageing in blood stem cells
@@ -1998,3 +1993,8 @@
 1791924146|https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss|Scientists urge tighter AI controls to prevent global cyber risks
 1791924153|https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf|Ukraine and the US: What's next after Trump's diesel deal with Russia?
 1791924159|https://www.france24.com/en/france-s-youth-undergoing-a-crisis-of-hope|France's youth undergoing 'a crisis of hope'
+1791925818|https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss|Tupac Shakur killer sentenced to 40 years in prison
+1791925825|https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss|Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
+1791925830|https://www.france24.com/en/former-gang-leader-sentenced-to-minimum-40-years-for-tupac-killing|Former gang leader sentenced to minimum 40 years for Tupac killing
+1791925836|https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal|Trump asks Greece ambassador to resign amid ethics scandal
+1791925841|https://www.france24.com/en/kabila-launches-new-coalition-with-m23|Kabila launches new coalition with M23
