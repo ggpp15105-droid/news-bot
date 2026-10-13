@@ -1,8 +1,3 @@
-1791456960|https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss|Russian attack on Ukraine’s Kramatorsk kills at least 12 people
-1791456968|https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf|As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
-1791456973|https://www.euronews.com/2026/10/08/ryanair-ceo-sees-no-european-jet-fuel-shortages-into-summer-2027|Ryanair CEO sees no European jet fuel shortages into summer 2027
-1791456978|https://www.japantimes.co.jp/business/2026/10/08/uniqlo-global-top/|Uniqlo on track to overtake H&M, eyes Zara for global No. 1
-1791457697|https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss|Photos: Protests erupt after 87-year-old evicted woman dies in Madrid
 1791457704|https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf|Nobel Prize in Literature goes to Canada's Anne Carson
 1791457710|https://www.japantimes.co.jp/news/2026/10/08/japan/politics/yana-takaichi/|Takaichi continues to fend off questions about scandal-hit farm minister
 1791457716|https://www.aa.com.tr/en/world/vatican-s-top-diplomat-on-maiden-visit-to-pakistan/4081807|Vatican’s top diplomat on maiden visit to Pakistan
@@ -1998,3 +1993,8 @@
 1791874408|https://www.dw.com/en/germany-news-economy-set-for-stronger-growth-wine-harvest-hit-by-drought/live-79647092?maca=en-rss-en-all-1573-rdf|Germany news: Economy set for stronger growth, wine harvest hit by drought
 1791874415|https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488?maca=en-rss-en-all-1573-rdf|What is holding back Cyprus's Schengen ambitions?
 1791874422|https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html|Visa gets Beijing's green light for bank card business after 40 years of working with China
+1791875658|https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss|India 'cockroach' leaders detained after entering barricaded protest site
+1791875663|https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss|Emir says Qatar has shown resilience in face of ‘exceptional events’
+1791875668|https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss|Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia
+1791875675|https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html|As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’
+1791875682|https://www.euronews.com/2026/10/13/expedia-unveils-its-2027-destinations-of-the-year-and-only-two-are-in-europe|Expedia unveils its 2027 destinations of the year – and only two are in Europe
