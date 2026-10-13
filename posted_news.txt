@@ -1,8 +1,3 @@
-1791438542|https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss|Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90
-1791438548|https://www.france24.com/en/tv-shows/sports/20261008-portugal-cristiano-ronaldo-controversy-rumbles-on|Portugal: Cristiano Ronaldo controversy rumbles on
-1791438555|https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html|America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice
-1791438563|https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html|TSMC September sales hit another record as AI boom rolls on
-1791439261|https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss|Why single Ebola death in Kenya has sparked fears of wider African spread
 1791439268|https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf|Germany news: UK's Burnham, Merz to talk security in Berlin
 1791439273|https://lenta.ru/news/2026/10/08/rezhim-bespilotnoy-opasnosti-ob-yavili-v-regione-v-1800-kilometrah-ot-ukrainy/|Режим беспилотной опасности объявили в регионе в 1800 километрах от Украины
 1791439281|https://lenta.ru/news/2026/10/08/vrach-nazvala-prichiny-vnezapnogo-povysheniya-davleniya-osenyu/|Врач назвала причины внезапного повышения давления осенью
@@ -1998,3 +1993,8 @@
 1791854856|https://lenta.ru/news/2026/10/13/nato-nasyschaet-voyska-deshevym-nastupatelnym-vooruzheniem/|Стало известно о насыщении войск НАТО дешевым наступательным вооружением
 1791854861|https://lenta.ru/news/2026/10/13/tainstvennyy-risunok-pered-domom-pozabavil-polzovateley-seti/|Мистический рисунок перед домом позабавил пользователей сети
 1791854865|https://lenta.ru/news/2026/10/13/audit/|В ЕС задумались об объемах хищений помощи Украине
+1791856007|https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html|'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil
+1791856014|https://www.japantimes.co.jp/news/2026/10/13/world/politics/trump-putin-deal-midterms/|Trump’s diesel deal with Putin causes GOP heartburn before vote
+1791856022|https://www.aa.com.tr/en/middle-east/47-palestinian-families-face-forced-displacement-amid-israeli-blockade/4086719|47 Palestinian families face forced displacement amid Israeli blockade
+1791856028|https://www.aa.com.tr/en/middle-east/israeli-forces-abduct-man-in-southern-syria-amid-fresh-incursions/4086717|Israeli forces abduct man in southern Syria amid fresh incursions
+1791856033|https://www.aa.com.tr/en/world/un-calls-on-israel-to-abide-by-1974-disengagement-agreement-respect-syrian-sovereignty/4086716|UN calls on Israel to abide by 1974 Disengagement Agreement, respect Syrian sovereignty
