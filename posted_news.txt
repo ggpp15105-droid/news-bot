@@ -1,8 +1,3 @@
-1791522001|https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss|Uproar in NY after ICE shoots man with child in the car
-1791522008|https://www.euronews.com/2026/10/09/from-barbershops-to-nature-courses-how-community-driven-campaigns-are-rethinking-mens-ment|From barbershops to nature courses: How community-driven campaigns are rethinking men’s mental health
-1791522017|https://lenta.ru/news/2026/10/09/v-rossii-zametno-vyroslo-chislo-likvidatsiy-kompaniy-iz-odnoy-otrasli/|В России заметно выросло число ликвидаций компаний из одной отрасли
-1791522023|https://lenta.ru/news/2026/10/09/pozhar-nachalsya-na-rossiyskom-zavode-iz-za-udara-vsu/|Пожар начался на российском заводе из-за удара ВСУ
-1791522932|https://www.euronews.com/2026/10/09/graphene-opens-new-way-to-detect-brain-damage-after-stroke|Graphene opens new way to detect brain damage after stroke
 1791522939|https://www.euronews.com/2026/10/09/el-nino-could-weaken-the-polar-vortex-does-a-scorching-summer-mean-a-freezing-winter|El Niño could weaken the polar vortex. Does a scorching summer mean a freezing winter?
 1791522946|https://www.euronews.com/2026/10/09/russia-slashes-cancer-care-as-defence-spending-hits-post-soviet-record|Russia slashes cancer care as defence spending hits post-Soviet record
 1791522953|https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-morning|Latest news bulletin | October 9th, 2026 – Morning
@@ -1998,3 +1993,8 @@
 1791930632|https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss|Arsenal beat Lille 3-0 as perfect Champions League start continues
 1791930639|https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united|Arsenal thrash Lille as Atletico Madrid beat Manchester United
 1791930644|https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation|Pope Leo has cancerous growth removed in lung operation
+1791932291|https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss|Albanian police fire tear gas at protesters as Education Ministry attacked
+1791932297|https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu|China is bringing car production to EU
+1791932303|https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says|Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says
+1791932307|https://news.sky.com/story/japanese-journalist-arrested-in-russia-on-suspicion-of-spying-13598988|Japanese journalist arrested in Russia on suspicion of spying
+1791932313|https://www.euronews.com/2026/10/13/violence-in-paris-as-tens-of-thousands-turn-out-for-student-protests-across-france|Violence in Paris as tens of thousands turn out for student protests across France
