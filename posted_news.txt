@@ -1,8 +1,3 @@
-1791489252|https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf|EU pulls sponsorship from Disinfo2026 event in Lithuania
-1791489260|https://www.france24.com/en/tv-shows/arts24/20261008-aaron-sorkin-mikey-madison-jeremy-allen-white-the-director-and-cast-behind-the-facebook-sequel|Aaron Sorkin, Mikey Madison, Jeremy Allen White: The director and cast behind the Facebook sequel
-1791489265|https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians|Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'
-1791489271|https://www.france24.com/en/video/20261008-the-russian-occupied-town-in-ukraine-facing-starvation|The Russian-occupied town in Ukraine facing starvation
-1791489928|https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss|Israeli settlers systematically target the Palestinian olive harvest
 1791489934|https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss|India’s Cockroach movement says members detained as protests continue
 1791489939|https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss|Prosecutors in Maradona death trial seek sentences up to 12 years
 1791489944|https://www.france24.com/en/video/20261008-as-elections-near-how-are-french-political-parties-reacting-to-student-protests|As elections near, how are French political parties reacting to student protests?
@@ -1998,3 +1993,8 @@
 1791886112|https://www.france24.com/en/france-votes-on-sweeping-bill-to-combat-sexual-and-gender-based-violence|France votes on sweeping bill to combat sexual and gender-based violence
 1791886118|https://www.france24.com/en/ethiopia-social-media-becomes-a-battleground-for-propaganda|Ethiopia: Social media becomes a battleground for propaganda
 1791886123|https://www.france24.com/en/tunisian-duo-jathb-blends-sufi-traditions-with-electronic-music|Tunisian duo Jathb blends Sufi traditions with electronic music
+1791887405|https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-protester-punched-at-trump-rally-as-theyre-mocked-by-the-president?traffic_source=rss|Trump Protester punched at Trump rally as they’re mocked by the president
+1791887411|https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss|One killed, several injured in Georgia rollercoaster ‘incident’
+1791887418|https://www.dw.com/en/bulgaria-condemns-black-sea-drone-attacks-as-russia-s-war-in-ukraine-spills-over-into-eastern-europe/a-79648001?maca=en-rss-en-all-1573-rdf|Bulgaria condemns Black Sea drone attacks as Russia's war in Ukraine spills over into Eastern Europe
+1791887423|https://www.france24.com/en/us-economists-win-nobel-for-research-helping-policymakers-navigate-crises|US economists win Nobel for research helping policymakers navigate crises
+1791887430|https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html|Bank earnings live updates: JPMorgan and Wells Fargo results are up first
