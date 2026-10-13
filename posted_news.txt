@@ -1,8 +1,3 @@
-1791451746|https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise|School protests part of a broader French malaise?
-1791451750|https://www.france24.com/en/video/20261008-french-students-prepare-for-more-marches-as-hundreds-of-schools-close|French students prepare for more marches as hundreds of schools close
-1791451758|https://www.cnbc.com/2026/10/08/france-diesel-reserves-protests.html|France to release diesel reserves as student protests resume
-1791451765|https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html|After a yearslong slump, China's real estate market may be set for a turnaround
-1791452796|https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden/a-79561414?maca=en-rss-en-all-1573-rdf|German Bundeswehr: A new naval port in Emden
 1791452802|https://www.france24.com/en/video/20261008-france-to-release-10m-barrels-of-diesel-in-bid-to-curb-rising-prices|France to release 10m barrels of diesel in bid to curb rising prices
 1791452808|https://www.euronews.com/2026/10/08/denmark-introduces-a-bill-protecting-peoples-faces-and-voices-from-deepfakes|Denmark introduces bill to protect people’s faces and voices from deepfakes
 1791452816|https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales|Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales
@@ -1998,3 +1993,8 @@
 1791867988|https://www.euronews.com/2026/10/13/outdated-and-inadequate-tefal-manufacturer-urged-to-drop-forever-chemicals-from-non-stick-|‘Outdated and inadequate’: Tefal manufacturer urged to drop ‘forever chemicals’ from non-stick pans
 1791867994|https://www.euronews.com/2026/10/13/glass-igloos-sky-villas-and-boutique-suites-new-places-to-stay-in-finnish-lapland-this-win|Glass igloos, sky villas and boutique suites: New places to stay in Finnish Lapland this winter
 1791868001|https://www.euronews.com/2026/10/13/rent-spikes-in-georgia-and-armenia-as-russians-flee-fearing-mobilisation|Rent spikes in Georgia and Armenia as Russians flee fearing mobilisation
+1791869172|https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss|Russia's offensive ability is broken, Kyiv's former top general tells BBC
+1791869178|https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week|Pope Leo to enter hospital on Tuesday for surgery on lung nodule this week
+1791869185|https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/society/south-korea-military-exemption-rethink/|South Korea soccer players’ boasts spark rethink of military service exemptions
+1791869192|https://www.japantimes.co.jp/news/2026/10/13/japan/society/kumamoto-railway-lines-reopen/|All railway lines in areas affected by Kumamoto quake in July back in service
+1791869200|https://www.japantimes.co.jp/sports/2026/10/13/baseball/mlb/brewers-dodgers-guardians-rays/|Brewers beat Dodgers as Guardians rally past Rays in MLB playoffs
