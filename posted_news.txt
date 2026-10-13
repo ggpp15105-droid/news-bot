@@ -1,8 +1,3 @@
-1791504061|https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab|Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab
-1791504069|https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs|The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs
-1791504076|https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them|Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them
-1791504083|https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion|GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion
-1791505658|https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss|Will Ethiopia’s neighbours intervene as Tigray war escalates?
 1791505663|https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss|Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait
 1791505668|https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss|Kenyan patient suspected of Ebola infection tests negative
 1791505674|https://www.aa.com.tr/en/eurasia/explainer-how-has-russia-ukraine-fighting-intensified-since-september/4082846|EXPLAINER - How has Russia-Ukraine fighting intensified since September?
@@ -1998,3 +1993,8 @@
 1791906817|https://www.france24.com/en/french-youth-demand-answers-as-education-protests-enter-third-week|French youth demand answers as education protests enter third week
 1791906823|https://www.france24.com/en/europe/20261013-spanish-royals-visit-ceuta-amid-tensions-with-morocco-over-migrant-influx|Spanish royals visit Ceuta amid tensions with Morocco over migrant influx
 1791906829|https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests|South Africa suspends asylum applications amid renewed anti-immigrant protests
+1791907724|https://www.aljazeera.com/video/newsfeed/2026/10/13/france-seizes-tanker-suspected-of-belonging-to-russias-shadow-fleet?traffic_source=rss|France seizes tanker suspected of belonging to Russia’s shadow fleet
+1791907730|https://www.aljazeera.com/news/2026/10/13/swedens-centre-left-leader-fails-in-second-bid-to-form-government?traffic_source=rss|Sweden’s centre-left leader fails in second bid to form government
+1791907734|https://www.france24.com/en/france-student-anger-rages-as-tear-gas-and-fires-hit-paris|France: Student anger rages as tear gas and fires hit Paris
+1791907739|https://www.france24.com/en/video/20261013-from-paris-to-marseille-high-school-protests-continue-across-france|From Paris to Marseille, high school protests continue across France
+1791907745|https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html|Trump's diesel deal with Russia equals less than two weeks of U.S. demand
