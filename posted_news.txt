@@ -1,8 +1,3 @@
-1791501628|https://www.dw.com/en/man-injured-after-new-york-shooting-involving-dhs-agents/a-79606159?maca=en-rss-en-all-1573-rdf|Man injured after New York shooting involving DHS agents
-1791501634|https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html|S&P 500 futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates
-1791501640|https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover|"It's clear that we both adore one another's games a lot" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven
-1791501646|https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1|Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros
-1791502549|https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss|Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC
 1791502556|https://www.ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay|Jay and Silent Bob’s Joint Venture Trailer and Game Details Revealed for Weed Farming Sim | NYCC 2026
 1791502564|https://www.ign.com/articles/smile-2-star-kyle-gallner-wants-to-play-v-in-paramounts-cyberpunk-2077-movie|Smile 2 Star Kyle Gallner Wants to Play V in Paramount’s Cyberpunk 2077 Movie
 1791502572|https://www.eurogamer.net/2xko-sett-announcement-final-update|Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month
@@ -1998,3 +1993,8 @@
 1791903211|https://www.france24.com/en/tv-shows/arts24/20261013-musical-trailblazer-lakecia-benjamin-from-chasing-prince-to-touring-with-stevie-wonder|Musical trailblazer Lakecia Benjamin: From chasing Prince to touring with Stevie Wonder
 1791903216|https://news.sky.com/story/formula-one-to-return-to-africa-as-rwanda-race-confirmed-for-early-2030s-13598765|Formula One to return to Africa for first time in 30 years
 1791903224|https://www.euronews.com/2026/10/13/apple-gets-smart-in-your-home-from-homeview-to-smart-door-locks-heres-what-to-know|Apple gets smart in your home. From ‘HomeView’ to smart door locks, here’s what to know
+1791904240|https://www.aljazeera.com/news/2026/10/13/why-has-search-of-ilhan-omars-home-before-us-midterms-caused-controversy?traffic_source=rss|Why has search of Ilhan Omar’s home before US midterms caused controversy?
+1791904246|https://www.france24.com/en/in-brazil-thousands-march-fearing-return-of-bolsonaro-presidency|In Brazil, thousands march fearing return of Bolsonaro presidency
+1791904252|https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say|Oil facility near Yemen capital Sanaa hit by Saudi Arabia, Houthis say
+1791904259|https://www.france24.com/en/france-student-protesters-want-to-keep-the-pressure-up-on-the-government|France: Student protesters want to 'keep the pressure up on the government'
+1791904266|https://www.euronews.com/2026/10/13/russia-funnels-nearly-half-its-budget-into-defence-cutting-social-spending|Russia funnels nearly half its budget into defence, cutting social spending
