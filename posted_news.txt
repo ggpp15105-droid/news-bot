@@ -1,8 +1,3 @@
-1791524054|https://www.japantimes.co.jp/business/2026/10/09/companies/germany-kadewe-japan-rice/|Department store in Berlin to offer high-end Japanese rice on trial basis
-1791524060|https://www.japantimes.co.jp/environment/2026/10/09/climate-change/rain-climate-chiba-japan/|Extreme rain is testing Japan’s flood defences
-1791524066|https://www.japantimes.co.jp/business/2026/10/09/companies/rakuten-medical-light-cancer-therapy/|Rakuten Medical eyes U.S. market for its novel idea to conquer cancer
-1791524073|https://www.japantimes.co.jp/sports/2026/10/09/baseball/guardians-avoid-elimination-alds/|Hard-hitting Guardians beat White Sox to force decisive fifth game in ALDS
-1791525068|https://www.dw.com/en/two-german-officials-shot-dead-during-routine-gun-inspection-in-bavaria-suspect-arrested-after-overnight-standoff/live-79607225?maca=en-rss-en-all-1573-rdf|Two German officials shot dead during routine gun inspection in Bavaria; suspect arrested after overnight standoff
 1791525073|https://www.euronews.com/2026/10/09/are-eurozone-bond-markets-warning-of-a-recession-as-growth-slows|Are eurozone bond markets warning of a recession as growth slows?
 1791525080|https://www.aa.com.tr/en/americas/mexico-to-investigate-video-footage-showing-suspected-cartel-members-deployed-in-ukraine/4082859|Mexico to investigate video footage showing suspected cartel members deployed in Ukraine
 1791525085|https://lenta.ru/news/2026/10/09/rossiyskie-voennye-udarili-po-mostu-na-odnom-iz-napravleniy-svo/|Российские военные ударили по мосту на одном из направлений СВО
@@ -1998,3 +1993,8 @@
 1791933457|https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss|Mauritius imposes curfew after night of unrest over police shooting
 1791933463|https://www.aa.com.tr/en/asia-pacific/pakistan-urges-us-iran-to-honor-peace-agreement-amid-rising-gulf-tensions/4087922|Pakistan urges US, Iran to honor peace agreement amid rising Gulf tensions
 1791933469|https://www.aa.com.tr/en/middle-east/netanyahu-may-launch-military-operation-before-election-to-stay-in-power-israeli-opposition-leader/4087920|Netanyahu may launch military operation before election to stay in power: Israeli opposition leader
+1791935055|https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html|Goldman says investors are looking for 'profitable' Chinese business growth overseas
+1791935060|https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html|Stock futures are little changed as traders await consumer inflation report: Live updates
+1791935066|https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html|Bank of America fined $1.2 billion over money-laundering violations
+1791935072|https://www.aa.com.tr/en/middle-east/saudi-arabia-issues-all-clear-in-2-central-governorates-after-emergency-warning/4087886|Saudi Arabia issues all-clear in 2 central governorates after emergency warning
+1791935080|https://www.aa.com.tr/en/world/5th-albaraka-summit-opens-in-london-bringing-together-global-islamic-finance-leaders/4087881|5th AlBaraka Summit opens in London, bringing together global Islamic finance leaders
