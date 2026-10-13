@@ -1,8 +1,3 @@
-1791463688|https://www.aljazeera.com/video/newsfeed/2026/10/8/sri-lanka-arrests-ex-president-rajapaksas-wife-in-graft-case?traffic_source=rss|Sri Lanka arrests ex-President Rajapaksa’s wife in graft case
-1791463694|https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss|Why has Iraq devalued its currency, and why are some MPs against it?
-1791463700|https://www.aljazeera.com/video/counting-the-cost/2026/10/8/can-emergency-reserves-ease-the-diesel-crisis?traffic_source=rss|Can emergency reserves ease the diesel crisis?
-1791463705|https://www.aljazeera.com/video/newsfeed/2026/10/8/hegseth-address-sailors-in-pushup-apology-and-trump-impression?traffic_source=rss|Hegseth address sailors in pushup apology and Trump impression
-1791486351|https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss|Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture
 1791486359|https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss|Residents airlifted to safety after flooding in central Chile
 1791486365|https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss|Israel opens first-ever pavilion at Morocco defence show
 1791486372|https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss|Colombian embassy to open in Jerusalem, Israeli FM says
@@ -1998,3 +1993,8 @@
 1791881940|https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf|Germany's China calculation shifts as import pressures eclipse export benefits
 1791881947|https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html|Anthropic warns AI models could soon copy themselves across home devices
 1791881954|https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html|In charts: How one of the world's biggest economies got trapped by debt
+1791882804|https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss|Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador
+1791882809|https://www.france24.com/en/france-braces-for-fresh-nationwide-student-demonstrations|France braces for fresh nationwide student demonstrations
+1791882815|https://www.france24.com/en/live-news/20261013-imf-upgrades-2026-growth-forecast-but-warns-of-split-outlook-1|IMF upgrades 2026 growth forecast but warns of 'split' outlook
+1791882822|https://www.euronews.com/2026/10/13/a-talking-glove-a-90-second-health-check-and-a-drone-interceptor-meet-uzbekistans-young-in|A talking glove, a 90-second health check and a drone interceptor: Meet Uzbekistan’s young inventors
+1791882829|https://www.euronews.com/2026/10/13/lvmh-sales-miss-growth-forecasts-as-china-luxury-demand-slows|LVMH sales miss growth forecasts as China luxury demand slows
