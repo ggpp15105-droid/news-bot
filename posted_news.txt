@@ -1,8 +1,3 @@
-1791434638|https://www.euronews.com/2026/10/08/former-sri-lankan-first-lady-shiranthi-rajapaksa-arrested-on-charges-of-misusing-donation-|Former Sri Lankan first lady Shiranthi Rajapaksa arrested on charges of misusing donation funds and corruption
-1791434645|https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update|Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update
-1791434649|https://lenta.ru/news/2026/10/08/nazvany-prichiny-vozniknoveniya-allergii-na-holod/|Названы причины возникновения аллергии на холод
-1791434654|https://lenta.ru/news/2026/10/08/pod-harkovom-unichtozhili-krupnyy-punkt-perebroshennyh-iz-kieva-kolumbiyskih-naemnikov/|Под Харьковом уничтожили крупный пункт переброшенных из Киева колумбийских наемников
-1791435517|https://www.aljazeera.com/video/newsfeed/2026/10/8/trump-interrupted-by-protesters-at-texas-rally?traffic_source=rss|Trump interrupted by protesters at Texas rally
 1791435522|https://news.sky.com/story/worlds-largest-penguin-colony-shrinks-two-thirds-in-just-14-years-13596336|World's largest penguin colony shrinks two-thirds in just 14 years
 1791435529|https://www.japantimes.co.jp/business/2026/10/08/companies/tdk-bidding-war-ai-data-center/|AI data-center boom ignites bidding war for critical TDK unit
 1791435538|https://lenta.ru/news/2026/10/08/v-uregulirovanii-konflikta-na-blizhnem-vostoke-uvideli-riski-dlya-rublya/|В урегулировании конфликта на Ближнем Востоке увидели риски для рубля
@@ -1998,3 +1993,8 @@
 1791849407|https://lenta.ru/news/2026/10/13/long-on-dolzhen-sosredotochitsya-na-sdelke-tramp-rezko-otvetil-zelenskomu-v-kieve-oschuschayut-posledstviya-ih-novoy-ssory/|«Он должен сосредоточиться на сделке». Трамп резко ответил Зеленскому. В Киеве ощущают последствия их новой ссоры
 1791849412|https://lenta.ru/news/2026/10/13/v-ssha-predrekli-katastrofu-v-sluchae-otveta-rossii-na-initsiativy-frantsii-po-yadernomu-oruzhiyu/|В США предрекли катастрофу в случае ответа России на инициативы Франции по ядерному оружию
 1791849416|https://www.kommersant.ru/doc/9025082|Болгария запросила помощь ЕС и НАТО в расследовании атаки на суда в Черном море
+1791850156|https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss|Houthi missile attack targets Saudi capital Riyadh for third day in a row
+1791850162|https://www.aa.com.tr/en/turkiye/turkiye-urges-israel-to-stop-reckless-attacks-in-syria/4086708|Türkiye urges Israel to stop ‘reckless’ attacks in Syria
+1791850171|https://lenta.ru/news/2026/10/13/devushka-obnaruzhila-u-sebya-neobychnuyu-reaktsiyu-na-oralnyy-seks/|Девушка обнаружила у себя необычную реакцию на оральный секс
+1791850180|https://lenta.ru/news/2026/10/13/eks-prodyusera-laskovogo-maya-pereob-yavili-v-rozysk/|Экс-продюсера «Ласкового мая» переобъявили в розыск
+1791850189|https://www.kommersant.ru/doc/9025083|Трамп: Путин заинтересован в сделке по Украине больше Зеленского
