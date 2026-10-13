@@ -1,8 +1,3 @@
-1791487300|https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss|Hurricane Isaias charges towards the US Gulf Coast with dangerous winds
-1791487306|https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss|Syria calls for independent probe into sinking of ship in Black Sea
-1791487313|https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf|South Africa: Anti-migrant protests turn violent
-1791487319|https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf|US will not resume strikes on Iran before midterms — Trump
-1791488303|https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss|Man City charges: Maresca says players focused on Liverpool test
 1791488309|https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss|‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award
 1791488315|https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss|Philippines ex-President Duterte fit to stand trial, ICC rules
 1791488322|https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf|France: Police clash with protesters at Paris student rally
@@ -1998,3 +1993,8 @@
 1791884122|https://www.france24.com/en/spain-s-king-visits-ceuta-amid-tensions-with-morocco|Spain’s king visits Ceuta amid tensions with Morocco
 1791884128|https://www.france24.com/en/airlines-suspend-flights-to-riyadh-amid-security-fears|Airlines suspend flights to Riyadh amid security fears
 1791884135|https://www.france24.com/en/cyberattack-hits-hundreds-of-french-supermarkets-spoiling-millions-of-euros-in-food|Cyberattack hits hundreds of French supermarkets, spoiling millions of euros in food
+1791885314|https://www.aljazeera.com/features/2026/10/13/air-france-risks-breaking-the-law-by-adopting-israels-nationality-policy?traffic_source=rss|Air France says it will follow Israeli rule barring crew from some nations
+1791885319|https://www.aljazeera.com/video/newsfeed/2026/10/13/dozens-of-journalists-in-india-detained-while-covering-anti-govt-protests?traffic_source=rss|Dozens of journalists in India detained while covering anti-gov’t protests
+1791885325|https://www.france24.com/en/tv-shows/business/20261013-imf-global-economic-forecast-shows-resilience-under-strain|IMF global economic forecast shows 'resilience under strain'
+1791885330|https://news.sky.com/story/number-of-people-dead-after-house-fire-in-waterford-13598691|Number of people dead after house fire in Waterford
+1791885336|https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html|French supermarket fridges get hacked, heating to 122°F and sparking fires
