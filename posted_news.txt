@@ -1,8 +1,3 @@
-1791539348|https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize|South Africa's Navi Pillay wins 2026 Nobel Peace Prize
-1791539355|https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru|Left-wing candidate Hitler Mussolini wins local vote in Peru
-1791539362|https://www.euronews.com/2026/10/09/frozen-testicular-tissue-transplanted-in-bid-to-restore-fertility-after-chemotherapy|Frozen testicular tissue transplanted in bid to restore fertility after chemotherapy
-1791539368|https://www.euronews.com/2026/10/09/german-logistics-group-rhenus-plans-up-to-14-terminals-along-the-middle-corridor|German logistics group Rhenus plans up to 14 terminals along the Middle Corridor
-1791540159|https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss|Fort Hood survivor supports gunman's execution by firing squad but questions livestream
 1791540165|https://www.euronews.com/2026/10/09/french-authorities-arrests-at-least-five-people-over-9-million-theft-from-renoir-museum|French authorities arrests at least five people over €9 million theft from Renoir Museum
 1791540173|https://www.euronews.com/2026/10/09/intense-diplomatic-manoeuvring-in-athens-over-first-russian-team-in-european-tournament|Intense diplomatic manoeuvring in Athens over first Russian team in European tournament
 1791540180|https://www.japantimes.co.jp/news/2026/10/09/japan/japan-mental-health-compensation-claims/|Japan sees record number of workers’ compensation approvals for mental health in fiscal 2025
@@ -1998,3 +1993,8 @@
 1791958006|https://www.euronews.com/2026/10/14/europe-today-spanish-fm-on-euronews-black-sea-drone-attacks-eu-china-reset|Europe Today: Spanish FM on Euronews, Black Sea drone attacks, EU-China reset
 1791958013|https://www.euronews.com/2026/10/14/gothic-getaways-un-adulting-and-trip-snacking-expedia-unpacks-its-travel-trends-for-2027|Gothic getaways, un-adulting and trip snacking: Expedia ‘unpacks’ its top travel trends for 2027
 1791958020|https://www.euronews.com/2026/10/14/fifa-proposes-55bn-football-development-fund-amid-infantino-scrutiny|FIFA proposes €5.5bn football development fund amid Infantino scrutiny
+1791960198|https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss|Sudan cannot afford to dismiss a chance for dialogue
+1791960202|https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead|🔴Ukraine live: Russia's 'targeted' strikes on energy leave 600,000 without power, Zelensky says
+1791960210|https://www.euronews.com/2026/10/14/european-security-council-new-idea-or-a-repackaged-hybrid-toolbox|European Security Council: New idea or a repackaged hybrid toolbox?
+1791960216|https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz|Oil prices rise after reported attacks on ships in Strait of Hormuz
+1791960223|https://www.euronews.com/2026/10/14/zelenskyy-turns-to-european-allies-as-washington-wavers|Zelenskyy turns to European allies as Washington wavers
