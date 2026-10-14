@@ -1,8 +1,3 @@
-1791561384|https://www.france24.com/en/france/20261009-le-pen-top-ally-bardella-faces-fresh-claims-he-sought-to-cover-up-past-anti-semitic-comments|Le Pen's top ally Bardella faces fresh claims he sought to cover up past anti-Semitic comments
-1791561391|https://www.france24.com/en/tv-shows/talking-europe/20261009-eu-s-covid-recovery-fund-was-absolutely-a-success-european-court-of-auditors-pierre-moscovici|EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici
-1791561398|https://www.euronews.com/2026/10/09/irans-irgc-strikes-tanker-and-threatens-to-target-vessels-beyond-hormuz|Iran's IRGC strikes tanker and threatens to target vessels beyond Hormuz
-1791561404|https://www.japantimes.co.jp/business/2026/10/09/companies/prudential-business-suspension-order/|Japan’s Prudential Life ordered to halt operations for over three months
-1791562183|https://www.dw.com/en/macron-and-steinmeier-struggle-to-revive-franco-german-ties/a-79618635?maca=en-rss-en-all-1573-rdf|Macron and Steinmeier struggle to revive Franco-German ties
 1791562189|https://www.cnbc.com/2026/10/09/american-debt-delinquency.html|Americans' debt problems are flashing a warning not seen since the Great Recession
 1791562194|https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html|Trump appoints committee to investigate statements by the Fed's Lisa Cook
 1791562200|https://www.aa.com.tr/en/world/ai-sector-gathers-at-ai-everything-event-in-abu-dhabi/4083819|AI sector gathers at Ai Everything event in Abu Dhabi
@@ -1998,3 +1993,8 @@
 1791999403|https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss|Settlers attack Palestinian mosque near occupied East Jerusalem
 1791999408|https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss|Kenya’s health ministry confirms second Ebola case
 1791999413|https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss|Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals
+1792001302|https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss|Ex-UK army chef jailed for ‘terror’-related offence
+1792001309|https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf|Nord Stream trial opens in Germany, defense seeks dismissal
+1792001317|https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf|Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow
+1792001324|https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders|‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders
+1792001330|https://www.france24.com/en/the-idea-that-modi-must-be-feared-because-he-holds-all-levers-of-power-has-gone-out-of-the-window|‘The idea that Modi must be feared because he holds all levers of power has gone out of the window’
