@@ -1,8 +1,3 @@
-1791563295|https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss|Trump launches probe into Federal Reserve Governor Lisa Cook
-1791563300|https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss|‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize
-1791563308|https://www.japantimes.co.jp/life/2026/10/10/language/nisa-poverty-japanese-investing/|Saving for the future is making some investors ‘NISA broke’
-1791563316|https://www.aa.com.tr/en/world/eu-calls-us-sanctions-announcement-against-international-criminal-court-deeply-regrettable/4083767|EU calls US sanctions announcement against International Criminal Court 'deeply regrettable'
-1791564355|https://www.euronews.com/2026/10/09/latvias-border-guard-seeks-greater-powers-amid-increasingly-violent-border-crossings|Latvia’s border guard seeks greater powers amid increasingly violent border crossings
 1791564361|https://www.aa.com.tr/en/world/un-chief-condemns-us-sanctions-against-international-criminal-court-warns-of-serious-blow-to-justice/4083864|UN chief condemns US sanctions against International Criminal Court, warns of 'serious blow' to justice
 1791564367|https://www.aa.com.tr/en/world/us-sanctions-against-international-criminal-court-draw-opposition-as-countries-warn-of-impact-on-its-work/4083858|US sanctions against International Criminal Court draw opposition as countries warn of impact on its work
 1791564374|https://www.aa.com.tr/en/world/icc-strongly-rejects-us-sanctions-against-court-says-it-will-continue-work-with-independence-impartiality/4083842|ICC strongly rejects US sanctions against court, says it will continue work 'with independence, impartiality'
@@ -1998,3 +1993,8 @@
 1792003517|https://news.sky.com/story/pope-thanks-wellwishers-for-prayers-after-cancer-operation-13599253|Pope thanks wellwishers for prayers after cancer operation
 1792003522|https://news.sky.com/story/worlds-oldest-shipwreck-found-off-turkish-coast-archaeologists-say-13599286|World's oldest shipwreck found off Turkish coast
 1792003527|https://news.sky.com/story/children-killed-in-waterford-arson-attack-named-as-family-calls-for-culprit-to-own-up-13599219|Children killed in arson attack named - as family calls for culprit to 'own up'
+1792005508|https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss|Bangladesh arrests two for luring locals to fight for Russia in Ukraine
+1792005514|https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss|Israel’s former security chief sues Netanyahu for October 7 defamation
+1792005521|https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story|Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story
+1792005529|https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html|Container ship sinks in Strait of Hormuz as Iran steps up attacks
+1792005534|https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html|Treasury says largest U.S. banks let politics influence who received banking services
