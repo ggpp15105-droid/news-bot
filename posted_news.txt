@@ -1,8 +1,3 @@
-1791554722|https://www.france24.com/en/video/20261009-russia-says-all-clear-after-contact-tracing-in-reported-plague-case|Russia says all clear after contact tracing in reported plague case
-1791554729|https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel|No peace without international law: The message behind Navi Pillay’s Nobel
-1791554734|https://www.france24.com/en/video/20261009-french-high-school-students-react-to-education-minister-s-measures|French high school students react to Education Minister’s measures
-1791554740|https://www.france24.com/en/tv-shows/access-asia/20261009-india-protests-grow-over-election-commission-mistrust|India protests grow over Election Commission mistrust
-1791555996|https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss|Ethiopia and Eritrea accuse one another of launching war
 1791556002|https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss|Bangladesh’s mango diplomacy with India has reached its limits
 1791556006|https://news.sky.com/story/a-gang-of-masked-men-stole-42m-worth-of-red-wine-from-marchesi-antinori-italys-largest-family-run-producer-13596841|Gang of masked men stole £4.2m worth of red wine from Italy
 1791556014|https://www.euronews.com/2026/10/09/un-voices-concern-over-violence-as-french-students-plan-more-protests|UN voices 'concern' over violence as French students plan more protests
@@ -1998,3 +1993,8 @@
 1791987645|https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf|Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief
 1791987652|https://www.dw.com/en/germany-news-merz-attacks-extremes-for-fueling-division/live-79656436?maca=en-rss-en-all-1573-rdf|Germany news: Merz attacks extremes for fueling division
 1791987658|https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks|Houthis say targeted Saudi oil giant Aramco, vow more attacks
+1791989706|https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf|Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan
+1791989712|https://www.dw.com/en/indonesian-vip-prison-scandal-exposes-inequality-across-southeast-asia/a-79659535?maca=en-rss-en-all-1573-rdf|Indonesian VIP prison scandal exposes inequality across Southeast Asia
+1791989717|https://www.france24.com/en/americas/20261014-in-phoenix-young-ultra-conservatives-look-to-carry-on-charlie-kirk-s-legacy|In Phoenix, young ultra-conservatives look to carry on Charlie Kirk’s legacy
+1791989722|https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit|Ceuta an 'inalienable' part of Spain, king says on key visit
+1791989727|https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen|Ukraine accuses SpaceX of crippling military missions as ties with US worsen
