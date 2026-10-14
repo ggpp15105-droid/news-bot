@@ -1,8 +1,3 @@
-1791531931|https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html|OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'
-1791531939|https://www.euronews.com/video/2026/10/09/chile-santiago-flooding-turns-streets-to-rivers-as-kast-declares-state-of-catastrophe|Chile: Santiago flooding turns streets to rivers as Kast declares state of catastrophe
-1791531946|https://www.euronews.com/2026/10/09/hungarys-2026-drought-is-the-countrys-most-severe-in-126-years-data-shows|Hungary's 2026 drought is the country's most severe in 126 years, data shows
-1791531955|https://www.japantimes.co.jp/news/2026/10/09/japan/science-health/japan-flu-cases-jump/|As influenza cases rise, residents rush to get flu shots
-1791532865|https://www.euronews.com/2026/10/09/eu-may-need-to-cut-winter-gas-demand-by-7-as-storage-hits-record-low-ieefa-warns|EU may need to cut winter gas demand by 7% as storage hits record low, IEEFA warns
 1791532871|https://www.euronews.com/video/2026/10/09/latest-attacks-on-ukraine-are-war-crimes-done-by-putin-says-ukrainian-politician|Latest attacks on Ukraine are ‘war crimes done by Putin’, says Ukrainian politician
 1791532879|https://www.euronews.com/video/2026/10/09/cars-burned-and-shops-looted-as-anti-immigration-protests-rock-south-africa|Cars burned and shops looted as anti-immigration protests rock South Africa
 1791532887|https://www.japantimes.co.jp/environment/2026/10/09/wildlife/indonesia-fire-orangutan-rescue/|Walking through flames: Orangutan rescued in Indonesia fires
@@ -1998,3 +1993,8 @@
 1791945566|https://www.japantimes.co.jp/news/2026/10/14/japan/rice-harvest-fall/|Japan’s 2026 rice harvest projected to fall 1%
 1791945573|https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/|SoftBank junk bond sale raises stakes for CEO Son’s all-in AI bet
 1791945580|https://www.japantimes.co.jp/news/2026/10/14/japan/japan-soft-power-diplomacy/|Japan works to promote soft power diplomacy using manga and anime
+1791947214|https://www.aljazeera.com/news/2026/10/14/un-human-rights-council-elects-15-members-in-uncontested-vote?traffic_source=rss|UN Human Rights Council elects 15 members in uncontested vote
+1791947221|https://www.japantimes.co.jp/news/2026/10/14/japan/society/osaka-aging-water-system/|Osaka grapples with severely aging water and sewage systems
+1791947228|https://www.japantimes.co.jp/business/2026/10/14/companies/chinese-automakers-mass-market-vehicles/|Legacy carmakers risk losing mass market to Chinese rivals
+1791947236|https://www.japantimes.co.jp/news/2026/10/14/japan/egypt-schools-japanese-classes/|‘Egypt-Japan Schools’ in Egypt introduce Japanese classes
+1791947242|https://www.aa.com.tr/en/americas/us-justice-department-subpoenas-relatives-of-rep-ilhan-omar-report/4087947|US Justice Department subpoenas relatives of Rep. Ilhan Omar: Report
