@@ -1,8 +1,3 @@
-1791540165|https://www.euronews.com/2026/10/09/french-authorities-arrests-at-least-five-people-over-9-million-theft-from-renoir-museum|French authorities arrests at least five people over €9 million theft from Renoir Museum
-1791540173|https://www.euronews.com/2026/10/09/intense-diplomatic-manoeuvring-in-athens-over-first-russian-team-in-european-tournament|Intense diplomatic manoeuvring in Athens over first Russian team in European tournament
-1791540180|https://www.japantimes.co.jp/news/2026/10/09/japan/japan-mental-health-compensation-claims/|Japan sees record number of workers’ compensation approvals for mental health in fiscal 2025
-1791540186|https://www.japantimes.co.jp/business/2026/10/09/tech/travel-companies-data-breach/|Data leaks at travel companies could impact millions of customer records
-1791541386|https://www.aljazeera.com/sports/2026/10/9/aja-wilson-wins-her-third-straight-wnba-mvp-and-record-fifth-overall?traffic_source=rss|A’ja Wilson wins her third straight WNBA MVP and record fifth overall
 1791541392|https://www.france24.com/en/video/20261009-suspected-plague-case-highlights-russia-s-inherited-soviet-era-culture-of-secrecy|Suspected plague case highlights Russia’s inherited Soviet-era culture of secrecy
 1791541398|https://www.france24.com/en/video/20261009-as-protests-continue-half-of-france-reportedly-backs-high-school-student-movement|As protests continue, half of France reportedly backs high school student movement
 1791541405|https://www.euronews.com/2026/10/09/houthi-missile-strikes-kill-three-at-riyadh-airport-including-airline-captain|Houthi missile strikes kill three at Riyadh airport including airline captain
@@ -1998,3 +1993,8 @@
 1791960210|https://www.euronews.com/2026/10/14/european-security-council-new-idea-or-a-repackaged-hybrid-toolbox|European Security Council: New idea or a repackaged hybrid toolbox?
 1791960216|https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz|Oil prices rise after reported attacks on ships in Strait of Hormuz
 1791960223|https://www.euronews.com/2026/10/14/zelenskyy-turns-to-european-allies-as-washington-wavers|Zelenskyy turns to European allies as Washington wavers
+1791962809|https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss|Russian strikes hit key power plant in Kyiv, Zelensky says
+1791962815|https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss|Turkey police raid opposition TV station, halting live broadcasts
+1791962821|https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss|Photos: Student protest in Albania prompts violent clashes with police
+1791962827|https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf|The hidden treasure in discarded wearable and fast tech
+1791962832|https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland|Trump says 'massive' oil, gas and mineral exploration to begin in Greenland
