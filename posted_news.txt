@@ -1,8 +1,3 @@
-1791553870|https://www.euronews.com/2026/10/09/sounds-of-mexico-brings-mexican-orchestral-music-to-doha|Sounds of Mexico brings Mexican orchestral music to Doha
-1791553877|https://www.euronews.com/2026/10/09/the-second-time-around-meet-the-men-who-run-the-pre-owned-luxury-watch-market|The second time around: Meet the men who run the pre-owned luxury watch market
-1791553884|https://www.euronews.com/2026/10/09/helsinki-votes-in-favour-of-banning-fossil-fuel-adverts-but-there-could-be-a-10-year-delay|Helsinki votes in favour of banning fossil fuel adverts – but there could be a 10-year delay
-1791553891|https://www.euronews.com/2026/10/09/police-and-protesters-clash-in-brussels-as-anti-austerity-rally-disrupts-city|Police and protesters clash in Brussels as anti-austerity rally disrupts city
-1791554716|https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf|Saudi coalition vows 'firm' response after airport attack kills 3
 1791554722|https://www.france24.com/en/video/20261009-russia-says-all-clear-after-contact-tracing-in-reported-plague-case|Russia says all clear after contact tracing in reported plague case
 1791554729|https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel|No peace without international law: The message behind Navi Pillay’s Nobel
 1791554734|https://www.france24.com/en/video/20261009-french-high-school-students-react-to-education-minister-s-measures|French high school students react to Education Minister’s measures
@@ -1998,3 +1993,8 @@
 1791986188|https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss|How AI apps are offering free substitutes for Big Tech software
 1791986193|https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss|What we know about OpenAI engineer arrested over office spying
 1791986199|https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss|Iran targets Starlink as ‘tool of war’ with hints of more internet curbs
+1791987631|https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss|Colombia inaugurates embassy to Israel in Jerusalem
+1791987637|https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss|Two scenarios for the Yemen war
+1791987645|https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf|Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief
+1791987652|https://www.dw.com/en/germany-news-merz-attacks-extremes-for-fueling-division/live-79656436?maca=en-rss-en-all-1573-rdf|Germany news: Merz attacks extremes for fueling division
+1791987658|https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks|Houthis say targeted Saudi oil giant Aramco, vow more attacks
