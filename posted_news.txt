@@ -1,8 +1,3 @@
-1791550526|https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf|Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows
-1791550533|https://www.france24.com/en/tv-shows/truth-or-fake/20261009-no-the-french-army-did-not-deploy-tanks-against-protesting-students|No, the French army did not deploy tanks against protesting students
-1791550538|https://www.france24.com/en/france/20261009-renoir-paintings-stolen-from-french-riviera-museum-recovered-six-people-arrested|Renoir paintings stolen from French Riviera museum recovered, six suspects arrested
-1791550546|https://www.euronews.com/2026/10/09/35-killed-in-strikes-on-ukraines-donetsk-region-as-russia-reports-four-dead-across-belgoro|35 killed in strikes on Ukraine's Donetsk region as Russia reports four dead across Belgorod
-1791551438|https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf|Is China seeking to restrict Taiwan's cultural presence?
 1791551444|https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf|Art for freedom: Maria Kalesnikava in Bonn
 1791551449|https://www.france24.com/en/environment/20261009-france-s-seafood-problem-starts-elsewhere|France’s seafood problem starts elsewhere
 1791551453|https://www.euronews.com/2026/10/09/virgin-unveils-new-train-designs-and-plans-for-its-cross-channel-service-linking-london-an|Virgin unveils new train designs and plans for its cross-Channel service linking London and Europe from 2030
@@ -1998,3 +1993,8 @@
 1791979662|https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf|Ukraine says Musk's SpaceX limits Kyiv's Starlink access
 1791979669|https://www.france24.com/en/tv-shows/perspective/20261014-trump-s-crackdown-on-migrants-new-documentary-investigates-ice-operations|Trump's crackdown on migrants: New documentary investigates ICE operations
 1791979675|https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces|Macron says French student protesters 'exploited' by political forces
+1791981852|https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss|Fulham manager Arbeloa fined for Man Utd refereeing outburst
+1791981857|https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss|Do any of these Israeli candidates support a Palestinian state?
+1791981863|https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial|Guinea-Bissau denies it has approved controversial vaccine trial in newborns
+1791981868|https://news.sky.com/story/more-explosions-heard-in-saudi-arabia-as-pressure-mounts-on-us-to-respond-13599168|More explosions heard in Saudi Arabia as pressure mounts on US to respond
+1791981876|https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html|Iran says it’s ‘counting the moments’ until it can attack American warships; Saudi Aramco facilities attacked as Houthi attacks escalate
