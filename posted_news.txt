@@ -1,8 +1,3 @@
-1791552709|https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss|Child flees as Israeli settlers hijack car during pogrom
-1791552716|https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss|Ukraine takes aim at Russia’s AI data infrastructure
-1791552723|https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html|Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries
-1791552731|https://www.euronews.com/video/2026/10/09/indonesia-baby-orangutan-saved-from-borneo-wildfires-as-habitat-destruction-escalates|Indonesia: Baby orangutan saved from Borneo wildfires as habitat destruction escalates
-1791553863|https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss|Ethiopia warns Eritrea it will defend itself after troops cross border
 1791553870|https://www.euronews.com/2026/10/09/sounds-of-mexico-brings-mexican-orchestral-music-to-doha|Sounds of Mexico brings Mexican orchestral music to Doha
 1791553877|https://www.euronews.com/2026/10/09/the-second-time-around-meet-the-men-who-run-the-pre-owned-luxury-watch-market|The second time around: Meet the men who run the pre-owned luxury watch market
 1791553884|https://www.euronews.com/2026/10/09/helsinki-votes-in-favour-of-banning-fossil-fuel-adverts-but-there-could-be-a-10-year-delay|Helsinki votes in favour of banning fossil fuel adverts – but there could be a 10-year delay
@@ -1998,3 +1993,8 @@
 1791984168|https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss|Colombia opens embassy in Jerusalem and restores free trade with Israel
 1791984175|https://www.dw.com/en/germany-news-merz-sets-out-eu-priorities-after-urging-reforms/live-79656436?maca=en-rss-en-all-1573-rdf|Germany news: Merz sets out EU priorities after urging reforms
 1791984181|https://www.france24.com/en/tv-shows/entre-nous/20261014-french-mps-back-bill-to-tackle-sexual-and-gender-based-violence|French MPs back bill to tackle sexual and gender-based violence
+1791986176|https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss|US inflation rises more than expected ahead of midterm elections
+1791986182|https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss|UK restaurateur claims losses after video calling for Gaza destruction
+1791986188|https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss|How AI apps are offering free substitutes for Big Tech software
+1791986193|https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss|What we know about OpenAI engineer arrested over office spying
+1791986199|https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss|Iran targets Starlink as ‘tool of war’ with hints of more internet curbs
