@@ -1,8 +1,3 @@
-1791528719|https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss|Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro
-1791528726|https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-rdf|Malaysia shuts schools amid toxic haze from Indonesian fires
-1791528731|https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests|Tens of thousands march in Madrid to mourn pensioner whose eviction sparked housing protests
-1791528738|https://www.euronews.com/2026/10/09/france-faces-perfect-storm-of-student-unrest-and-economic-turmoil|France faces perfect storm of student unrest and economic turmoil
-1791529679|https://www.euronews.com/video/2026/10/09/rima-hassan-denies-throwing-the-eu-flag-to-the-floor-at-7-october-commemoration|Rima Hassan denies throwing the EU flag to the floor at 7 October commemoration
 1791529686|https://www.euronews.com/2026/10/09/the-funniest-animal-photos-of-2026-nikon-comedy-wildlife-awards-finalists-revealed|The funniest animal photos of 2026: Nikon Comedy Wildlife Awards finalists revealed
 1791529694|https://www.japantimes.co.jp/news/2026/10/09/asia-pacific/science-health/modi-india-ai-age-pushback/|Modi wants India to power the AI age. Residents are pushing back.
 1791529701|https://www.japantimes.co.jp/news/2026/10/09/japan/politics/consumption-tax-bill-submit/|Government to submit bill on food consumption tax reduction to parliament
@@ -1998,3 +1993,8 @@
 1791940744|https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies|Kyiv power plant hit by Russian missile without warning from allies
 1791940751|https://www.cnbc.com/2026/10/14/cnbc-daily-open-diesel-energy-apple-anthropic-imf.html|CNBC Daily Open: Diesel deal may not be enough to curb high energy prices
 1791940758|https://www.japantimes.co.jp/news/2026/10/14/world/politics/donald-trump-threatens-ceos-foreign/|Trump threatens CEOs as tactic against allies, Canada’s ex-finance minister says
+1791942509|https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss|US fines Bank of America $1.2bn for money laundering, sanctions violations
+1791942517|https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss|Namibia battles cattle disease outbreak as EU suspends several meat imports
+1791942524|https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html|China's exports likely grew by double-digits in September
+1791942532|https://www.japantimes.co.jp/news/2026/10/14/japan/former-nhk-president-dead/|Ex-NHK President Nobuo Inaba dies at 75
+1791942539|https://www.japantimes.co.jp/news/2026/10/14/world/crime-legal/saudi-openai-fbi-arrest-bug/|FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says
