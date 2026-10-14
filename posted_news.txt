@@ -1,8 +1,3 @@
-1791536203|https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown|US targets Microsoft, Adobe in new visa crackdown
-1791536211|https://www.euronews.com/video/2026/10/09/former-new-zealand-pm-associate-membership-with-brussels-very-interesting-for-the-country|Former New Zealand PM: Associate membership with Brussels "very interesting" for the country
-1791536219|https://www.euronews.com/2026/10/09/police-arrest-suspect-after-deadly-shooting-in-germanys-upper-palatinate|Police arrest suspect after deadly shooting in Germany's Upper Palatinate
-1791536226|https://www.euronews.com/2026/10/09/fire-hoses-are-britains-nuclear-submarines-only-defence-against-drone-attacks-reports-say|'Fire hoses' are Britain's nuclear submarine's only defence against drone attacks, reports say
-1791537039|https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss|NBA star Wembanyama to French students: ‘I hear you’
 1791537044|https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss|New York police push politician to ground during anti-ICE protest
 1791537051|https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss|Japan’s Okinawa calls for review of US forces pact after killing
 1791537058|https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss|US ICE releases Kashmiri filmmaker Arfat Sheikh from custody
@@ -1998,3 +1993,8 @@
 1791952768|https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss|Saudi-born engineer for OpenAI arrested for planting listening bug
 1791952774|https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss|UN official says ‘window of opportunity’ for peace in DR Congo
 1791952779|https://news.sky.com/story/the-us-journalist-who-became-putins-political-prisoner-with-evan-gershkovich-13598924|The US journalist who became Putin's political prisoner | with Evan Gershkovich
+1791954537|https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html|'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts
+1791954544|https://www.euronews.com/2026/10/14/frances-emissions-are-falling-as-fuel-prices-soar-why-is-it-still-missing-climate-targets|France’s emissions are falling as fuel prices soar. Why is it still missing climate targets?
+1791954551|https://www.euronews.com/2026/10/14/winter-energy-bills-where-are-gas-and-electricity-prices-highest-in-europe|Winter energy bills: Where are gas and electricity prices highest in Europe?
+1791954558|https://www.euronews.com/2026/10/14/global-health-is-a-team-sport-world-health-summit-in-berlin|"Global health is a team sport": World Health Summit in Berlin
+1791954565|https://www.japantimes.co.jp/news/2026/10/14/japan/china-aircraft-carrier-western-pacific-japan/|China sends aircraft carrier group into western Pacific
