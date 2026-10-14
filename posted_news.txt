@@ -1,8 +1,3 @@
-1791562189|https://www.cnbc.com/2026/10/09/american-debt-delinquency.html|Americans' debt problems are flashing a warning not seen since the Great Recession
-1791562194|https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html|Trump appoints committee to investigate statements by the Fed's Lisa Cook
-1791562200|https://www.aa.com.tr/en/world/ai-sector-gathers-at-ai-everything-event-in-abu-dhabi/4083819|AI sector gathers at Ai Everything event in Abu Dhabi
-1791562206|https://www.aa.com.tr/en/world/us-voices-concern-over-houthi-escalation-condemns-attacks-on-saudi-arabia/4083771|US voices concern over Houthi escalation, condemns attacks on Saudi Arabia
-1791563289|https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss|Thousands rally for anti-austerity protest in Brussels amid clashes
 1791563295|https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss|Trump launches probe into Federal Reserve Governor Lisa Cook
 1791563300|https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss|‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize
 1791563308|https://www.japantimes.co.jp/life/2026/10/10/language/nisa-poverty-japanese-investing/|Saving for the future is making some investors ‘NISA broke’
@@ -1998,3 +1993,8 @@
 1792001317|https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf|Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow
 1792001324|https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders|‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders
 1792001330|https://www.france24.com/en/the-idea-that-modi-must-be-feared-because-he-holds-all-levers-of-power-has-gone-out-of-the-window|‘The idea that Modi must be feared because he holds all levers of power has gone out of the window’
+1792003507|https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss|Real Madrid’s Vinicius banned for Clasico after hair-pull red card
+1792003513|https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss|How six Ukrainian divers could have blown up Russia’s $20bn pipelines
+1792003517|https://news.sky.com/story/pope-thanks-wellwishers-for-prayers-after-cancer-operation-13599253|Pope thanks wellwishers for prayers after cancer operation
+1792003522|https://news.sky.com/story/worlds-oldest-shipwreck-found-off-turkish-coast-archaeologists-say-13599286|World's oldest shipwreck found off Turkish coast
+1792003527|https://news.sky.com/story/children-killed-in-waterford-arson-attack-named-as-family-calls-for-culprit-to-own-up-13599219|Children killed in arson attack named - as family calls for culprit to 'own up'
