@@ -1,8 +1,3 @@
-1791567195|https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows|Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows
-1791567200|https://www.aa.com.tr/en/world/dutch-premier-vows-to-do-whatever-is-needed-to-defend-icc-amid-announced-us-sanctions/4083912|Dutch premier vows to 'do whatever is needed' to defend ICC amid announced US sanctions
-1791567207|https://www.aa.com.tr/en/world/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-political-settlement/4083905|UN envoy warns Yemen has returned to 'full-scale war,' urges political settlement
-1791567212|https://www.aa.com.tr/en/world/japan-expresses-deep-concern-over-us-sanctions-on-international-criminal-court/4083884|Japan expresses ‘deep concern’ over US sanctions on International Criminal Court
-1791568187|https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss|Drone strike kills 30 people in Sudan’s Blue Nile region
 1791568193|https://www.ign.com/articles/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early-access|Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access
 1791568199|https://www.ign.com/articles/october-humble-choice-2026|October’s Humble Choice Has Dropped – Get Like a Dragon: Pirate Yakuza in Hawaii and 7 More PC Games for $15
 1791568204|https://www.ign.com/articles/wardogs-season-2-adds-a-new-gambling-mechanic-that-lets-you-bet-on-yourself|Wardogs Season 2 Adds a New Gambling Mechanic That Lets You Bet on Yourself
@@ -1998,3 +1993,8 @@
 1792014127|https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss|Israeli quadcopter drone drops bomb in Lebanon
 1792014133|https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss|Families of Trinidadian men killed in US boat strike demand accountability
 1792014138|https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss|Sky turns orange as wildfires rage across Indonesia
+1792015788|https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss|Real Madrid come from 3-1 down to beat Roma on Champions League travels
+1792015795|https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss|PSG beat Man City 4-2 in Champions League thriller
+1792015802|https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss|Colombia opposition groups launch protest against de la Espriella’s cuts
+1792015808|https://www.france24.com/en/sport/20261014-psg-beat-manchester-city-champions-league|PSG beat Manchester City in Champions League after financial rules verdict
+1792015816|https://www.france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting|French anti-terror investigators probe True Crime Community link to school shooting
