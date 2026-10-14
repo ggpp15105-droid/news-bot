@@ -1,8 +1,3 @@
-1791541392|https://www.france24.com/en/video/20261009-suspected-plague-case-highlights-russia-s-inherited-soviet-era-culture-of-secrecy|Suspected plague case highlights Russia’s inherited Soviet-era culture of secrecy
-1791541398|https://www.france24.com/en/video/20261009-as-protests-continue-half-of-france-reportedly-backs-high-school-student-movement|As protests continue, half of France reportedly backs high school student movement
-1791541405|https://www.euronews.com/2026/10/09/houthi-missile-strikes-kill-three-at-riyadh-airport-including-airline-captain|Houthi missile strikes kill three at Riyadh airport including airline captain
-1791541412|https://www.japantimes.co.jp/business/2026/10/09/economy/thailand-economic-test/|Nearly 30 years after IMF rescue, Thailand faces new economic test
-1791542444|https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss|Thieves steal 30,000 wine bottles worth €5m in Italy, reports say
 1791542449|https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss|Nobel chair admits they haven’t reached Peace Prize winner Pillay
 1791542457|https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026|Isaias strengthens to become first Atlantic hurricane of 2026 season
 1791542464|https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize|ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
@@ -1998,3 +1993,8 @@
 1791962821|https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss|Photos: Student protest in Albania prompts violent clashes with police
 1791962827|https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf|The hidden treasure in discarded wearable and fast tech
 1791962832|https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland|Trump says 'massive' oil, gas and mineral exploration to begin in Greenland
+1791964821|https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss|How Israel’s ‘Yellow Line’ is reshaping southern Lebanon
+1791964829|https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss|Yamal magic helps Barcelona beat Galatasaray in Champions League
+1791964836|https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss|Ex-DRC President Joseph Kabila joins hands with M23 rebels: Why it matters
+1791964842|https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss|Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes
+1791964848|https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss|‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv
