@@ -1,8 +1,3 @@
-1791530890|https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss|Afghanistan’s emerald miners struggle with tools but attract global buyers
-1791530897|https://www.japantimes.co.jp/news/2026/10/09/japan/okinawa-assembly-resolution-us-pact/|Okinawa resolution calls for revision of U.S. forces pact after murder
-1791530904|https://www.aa.com.tr/en/eurasia/russia-seeks-extradition-of-9-icc-officials-convicted-in-absentia/4082898|Russia seeks extradition of 9 ICC officials convicted in absentia
-1791530912|https://www.ign.com/articles/silver-pines-is-the-silent-hill-metroidvania-mash-up-i-never-knew-i-needed|Silver Pines Is the Silent Hill Metroidvania Mash-Up I Never Knew I Needed
-1791531924|https://www.dw.com/en/nobel-peace-prize-2026-set-to-be-announced/live-79598020?maca=en-rss-en-all-1573-rdf|Nobel Peace Prize 2026 set to be announced
 1791531931|https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html|OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'
 1791531939|https://www.euronews.com/video/2026/10/09/chile-santiago-flooding-turns-streets-to-rivers-as-kast-declares-state-of-catastrophe|Chile: Santiago flooding turns streets to rivers as Kast declares state of catastrophe
 1791531946|https://www.euronews.com/2026/10/09/hungarys-2026-drought-is-the-countrys-most-severe-in-126-years-data-shows|Hungary's 2026 drought is the country's most severe in 126 years, data shows
@@ -1998,3 +1993,8 @@
 1791943885|https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html|Producer prices in China rise at fastest pace since June 2022, beating expectations
 1791943891|https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html|Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia
 1791943896|https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html|South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032
+1791945552|https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss|Violence in Pakistan over emergency rule in Imran Khan stronghold
+1791945560|https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html|Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says
+1791945566|https://www.japantimes.co.jp/news/2026/10/14/japan/rice-harvest-fall/|Japan’s 2026 rice harvest projected to fall 1%
+1791945573|https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/|SoftBank junk bond sale raises stakes for CEO Son’s all-in AI bet
+1791945580|https://www.japantimes.co.jp/news/2026/10/14/japan/japan-soft-power-diplomacy/|Japan works to promote soft power diplomacy using manga and anime
