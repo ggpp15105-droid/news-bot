@@ -1,8 +1,3 @@
-1791566225|https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss|Russian search engine Yandex struggles after Ukrainian strikes on data centres
-1791566233|https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf|China, EU reach deal to 'moderate' China's car exports to EU
-1791566237|https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11|🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says
-1791566243|https://www.france24.com/en/video/20261009-unweaving-jeffrey-epstein-s-web-what-the-files-have-revealed|Unweaving Jeffrey Epstein’s web: What the files have revealed
-1791567188|https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss|Palestinians seek protection from violent settlers during olive harvest
 1791567195|https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows|Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows
 1791567200|https://www.aa.com.tr/en/world/dutch-premier-vows-to-do-whatever-is-needed-to-defend-icc-amid-announced-us-sanctions/4083912|Dutch premier vows to 'do whatever is needed' to defend ICC amid announced US sanctions
 1791567207|https://www.aa.com.tr/en/world/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-political-settlement/4083905|UN envoy warns Yemen has returned to 'full-scale war,' urges political settlement
@@ -1998,3 +1993,8 @@
 1792008993|https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing|Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing
 1792008999|https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres|Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres
 1792009004|https://www.france24.com/en/trump-sparks-outrage-over-ai-tiger-video-after-sharing-footage-of-fatal-uk-attack-1|Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack
+1792014114|https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss|Student protesters attack government buildings in Tirana
+1792014122|https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss|West Indies beat India to level T20 series as Hope continues record run
+1792014127|https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss|Israeli quadcopter drone drops bomb in Lebanon
+1792014133|https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss|Families of Trinidadian men killed in US boat strike demand accountability
+1792014138|https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss|Sky turns orange as wildfires rage across Indonesia
