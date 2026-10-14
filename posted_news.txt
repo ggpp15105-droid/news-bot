@@ -1,8 +1,3 @@
-1791525815|https://www.france24.com/en/americas/20261009-families-reunited-as-uss-lincoln-comes-home-after-troubled-gulf-deployment|Families reunited as USS Lincoln comes home after record 9-month deployment
-1791525821|https://www.euronews.com/2026/10/09/qatarenergys-lng-expansion-targets-early-2027-production-amid-reports-of-3bn-loan|QatarEnergy’s LNG expansion targets early 2027 production amid reports of $3bn loan
-1791525827|https://lenta.ru/news/2026/10/09/srok/|Для назвавшего генерала-коллаборациониста Власова мучеником иеромонаха потребовали срок
-1791525832|https://lenta.ru/news/2026/10/09/nazvany-pretendenty-na-nobelevskuyu-premiyu-mira/|Названы претенденты на Нобелевскую премию мира
-1791527269|https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss|From Aden to Sanaa, Yemenis struggle to deal with soaring living costs
 1791527274|https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss|How October 7 changed Lebanon and Hezbollah’s political reality
 1791527281|https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-rdf|India: Cockroach Janta Party leaders allege mass detentions ahead of Delhi protest, decry 'emergency'
 1791527287|https://www.euronews.com/2026/10/09/europe-today-french-students-retake-bastille-trump-unwilling-to-help-ukraine|Europe Today: French students 'retake Bastille', Trump 'unwilling' to help Ukraine
@@ -1998,3 +1993,8 @@
 1791936338|https://www.aa.com.tr/en/middle-east/netanyahu-rejects-return-of-displaced-palestinians-to-northern-west-bank-refugee-camps/4087942|Netanyahu rejects return of displaced Palestinians to northern West Bank refugee camps
 1791936344|https://www.ign.com/articles/peak-has-been-leaked-for-ps5-by-the-esrb|Peak Has Been Leaked for PS5 by the ESRB
 1791936350|https://www.ign.com/articles/will-you-be-taking-time-off-work-or-school-for-gta-6s-release-next-month|Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?
+1791938554|https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss|Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east
+1791938560|https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss|OpenAI engineer charged after listening device found in meeting room
+1791938567|https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss|Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder
+1791938573|https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html|Singapore third-quarter GDP growth softens from four-year high but beats estimates
+1791938581|https://www.japantimes.co.jp/news/2026/10/14/world/saudi-aramco-building-attack-houthis/|Saudi Aramco administrative building attacked, limited fire reported
