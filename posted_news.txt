@@ -1,8 +1,3 @@
-1791559303|https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf|Author or artificial intelligence? Literature in crisis
-1791559310|https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html|China and Europe agree to cut Chinese hybrid vehicle exports by half
-1791559318|https://www.euronews.com/2026/10/09/former-prince-andrew-receives-302000-for-surrendering-royal-lease|Former Prince Andrew receives £302,000 for surrendering royal lease
-1791559325|https://www.euronews.com/2026/10/09/which-european-countries-are-winning-the-tech-funding-race|Which European countries are winning the tech funding race?
-1791560344|https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss|US sanctions International Criminal Court itself in latest escalation
 1791560351|https://www.aljazeera.com/news/2026/10/9/trumps-planned-dc-arch-faces-new-lawsuit?traffic_source=rss|Trump’s planned DC arch faces new lawsuit
 1791560358|https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-rdf|Eritrean troops in Ethiopia raise fears of a regional war
 1791560364|https://www.france24.com/en/tv-shows/fashion/20261009-2027-spring-summer-ready-to-wear-collections-audacity-movement-and-sensuality|2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality
@@ -1998,3 +1993,8 @@
 1791995509|https://www.aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence?traffic_source=rss|Jerusalem Daily: UN demands Israel do more to stop settler violence
 1791995515|https://www.aljazeera.com/sports/2026/10/14/ronaldos-among-three-saudi-arabia-games-postponed-due-to-houthi-attacks?traffic_source=rss|Ronaldo’s among three Saudi Arabia games postponed due to Houthi attacks
 1791995522|https://www.aljazeera.com/economy/2026/10/14/us-inflation-rises-before-midterm-elections-fuelling-rate-hike-fears?traffic_source=rss|US inflation rises before midterm elections, fuelling rate hike fears
+1791997572|https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss|Fire erupts at Albania’s Education Ministry as protests enter third day
+1791997577|https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss|At least two security officials killed near Iran’s critical Chabahar port
+1791997584|https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf|Turkey: Government raids, takes over top news channel
+1791997589|https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit|Houthis threaten escalation after strike on Saudi oil giant Aramco
+1791997593|https://news.sky.com/story/ukrainian-on-trial-in-germany-over-war-crime-bombing-of-nord-stream-pipeline-13599215|Ukrainian on trial in Germany over gas pipeline bombing
