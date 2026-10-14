@@ -1,8 +1,3 @@
-1791544206|https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates|Houthi strikes on Riyadh airport killed three Saudis as war escalates
-1791544212|https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html|India calls JD Vance's comments about immigrants 'deeply offensive'
-1791544218|https://www.euronews.com/video/2026/10/09/i-still-want-to-verify-this-nobel-peace-prize-winner-navi-pillays-first-reaction|‘I still want to verify this’: Nobel Peace Prize winner Navi Pillay’s first reaction
-1791544224|https://www.euronews.com/2026/10/09/ukrainian-and-european-officials-fly-to-miami-for-us-led-peace-talks|Ukrainian and European officials fly to Miami for US-led peace talks
-1791545157|https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers?traffic_source=rss|‘Indentured servants’: US green card move will hit thousands of IT workers
 1791545162|https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss|‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news
 1791545169|https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss|Labour fends off the Green party in closely watched UK by-election
 1791545174|https://www.france24.com/en/video/20261009-pentagon-vows-to-livestream-first-military-execution-in-decades|Pentagon vows to livestream first military execution in decades
@@ -1998,3 +1993,8 @@
 1791968931|https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-all-1573-rdf|Do non-German nationals commit more crimes than Germans?
 1791968936|https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize|ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
 1791968942|https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026|Isaias strengthens to become first Atlantic hurricane of 2026 season
+1791970471|https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss|China’s exports surge amid AI-driven demand
+1791970477|https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-all-1573-rdf|Fact check: Misleading graph about alleged Russian bot activity
+1791970483|https://www.france24.com/en/tv-shows/business/20261014-nvidia-s-huang-announces-new-investments-in-french-tech-sector|Nvidia's Huang announces new investments in French tech sector
+1791970489|https://www.france24.com/en/europe/20261014-ukraine-says-starlink-restricted-operations-overnight-disrupting-military-missions|Ukraine says Starlink restricted operations overnight, disrupting military missions
+1791970495|https://www.france24.com/en/asia-pacific/20261014-dark-day-for-turkey-pro-opposition-tv-channel-boss-slams-police-raid-broadcast-halt|‘Dark day for Turkey’: Pro-opposition TV channel boss slams police raid, broadcast halt
