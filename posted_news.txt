@@ -1,8 +1,3 @@
-1791525073|https://www.euronews.com/2026/10/09/are-eurozone-bond-markets-warning-of-a-recession-as-growth-slows|Are eurozone bond markets warning of a recession as growth slows?
-1791525080|https://www.aa.com.tr/en/americas/mexico-to-investigate-video-footage-showing-suspected-cartel-members-deployed-in-ukraine/4082859|Mexico to investigate video footage showing suspected cartel members deployed in Ukraine
-1791525085|https://lenta.ru/news/2026/10/09/rossiyskie-voennye-udarili-po-mostu-na-odnom-iz-napravleniy-svo/|Российские военные ударили по мосту на одном из направлений СВО
-1791525090|https://lenta.ru/news/2026/10/09/real-obygral-partizan-v-evrolige/|«Реал» обыграл «Партизан» в Евролиге
-1791525810|https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing|Morocco and Senegal await AFCON final verdict after arbitration hearing
 1791525815|https://www.france24.com/en/americas/20261009-families-reunited-as-uss-lincoln-comes-home-after-troubled-gulf-deployment|Families reunited as USS Lincoln comes home after record 9-month deployment
 1791525821|https://www.euronews.com/2026/10/09/qatarenergys-lng-expansion-targets-early-2027-production-amid-reports-of-3bn-loan|QatarEnergy’s LNG expansion targets early 2027 production amid reports of $3bn loan
 1791525827|https://lenta.ru/news/2026/10/09/srok/|Для назвавшего генерала-коллаборациониста Власова мучеником иеромонаха потребовали срок
@@ -1998,3 +1993,8 @@
 1791935066|https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html|Bank of America fined $1.2 billion over money-laundering violations
 1791935072|https://www.aa.com.tr/en/middle-east/saudi-arabia-issues-all-clear-in-2-central-governorates-after-emergency-warning/4087886|Saudi Arabia issues all-clear in 2 central governorates after emergency warning
 1791935080|https://www.aa.com.tr/en/world/5th-albaraka-summit-opens-in-london-bringing-together-global-islamic-finance-leaders/4087881|5th AlBaraka Summit opens in London, bringing together global Islamic finance leaders
+1791936325|https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss|Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines
+1791936332|https://www.aa.com.tr/en/middle-east/palestinian-factions-to-hold-preparatory-talks-in-cairo-ahead-of-broader-dialogue/4087943|Palestinian factions to hold preparatory talks in Cairo ahead of broader dialogue
+1791936338|https://www.aa.com.tr/en/middle-east/netanyahu-rejects-return-of-displaced-palestinians-to-northern-west-bank-refugee-camps/4087942|Netanyahu rejects return of displaced Palestinians to northern West Bank refugee camps
+1791936344|https://www.ign.com/articles/peak-has-been-leaked-for-ps5-by-the-esrb|Peak Has Been Leaked for PS5 by the ESRB
+1791936350|https://www.ign.com/articles/will-you-be-taking-time-off-work-or-school-for-gta-6s-release-next-month|Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?
