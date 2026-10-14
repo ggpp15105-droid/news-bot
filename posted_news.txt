@@ -1,8 +1,3 @@
-1791571378|https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss|‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution
-1791571386|https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss|AI deepfake ads grow more popular in US midterm campaigns, blurring truth
-1791571392|https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss|Gaza ceasefire ‘exists in name only’, more than 100 NGOs say
-1791571399|https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning|🔴 Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning
-1791572347|https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss|Katie Zacharia ‘offered” position as White House press secretary
 1791572353|https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine|France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine
 1791572361|https://www.euronews.com/2026/10/09/tsunami-threat-after-76-magnitude-earthquake-strikes-panama-usgs-says|Tsunami threat after 7.6-magnitude earthquake strikes Panama, USGS says
 1791572369|https://www.aa.com.tr/en/world/amnesty-international-urges-states-to-resist-us-sanctions-targeting-icc/4083971|Amnesty International urges states to resist US sanctions targeting ICC
@@ -1998,3 +1993,8 @@
 1792020395|https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles|North Korea test-fires submarine-launched cruise missiles amid rising tensions
 1792020403|https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html|S&P 500 futures fall as traders await more U.S. economic data: Live updates
 1792020410|https://www.japantimes.co.jp/news/2026/10/14/japan/theater-developmental-issues/|Program helps children with developmental issues through theater
+1792021708|https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf|North Korea says it tested cruise missiles to be launched from sub
+1792021714|https://www.japantimes.co.jp/culture/2026/10/14/books/zen-ghibli-book-toshio-suzuki/|‘Zen and Ghibli’ doesn’t lecture. It teaches contemplation.
+1792021720|https://www.japantimes.co.jp/news/2026/10/14/japan/politics/takaichi-cabinet-yana-parliament-resigns/|Scandal-hit agriculture minister Yana announces resignation
+1792021727|https://www.aa.com.tr/en/americas/trump-says-he-wants-to-see-pope-leo-get-well/4089152|Trump says he wants to see Pope Leo 'get well'
+1792021732|https://www.aa.com.tr/en/middle-east/israeli-prison-guards-shoot-palestinian-prisoners-with-rubber-bullets-leaving-them-severely-injured-report/4089150|Israeli prison guards shoot Palestinian prisoners with rubber bullets, leaving them severely injured: Report
