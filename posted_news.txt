@@ -1,8 +1,3 @@
-1791565280|https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss|DHS defends ICE shooting in NYC, says officers believed they were in danger
-1791565286|https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss|‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank
-1791565291|https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009|Flydubai co-pilot planned to crash aircraft into Ben Gurion airport, UAE says
-1791565299|https://www.ign.com/articles/wardogs-new-rain-system-will-have-a-major-effect-on-gameplay-in-season-2|Wardogs' New Rain System Will Have a Major Effect on Gameplay in Season 2
-1791566218|https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss|US unveils sanctions on ICC in move court condems as 'assault on rule of law'
 1791566225|https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss|Russian search engine Yandex struggles after Ukrainian strikes on data centres
 1791566233|https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf|China, EU reach deal to 'moderate' China's car exports to EU
 1791566237|https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11|🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says
@@ -1998,3 +1993,8 @@
 1792007425|https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html|CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge
 1792007431|https://www.euronews.com/2026/10/14/florences-maricarmen-94-year-old-faces-losing-her-home-of-60-years-as-rent-nearly-triples|Florence’s 'Maricarmen': 94-year-old faces losing her home of 60 years as rent nearly triples
 1792007438|https://www.euronews.com/2026/10/14/are-hungary-and-the-eu-friends-again-the-ring-in-budapest|Are Hungary and the EU friends again? The Ring in Budapest
+1792008983|https://www.aljazeera.com/video/inside-story/2026/10/14/how-will-a-new-alliance-affect-the-conflict-in-eastern-drc?traffic_source=rss|How will a new alliance affect the conflict in eastern DRC?
+1792008988|https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss|US lifts sanctions on Venezuela’s top legislator
+1792008993|https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing|Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing
+1792008999|https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres|Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres
+1792009004|https://www.france24.com/en/trump-sparks-outrage-over-ai-tiger-video-after-sharing-footage-of-fatal-uk-attack-1|Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack
