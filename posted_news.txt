@@ -1,8 +1,3 @@
-1791549127|https://www.france24.com/en/tv-shows/the-51/20261009-foreign-aid-to-africa-falls-by-over-25-how-women-and-children-are-bearing-the-brunt|Foreign aid to Africa falls by over 25%: How women and children are bearing the brunt
-1791549133|https://www.france24.com/en/tv-shows/reporters/20261009-india-dowry-curse-outlawed-practice-remains-deeply-entrenched|India's dowry curse: Outlawed practice remains deeply entrenched
-1791549138|https://www.japantimes.co.jp/environment/2026/10/09/climate-change/jma-el-nino-record-strength/|Weather-roiling El Nino hits record strength, Japan weather agency says
-1791549143|https://www.japantimes.co.jp/news/2026/10/09/japan/politics/koizumi-space-defense/|Japan to launch research study on rapid-response space transport
-1791550517|https://www.aljazeera.com/news/2026/10/9/satire-silenced-indian-artists-face-censorship-as-anti-modi-protests-grow?traffic_source=rss|Satire silenced: Indian artists face censorship as anti-Modi protests grow
 1791550526|https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf|Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows
 1791550533|https://www.france24.com/en/tv-shows/truth-or-fake/20261009-no-the-french-army-did-not-deploy-tanks-against-protesting-students|No, the French army did not deploy tanks against protesting students
 1791550538|https://www.france24.com/en/france/20261009-renoir-paintings-stolen-from-french-riviera-museum-recovered-six-people-arrested|Renoir paintings stolen from French Riviera museum recovered, six suspects arrested
@@ -1998,3 +1993,8 @@
 1791977905|https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss|Settlers set fire to mosque in West Bank as Israeli forces raid villages
 1791977912|https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss|Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah
 1791977918|https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss|Russia’s arrest of Japanese journalist: Why are tensions rising?
+1791979646|https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss|Saudi-led coalition intercepts Houthi missile launched towards Riyadh
+1791979654|https://www.dw.com/en/china-s-influence-in-the-gaming-industry/a-79484755?maca=en-rss-en-all-1573-rdf|China's influence in the gaming industry
+1791979662|https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf|Ukraine says Musk's SpaceX limits Kyiv's Starlink access
+1791979669|https://www.france24.com/en/tv-shows/perspective/20261014-trump-s-crackdown-on-migrants-new-documentary-investigates-ice-operations|Trump's crackdown on migrants: New documentary investigates ICE operations
+1791979675|https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces|Macron says French student protesters 'exploited' by political forces
