@@ -1,8 +1,3 @@
-1791535188|https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-rdf|Bosnia and Herzegovina will soon have a new Grand Mufti
-1791535195|https://www.dw.com/en/india-cockroach-party-denied-permission-to-protest-in-delhi-founder-dipke-pushes-on/live-79606961?maca=en-rss-en-all-1573-rdf|India: Cockroach party denied permission to protest in Delhi, founder Dipke pushes on
-1791535202|https://www.euronews.com/video/2026/10/09/violence-is-not-general-in-french-students-protests-mep-says|Violence is 'not general' in French students protests, MEP says
-1791535208|https://www.euronews.com/2026/10/09/scientific-study-reveals-scariest-horror-movie-with-one-2026-title-breaking-heart-rate-rec|Scientific study reveals scariest horror movie – with one 2026 title breaking heart rate record
-1791536197|https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss|Russian strikes and approaching winter force many in Kyiv to pack bags and flee
 1791536203|https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown|US targets Microsoft, Adobe in new visa crackdown
 1791536211|https://www.euronews.com/video/2026/10/09/former-new-zealand-pm-associate-membership-with-brussels-very-interesting-for-the-country|Former New Zealand PM: Associate membership with Brussels "very interesting" for the country
 1791536219|https://www.euronews.com/2026/10/09/police-arrest-suspect-after-deadly-shooting-in-germanys-upper-palatinate|Police arrest suspect after deadly shooting in Germany's Upper Palatinate
@@ -1998,3 +1993,8 @@
 1791950877|https://www.france24.com/en/middle-east/20261014-live-saudi-arabia-reports-aramco-building-hit-and-four-wounded-in-houthi-missile-attacks|Live: Saudi Arabia reports Aramco building hit and four wounded in Houthi missile attacks
 1791950885|https://www.japantimes.co.jp/sports/2026/10/14/baseball/mlb/ohtani-game-3/|Dodgers to stick with out-of-form Ohtani
 1791950893|https://www.japantimes.co.jp/sports/2026/10/14/more-sports/matthew-brady-tkachuk-history/|Tkachuk brothers make NHL history as Panthers top Blue Jackets
+1791952754|https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss|China and North Korea to open New Yalu River Bridge, state media reports
+1791952761|https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss|Singapore’s economy grows more than 5 percent amid AI boom
+1791952768|https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss|Saudi-born engineer for OpenAI arrested for planting listening bug
+1791952774|https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss|UN official says ‘window of opportunity’ for peace in DR Congo
+1791952779|https://news.sky.com/story/the-us-journalist-who-became-putins-political-prisoner-with-evan-gershkovich-13598924|The US journalist who became Putin's political prisoner | with Evan Gershkovich
