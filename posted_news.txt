@@ -1,8 +1,3 @@
-1791595725|https://lenta.ru/news/2026/10/10/ryad-rossiyan-poluchit-pensii-za-noyabr-dosrochno/|Ряд россиян получит пенсии за ноябрь досрочно
-1791596672|https://www.japantimes.co.jp/business/2026/10/10/companies/beer-maker-leaders-price-cartel/|Beer maker leaders may have been aware of price cartel
-1791596677|https://lenta.ru/news/2026/10/10/tramp-posle-razgovora-s-putinym-sdelal-zayavlenie-o-konflikte-na-ukraine/|Трамп после разговора с Путиным сделал заявление о конфликте на Украине
-1791596682|https://lenta.ru/news/2026/10/10/nazvany-regiony-rossii-so-sredney-zarplatoy-vyshe-100-tysyach-rubley/|Названы регионы России со средней зарплатой выше 100 тысяч рублей
-1791596686|https://lenta.ru/news/2026/10/10/u-pribaltiki-poyavilsya-nebesnyy-schit-ot-rossii/|У Прибалтики появился «небесный щит» от России
 1791596691|https://www.kommersant.ru/doc/9023651|Трамп: конфликт России и Украины скоро будет урегулирован
 1791597501|https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss|Two Renoir paintings recovered after France museum heist, mayor says
 1791597508|https://www.japantimes.co.jp/news/2026/10/10/japan/politics/tax-cut-36000-takaichi/|Tax cut to bring ¥36,000 benefit per citizen, Takaichi says
@@ -1998,3 +1993,8 @@
 1792068198|https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf|Romania: 2 ships on fire in Black Sea, 7 crew missing
 1792068205|https://www.dw.com/en/hamburg-court-sentences-iranian-agents-over-plans-to-attack-jewish-leaders-in-germany/a-79667895?maca=en-rss-en-all-1573-rdf|Hamburg court sentences Iranian agents over plans to attack Jewish leaders in Germany
 1792068211|https://www.france24.com/en/video/20261015-elon-musk-and-donald-trump-what-their-growing-ties-mean-for-ukraine|Elon Musk and Donald Trump: What their growing ties mean for Ukraine
+1792070604|https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-ukraine-angry-at-us-sv?traffic_source=rss|Ukrainians lash out at Trump as Zelenskyy warns of US betrayal
+1792070610|https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties?traffic_source=rss|Photos: China and North Korea open new border bridge amid deepening ties
+1792070617|https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf|Starlink: How Elon Musk's company influences geopolitics
+1792070623|https://www.france24.com/en/video/20261015-chad-s-icc-exit-plans-raise-concerns-over-sudan-war-crimes-probes|Chad’s ICC exit plans raise concerns over Sudan war crimes probes
+1792070629|https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes|Ukraine's Zelensky defies Trump with Russian refinery strikes
