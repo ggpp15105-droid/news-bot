@@ -1,8 +1,3 @@
-1791610581|https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html|AI is changing how lawyers work — and putting the billable hour under pressure
-1791611399|https://www.euronews.com/2026/10/10/crashout-ragebait-or-peak-germanys-youth-word-of-2026|'Crashout', 'Ragebait' or 'Peak': Want to know which word is favoured by Germany's youth?
-1791611406|https://www.japantimes.co.jp/news/2026/10/10/japan/gcap-germany-join-japan/|Germany eyes joining GCAP fighter jet project with U.K, Italy and Japan
-1791611413|https://www.japantimes.co.jp/news/2026/10/10/japan/politics/japan-us-icc-takaichi-trump/|Takaichi again in a bind as U.S. threatens to ‘end’ ICC
-1791611418|https://lenta.ru/news/2026/10/10/britanskaya-armiya-stolknulas-s-neobychnoy-problemoy/|Британская армия столкнулась с необычной проблемой
 1791611424|https://lenta.ru/news/2026/10/10/putin-dogovorilsya-s-trampom-o-prodolzhenii-sotrudnichestva-spetssluzhb/|Путин договорился с Трампом о продолжении сотрудничества спецслужб
 1791612047|https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss|US hosts ‘productive’ trilateral talks to end Russia-Ukraine war
 1791612053|https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss|Israel’s economy prospers despite years of war, but prices worry voters
@@ -1998,3 +1993,8 @@
 1792098654|https://www.france24.com/en/eu-member-states-set-for-budget-clash|EU member states set for budget clash
 1792098659|https://www.france24.com/en/saudi-arabia-postpones-major-sporting-events-amid-houthi-attacks|Saudi Arabia postpones major sporting events amid Houthi attacks
 1792098664|https://www.france24.com/en/kinshasa-braces-for-potential-conflict-as-kabila-joins-m23|Kinshasa braces for potential conflict as Kabila joins M23
+1792100455|https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss|Several people dead or missing after Istanbul floods
+1792100461|https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss|ICE tactics spark debate before pivotal US midterm elections
+1792100466|https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss|Robots dance the ‘Macarena’ at Japan tech expo
+1792100470|https://news.sky.com/story/neanderthals-capable-of-both-violence-and-care-bones-from-iraqi-cave-suggest-13599736|Neanderthals capable of both violence and care, bones from Iraqi cave suggest
+1792100477|https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html|Porsche reveals Mission S concept car that previews new design identity
