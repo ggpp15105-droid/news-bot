@@ -1,8 +1,3 @@
-1791585768|https://www.aa.com.tr/en/americas/trump-says-iran-failing-badly-keeps-military-option-open/4084135|Trump says Iran 'failing badly,' keeps military option open
-1791585777|https://lenta.ru/news/2026/10/10/tramp-odnim-slovom-otvetil-na-vopros-o-kritike-so-storony-zelenskogo/|Трамп одним словом ответил на вопрос о критике со стороны Зеленского
-1791585788|https://www.kommersant.ru/doc/9023349|Путин обсудил с Трампом Украину, Иран и поставки российского топлива в США
-1791585792|https://tass.ru/kultura/28200455|В "Современнике" прошел вечер-спектакль в честь 100-летия Евстигнеева
-1791586624|https://lenta.ru/news/2026/10/10/v-rossii-otsenili-vstrechu-lavrova-s-glavoy-mid-germanii/|В России оценили встречу Лаврова с главой МИД Германии
 1791586633|https://www.kommersant.ru/doc/9023358|Ушаков рассказал, как Путин и Трамп не хотели заканчивать разговор
 1791586638|https://tass.ru/kosmos/28200457|Китай запустил 27-ю группу спутников связи SatNet
 1791586642|https://tass.ru/politika/28200447|Насыщенный и дружеский разговор. Ушаков о беседе президентов России и США
@@ -1998,3 +1993,8 @@
 1792049036|https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf|EU summit to focus on China, Ukraine and bloc budget
 1792049043|https://www.euronews.com/2026/10/15/2027-budget-french-cinema-fears-a-catastrophic-scenario|2027 budget: French cinema fears a catastrophic scenario
 1792049050|https://www.euronews.com/video/2026/10/15/eus-top-diplomat-says-trumps-russian-diesel-deal-was-a-gift-to-putin|EU's top diplomat says Trump's Russian diesel deal was a gift to Putin
+1792051208|https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss|Russian nuclear-powered submarine fires missiles during Pacific drills
+1792051214|https://www.aljazeera.com/news/2026/10/15/backlash-in-kashmir-over-proposal-for-uniform-friday-sermons-across-mosques?traffic_source=rss|Backlash in Kashmir over proposal for uniform Friday sermons across mosques
+1792051222|https://www.aljazeera.com/news/2026/10/15/clock-ticking-for-leap-second-why-timekeeping-could-change-forever?traffic_source=rss|Clock ticking for leap second: Why timekeeping could change forever
+1792051229|https://www.euronews.com/2026/10/15/spains-hallmark-in-vatican-the-spanish-medical-science-behind-pope-francis-lung-operation|'Spain's hallmark in Vatican': The Spanish medical science behind Pope Francis' lung operation
+1792051235|https://www.euronews.com/2026/10/15/eib-seeks-cross-border-projects-to-boost-central-asias-economic-development|EIB seeks cross-border projects to boost Central Asia’s economic development
