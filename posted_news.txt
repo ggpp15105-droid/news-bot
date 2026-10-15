@@ -1,8 +1,3 @@
-1791605744|https://tass.ru/nedvizhimost/28200769|Эксперт Галкин: новая семейная ипотека поможет многодетным покупать большие квартиры
-1791606791|https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss|India deploys police and restricts transport ahead of mass protest in Delhi
-1791606797|https://www.aa.com.tr/en/americas/hurricane-isaias-makes-landfall-on-us-gulf-coast-forcing-evacuations-power-outages/4084159|Hurricane Isaias makes landfall on US Gulf Coast, forcing evacuations, power outages
-1791606802|https://lenta.ru/news/2026/10/09/obsluzhivavshiy-matchi-chm-2026-sudya-rasskazal-o-svoey-rabote-v-avtomasterskoy/|Обслуживавший матчи ЧМ-2026 судья рассказал о своей работе в автомастерской
-1791606806|https://lenta.ru/news/2026/10/10/vo-frantsii-dali-rezkiy-sovet-o-zelenskom/|Во Франции дали резкий совет о Зеленском
 1791606811|https://lenta.ru/news/2026/10/10/kolumbiyskie-naemniki-otkazalis-idti-na-shturm-pod-harkovom/|Колумбийские наемники отказались идти на штурм под Харьковом
 1791607896|https://www.aa.com.tr/en/europe/following-houthi-attacks-europes-aviation-safety-body-expands-saudi-airspace-warning/4084161|Following Houthi attacks, Europe's aviation safety ‌body expands Saudi airspace warning
 1791607901|https://lenta.ru/news/2026/10/10/long-vsu-atakovali-rostovskuyu-oblast-povrezhden-zheleznodorozhnyy-most-i-zhilye-doma-dvizhenie-poezdov-ostanovleno/|ВСУ атаковали Ростовскую область. Поврежден железнодорожный мост и жилые дома, движение поездов остановлено
@@ -1998,3 +1993,8 @@
 1792090182|https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss|Trump ramps up third-country US deportations despite global rights outcry
 1792090189|https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html|TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter
 1792090196|https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html|Tesla plans next-generation Roadster reveal after almost a decade of delays
+1792092091|https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss|Dying in ICE custody: Inside one family’s story of heartbreak
+1792092098|https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss|Ethiopian forces expand control in Tigray as militia claims Eritrean losses
+1792092105|https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-all-1573-rdf|Self-replicating AI: Is your fridge a cybersecurity risk?
+1792092112|https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html|Apple and Meta team up to make Muse AI model run on Mac computers
+1792092118|https://www.euronews.com/2026/10/15/zelenskyy-poised-to-visit-budapest-next-week-as-ukraine-and-hungary-move-towards-diplomati|Zelenskyy poised to visit Budapest next week as Ukraine and Hungary move towards diplomatic reset
