@@ -1,8 +1,3 @@
-1791600321|https://tass.ru/sport/28200677|Овечкин повторил антирекорд, не забив в четырех матчах со старта сезона НХЛ
-1791601086|https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss|Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink
-1791601091|https://www.aa.com.tr/en/turkiye/under-new-regulations-turkiye-bans-children-under-15-from-social-media/4084149|Under new regulations, Türkiye bans children under 15 from social media
-1791601095|https://tass.ru/ekonomika/28200685|Банк развития Латинской Америки выделил Панаме $250 тыс. после землетрясения
-1791601099|https://tass.ru/obschestvo/28200679|Раненая в Алешках пенсионерка сообщила о помощи погибшего от БПЛА отца 13 детей
 1791601103|https://tass.ru/ekonomika/28200673|В аэропортах Бугульмы, Нижнекамска, Саратова и Пензы сняли ограничения
 1791601900|https://www.aa.com.tr/en/americas/us-senator-demands-public-hearing-into-cover-up-of-killings-of-americans-in-west-bank/4084154|US senator demands public hearing into ‘cover-up’ of killings of Americans in West Bank
 1791601906|https://www.aa.com.tr/en/eurasia/un-warns-of-worsening-humanitarian-crisis-in-ukraine-as-winter-approaches/4084153|UN warns of worsening humanitarian crisis in Ukraine as winter approaches
@@ -1998,3 +1993,8 @@
 1792078974|https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss|Delegates walk out as Israeli president addresses summit
 1792078979|https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss|Russian jet-powered drone hits supermarket in Ukraine’s Odesa
 1792078985|https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf|Russia arrests Swedish national, claims he's Ukraine fighter
+1792080764|https://www.france24.com/en/video/20261015-us-consumer-inflation-hotter-than-expected-as-midterms-loom|US consumer inflation hotter than expected as midterms loom
+1792080770|https://www.france24.com/en/video/20261015-police-and-protesters-face-off-in-albania-on-third-day-of-anti-govt-demonstrations|Police and protesters face off in Albania on third day of anti-govt demonstrations
+1792080776|https://www.france24.com/en/video/20261015-former-us-generals-push-to-stop-barbaric-firing-squad-execution-livestream|Former US generals push to stop 'barbaric' firing squad execution livestream
+1792080781|https://news.sky.com/story/arrests-after-two-adults-and-two-children-killed-in-house-fire-13599096|Man and woman arrested after two adults and two children killed in house fire
+1792080785|https://news.sky.com/story/eerie-orange-smog-shrouds-indonesian-cities-13599502|Eerie orange smog shrouds Indonesian cities
