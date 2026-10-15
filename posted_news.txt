@@ -1,8 +1,3 @@
-1791589131|https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview|Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview
-1791589138|https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games|Konami Planning 'Second and Third Waves' of New Silent Hill Games
-1791589147|https://www.ign.com/articles/blumhouse-partners-with-matpat-to-make-amanda-the-adventurer-movie-confirms-more-indie-horror-game-adaptations-are-coming-nycc-2026|Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026
-1791589154|https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/|Let’s All Be Happy This AAA Minesweeper Game Isn’t Real
-1791589904|https://www.aa.com.tr/en/eurasia/kremlin-seeks-clarification-on-detention-in-montenegro-of-russian-military-blogger/4084140|Kremlin seeks clarification on detention in Montenegro of Russian military blogger
 1791589909|https://lenta.ru/news/2026/10/10/v-chernogorii-prokommentirovali-zaderzhanie-avtora-telegram-kanala-rybar/|В Черногории прокомментировали задержание автора Telegram-канала «Рыбарь»
 1791589913|https://lenta.ru/news/2026/10/10/sprognozirovany-posledstviya-soglasheniya-putina-i-trampa-dlya-rossii/|Спрогнозированы последствия соглашения Путина и Трампа для России
 1791589918|https://lenta.ru/news/2026/10/10/long-verbovat-inostrantsev-dlya-uchastiya-v-svo-chernogoriya-otpustila-avtora-telegram-kanala-rybar-on-raskryl-podrobnosti-doprosa/|«Вербовать иностранцев для участия в СВО». Черногория отпустила автора Telegram-канала «Рыбарь», он раскрыл подробности допроса
@@ -1998,3 +1993,8 @@
 1792056842|https://news.sky.com/story/at-least-17-children-killed-in-pakistan-school-collapse-13599466|School owner arrested after dozens of children killed in roof collapse
 1792056849|https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html|China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration
 1792056856|https://www.euronews.com/2026/10/15/uks-hard-right-reform-party-hit-by-fresh-scandal-as-racist-views-caught-on-camera|UK's hard-right Reform party hit by fresh scandal as racist views caught on camera
+1792058674|https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss|‘Each country goes its own way’: How Balkan politics shape ties with Israel
+1792058680|https://www.aljazeera.com/video/counting-the-cost/2026/10/15/could-france-trigger-another-eurozone-debt-crisis?traffic_source=rss|Could France trigger another Eurozone debt crisis?
+1792058686|https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf|Brazil's elections matter for the planet. This is why.
+1792058691|https://www.euronews.com/2026/10/15/imf-warns-attacks-on-saudi-arabia-could-hurt-global-economy-after-strike-on-aramco-headqua|IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters
+1792058697|https://www.euronews.com/2026/10/15/el-nino-vs-climate-change-which-had-more-influence-over-the-powerful-hurricane-polo|El Niño vs climate change: Which had more influence over the powerful Hurricane Polo?
