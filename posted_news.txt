@@ -1,8 +1,3 @@
-1791573136|https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html|Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets
-1791573142|https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/|Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things
-1791573148|https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market|As Xbox and PlayStation sales reach new lows, analyst says the "US hardware market has not been in a more precarious position since the early 80s"
-1791573153|https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players|Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch
-1791574163|https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss|Trump announces deal with Putin to release Russian diesel
 1791574168|https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss|Tsunami warnings across Latin America after 7.7 magnitude earthquake hits
 1791574173|https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss|Injured Orangutan rescued from Indonesia wildfires
 1791574179|https://www.euronews.com/2026/10/09/historic-gold-for-lytvynenko-as-sulamanidze-triumphs-in-baku|Historic Gold for Lytvynenko as Sulamanidze Triumphs in Baku
@@ -1998,3 +1993,8 @@
 1792022813|https://www.aa.com.tr/en/americas/us-sending-hundreds-of-troops-to-latin-america-as-pentagon-widens-anti-cartel-campaign-report/4089144|US sending hundreds of troops to Latin America as Pentagon widens anti-cartel campaign: Report
 1792022819|https://www.aa.com.tr/en/americas/trump-says-leakers-should-be-shot-for-disclosing-timing-of-iran-strike/4089140|Trump says ‘leakers should be shot’ for disclosing timing of Iran strike
 1792022825|https://www.aa.com.tr/en/world/france-s-far-right-le-pen-leads-2027-presidential-poll-despite-bardella-controversy/4088722|France’s far-right Le Pen leads 2027 presidential poll despite Bardella controversy
+1792025023|https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss|Costa Rica opens mega-prison as Bukele model embraced across Latin America
+1792025030|https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss|Mexican court closes case against official over 2023 detention centre fire
+1792025037|https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss|Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz
+1792025043|https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss|US destroys dhow suspected of Iranian command and control
+1792025051|https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html|Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat
