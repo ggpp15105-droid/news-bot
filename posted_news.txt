@@ -1,8 +1,3 @@
-1791606811|https://lenta.ru/news/2026/10/10/kolumbiyskie-naemniki-otkazalis-idti-na-shturm-pod-harkovom/|Колумбийские наемники отказались идти на штурм под Харьковом
-1791607896|https://www.aa.com.tr/en/europe/following-houthi-attacks-europes-aviation-safety-body-expands-saudi-airspace-warning/4084161|Following Houthi attacks, Europe's aviation safety ‌body expands Saudi airspace warning
-1791607901|https://lenta.ru/news/2026/10/10/long-vsu-atakovali-rostovskuyu-oblast-povrezhden-zheleznodorozhnyy-most-i-zhilye-doma-dvizhenie-poezdov-ostanovleno/|ВСУ атаковали Ростовскую область. Поврежден железнодорожный мост и жилые дома, движение поездов остановлено
-1791607906|https://lenta.ru/news/2026/10/10/bpla-popal-v-mnogoetazhku-rostovskogo-zhk/|БПЛА попал в многоэтажку ростовского ЖК
-1791607915|https://www.kommersant.ru/doc/9023661|В Мытищах произошло три аварии на одном участке шоссе, один человек погиб // При аварии на Дмитровском шоссе в Мытищах погиб человек
 1791607919|https://www.kommersant.ru/doc/9023660|Главные новости к утру 10 октября // Путин договорился с Трампом о поставках российского дизеля в США
 1791608540|https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss|Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site
 1791608547|https://www.euronews.com/2026/10/10/teacher-salaries-in-europe-which-countries-offer-the-best-pay|Teacher salaries in Europe: Which countries offer the best pay?
@@ -1998,3 +1993,8 @@
 1792092105|https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-all-1573-rdf|Self-replicating AI: Is your fridge a cybersecurity risk?
 1792092112|https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html|Apple and Meta team up to make Muse AI model run on Mac computers
 1792092118|https://www.euronews.com/2026/10/15/zelenskyy-poised-to-visit-budapest-next-week-as-ukraine-and-hungary-move-towards-diplomati|Zelenskyy poised to visit Budapest next week as Ukraine and Hungary move towards diplomatic reset
+1792093782|https://news.sky.com/story/19-injured-after-channel-tunnel-collision-between-bus-and-train-on-french-side-13599710|19 injured after Channel Tunnel collision between bus and train on French side
+1792093788|https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html|CoreWeave credit default swaps hit distress levels as investors sour on AI debt
+1792093794|https://www.cnbc.com/2026/10/15/peptides-trump-rfk-jr-maha.html|Trump administration advances plan for peptide drugs favored by RFK Jr.
+1792093798|https://www.euronews.com/2026/10/15/us-extends-sanctions-waiver-for-russian-oil-giant-lukoil-until-2027|US extends sanctions waiver for Russian oil giant Lukoil until 2027
+1792093804|https://www.euronews.com/2026/10/15/bbc-asks-court-to-compel-trump-deposition-in-86bn-defamation-case|BBC asks court to compel Trump deposition in €8.6bn defamation case
