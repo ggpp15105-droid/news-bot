@@ -1,8 +1,3 @@
-1791581167|https://lenta.ru/news/2026/10/10/opisana-obstanovka-v-kieve-posle/|Раскрыта реакция Киева на соглашение Путина и Трампа
-1791581172|https://lenta.ru/news/2026/10/10/voenkor-nameknul-na-neobychnye-udary-po-kievu/|Военкор намекнул на необычные удары по Киеву
-1791581178|https://lenta.ru/news/2026/10/09/devochka-rodila-ot-sobstvennogo-ottsa-i-pustilas-s-nim-v-bega/|Девочка родила от отца и пустилась с ним в бега
-1791581183|https://lenta.ru/news/2026/10/10/tramp-naznachil-novogo-press-sekretarya-belogo-doma/|Трамп назначил нового пресс-секретаря Белого дома
-1791582126|https://www.aa.com.tr/en/americas/trump-not-happy-with-houthi-attacks-on-saudi-airports/4084120|Trump 'not happy' with Houthi attacks on Saudi airports
 1791582133|https://www.aa.com.tr/en/middle-east/saudi-led-coalition-announces-large-scale-operation-against-houthis-in-yemen-says-136-military-targets-destroyed/4084119|Saudi-led coalition announces large-scale operation against Houthis in Yemen, says 136 military targets destroyed
 1791582140|https://lenta.ru/news/2026/10/10/razgovor-putina-i-trampa-opisali-slovami-nikto-ne-hotel-klast-trubku-pervym/|Разговор Путина и Трампа описали словами «никто не хотел класть трубку»
 1791582153|https://lenta.ru/news/2026/10/10/avtor-kanala-rybar-pokinul-chernogoriyu-posle-zaderzhaniya/|Автор канала «Рыбарь» покинул Черногорию после задержания
@@ -1998,3 +1993,8 @@
 1792039164|https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html|Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO
 1792039170|https://www.euronews.com/2026/10/15/deepening-tech-sell-off-drags-stocks-lower-as-major-markets-slide|Deepening tech sell-off drags stocks lower as major markets slide
 1792039176|https://www.euronews.com/2026/10/15/musk-points-to-trump-behind-any-slowdown-in-ukraines-starshield-system|Musk points to Trump behind any slowdown in Ukraine's Starshield system
+1792040839|https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss|Heavy rain causes mass pileup in Brazil tunnel
+1792040845|https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss|X suspends 13,000 accounts, alleging foreign influence ahead of US midterms
+1792040852|https://www.euronews.com/2026/10/15/theyre-not-dead-yet-bleached-corals-recover-in-record-time-after-touching-healthy-clones|‘They’re not dead yet’: Bleached corals recover in record time after touching healthy clones
+1792040859|https://www.euronews.com/2026/10/15/embryo-gene-editing-is-getting-more-precise-but-how-safe-and-ethical-is-the-practice-euron|Embryo gene editing is getting more precise, but how safe and ethical is the practice? | Euronews Tech Talks
+1792040867|https://www.euronews.com/2026/10/15/plot-twist-trips-why-going-off-script-is-the-ultimate-travel-flex-according-to-bookingcom|‘Plot twist trips’: Why going off-script is the ‘ultimate travel flex’, according to Booking.com
