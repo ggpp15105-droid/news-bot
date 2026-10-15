@@ -1,8 +1,3 @@
-1791589909|https://lenta.ru/news/2026/10/10/v-chernogorii-prokommentirovali-zaderzhanie-avtora-telegram-kanala-rybar/|В Черногории прокомментировали задержание автора Telegram-канала «Рыбарь»
-1791589913|https://lenta.ru/news/2026/10/10/sprognozirovany-posledstviya-soglasheniya-putina-i-trampa-dlya-rossii/|Спрогнозированы последствия соглашения Путина и Трампа для России
-1791589918|https://lenta.ru/news/2026/10/10/long-verbovat-inostrantsev-dlya-uchastiya-v-svo-chernogoriya-otpustila-avtora-telegram-kanala-rybar-on-raskryl-podrobnosti-doprosa/|«Вербовать иностранцев для участия в СВО». Черногория отпустила автора Telegram-канала «Рыбарь», он раскрыл подробности допроса
-1791589926|https://www.kommersant.ru/doc/9023645|Путин заявил Трампу, что Россия подумает о сроках возобновления переговоров с Украиной // Ушаков: Киев попытками помешать выборам в Госдуму сорвал возможность переговоров
-1791590507|https://www.aa.com.tr/en/americas/pentagons-livestreamed-execution-plan-sparks-fierce-backlash-across-political-divide/4084141|Pentagon's livestreamed execution plan sparks fierce backlash across political divide
 1791590515|https://www.kommersant.ru/doc/9023646|США и союзники обсудили завершение российско-украинского конфликта до зимы
 1791590519|https://tass.ru/mezhdunarodnaya-panorama/28200501|Reuters: на переговорах по Украине в США обсуждали архитектуру безопасности
 1791590523|https://tass.ru/ekonomika/28200461|В Нижегородской области льготные кредиты для АПК на 2027 год составят 1,4 млрд рублей
@@ -1998,3 +1993,8 @@
 1792058686|https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf|Brazil's elections matter for the planet. This is why.
 1792058691|https://www.euronews.com/2026/10/15/imf-warns-attacks-on-saudi-arabia-could-hurt-global-economy-after-strike-on-aramco-headqua|IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters
 1792058697|https://www.euronews.com/2026/10/15/el-nino-vs-climate-change-which-had-more-influence-over-the-powerful-hurricane-polo|El Niño vs climate change: Which had more influence over the powerful Hurricane Polo?
+1792060527|https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss|Russia says Ukraine resumes attacks on oil refineries
+1792060532|https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss|Long-delayed China-North Korea bridge officially opens
+1792060540|https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-all-1573-rdf|Germany news: Train station alcohol ban comes into force
+1792060546|https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile|Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile
+1792060551|https://www.france24.com/en/tv-shows/paris-des-arts/20261015-a-cultural-stroll-through-paris-with-photographer-nikos-aliagas-and-writer-jean-paul-enthoven|A cultural stroll through Paris with photographer Nikos Aliagas and writer Jean-Paul Enthoven
