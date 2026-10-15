@@ -1,8 +1,3 @@
-1791602954|https://tass.ru/ekonomika/28200741|В аэропортах Котласа и Сыктывкара сняли временные ограничения
-1791603980|https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss|CCTV footage shows ICE shooting in New York
-1791603986|https://www.aa.com.tr/en/americas/trump-attacks-nobel-peace-prize-winner-as-liberal-person-who-nobody-has-ever-heard-of-/4084156|Trump attacks Nobel Peace Prize winner as 'liberal person … who nobody has ever heard of’
-1791603994|https://lenta.ru/news/2026/10/10/sobyanin-soobschil-ob-unichtozhenii-desyati-bespilotnikov-na-podlete-k-moskve/|Собянин сообщил об уничтожении десяти беспилотников на подлете к Москве
-1791603999|https://lenta.ru/news/2026/10/10/zheleznodorozhnyy-most-povrezhden-pri-atake-vsu-v/|Железнодорожный мост поврежден при атаке ВСУ в Ростовской области
 1791604003|https://lenta.ru/news/2026/10/09/nazvany-naibolee-populyarnye-oshibki-pri-razmorozke-produktov/|Названы наиболее популярные ошибки при разморозке продуктов
 1791604794|https://www.dw.com/en/india-delhi-braces-for-cockroach-protest-amid-strict-curbs/live-79624339?maca=en-rss-en-all-1573-rdf|India: Delhi braces for Cockroach protest amid strict curbs
 1791604803|https://lenta.ru/news/2026/10/10/raskryt-svyazannyy-s-kievom-strah-zelenskogo/|Раскрыт связанный с Киевом страх Зеленского
@@ -1998,3 +1993,8 @@
 1792084600|https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss|Israeli ad-tech firm helped place spyware on Al Jazeera devices
 1792084606|https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss|Why are eight US states suing OpenAI?
 1792084612|https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss|FIFA President Infantino apologises to council but critics remain unhappy
+1792086412|https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss|Pope Leo resumes work in hospital while recovering from surgery
+1792086419|https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss|DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda
+1792086425|https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss|Dying in Detention
+1792086433|https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss|Houthis target Yemen’s presidential palace in Aden with missiles
+1792086439|https://www.france24.com/en/video/20261015-2026-midterms-georgia-s-ossof-collins-showdown-lies-at-the-heart-of-the-battle-for-us-senate|2026 Midterms: Georgia's Ossof-Collins showdown lies at the heart of the battle for US Senate
