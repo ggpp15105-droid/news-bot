@@ -1,8 +1,3 @@
-1791587351|https://www.japantimes.co.jp/life/2026/10/10/digital/japanese-ramen-simulator-game-cuisine/|Still-simmering ‘Japanese Ramen Simulator’ is already worth a slurp
-1791587355|https://tass.ru/proisshestviya/28200477|В Николаеве произошел взрыв
-1791587359|https://tass.ru/armiya-i-opk/28200473|В Запорожье назвали удары ВС РФ по мостам в Киеве предупредительными
-1791587364|https://tass.ru/armiya-i-opk/28200475|Марочко сообщил об успешном наступлении ВС РФ на севере от Сум
-1791588281|https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf|Trump names new press secretary to succeed Karoline Leavitt
 1791588288|https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html|Trump's diesel agreement with Putin accused of contradicting Russia sanctions law
 1791588298|https://www.aa.com.tr/en/americas/us-european-ukrainian-officials-hold-talks-in-florida-on-de-escalating-ending-war-with-russia/4084138|US, European, Ukrainian officials hold talks in Florida on de-escalating, ending war with Russia
 1791588303|https://www.aa.com.tr/en/africa/sudanese-rights-group-says-rsf-killed-4-family-members-in-north-kordofan/4084137|Sudanese rights group says RSF killed 4 family members in North Kordofan
@@ -1998,3 +1993,8 @@
 1792052859|https://www.dw.com/en/manchester-city-the-uae-and-the-uk-in-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf|Manchester City, the UAE and the UK in political tangle
 1792052866|https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch|LGBTQ+ people go into hiding in Senegal as hundreds are arrested
 1792052874|https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html|Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'
+1792054996|https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss|‘Our works are next to each other’: Art bridges Gaza and West Bank
+1792055003|https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss|School roof collapses in northwestern Pakistan, killing at least 29 people
+1792055009|https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss|Man United’s Martinez takes to social media to defend his criticism of club
+1792055016|https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss|Messi’s Inter Miami beat New York City to reach third straight MLS playoff
+1792055024|https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf|Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums
