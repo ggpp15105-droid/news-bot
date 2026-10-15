@@ -1,8 +1,3 @@
-1791583760|https://lenta.ru/news/2026/10/09/raskryty-podrobnosti-podgotovki-mobilizatsii-zhenschin-v-vsu/|Раскрыты подробности подготовки мобилизации женщин в ВСУ
-1791583769|https://www.kommersant.ru/doc/9023355|Индекс Мосбиржи поднялся выше 2400 пунктов после разговора Путина и Трампа
-1791583773|https://www.kommersant.ru/doc/9023354|Новак: Россия незамедлительно начинает снимать ограничения на экспорт дизеля
-1791583778|https://www.kommersant.ru/doc/9023351|СМИ: Криштиану Роналду отстранили от игр за сборную Португалии
-1791584788|https://www.japantimes.co.jp/news/2026/10/10/world/icc-us-sanctions/|U.S. sanctions ICC after former judge wins Nobel Peace Prize
 1791584795|https://www.ign.com/articles/magic-the-gathering-at-nycc-everything-announced|Magic: The Gathering at NYCC Live Blog – Get Ready For Darkhold Destiny
 1791584801|https://www.ign.com/articles/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says|Gears of War: E-Day Estimated Sales Reach Just 230,000 in First Week, Analyst Says
 1791584806|https://lenta.ru/news/2026/10/10/ssha-obratilis-k-ukraine-s-neozhidannym-voprosom/|США обратились к Украине с неожиданным вопросом
@@ -1998,3 +1993,8 @@
 1792044293|https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says|France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says
 1792044301|https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html|TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom
 1792044308|https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off|Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off
+1792046460|https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss|G20 finance ministers, central bankers gather amid fallout from Iran war
+1792046466|https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr|Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau
+1792046470|https://news.sky.com/story/at-least-10-children-killed-in-pakistan-school-collapse-13599466|At least 10 children killed in Pakistan school collapse
+1792046477|https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html|UK economy grew 0.1% in August, beating expectations
+1792046484|https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html|India’s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax
