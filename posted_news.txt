@@ -1,8 +1,3 @@
-1791601103|https://tass.ru/ekonomika/28200673|В аэропортах Бугульмы, Нижнекамска, Саратова и Пензы сняли ограничения
-1791601900|https://www.aa.com.tr/en/americas/us-senator-demands-public-hearing-into-cover-up-of-killings-of-americans-in-west-bank/4084154|US senator demands public hearing into ‘cover-up’ of killings of Americans in West Bank
-1791601906|https://www.aa.com.tr/en/eurasia/un-warns-of-worsening-humanitarian-crisis-in-ukraine-as-winter-approaches/4084153|UN warns of worsening humanitarian crisis in Ukraine as winter approaches
-1791601912|https://www.aa.com.tr/en/americas/chile-declares-part-of-santiago-disaster-zone-after-heavy-rains/4084151|Chile declares part of Santiago disaster zone after heavy rains
-1791601919|https://www.aa.com.tr/en/africa/un-chief-gravely-concerned-by-renewed-fighting-in-ethiopia/4084150|UN chief 'gravely concerned' by renewed fighting in Ethiopia
 1791601928|https://lenta.ru/news/2026/10/10/vrach-vyskazalsya-o-grozyaschey-neobratimymi-posledstviyami-dozirovke-alkogolya/|Врач высказался о грозящей необратимыми последствиями дозировке алкоголя
 1791602932|https://www.aa.com.tr/en/americas/trump-administration-mandates-ai-incident-reporting-after-anthropic-disclosure-report/4084155|Trump administration mandates AI incident reporting after Anthropic disclosure: Report
 1791602941|https://lenta.ru/news/2026/10/10/v-rossii-rasskazali-o-vygode-ot-soglasheniya-s-ssha-po-diztoplivu/|В России рассказали о выгоде от лицензии США на дизтопливо
@@ -1998,3 +1993,8 @@
 1792080776|https://www.france24.com/en/video/20261015-former-us-generals-push-to-stop-barbaric-firing-squad-execution-livestream|Former US generals push to stop 'barbaric' firing squad execution livestream
 1792080781|https://news.sky.com/story/arrests-after-two-adults-and-two-children-killed-in-house-fire-13599096|Man and woman arrested after two adults and two children killed in house fire
 1792080785|https://news.sky.com/story/eerie-orange-smog-shrouds-indonesian-cities-13599502|Eerie orange smog shrouds Indonesian cities
+1792082690|https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss|Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges
+1792082697|https://www.aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran?traffic_source=rss|What is the ‘Mother of All Bombs’ US could use in Iran?
+1792082703|https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261015-election-delay-a-terrible-disappointment-palestinian-activist-samer-sinijlawi-says|Election delay 'a terrible disappointment', Palestinian activist Samer Sinijlawi says
+1792082711|https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1|'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks
+1792082716|https://www.france24.com/en/video/20261015-india-s-cockroach-movement-protesters-bypass-internet-blackout-with-bluetooth|India’s Cockroach movement: Protesters bypass internet blackout with Bluetooth
