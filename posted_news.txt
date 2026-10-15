@@ -1,8 +1,3 @@
-1791576545|https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war|Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war
-1791576551|https://www.france24.com/en/live-news/20261009-indian-jailed-in-france-for-leading-sadist-nazi-cult-that-tortured-girls|Indian jailed in France for leading sadist Nazi cult that tortured girls
-1791576558|https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets|Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets
-1791576565|https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance|Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance
-1791577491|https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss|Rising fuel costs slashed Delta’s profit outlook despite strong demand
 1791577498|https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss|Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says
 1791577504|https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist|Italy's biggest-ever wine heist
 1791577510|https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html|Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks
@@ -1998,3 +1993,8 @@
 1792030510|https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president|Thousands protest across Colombia against new right-wing president
 1792030517|https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html|Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India
 1792030524|https://www.japantimes.co.jp/business/2026/10/15/companies/mufg-global-markets-japan-bonds/|MUFG wades back into Japanese bonds with eye on policy risks
+1792032317|https://www.japantimes.co.jp/environment/2026/10/15/wildlife/sri-lanka-elephant-human-conflict/|In Sri Lanka, human-elephant conflict takes deadly toll
+1792032323|https://www.japantimes.co.jp/news/2026/10/15/world/starshield-explainer/|What is Starshield, SpaceX’s military version of Starlink?
+1792032330|https://www.japantimes.co.jp/business/2026/10/15/tech/ai-banks-stability-fears/|Banking watchdogs scrutinize AI use amid stability fears, sources say
+1792032335|https://www.japantimes.co.jp/news/2026/10/15/japan/turkish-japanese-science-university-launch/|Turkish-Japanese science university opens in Ankara
+1792032341|https://www.japantimes.co.jp/sports/2026/10/15/more-sports/liv-golf-decision-october/|LIV Golf to make decision about future by end of October
