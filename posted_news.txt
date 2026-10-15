@@ -1,8 +1,3 @@
-1791615657|https://lenta.ru/news/2026/10/10/vzryv/|В Киеве прогремел второй за утро взрыв
-1791616575|https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss|Trump slams Norway for not awarding him Nobel Peace Prize
-1791616581|https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback|‘So safe you could drink it’: Scientists and pesticide victims fear an EU rollback
-1791616589|https://www.euronews.com/2026/10/10/life-threatening-hurricane-isaias-makes-landfall-in-florida-bringing-high-winds-and-heavy-|Life-threatening Hurricane Isaias makes landfall in Florida, bringing high winds and heavy rain
-1791616595|https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff|What we've been playing - "It's pure video game popcorn movie stuff"
 1791616600|https://lenta.ru/news/2026/10/10/ugroza/|Пушилин заявил об угрозе боевых действий для жителей подконтрольных ВСУ городов
 1791617600|https://lenta.ru/news/2026/10/10/v-moskovskih-aeroportah-sorvalis-bolee-280-reysov/|В московских аэропортах сорвались более 280 рейсов
 1791617605|https://lenta.ru/news/2026/10/10/detroyt-proigral-sietlu-v-matche-nhl/|«Детройт» проиграл «Сиэтлу» в матче НХЛ
@@ -1998,3 +1993,8 @@
 1792106184|https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13599795|Multiple fatalities after school shooting in Oregon
 1792106190|https://www.aa.com.tr/en/world/syrian-foreign-minister-arrives-in-saudi-arabia-with-high-level-delegation/4090331|Syrian foreign minister arrives in Saudi Arabia with high-level delegation
 1792106195|https://www.aa.com.tr/en/world/lebanon-presses-us-to-push-israel-for-halt-to-attacks/4090304|Lebanon presses US to push Israel for halt to attacks
+1792107726|https://www.aa.com.tr/en/world/us-navy-deploys-carrier-strike-group-with-uncrewed-vessel-for-1st-time-acting-secretary/4090299|US Navy deploys carrier strike group with uncrewed vessel for 1st time: Acting secretary
+1792107732|https://www.aa.com.tr/en/europe/nato-allies-to-discuss-black-sea-drone-attacks-on-shipping-next-week/4090268|NATO allies to discuss Black Sea drone attacks on shipping next week
+1792107739|https://www.ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game|Remedy Boss Reacts After Control Resonant Sells 1 Million Copies, Becoming Studio's Fastest-Selling Game
+1792107747|https://www.ign.com/articles/pro-dota-2-player-claims-he-had-to-play-a-full-match-in-front-of-police-after-his-teams-boot-camp-was-raided|Pro Dota 2 Player Claims He Had to Play a Full Match in Front of Police Officers to Prove His Identity
+1792107754|https://www.ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced|RuneScape Reignited Canceled Less Than Two Weeks After Being Announced
