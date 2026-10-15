@@ -1,8 +1,3 @@
-1791604816|https://www.kommersant.ru/doc/9023656|Во время атаки на Ростовскую область были повреждены дома и железнодорожный мост
-1791605726|https://www.aa.com.tr/en/world/morning-briefing-oct-10-2026/4084157|Morning Briefing: Oct. 10, 2026
-1791605731|https://lenta.ru/news/2026/10/10/rossiyan-predupredili-ob-opasnosti-rasprostranennoy-gigienicheskoy-privychki/|Россиян предупредили об опасности распространенной гигиенической привычки
-1791605736|https://tass.ru/obschestvo/28200771|Врач Готина рассказала о риске принять депрессию у пожилых за обычное старение
-1791605740|https://tass.ru/armiya-i-opk/28200773|Командир Тринадцатый рассказал об уничтожении БПЛА "Мрак" в Харьковской области
 1791605744|https://tass.ru/nedvizhimost/28200769|Эксперт Галкин: новая семейная ипотека поможет многодетным покупать большие квартиры
 1791606791|https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss|India deploys police and restricts transport ahead of mass protest in Delhi
 1791606797|https://www.aa.com.tr/en/americas/hurricane-isaias-makes-landfall-on-us-gulf-coast-forcing-evacuations-power-outages/4084159|Hurricane Isaias makes landfall on US Gulf Coast, forcing evacuations, power outages
@@ -1998,3 +1993,8 @@
 1792087935|https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms|Why have US-Ukraine relations soured ahead of the midterms?
 1792087940|https://news.sky.com/story/three-dead-and-2700-evacuated-as-heavy-rainfall-and-floods-shut-down-istanbul-13599536|Three dead as heavy rainfall and floods hit Istanbul
 1792087946|https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html|Wholesale prices jumped 6.3% annually in September, biggest gain since 2022
+1792090171|https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss|Houthi missile attack on Yemeni presidential palace kills two, minister says
+1792090177|https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss|Ahead of US midterms, voters are frustrated with Trump, want change: Poll
+1792090182|https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss|Trump ramps up third-country US deportations despite global rights outcry
+1792090189|https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html|TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter
+1792090196|https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html|Tesla plans next-generation Roadster reveal after almost a decade of delays
