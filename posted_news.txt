@@ -1,8 +1,3 @@
-1791604003|https://lenta.ru/news/2026/10/09/nazvany-naibolee-populyarnye-oshibki-pri-razmorozke-produktov/|Названы наиболее популярные ошибки при разморозке продуктов
-1791604794|https://www.dw.com/en/india-delhi-braces-for-cockroach-protest-amid-strict-curbs/live-79624339?maca=en-rss-en-all-1573-rdf|India: Delhi braces for Cockroach protest amid strict curbs
-1791604803|https://lenta.ru/news/2026/10/10/raskryt-svyazannyy-s-kievom-strah-zelenskogo/|Раскрыт связанный с Киевом страх Зеленского
-1791604807|https://lenta.ru/news/2026/10/10/rossiyskie-ottsy-prizvali-zapretit-seks-shopy/|Российские отцы призвали запретить секс-шопы
-1791604812|https://www.kommersant.ru/doc/9023658|На подлете к Москве сбили 10 беспилотников
 1791604816|https://www.kommersant.ru/doc/9023656|Во время атаки на Ростовскую область были повреждены дома и железнодорожный мост
 1791605726|https://www.aa.com.tr/en/world/morning-briefing-oct-10-2026/4084157|Morning Briefing: Oct. 10, 2026
 1791605731|https://lenta.ru/news/2026/10/10/rossiyan-predupredili-ob-opasnosti-rasprostranennoy-gigienicheskoy-privychki/|Россиян предупредили об опасности распространенной гигиенической привычки
@@ -1998,3 +1993,8 @@
 1792086425|https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss|Dying in Detention
 1792086433|https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss|Houthis target Yemen’s presidential palace in Aden with missiles
 1792086439|https://www.france24.com/en/video/20261015-2026-midterms-georgia-s-ossof-collins-showdown-lies-at-the-heart-of-the-battle-for-us-senate|2026 Midterms: Georgia's Ossof-Collins showdown lies at the heart of the battle for US Senate
+1792087921|https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss|A mother’s touch helps premature babies grow strong in Gaza
+1792087930|https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf|Middle East updates: Houthis target Yemen government palace in Aden
+1792087935|https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms|Why have US-Ukraine relations soured ahead of the midterms?
+1792087940|https://news.sky.com/story/three-dead-and-2700-evacuated-as-heavy-rainfall-and-floods-shut-down-istanbul-13599536|Three dead as heavy rainfall and floods hit Istanbul
+1792087946|https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html|Wholesale prices jumped 6.3% annually in September, biggest gain since 2022
