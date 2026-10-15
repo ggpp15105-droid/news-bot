@@ -1,8 +1,3 @@
-1791572353|https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine|France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine
-1791572361|https://www.euronews.com/2026/10/09/tsunami-threat-after-76-magnitude-earthquake-strikes-panama-usgs-says|Tsunami threat after 7.6-magnitude earthquake strikes Panama, USGS says
-1791572369|https://www.aa.com.tr/en/world/amnesty-international-urges-states-to-resist-us-sanctions-targeting-icc/4083971|Amnesty International urges states to resist US sanctions targeting ICC
-1791572375|https://www.gamespot.com/articles/is-the-bioshock-movie-ever-going-to-happen-director-weighs-in/|Is The BioShock Movie Ever Going To Happen? Director Weighs In
-1791573131|https://www.dw.com/en/strong-earthquake-shakes-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf|Strong earthquake shakes Panama, prompting tsunami alert
 1791573136|https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html|Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets
 1791573142|https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/|Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things
 1791573148|https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market|As Xbox and PlayStation sales reach new lows, analyst says the "US hardware market has not been in a more precarious position since the early 80s"
@@ -1998,3 +1993,8 @@
 1792021720|https://www.japantimes.co.jp/news/2026/10/14/japan/politics/takaichi-cabinet-yana-parliament-resigns/|Scandal-hit agriculture minister Yana announces resignation
 1792021727|https://www.aa.com.tr/en/americas/trump-says-he-wants-to-see-pope-leo-get-well/4089152|Trump says he wants to see Pope Leo 'get well'
 1792021732|https://www.aa.com.tr/en/middle-east/israeli-prison-guards-shoot-palestinian-prisoners-with-rubber-bullets-leaving-them-severely-injured-report/4089150|Israeli prison guards shoot Palestinian prisoners with rubber bullets, leaving them severely injured: Report
+1792022801|https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss|Musk says US government may be behind slowdown of Ukraine drone speeds
+1792022808|https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff|Lula’s party accuses Meta of election interference ahead of Brazil runoff
+1792022813|https://www.aa.com.tr/en/americas/us-sending-hundreds-of-troops-to-latin-america-as-pentagon-widens-anti-cartel-campaign-report/4089144|US sending hundreds of troops to Latin America as Pentagon widens anti-cartel campaign: Report
+1792022819|https://www.aa.com.tr/en/americas/trump-says-leakers-should-be-shot-for-disclosing-timing-of-iran-strike/4089140|Trump says ‘leakers should be shot’ for disclosing timing of Iran strike
+1792022825|https://www.aa.com.tr/en/world/france-s-far-right-le-pen-leads-2027-presidential-poll-despite-bardella-controversy/4088722|France’s far-right Le Pen leads 2027 presidential poll despite Bardella controversy
