@@ -1,8 +1,3 @@
-1791614635|https://lenta.ru/news/2026/10/10/artemiy-lebedev-vozmutilsya-pereimenovaniyu-kotlety-po-kievski-v-stolovoy-gosdumy/|Артемий Лебедев возмутился переименованию котлеты по-киевски в столовой Госдумы
-1791615628|https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss|Yemen’s Taiz under siege again as food and fuel prices rise
-1791615635|https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403|What are we all playing this weekend?
-1791615643|https://lenta.ru/news/2026/10/10/moskvichka-edva-perezhila-vstrechu-s-yadovitoy-ryboy-na-shri-lanke/|Москвичка едва пережила встречу с ядовитой рыбой на Шри-Ланке
-1791615652|https://lenta.ru/news/2026/10/10/trusova-otkazalas-ot-uchastiya-v-turnire-v-budapeshte/|Трусова отказалась от участия в турнире в Будапеште
 1791615657|https://lenta.ru/news/2026/10/10/vzryv/|В Киеве прогремел второй за утро взрыв
 1791616575|https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss|Trump slams Norway for not awarding him Nobel Peace Prize
 1791616581|https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback|‘So safe you could drink it’: Scientists and pesticide victims fear an EU rollback
@@ -1998,3 +1993,8 @@
 1792105069|https://www.japantimes.co.jp/news/2026/10/15/asia-pacific/indonesia-wildfires-haze/|Haze turns Indonesia skies orange, shuts schools in East Timor
 1792105075|https://www.japantimes.co.jp/business/2026/10/15/smartnews-ipo-valuation-craters/|SmartNews said to plan December Tokyo IPO as valuation craters
 1792105081|https://www.aa.com.tr/en/world/uss-robert-smalls-returns-to-san-diego-after-7-month-pacific-deployment/4090342|USS Robert Smalls returns to San Diego after 7-month Pacific deployment
+1792106175|https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss|At least 4, including 3 children, killed in US elementary school shooting
+1792106180|https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes|Zelensky rallies European allies as US support for Ukraine wanes
+1792106184|https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13599795|Multiple fatalities after school shooting in Oregon
+1792106190|https://www.aa.com.tr/en/world/syrian-foreign-minister-arrives-in-saudi-arabia-with-high-level-delegation/4090331|Syrian foreign minister arrives in Saudi Arabia with high-level delegation
+1792106195|https://www.aa.com.tr/en/world/lebanon-presses-us-to-push-israel-for-halt-to-attacks/4090304|Lebanon presses US to push Israel for halt to attacks
