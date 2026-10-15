@@ -1,8 +1,3 @@
-1791599343|https://tass.ru/obschestvo/28200665|Формат "Школьного телевидения" адаптируют под привычки детей
-1791600297|https://www.japantimes.co.jp/business/2026/10/10/tech/anthropic-new-ai-misbehavior/|Anthropic cites new AI misbehavior, some on government sites
-1791600303|https://www.japantimes.co.jp/business/2026/10/10/economy/scott-bessent-skip-imf-world-bank-meetings/|U.S. Treasury chief Scott Bessent to skip IMF-World Bank meetings in Bangkok
-1791600312|https://lenta.ru/news/2026/10/10/vsu-sovershili-zverskoe-ubiystvo-v-harkovskoy-oblasti/|ВСУ совершили зверское убийство в Харьковской области
-1791600317|https://tass.ru/obschestvo/28200681|Жителей Аризоны обязали сообщать властям о всех случаях заболевания чумой
 1791600321|https://tass.ru/sport/28200677|Овечкин повторил антирекорд, не забив в четырех матчах со старта сезона НХЛ
 1791601086|https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss|Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink
 1791601091|https://www.aa.com.tr/en/turkiye/under-new-regulations-turkiye-bans-children-under-15-from-social-media/4084149|Under new regulations, Türkiye bans children under 15 from social media
@@ -1998,3 +1993,8 @@
 1792076992|https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss|‘Boiling point’: Why students are protesting against Albania’s Edi Rama
 1792077000|https://www.dw.com/en/raila-odinga-s-legacy-can-kenya-preserve-the-democratic-space-he-helped-create/a-79668443?maca=en-rss-en-all-1573-rdf|Raila Odinga's legacy: Can Kenya preserve the democratic space he helped create?
 1792077006|https://www.france24.com/en/video/20261015-france-charges-teen-shooter-citing-revenge-for-bullying-in-school|France charges teen shooter citing revenge for bullying in school
+1792078963|https://www.aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence?traffic_source=rss|Syrian court sentences two to death over 2025 coastal violence
+1792078968|https://www.aljazeera.com/sports/2026/10/15/french-football-body-urges-fans-and-students-to-keep-politics-out-of-stadia?traffic_source=rss|French football body urges fans and students to keep politics out of stadiums
+1792078974|https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss|Delegates walk out as Israeli president addresses summit
+1792078979|https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss|Russian jet-powered drone hits supermarket in Ukraine’s Odesa
+1792078985|https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf|Russia arrests Swedish national, claims he's Ukraine fighter
