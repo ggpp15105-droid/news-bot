@@ -1,8 +1,3 @@
-1791598310|https://www.kommersant.ru/doc/9023650|При ударах беспилотников по Ростову-на-Дону произошел пожар
-1791599322|https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf|Mexico: Court finds three men guilty of murder of Australian, US surfers
-1791599326|https://lenta.ru/news/2026/10/10/pravnuka-leonida-brezhneva-ob-yavili-v-rozysk/|Правнука Леонида Брежнева объявили в розыск
-1791599335|https://www.kommersant.ru/doc/9023647|FT: Украина продолжит бить по российским НПЗ даже после дизельной сделки с США
-1791599339|https://tass.ru/proisshestviya/28200667|На Камчатке подросток без прав разбился на мотоцикле
 1791599343|https://tass.ru/obschestvo/28200665|Формат "Школьного телевидения" адаптируют под привычки детей
 1791600297|https://www.japantimes.co.jp/business/2026/10/10/tech/anthropic-new-ai-misbehavior/|Anthropic cites new AI misbehavior, some on government sites
 1791600303|https://www.japantimes.co.jp/business/2026/10/10/economy/scott-bessent-skip-imf-world-bank-meetings/|U.S. Treasury chief Scott Bessent to skip IMF-World Bank meetings in Bangkok
@@ -1998,3 +1993,8 @@
 1792074941|https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-rdf|Hamburg court jails 2 men over plot to attack Jewish leaders on behalf of Iran
 1792074949|https://www.dw.com/en/ai-assisted-euthanasia-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf|AI-assisted euthanasia? New film addresses prospect of care robots
 1792074955|https://www.france24.com/en/tv-shows/perspective/20261015-war-escalates-between-houthis-and-riyadh-how-did-we-get-here|War escalates between Houthis and Riyadh: How did we get here?
+1792076979|https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising?traffic_source=rss|US teen held over Hindu temple attack plot: Is anti-Indian racism rising?
+1792076986|https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss|Trump says Fort Hood US shooter execution will not be livestreamed
+1792076992|https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss|‘Boiling point’: Why students are protesting against Albania’s Edi Rama
+1792077000|https://www.dw.com/en/raila-odinga-s-legacy-can-kenya-preserve-the-democratic-space-he-helped-create/a-79668443?maca=en-rss-en-all-1573-rdf|Raila Odinga's legacy: Can Kenya preserve the democratic space he helped create?
+1792077006|https://www.france24.com/en/video/20261015-france-charges-teen-shooter-citing-revenge-for-bullying-in-school|France charges teen shooter citing revenge for bullying in school
