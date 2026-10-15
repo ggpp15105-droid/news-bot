@@ -1,8 +1,3 @@
-1791574168|https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss|Tsunami warnings across Latin America after 7.7 magnitude earthquake hits
-1791574173|https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss|Injured Orangutan rescued from Indonesia wildfires
-1791574179|https://www.euronews.com/2026/10/09/historic-gold-for-lytvynenko-as-sulamanidze-triumphs-in-baku|Historic Gold for Lytvynenko as Sulamanidze Triumphs in Baku
-1791574186|https://www.aa.com.tr/en/world/turkiye-strongly-condemns-houthi-attacks-on-saudi-airports/4084011|Türkiye strongly condemns Houthi attacks on Saudi airports
-1791575256|https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss|Powerful magnitude 7.7 earthquake hits Panama, damaging buildings
 1791575262|https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss|European states, Canada, Japan and UN back ICC against US sanctions
 1791575268|https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices|Trump says US to import Russian diesel to ease prices
 1791575274|https://www.aa.com.tr/en/world/ukraine-reaffirms-support-for-icc-its-independence-integrity-/4084015|Ukraine reaffirms support for ICC, its ‘independence, integrity’
@@ -1998,3 +1993,8 @@
 1792025037|https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss|Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz
 1792025043|https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss|US destroys dhow suspected of Iranian command and control
 1792025051|https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html|Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat
+1792027072|https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html|SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount
+1792027078|https://www.japantimes.co.jp/business/2026/10/15/companies/japan-21-billion-investment-us-chip/|Japan to invest up to $21 billion in two U.S. chip factories to be run by GlobalFoundries
+1792027084|https://www.japantimes.co.jp/news/2026/10/15/world/mbs-houthi-menace/|Saudi crown prince faces Houthi menace in one of his biggest crises
+1792027090|https://www.japantimes.co.jp/sports/2026/10/15/soccer/saudi-arabia-asian-cup/|AFC open to postponing Asian Cup as attacks in Saudi Arabia disrupt sports calendar
+1792027099|https://www.japantimes.co.jp/news/2026/10/15/world/ukraine-us-russia-help/|Ukraine accuses U.S. of helping Russia as missiles hit Kyiv
