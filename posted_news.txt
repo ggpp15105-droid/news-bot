@@ -1,8 +1,3 @@
-1791586633|https://www.kommersant.ru/doc/9023358|Ушаков рассказал, как Путин и Трамп не хотели заканчивать разговор
-1791586638|https://tass.ru/kosmos/28200457|Китай запустил 27-ю группу спутников связи SatNet
-1791586642|https://tass.ru/politika/28200447|Насыщенный и дружеский разговор. Ушаков о беседе президентов России и США
-1791586647|https://tass.ru/politika/28200379|Ушаков назвал разговор Путина и Трампа дружеским
-1791587343|https://www.japantimes.co.jp/culture/2026/10/10/film/children-untold/|‘Children Untold’ shines a light on the plight of postwar orphans
 1791587351|https://www.japantimes.co.jp/life/2026/10/10/digital/japanese-ramen-simulator-game-cuisine/|Still-simmering ‘Japanese Ramen Simulator’ is already worth a slurp
 1791587355|https://tass.ru/proisshestviya/28200477|В Николаеве произошел взрыв
 1791587359|https://tass.ru/armiya-i-opk/28200473|В Запорожье назвали удары ВС РФ по мостам в Киеве предупредительными
@@ -1998,3 +1993,8 @@
 1792051222|https://www.aljazeera.com/news/2026/10/15/clock-ticking-for-leap-second-why-timekeeping-could-change-forever?traffic_source=rss|Clock ticking for leap second: Why timekeeping could change forever
 1792051229|https://www.euronews.com/2026/10/15/spains-hallmark-in-vatican-the-spanish-medical-science-behind-pope-francis-lung-operation|'Spain's hallmark in Vatican': The Spanish medical science behind Pope Francis' lung operation
 1792051235|https://www.euronews.com/2026/10/15/eib-seeks-cross-border-projects-to-boost-central-asias-economic-development|EIB seeks cross-border projects to boost Central Asia’s economic development
+1792052845|https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss|Containers and debris captured floating around the Strait of Hormuz
+1792052852|https://www.aljazeera.com/news/2026/10/15/us-police-arrest-illinois-teen-in-alleged-hindu-temple-mass-shooting-plot?traffic_source=rss|Police arrest US teen in alleged Illinois Hindu temple mass shooting plot
+1792052859|https://www.dw.com/en/manchester-city-the-uae-and-the-uk-in-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf|Manchester City, the UAE and the UK in political tangle
+1792052866|https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch|LGBTQ+ people go into hiding in Senegal as hundreds are arrested
+1792052874|https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html|Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'
