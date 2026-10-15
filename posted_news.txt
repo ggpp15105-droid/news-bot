@@ -1,8 +1,3 @@
-1791583011|https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss|Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe
-1791583018|https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr|Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau
-1791583023|https://news.sky.com/story/trump-says-russia-will-immediately-supply-300000-tons-of-diesel-with-millions-more-to-follow-13597040|Trump says Russia will immediately supply '300,000 tons of diesel' - with millions more to follow
-1791583030|https://www.aa.com.tr/en/americas/us-homeland-security-chief-blasts-new-york-city-mayor-over-sanctuary-policies/4084127|US homeland security chief blasts New York City mayor over sanctuary policies
-1791583755|https://lenta.ru/news/2026/10/10/nazvana-ploschadka-dlya-blizhayshey-vstrechi-putina-i-trampa/|Названа площадка для ближайшей встречи Путина и Трампа
 1791583760|https://lenta.ru/news/2026/10/09/raskryty-podrobnosti-podgotovki-mobilizatsii-zhenschin-v-vsu/|Раскрыты подробности подготовки мобилизации женщин в ВСУ
 1791583769|https://www.kommersant.ru/doc/9023355|Индекс Мосбиржи поднялся выше 2400 пунктов после разговора Путина и Трампа
 1791583773|https://www.kommersant.ru/doc/9023354|Новак: Россия незамедлительно начинает снимать ограничения на экспорт дизеля
@@ -1998,3 +1993,8 @@
 1792042567|https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget|EU leaders head into high-stakes budget battle as elections loom
 1792042571|https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices|EU summit: Leaders seek fast solutions to spiralling energy prices
 1792042578|https://www.euronews.com/2026/10/15/new-four-lane-bridge-between-china-and-north-korea-opens-after-a-decade-of-delay|New four-lane bridge between China and North Korea opens after a decade of delay
+1792044282|https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss|Is Lamine Yamal’s Barcelona record better than Messi’s as a teenager?
+1792044289|https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss|Restoring nature is key to a more resilient future
+1792044293|https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says|France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says
+1792044301|https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html|TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom
+1792044308|https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off|Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off
