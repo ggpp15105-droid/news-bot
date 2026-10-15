@@ -1,8 +1,3 @@
-1791613234|https://www.kommersant.ru/doc/9023675|Минобороны России отчиталось об ударе по судну с грузом для ВСУ
-1791614612|https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss|Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says
-1791614619|https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss|Three men found guilty of murdering Australian brothers and US friend in Mexico
-1791614625|https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss|India protest live: Police detain Cockroach leaders, New Delhi in lockdown
-1791614631|https://lenta.ru/news/2026/10/10/prichinu-poyavleniya-osenney-depressii-ob-yasnili/|Причину осенней депрессии объяснили
 1791614635|https://lenta.ru/news/2026/10/10/artemiy-lebedev-vozmutilsya-pereimenovaniyu-kotlety-po-kievski-v-stolovoy-gosdumy/|Артемий Лебедев возмутился переименованию котлеты по-киевски в столовой Госдумы
 1791615628|https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss|Yemen’s Taiz under siege again as food and fuel prices rise
 1791615635|https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403|What are we all playing this weekend?
@@ -1998,3 +1993,8 @@
 1792103794|https://www.euronews.com/video/2026/10/15/trumps-russian-diesel-deal-driven-by-dubious-business-motives-latvian-mep-kols-tells-euron|Trump’s Russian diesel deal driven by ‘dubious business motives’, Latvian MEP Kols tells Euronews
 1792103800|https://www.euronews.com/2026/10/15/at-least-19-injured-as-coach-collides-with-train-near-channel-tunnel|At least 19 injured as minibus collides with train near Channel Tunnel
 1792103806|https://www.euronews.com/2026/10/15/inconclusive-sparring-at-eu-summit-puts-budget-timeline-into-question|Inconclusive sparring at EU summit puts budget timeline into question
+1792105058|https://www.japantimes.co.jp/business/2026/10/15/rengo-pay-hikes-2027/|Rengo to seek pay hikes of at least 5% in 2027 negotiations
+1792105063|https://www.japantimes.co.jp/business/2026/10/15/panasonic-recall/|Panasonic recalls 640,000 washer-dryers over fire risk
+1792105069|https://www.japantimes.co.jp/news/2026/10/15/asia-pacific/indonesia-wildfires-haze/|Haze turns Indonesia skies orange, shuts schools in East Timor
+1792105075|https://www.japantimes.co.jp/business/2026/10/15/smartnews-ipo-valuation-craters/|SmartNews said to plan December Tokyo IPO as valuation craters
+1792105081|https://www.aa.com.tr/en/world/uss-robert-smalls-returns-to-san-diego-after-7-month-pacific-deployment/4090342|USS Robert Smalls returns to San Diego after 7-month Pacific deployment
