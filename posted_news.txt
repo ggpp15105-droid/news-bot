@@ -1,8 +1,3 @@
-1791588288|https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html|Trump's diesel agreement with Putin accused of contradicting Russia sanctions law
-1791588298|https://www.aa.com.tr/en/americas/us-european-ukrainian-officials-hold-talks-in-florida-on-de-escalating-ending-war-with-russia/4084138|US, European, Ukrainian officials hold talks in Florida on de-escalating, ending war with Russia
-1791588303|https://www.aa.com.tr/en/africa/sudanese-rights-group-says-rsf-killed-4-family-members-in-north-kordofan/4084137|Sudanese rights group says RSF killed 4 family members in North Kordofan
-1791588308|https://lenta.ru/news/2026/10/10/pod-kievom-progremela-seriya-vzryvov-v-rayone-vazhnogo-energoob-ekta/|Под Киевом прогремела серия взрывов в районе важного энергообъекта
-1791589124|https://www.aa.com.tr/en/americas/rubio-pledges-us-support-for-venezuela-s-democratic-transition/4084139|Rubio pledges US support for Venezuela’s democratic transition
 1791589131|https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview|Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview
 1791589138|https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games|Konami Planning 'Second and Third Waves' of New Silent Hill Games
 1791589147|https://www.ign.com/articles/blumhouse-partners-with-matpat-to-make-amanda-the-adventurer-movie-confirms-more-indie-horror-game-adaptations-are-coming-nycc-2026|Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026
@@ -1998,3 +1993,8 @@
 1792055009|https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss|Man United’s Martinez takes to social media to defend his criticism of club
 1792055016|https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss|Messi’s Inter Miami beat New York City to reach third straight MLS playoff
 1792055024|https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf|Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums
+1792056830|https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss|The irony of OpenAI crying foul over spying
+1792056837|https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss|Iraq devalues dinar to ease cash crunch, leaving traders in limbo
+1792056842|https://news.sky.com/story/at-least-17-children-killed-in-pakistan-school-collapse-13599466|School owner arrested after dozens of children killed in roof collapse
+1792056849|https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html|China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration
+1792056856|https://www.euronews.com/2026/10/15/uks-hard-right-reform-party-hit-by-fresh-scandal-as-racist-views-caught-on-camera|UK's hard-right Reform party hit by fresh scandal as racist views caught on camera
