@@ -1,8 +1,3 @@
-1791596691|https://www.kommersant.ru/doc/9023651|Трамп: конфликт России и Украины скоро будет урегулирован
-1791597501|https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss|Two Renoir paintings recovered after France museum heist, mayor says
-1791597508|https://www.japantimes.co.jp/news/2026/10/10/japan/politics/tax-cut-36000-takaichi/|Tax cut to bring ¥36,000 benefit per citizen, Takaichi says
-1791597514|https://www.japantimes.co.jp/news/2026/10/10/asia-pacific/politics/us-sanctions-myanmar-businessman/|U.S. lifts sanctions on daughter of Myanmar military-linked businessman
-1791597523|https://lenta.ru/news/2026/10/10/v-germanii-ispugalis-tupika-mertsa/|В Германии испугались «тупика Мерца»
 1791597532|https://lenta.ru/news/2026/10/10/ginekolog-rasskazala-o-vliyanii-antidepressantov-na-libido/|Влияние антидепрессантов на либидо оценили
 1791598286|https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss|Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks
 1791598292|https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf|Hurricane Isaias makes landfall in Florida
@@ -1998,3 +1993,8 @@
 1792070617|https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf|Starlink: How Elon Musk's company influences geopolitics
 1792070623|https://www.france24.com/en/video/20261015-chad-s-icc-exit-plans-raise-concerns-over-sudan-war-crimes-probes|Chad’s ICC exit plans raise concerns over Sudan war crimes probes
 1792070629|https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes|Ukraine's Zelensky defies Trump with Russian refinery strikes
+1792072967|https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss|Al Jazeera probe exposes fake viewing numbers for Israeli counter-film
+1792072973|https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss|What is Starshield, and who limited Ukraine’s access to it?
+1792072979|https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss|Russia accuses Ukraine of contradicting US brokered deal
+1792072986|https://www.aljazeera.com/sports/2026/10/15/real-madrids-vinicius-says-hes-being-targeted-by-referees?traffic_source=rss|Real Madrid’s Vinicius says he’s being targeted by referees
+1792072992|https://www.dw.com/en/bärbel-bas-resignation-shows-harsh-tone-of-german-politics/a-79671395?maca=en-rss-en-all-1573-rdf|Bärbel Bas' resignation shows harsh tone of German politics
