@@ -1,8 +1,3 @@
-1791594650|https://www.japantimes.co.jp/news/2026/10/10/world/iran-guards-missiles-trump/|Iran guards ability to build missiles as Trump eases attacks
-1791595703|https://www.japantimes.co.jp/news/2026/10/10/world/panama-quake-avoids-major-destruction/|Strong Panama quake shakes nation, but avoids major destruction
-1791595708|https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny|Magic: The Gathering Returns to Marvel with Darkhold Destiny
-1791595715|https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely|GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely
-1791595721|https://lenta.ru/news/2026/10/10/long-eto-ochevidnaya-slabost-zelenskiy-vpal-v-isteriku-iz-za-razgovora-putina-i-trampa-chto-ego-vozmutilo/|«Это очевидная слабость». Зеленский впал в истерику из-за разговора Путина и Трампа. Что его возмутило?
 1791595725|https://lenta.ru/news/2026/10/10/ryad-rossiyan-poluchit-pensii-za-noyabr-dosrochno/|Ряд россиян получит пенсии за ноябрь досрочно
 1791596672|https://www.japantimes.co.jp/business/2026/10/10/companies/beer-maker-leaders-price-cartel/|Beer maker leaders may have been aware of price cartel
 1791596677|https://lenta.ru/news/2026/10/10/tramp-posle-razgovora-s-putinym-sdelal-zayavlenie-o-konflikte-na-ukraine/|Трамп после разговора с Путиным сделал заявление о конфликте на Украине
@@ -1998,3 +1993,8 @@
 1792065934|https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss|Fighting in Yemen intensifies: What’s the latest on the battlefield?
 1792065940|https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-rdf|Hypersonic missiles highlight arms race on Korean Peninsula
 1792065947|https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf|Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
+1792068180|https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss|At least 33 pupils and teacher killed after school roof collapses in Pakistan
+1792068187|https://www.aljazeera.com/sports/2026/10/15/west-indies-hope-jokes-india-series-record-role-an-problem-as-finale-looms?traffic_source=rss|West Indies’ Hope jokes India series record role a problem as finale looms
+1792068198|https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf|Romania: 2 ships on fire in Black Sea, 7 crew missing
+1792068205|https://www.dw.com/en/hamburg-court-sentences-iranian-agents-over-plans-to-attack-jewish-leaders-in-germany/a-79667895?maca=en-rss-en-all-1573-rdf|Hamburg court sentences Iranian agents over plans to attack Jewish leaders in Germany
+1792068211|https://www.france24.com/en/video/20261015-elon-musk-and-donald-trump-what-their-growing-ties-mean-for-ukraine|Elon Musk and Donald Trump: What their growing ties mean for Ukraine
