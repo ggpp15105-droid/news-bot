@@ -1,8 +1,3 @@
-1791651077|https://lenta.ru/news/2026/10/10/chetyre-cheloveka-postradali-pri-ocherednyh-atakah-vsu/|Четыре человека пострадали при очередных атаках ВСУ
-1791651659|https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss|Celebrations in Ethiopian city after reported Eritrean ‘incursion’
-1791651665|https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss|Eritrea urges UN to intervene in standoff with Ethiopia
-1791651671|https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf|Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries
-1791651676|https://lenta.ru/news/2026/10/10/kievskie-mosty-reshili-zaschitit-s-pomoschyu-setok/|Киевские мосты решили защитить с помощью сеток
 1791651684|https://lenta.ru/news/2026/10/10/tramp-zayavil-chto-ukraine-sleduet-vybrat-novogo-lidera/|Трамп посоветовал украинцам выбрать нового лидера
 1791652527|https://www.euronews.com/2026/10/10/spanish-pm-sanchez-launches-campaign-with-housing-as-key-theme|Spanish PM Sánchez launches campaign with housing as key theme
 1791652533|https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is|A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is
@@ -1998,3 +1993,8 @@
 1792180802|https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf|Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
 1792180808|https://www.euronews.com/2026/10/16/pope-leo-xiv-urges-putin-to-agree-to-truce-in-besieged-ukrainian-city-of-oleshky|Pope Leo XIV urges Putin to agree to truce in besieged Ukrainian city of Oleshky
 1792180815|https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit|Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit
+1792182127|https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss|Oregon community mourns victims of school shooting
+1792182134|https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss|AOC transfers $1m to Michigan candidate El-Sayed in progressive push
+1792182141|https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest|Albanian PM blames 'foreign hands' for escalating anti-government unrest
+1792182154|https://www.japantimes.co.jp/press/2026/10/16/notice-ransomware-incident-second-report-jp/|【第2報】当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性に関するご報告
+1792182161|https://www.japantimes.co.jp/business/2026/10/16/adb-chief-interview/|ADB chief warns of high inflation in Asia amid uncertainty
