@@ -1,8 +1,3 @@
-1791639650|https://lenta.ru/news/2026/10/10/v-izraile-vozmutilis-pobede-gitlera-mussolini-na-vyborah/|В Израиле возмутились победе Гитлера Муссолини на выборах
-1791640407|https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway|Yemen says advancing against Houthis around key Bab al-Mandab strait
-1791640413|https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html|Putin relayed Iran war proposal to Trump, Kremlin says
-1791640418|https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios|We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11
-1791640423|https://lenta.ru/news/2026/10/10/rossiyskiy-plovets-ustanovil-mirovoy-rekord-na-etape-kubka-mira/|Российский пловец установил мировой рекорд на этапе Кубка мира
 1791640428|https://lenta.ru/news/2026/10/10/vzryv-progremel-v-aeroportu-stolitsy-saudovskoy-aravii/|Взрыв прогремел в аэропорту столицы Саудовской Аравии
 1791640903|https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss|High silver prices threaten Lucknow’s famed bridal nagra craft
 1791640908|https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss|New Delhi police crack down on protesters ahead of anti-gov’t march
@@ -1998,3 +1993,8 @@
 1792155329|https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss|‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence
 1792155335|https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss|Why is China buying up gold?
 1792155341|https://www.france24.com/en/tv-shows/reporters/20261016-thanks-a-lot-trump-wyoming-conservatives-divided-ahead-us-midterms|'Thanks a lot, Trump': Wyoming conservatives divided ahead of US midterms
+1792157417|https://www.aljazeera.com/sports/2026/10/16/india-call-up-bhuvneshwar-for-west-indies-t20-finale-with-doubt-over-singh?traffic_source=rss|India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh
+1792157423|https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss|Israeli settlers continue progrom amid olive harvest in occupied West Bank
+1792157429|https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss|How UN chief Antonio Guterres tests the limits of quiet diplomacy
+1792157435|https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss|India police detain ‘Cockroach’ party founder ahead of protest
+1792157441|https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf|The EU wants an AI revolution. But on whose terms?
