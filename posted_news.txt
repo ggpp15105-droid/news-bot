@@ -1,8 +1,3 @@
-1791655489|https://lenta.ru/news/2026/10/10/zelenskiy-popytalsya-zaruchitsya-podderzhkoy-evropy-na-fone-zayavleniy-trampa/|Зеленский обзвонил европейцев после дизельной сделки Путина и Трампа
-1791656614|https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded|Riyadh airport suspends operations after attack leaves multiple people wounded
-1791656619|https://lenta.ru/news/2026/10/10/stabilnost/|Почти 100 российских сетей АЗС дали обещание о стабилизации цен
-1791656628|https://www.kommersant.ru/doc/9023850|Вратарь «Рейнджерс» Шестеркин выбыл до конца сезона НХЛ из-за травмы
-1791656637|https://www.kommersant.ru/doc/9023847|КСИР сообщил о подрыве танкера в Ормузском проливе
 1791656646|https://www.kommersant.ru/doc/9023845|Саудовская Аравия приостановила работу аэропорта в Эр-Рияде
 1791657740|https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss|Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
 1791657748|https://lenta.ru/news/2026/10/10/zenit-pobedil-krasnodar-i-stal-liderom-rpl/|«Зенит» победил «Краснодар» и стал лидером РПЛ
@@ -1998,3 +1993,8 @@
 1792190305|https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/|All The Records GTA 6 Will Break, We Think
 1792190312|https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/|You Can Play WoW: Forever For Free Next Week (But There’s A Catch)
 1792190318|https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/|This Espresso Machine Can Run Doom
+1792191747|https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss|Families demand justice after Pakistan school collapse
+1792191754|https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/|Shrek 2 Remaster Leaks, Looks Amazing And I Need It Now
+1792191760|https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/|WoW: Forever Just Changed The Math On What Race To Play In A Big Way
+1792191767|https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed|Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements
+1792191774|https://www.eurogamer.net/galaxies-showcase-2026-games-roundup|11 games and announcements that got us excited in the latest Galaxies Showcase
