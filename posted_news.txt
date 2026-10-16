@@ -1,8 +1,3 @@
-1791633590|https://lenta.ru/news/2026/10/10/clop/|Российский регион атаковали вонючие клопы
-1791634558|https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss|Russian glide bomb attack on Zaporizhzhia kills at least 15 people
-1791634566|https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf|Operations Plan Germany: How the Bundeswehr trains for NATO collective defense
-1791634570|https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027|🔴 Palestinian president Abbas postpones legislative elections, sets presidential poll for September 2027
-1791634578|https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost|Russian modder slaps DLSS 5 onto Pac-Man with 4x Multipass
 1791634586|https://lenta.ru/news/2026/10/10/obstanovka-v-kievskom-metro-posle-ostanovki-popala-na-video/|Обстановка в киевском метро после остановки попала на видео
 1791635850|https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss|Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’
 1791635856|https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss|Why is US turning to Russia for diesel despite sanctions?
@@ -1998,3 +1993,8 @@
 1792144472|https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss|Indian police launch New Delhi clampdown for Cockroach Party rally
 1792144479|https://www.france24.com/en/video/20261016-shooter-kills-teacher-three-children-at-oregon-elementary-school|Shooter kills teacher, three children at Oregon elementary school
 1792144484|https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump|Zelensky rallies European allies as Trump ties slump
+1792145954|https://www.aljazeera.com/opinions/2026/10/16/indias-mass-voter-purge-is-hollowing-out-democracy?traffic_source=rss|India’s mass voter purge is hollowing out democracy
+1792145959|https://www.france24.com/en/tv-shows/focus/20261016-how-books-are-being-scanned-and-destroyed-to-train-artificial-intelligence|How books are being scanned and destroyed to train artificial intelligence
+1792145965|https://www.france24.com/en/video/20261016-eu-leaders-face-budget-divisions-discuss-ukraine-at-brussels-summit|EU leaders face budget divisions, discuss Ukraine at Brussels summit
+1792145970|https://news.sky.com/story/british-father-fined-for-causing-death-of-his-two-year-old-son-in-cyprus-13599857|British man fined for causing death of his two-year-old son in Cyprus
+1792145978|https://www.euronews.com/2026/10/16/social-media-favourites-pompeiis-cats-star-in-new-photo-book|Social media favourites, Pompeii's cats star in new photo book
