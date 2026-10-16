@@ -1,8 +1,3 @@
-1791622780|https://lenta.ru/news/2026/10/10/vozmutilsya/|Трамп назвал позором отказ присудить ему Нобелевскую премию мира
-1791623601|https://lenta.ru/news/2026/10/10/na-zapade-voshitilis-schedrostyu-putina/|На Западе восхитились щедростью Путина
-1791623606|https://lenta.ru/news/2026/10/10/v-sovfede-otsenili-znachenie-sdelki-rossii-i-ssha/|В Совфеде оценили значение сделки России и США
-1791623611|https://lenta.ru/news/2026/10/10/na-zaes-rasskazali-o-krayne-slozhnoy-situatsii-s-logistikoy-iz-za-atak-vsu/|На ЗАЭС рассказали о крайне сложной ситуации с логистикой из-за атак ВСУ
-1791623615|https://www.kommersant.ru/doc/9023734|Минобороны сообщило об уничтожении 725 беспилотников за сутки
 1791623624|https://www.kommersant.ru/doc/9023730|Российские войска заняли два села в Харьковской области
 1791624603|https://www.aljazeera.com/video/newsfeed/2026/10/10/brazil-police-rescue-13-children-taken-hostage-at-kindergarten?traffic_source=rss|Brazil police rescue 13 children taken hostage at kindergarten
 1791624608|https://www.france24.com/en/video/20261010-india-s-cockroach-movement-this-is-unprecedented|India's 'cockroach' movement: "This is unprecedented"
@@ -1998,3 +1993,8 @@
 1792119829|https://www.japantimes.co.jp/news/2026/10/16/japan/politics/japan-three-security-documents/|Japan’s national security strategy could be up for a major overhaul
 1792119836|https://www.japantimes.co.jp/news/2026/10/16/world/politics/somalia-presidential-election/|Somalia sets presidential election for May despite insecurity
 1792119842|https://www.japantimes.co.jp/business/2026/10/16/economy/bank-of-japan-board-member-interest-rates/|BOJ’s Koeda warns against too much caution on rate hikes
+1792121525|https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss|China tells Israel to stop ‘forced establishment’ of West Bank settlements
+1792121532|https://www.japantimes.co.jp/news/2026/10/16/japan/china-carrier-pacific-japan-koizumi-defense/|Koizumi says China carrier drills in Pacific highlight Japan’s ‘limited’ surveillance capabilities
+1792121539|https://www.japantimes.co.jp/business/2026/10/16/companies/sumitomo-life-target-acquisitions-southeast-asia/|Sumitomo Life considering acquisitions in southeast Asia and U.S.
+1792121546|https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/|GTA 6 Isn’t Showing Boobie In Promotional Material
+1792121553|https://www.gamespot.com/articles/were-getting-a-wwe-and-street-fighter-crossover-and-its-pretty-weird/|We’re Getting A WWE And Street Fighter Crossover, And It’s Pretty Weird
