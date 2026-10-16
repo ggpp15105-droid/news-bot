@@ -1,8 +1,3 @@
-1791656646|https://www.kommersant.ru/doc/9023845|Саудовская Аравия приостановила работу аэропорта в Эр-Рияде
-1791657740|https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss|Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
-1791657748|https://lenta.ru/news/2026/10/10/zenit-pobedil-krasnodar-i-stal-liderom-rpl/|«Зенит» победил «Краснодар» и стал лидером РПЛ
-1791657753|https://lenta.ru/news/2026/10/10/miroshnik-otsenil-effekt-slov-trampa-o-zelenskom/|Мирошник оценил эффект слов Трампа о Зеленском
-1791657757|https://lenta.ru/news/2026/10/10/na-peregovorah-po-ukraine-v-mayami-obsudili-predlozheniya-po-territorii/|На переговорах по Украине в Майами обсудили предложения по территории
 1791657762|https://lenta.ru/news/2026/10/10/neftyanye-kompanii-rossii-nezamedlitelno-nachnut-postavlyat-dizel-za-rubezh/|Нефтяные компании России незамедлительно начнут поставлять дизель за рубеж
 1791658605|https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss|Palestinians still being killed in Gaza, one year into ‘ceasefire’
 1791658609|https://www.france24.com/en/tv-shows/spotlight/20261010-spotlight|SPOTLIGHT
@@ -1998,3 +1993,8 @@
 1792191760|https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/|WoW: Forever Just Changed The Math On What Race To Play In A Big Way
 1792191767|https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed|Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements
 1792191774|https://www.eurogamer.net/galaxies-showcase-2026-games-roundup|11 games and announcements that got us excited in the latest Galaxies Showcase
+1792193116|https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss|Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+1792193123|https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss|Trial of German steakhouse heiress that sparked a huge spy scandal
+1792193130|https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss|Leeds vs Manchester United: Premier League – teams, prediction, lineups
+1792193137|https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss|Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
+1792193144|https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development|Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine
