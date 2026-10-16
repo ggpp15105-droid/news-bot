@@ -1,8 +1,3 @@
-1791640428|https://lenta.ru/news/2026/10/10/vzryv-progremel-v-aeroportu-stolitsy-saudovskoy-aravii/|Взрыв прогремел в аэропорту столицы Саудовской Аравии
-1791640903|https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss|High silver prices threaten Lucknow’s famed bridal nagra craft
-1791640908|https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss|New Delhi police crack down on protesters ahead of anti-gov’t march
-1791640916|https://lenta.ru/news/2026/10/10/v-germanii-otvetili-na-vozmuschenie-mertsa-iz-za-vizita-shredera-v-gosti-k-putinu/|В Германии ответили на возмущение Мерца из-за визита Шредера в гости к Путину
-1791640921|https://lenta.ru/news/2026/10/10/akademik-ran-nazval-predel-chelovecheskoy-zhizni/|Академик РАН назвал предел человеческой жизни
 1791640930|https://www.kommersant.ru/doc/9023810|Девять человек погибли при стрельбе в Пенсильвании
 1791641855|https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss|Has Yemen returned to ‘full-scale war’?
 1791641861|https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss|When streets become a workplace: Gaza workers convert tents into offices
@@ -1998,3 +1993,8 @@
 1792157429|https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss|How UN chief Antonio Guterres tests the limits of quiet diplomacy
 1792157435|https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss|India police detain ‘Cockroach’ party founder ahead of protest
 1792157441|https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf|The EU wants an AI revolution. But on whose terms?
+1792159744|https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss|Dad fined after son, 2, died in Cyprus hotel fall
+1792159751|https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss|Can Russia help ease tensions between Pakistan and Afghanistan?
+1792159758|https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss|Ethiopia announces instalment of interim government in Tigray
+1792159764|https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss|Jerusalem Daily: Israeli settlers burn Palestinian olive groves
+1792159771|https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss|Palestinians, US journalist attacked in West Bank pogrom: What we know
