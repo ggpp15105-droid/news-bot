@@ -1,8 +1,3 @@
-1791624626|https://www.euronews.com/2026/10/10/russian-strikes-on-southeastern-ukraine-kill-eight-including-three-children-authorities-sa|Russian strikes on southeastern Ukraine kill eight, including three children, authorities say
-1791625557|https://lenta.ru/news/2026/10/10/oni-khotyat/|Власти балканского региона вспомнили про российский газ
-1791625563|https://lenta.ru/news/2026/10/10/falsifikat/|Министра ЕЭК из Армении заподозрили в причастности к поставке контрафакта в Россию
-1791625571|https://lenta.ru/news/2026/10/10/rossiyskaya-armiya-vzyala-pod-kontrol-dva-naselennyh-punkta-v-harkovskoy-oblasti/|Российская армия взяла под контроль два населенных пункта в Харьковской области
-1791625577|https://lenta.ru/news/2026/10/10/long-rossiya-udarila-po-portam-ukrainy-i-porazila-suhogruz-s-voennymi-gruzami-geran-vpervye-doletela-do-lvova/|Россия ударила по портам Украины и поразила сухогруз с военными грузами. «Герань» впервые долетела до Львова
 1791625582|https://lenta.ru/news/2026/10/10/v-kremle-raskryli-odnu-iz-klyuchevyh-tem-razgovora-putina-i-trampa/|В Кремле раскрыли одну из ключевых тем разговора Путина и Трампа
 1791626288|https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss|A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing
 1791626294|https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss|Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca
@@ -1998,3 +1993,8 @@
 1792123511|https://www.japantimes.co.jp/sports/2026/10/16/baseball/mlb/brewers-win-nl-pennant/|Brewers complete NLCS sweep of Dodgers to reach World Series
 1792123518|https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley|GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?
 1792123526|https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass|Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it
+1792125197|https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf|Carney says US trying to break Canada amid vote for Alberta independence referendum
+1792125205|https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html|Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth
+1792125212|https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html|One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz
+1792125220|https://www.japantimes.co.jp/news/2026/10/16/japan/jma-earthquake-warning/|Emergency alert for strong quake withdrawn minutes later
+1792125226|https://www.aa.com.tr/en/world/carney-warns-of-efforts-to-break-canada-ahead-of-alberta-referendum/4090475|Carney warns of efforts to ‘break’ Canada ahead of Alberta referendum
