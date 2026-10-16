@@ -1,8 +1,3 @@
-1791652553|https://www.kommersant.ru/doc/9023842|Трамп: Украине нужен новый президент
-1791653378|https://lenta.ru/news/2026/10/10/shesterkin-vybyl-do-kontsa-sezona/|Шестеркин выбыл до конца сезона
-1791653387|https://lenta.ru/news/2026/10/10/aston-villa-i-brentford-sygrali-vnichyu-v-apl/|«Астон Вилла» и «Брентфорд» сыграли вничью в АПЛ
-1791653395|https://lenta.ru/news/2026/10/10/chelsi-razgromil-bornmut-v-matche-apl/|«Челси» разгромил «Борнмут» в матче АПЛ
-1791653400|https://www.kommersant.ru/doc/9023839|Минобороны России отчиталось об ударе по дата-центру «АТМ Укрсиббанка» в Киеве
 1791653405|https://www.kommersant.ru/doc/9023837|В Индии задержали лидера «Партии тараканов»
 1791654218|https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss|'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
 1791654223|https://www.france24.com/en/americas/20261010-convicted-murderer-christa-pike-leaves-hospital-returns-to-prison-after-botched-execution|Convicted murderer Christa Pike leaves hospital, returns to prison after botched execution
@@ -1998,3 +1993,8 @@
 1792184012|https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate|Zelensky turns to Europe for backing as ties with Trump deteriorate
 1792184018|https://www.france24.com/en/kenya-confirms-third-ebola-case|KENYA CONFIRMS THIRD EBOLA CASE
 1792184023|https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands|Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest
+1792185321|https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality|Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'
+1792185329|https://www.japantimes.co.jp/culture/2026/10/16/film/31st-busan-international-film-festival-a-list/|Busan International Film Festival builds momentum as an ‘A-list’ festival
+1792185336|https://www.japantimes.co.jp/business/2026/10/16/companies/toyota-electric-vehicle-china/|Toyota to debut its own version of Tesla EV-making tech in China
+1792185343|https://www.japantimes.co.jp/news/2026/10/16/world/politics/carney-alberta-secession-vote/|Carney campaigns for Canadian unity before Alberta secession vote
+1792185351|https://www.aa.com.tr/en/world/trump-denies-ordering-pause-in-starlink-access-for-ukrainian-military/4091392|Trump denies ordering pause in Starlink access for Ukrainian military
