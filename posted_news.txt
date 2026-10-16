@@ -1,8 +1,3 @@
-1791650194|https://lenta.ru/news/2026/10/10/fedotov-otsenil-udalenie-vratarya-spartaka-maksimenko/|Федотов оценил удаление вратаря «Спартака» Максименко
-1791651052|https://www.dw.com/en/several-injured-after-attack-on-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-rdf|Several injured after attack on Saudi Arabia's Riyadh Airport
-1791651057|https://news.sky.com/story/uk-nationals-told-to-avoid-saudi-arabia-airport-after-missile-strikes-leave-many-wounded-13563284|UK nationals told to avoid Saudi Arabia airport after missile strikes 'leave many wounded'
-1791651064|https://www.euronews.com/2026/10/10/left-wing-primary-more-than-half-of-registered-voters-have-already-voted-say-organisers|Left-wing primary: more than half of registered voters have already voted, say organisers
-1791651072|https://www.aa.com.tr/en/middle-east/us-uk-embassies-urge-citizens-to-avoid-riyadh-airport-following-attacks/4084655|US, UK embassies urge citizens to avoid Riyadh airport following attacks
 1791651077|https://lenta.ru/news/2026/10/10/chetyre-cheloveka-postradali-pri-ocherednyh-atakah-vsu/|Четыре человека пострадали при очередных атаках ВСУ
 1791651659|https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss|Celebrations in Ethiopian city after reported Eritrean ‘incursion’
 1791651665|https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss|Eritrea urges UN to intervene in standoff with Ethiopia
@@ -1998,3 +1993,8 @@
 1792179361|https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli|Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli
 1792179369|https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html|Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries
 1792179376|https://www.euronews.com/2026/10/16/trumps-new-press-secretary-leaves-after-less-than-a-week-following-controversy|Trump's new press secretary leaves after less than a week following controversy
+1792180789|https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss|Trump denies limiting Ukraine access to Starlink network
+1792180795|https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss|Trump told new press secretary to ‘reconsider’ role
+1792180802|https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf|Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
+1792180808|https://www.euronews.com/2026/10/16/pope-leo-xiv-urges-putin-to-agree-to-truce-in-besieged-ukrainian-city-of-oleshky|Pope Leo XIV urges Putin to agree to truce in besieged Ukrainian city of Oleshky
+1792180815|https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit|Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit
