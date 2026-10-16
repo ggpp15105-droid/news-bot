@@ -1,8 +1,3 @@
-1791625582|https://lenta.ru/news/2026/10/10/v-kremle-raskryli-odnu-iz-klyuchevyh-tem-razgovora-putina-i-trampa/|В Кремле раскрыли одну из ключевых тем разговора Путина и Трампа
-1791626288|https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss|A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing
-1791626294|https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss|Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca
-1791626302|https://lenta.ru/news/2026/10/10/apple-watch/|Россияне пожаловались на проблемы с кожей из-за новых часов Apple
-1791626307|https://lenta.ru/news/2026/10/10/rosatom-vyigral-sud-protiv-finskoy-kompanii/|«Росатом» выиграл суд против финской компании
 1791626312|https://lenta.ru/news/2026/10/10/mezhdunarodnyy-sud-priznal-nezakonnym-rastorzhenie-finnami-kontrakta-s-rosatomom/|Международный суд признал незаконным расторжение финнами контракта с «Росатомом»
 1791627021|https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss|Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil
 1791627030|https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials|World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft
@@ -1998,3 +1993,8 @@
 1792125212|https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html|One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz
 1792125220|https://www.japantimes.co.jp/news/2026/10/16/japan/jma-earthquake-warning/|Emergency alert for strong quake withdrawn minutes later
 1792125226|https://www.aa.com.tr/en/world/carney-warns-of-efforts-to-break-canada-ahead-of-alberta-referendum/4090475|Carney warns of efforts to ‘break’ Canada ahead of Alberta referendum
+1792127092|https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-rdf|Oregon school shooting: Gunman kills 3 students and teacher before being shot dead by community member
+1792127099|https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html|The IPO drought is driving private equity-owned companies to the debt market to pay investors
+1792127104|https://www.euronews.com/2026/10/16/extreme-weather-is-decimating-europes-crops-these-farmers-have-a-solution|Extreme weather is decimating Europe’s crops. These farmers have a solution
+1792127111|https://www.euronews.com/2026/10/16/these-are-the-worlds-best-destinations-for-golden-hour-according-to-a-meteorologist|These are the world’s best destinations for ‘golden hour’, according to a meteorologist
+1792127118|https://www.euronews.com/2026/10/16/germany-pressures-croatia-to-resolve-bilateral-disputes-with-montenegro-over-eu-accession|Germany pressures Croatia to resolve bilateral disputes with Montenegro over EU accession
