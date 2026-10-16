@@ -1,8 +1,3 @@
-1791644354|https://lenta.ru/news/2026/10/10/borodin-zavoeval-serebro-na-kubke-mira-v-tashkente/|Бородин завоевал серебро на Кубке мира в Ташкенте
-1791645093|https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss|Woman injures three people in third Poland school knife attack in a week
-1791645103|https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-rdf|Blast reported at Saudi Arabia's Riyadh airport
-1791645111|https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more|This week on Tom's Hardware Premium: October 10, 2026
-1791645119|https://lenta.ru/news/2026/10/10/v-rossii-podtverdili-skoryy-vizit-uitkoffa-i-kushnera/|В России подтвердили скорый визит Уиткоффа и Кушнера
 1791645128|https://lenta.ru/news/2026/10/10/aksiya/|В Польше устроили акцию протеста из-за расправы украинца над священником
 1791646022|https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss|Nobel peace laureate says US sanctions on ICC 'unacceptable'
 1791646030|https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation|Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation
@@ -1998,3 +1993,8 @@
 1792167035|https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france|Cost-of-living demonstrations to grip pre-election France
 1792167042|https://www.france24.com/en/video/20261016-india-detains-top-cockroach-leader-as-hundreds-protest-in-capital|India detains top 'cockroach' leader as hundreds protest in capital
 1792167048|https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia|Zelensky hails "real leaders" in Europe, blasts Trump's diesel deal with Russia
+1792168788|https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss|The artisanal miners behind Nigeria’s lithium boom
+1792168793|https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss|Indian protest leaders detained ahead of flag march in New Delhi
+1792168799|https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss|Division in Lebanon over Hezbollah’s confiscated explosives
+1792168804|https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss|EU rallies in support of Ukraine amid Trump standoff
+1792168809|https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss|Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick
