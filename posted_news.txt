@@ -1,8 +1,3 @@
-1791657762|https://lenta.ru/news/2026/10/10/neftyanye-kompanii-rossii-nezamedlitelno-nachnut-postavlyat-dizel-za-rubezh/|Нефтяные компании России незамедлительно начнут поставлять дизель за рубеж
-1791658605|https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss|Palestinians still being killed in Gaza, one year into ‘ceasefire’
-1791658609|https://www.france24.com/en/tv-shows/spotlight/20261010-spotlight|SPOTLIGHT
-1791658618|https://lenta.ru/news/2026/10/10/spetspredstavitel-putina-nameknul-na-konets-igry-dlya-zelenskogo/|Спецпредставитель Путина намекнул на «конец игры» для Зеленского
-1791658623|https://www.kommersant.ru/doc/9023854|Правительство частично сняло запрет на экспорт дизеля
 1791658627|https://tass.ru/ekonomika/28202241|В аэропортах Пензы и Саратова ввели временные ограничения
 1791659336|https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss|Trump calls for new president in Ukraine
 1791659345|https://lenta.ru/news/2026/10/10/pushilin-rasskazal-o-pervyh-uchastnikah-spetsprogrammy-pereseleniya/|Пушилин рассказал о первых участниках спецпрограммы переселения
@@ -1998,3 +1993,8 @@
 1792193130|https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss|Leeds vs Manchester United: Premier League – teams, prediction, lineups
 1792193137|https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss|Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
 1792193144|https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development|Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine
+1792194393|https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks|Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day
+1792194400|https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher|CD Projekt Red says its mysterious Hadar game is its "biggest project to date", but even after "several good years" it's seemingly a long way off
+1792194408|https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste|Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste
+1792194416|https://www.rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release|We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release
+1792194423|https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day|"We were wrong": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day
