@@ -1,8 +1,3 @@
-1791630140|https://www.kommersant.ru/doc/9023753|Пушилин: подготовку к переселению из оккупированных ВСУ зон ДНР готовят заранее для оценки жилфонда
-1791631057|https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf|US midterms: Women candidates could make history
-1791631061|https://www.france24.com/en/video/20261010-october-7-scars-push-israel-s-first-time-voters-to-right|October 7 scars push Israel's first-time voters to right
-1791631067|https://www.cnbc.com/2026/10/10/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee.html|India unveils tough curbs on dollar demand to defend rupee
-1791631072|https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks|Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees
 1791631081|https://lenta.ru/news/2026/10/10/krasnoyarskiy-klub-ne-smog-dobratsya-v-moskvu-na-match-edinoy-ligi-vtb/|Красноярский клуб не смог добраться в Москву на матч Единой лиги ВТБ
 1791632000|https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss|What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?
 1791632007|https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss|Manchester City whistleblower Rui Pinto to remain under police protection
@@ -1998,3 +1993,8 @@
 1792137256|https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands|France’s student protests: Larger crowds risk overshadowing students’ demands
 1792137262|https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030|Germany set to hike tobacco tax: Cigarette packs could reach close to €12 by 2030
 1792137267|https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres|Syria arrests 'Butcher of Baniyas' accused of 2013 coastal massacres
+1792138805|https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-rdf|Wildfire kills 4 firefighters in Indonesia's Mount Bromo national park
+1792138812|https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html|Trump says he won't use nuclear weapons or send ground troops to Iran
+1792138819|https://www.euronews.com/2026/10/16/indonesian-stocks-plunge-11-as-msci-proposes-emerging-market-downgrade|Indonesian stocks plunge 11% as MSCI proposes emerging market downgrade
+1792138826|https://www.euronews.com/video/2026/10/16/russians-cant-sip-margaritas-in-the-eu-while-putin-bombs-ukraine-says-epp-mep|Russians can't sip margaritas in the EU while Putin bombs Ukraine, says EPP MEP
+1792138833|https://www.euronews.com/2026/10/16/europes-answer-to-starlink-who-is-building-iris-and-what-is-germanys-role|Europe's answer to Starlink: Who is building IRIS² and what is Germany's role
