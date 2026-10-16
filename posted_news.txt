@@ -1,8 +1,3 @@
-1791641878|https://lenta.ru/news/2026/10/10/kim-kardashyan-bez-byustgaltera-v-prozrachnom-platie-pribyla-na-gran-pri-singapura/|Ким Кардашьян без бюстгальтера в прозрачном платье прибыла на Гран-при Сингапура
-1791642770|https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss|Why is the US sanctioning the International Criminal Court?
-1791642776|https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html|Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows
-1791642785|https://lenta.ru/news/2026/10/10/raskryty-podrobnosti-ob-otravivshey-syna-uksusom-rossiyanke/|Раскрыты подробности об отравившей сына уксусом россиянке
-1791642790|https://lenta.ru/news/2026/10/10/prezident-afrikanskoy-respubliki-priedet-na-sammit-v-moskvu/|Президент африканской республики приедет на саммит в Москву
 1791642795|https://lenta.ru/news/2026/10/10/premier-gruzii-schel-pravilnym-reshenie-ne-vvodit-sanktsii-protiv-rossii/|Премьер Грузии счел правильным решение не вводить санкции против России
 1791643663|https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss|Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top
 1791643668|https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss|Jerusalem Daily: Israeli settlers attack olive farmers
@@ -1998,3 +1993,8 @@
 1792161677|https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss|Qatar FM calls for Israeli withdrawal from Lebanon
 1792161684|https://www.dw.com/en/iran-when-honor-becomes-a-death-sentence-for-women/a-79681977?maca=en-rss-en-all-1573-rdf|Iran: When 'honor' becomes a death sentence for women
 1792161692|https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf|Albania: Students demand political change and resignation of Prime Minister Edi Rama
+1792163425|https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss|Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+1792163432|https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss|Pope pictured for first time since surgery and cancer diagnosis
+1792163439|https://www.dw.com/en/pope-leo-recovering-from-surgery-will-deliver-sunday-prayer/a-79682540?maca=en-rss-en-all-1573-rdf|Pope Leo recovering from surgery, will deliver Sunday prayer
+1792163445|https://www.dw.com/en/german-colonialism-why-hasn-t-there-been-a-reckoning/a-79682388?maca=en-rss-en-all-1573-rdf|German colonialism: Why hasn't there been a reckoning?
+1792163452|https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-all-1573-rdf|Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions
