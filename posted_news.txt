@@ -1,8 +1,3 @@
-1791638785|https://lenta.ru/news/2026/10/10/nazvana-prichina-dosrochnogo-zaversheniya-peregovorov-ssha-i-ukrainy-v-mayami/|Названа причина досрочного завершения переговоров США и Украины в Майами
-1791639622|https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss|‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
-1791639629|https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss|Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes
-1791639636|https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf|'Ragebait' is the 2026 German Youth Word of the Year
-1791639642|https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf|Germany sticks to Russia sanctions after Trump diesel deal
 1791639650|https://lenta.ru/news/2026/10/10/v-izraile-vozmutilis-pobede-gitlera-mussolini-na-vyborah/|В Израиле возмутились победе Гитлера Муссолини на выборах
 1791640407|https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway|Yemen says advancing against Houthis around key Bab al-Mandab strait
 1791640413|https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html|Putin relayed Iran war proposal to Trump, Kremlin says
@@ -1998,3 +1993,8 @@
 1792152826|https://www.france24.com/en/tv-shows/talking-europe/20261016-eu-and-canada-seek-closer-ties-will-canada-become-the-eu-s-first-associate-member|EU and Canada seek closer ties: Will Canada become the EU's first associate member?
 1792152831|https://www.euronews.com/2026/10/16/portuguese-journalist-and-writer-joaquim-letria-dies|Portuguese journalist and writer Joaquim Letria dies
 1792152837|https://www.euronews.com/2026/10/16/croatias-leaders-slam-pro-nazi-chants-ahead-of-ajax-match-in-southern-city-split|Croatia's leaders slam pro-Nazi chants ahead of Ajax match in southern city Split
+1792155315|https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss|Fuel tanker fire engulfs market in southern Nigeria
+1792155321|https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss|Pakistan orders school inspections following deadly roof collapse
+1792155329|https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss|‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence
+1792155335|https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss|Why is China buying up gold?
+1792155341|https://www.france24.com/en/tv-shows/reporters/20261016-thanks-a-lot-trump-wyoming-conservatives-divided-ahead-us-midterms|'Thanks a lot, Trump': Wyoming conservatives divided ahead of US midterms
