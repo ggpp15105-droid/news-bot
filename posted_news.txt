@@ -1,8 +1,3 @@
-1791628095|https://lenta.ru/news/2026/10/10/tretyak-otreagiroval-na-slova-trampa-ob-ovechkine/|Третьяк отреагировал на слова Трампа об Овечкине
-1791628823|https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss|Chile declares Las Condes disaster zone after mudslide
-1791628832|https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html|Isaias weakens to post-tropical cyclone after Florida landfall, NHC says
-1791628839|https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out|Ukrainian drones strike Russia's largest data center, multiple parts of 1.4 million square foot campus knocked offline
-1791628848|https://lenta.ru/news/2026/10/10/rospotrebnadzor-zapretil-vvoz-v-rossiyu-proizvedennoy-v-gruzii-koly/|Роспотребнадзор запретил ввоз в Россию произведенной в Грузии колы
 1791628853|https://lenta.ru/news/2026/10/10/40-letnyaya-ledi-gaga-pokazala-vneshnost-bez-makiyazha/|40-летняя Леди Гага показала внешность без макияжа
 1791629622|https://lenta.ru/news/2026/10/10/narusheno/|В Брянской области из-за атак дронов нарушено движение по железной дороге
 1791629627|https://lenta.ru/news/2026/10/10/fis-izmenit-format-finala-kubka-mira-po-lyzhnym-gonkam/|FIS изменит формат финала Кубка мира по лыжным гонкам
@@ -1998,3 +1993,8 @@
 1792130547|https://www.france24.com/en/tv-shows/sports/20261016-marseille-woes-continue-with-a-second-consecutive-europa-league-defeat|Marseille woes continue with a second consecutive Europa League defeat
 1792130552|https://www.euronews.com/2026/10/16/ukraine-pushes-for-european-alternatives-to-us-air-defences-and-starlink-amid-tensions-wit|Ukraine pushes for European alternatives to US air defences and Starlink amid tensions with Washington
 1792130558|https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-morning|Latest news bulletin | October 16th, 2026 – Morning
+1792132620|https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss|Vibe coding: Game-changer or risky business?
+1792132627|https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss|Alone in Gaza: Genocide leaves Palestinian man without family or a home
+1792132635|https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-rdf|India's 'Cockroaches' to march again after protest crackdown
+1792132642|https://www.france24.com/en/video/20261016-midterms-2026-can-democrats-capitalise-on-latino-voter-regret|Midterms 2026: Can Democrats capitalise on Latino voter regret?
+1792132649|https://www.euronews.com/2026/10/16/ukraines-zelenskyy-turns-to-brussels-as-us-support-falters|Ukraine's Zelenskyy turns to Brussels as US support falters
