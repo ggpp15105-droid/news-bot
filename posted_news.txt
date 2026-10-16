@@ -1,8 +1,3 @@
-1791629643|https://www.kommersant.ru/doc/9023754|Режим ЧС ввели на улицах Ростова-на-Дону, где повреждены дома после атаки БПЛА
-1791630117|https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire|Hunger and malnutrition stalk Gazans, a year on from ceasefire
-1791630122|https://www.euronews.com/2026/10/10/czechs-head-to-polls-in-local-and-senate-elections|Czechs head to polls in local and Senate elections
-1791630127|https://lenta.ru/news/2026/10/10/stalo-izvestno-o-planah-komandovaniya-nato-v-stranah-baltii/|Стало известно о планах командования НАТО в странах Балтии
-1791630131|https://www.kommersant.ru/doc/9023767|ВСУ атаковали железнодорожный мост в Брянской области
 1791630140|https://www.kommersant.ru/doc/9023753|Пушилин: подготовку к переселению из оккупированных ВСУ зон ДНР готовят заранее для оценки жилфонда
 1791631057|https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf|US midterms: Women candidates could make history
 1791631061|https://www.france24.com/en/video/20261010-october-7-scars-push-israel-s-first-time-voters-to-right|October 7 scars push Israel's first-time voters to right
@@ -1998,3 +1993,8 @@
 1792135075|https://www.france24.com/en/asia-pacific/20261016-indian-authorities-heighten-security-close-park-ahead-cockroach-movement-rally|Indian authorities heighten security, close park ahead of 'cockroach' movement rally
 1792135081|https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html|Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge
 1792135086|https://www.euronews.com/2026/10/16/italy-data-network-glitch-hits-airports-flights-delayed-and-cancellations|Italy data network glitch hits airports: Flights delayed and cancellations
+1792137245|https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss|Tesla unveils car that can drive upside down and jump through the air
+1792137250|https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss|How Israel’s elections will affect Palestinians
+1792137256|https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands|France’s student protests: Larger crowds risk overshadowing students’ demands
+1792137262|https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030|Germany set to hike tobacco tax: Cigarette packs could reach close to €12 by 2030
+1792137267|https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres|Syria arrests 'Butcher of Baniyas' accused of 2013 coastal massacres
