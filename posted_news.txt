@@ -1,8 +1,3 @@
-1791637788|https://lenta.ru/news/2026/10/10/rossiyskuyu-turistku-vmeste-s-docheryu-izbili-vo-vietnamskom-otele/|Российскую туристку вместе с дочерью избили во вьетнамском отеле
-1791638762|https://www.aa.com.tr/en/world/sweden-regrets-us-russia-diesel-agreement/4084495|Sweden regrets US-Russia diesel agreement
-1791638769|https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc|Top AI labs reportedly planning for catastrophic AI event fallout
-1791638775|https://lenta.ru/news/2026/10/10/aliev-vstretilsya-s-kadyrovym/|Алиев встретился с Кадыровым
-1791638780|https://lenta.ru/news/2026/10/10/ekspert-sprognoziroval-prekraschenie-podderzhki-ukrainy-so-storony-ssha/|Эксперт спрогнозировал прекращение поддержки Украины со стороны США
 1791638785|https://lenta.ru/news/2026/10/10/nazvana-prichina-dosrochnogo-zaversheniya-peregovorov-ssha-i-ukrainy-v-mayami/|Названа причина досрочного завершения переговоров США и Украины в Майами
 1791639622|https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss|‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
 1791639629|https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss|Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes
@@ -1998,3 +1993,8 @@
 1792151377|https://www.france24.com/en/tv-shows/fashion/20261016-spring-summer-2027-ready-to-wear-collections-africa-in-the-spotlight-at-paris-fashion-week|Spring-summer 2027 ready-to-wear collections: Africa in the spotlight at Paris Fashion Week
 1792151385|https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html|Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change
 1792151392|https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html|I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message
+1792152814|https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss|Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice
+1792152821|https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf|EU summit: European leaders pledge support for Ukraine's Zelenskyy
+1792152826|https://www.france24.com/en/tv-shows/talking-europe/20261016-eu-and-canada-seek-closer-ties-will-canada-become-the-eu-s-first-associate-member|EU and Canada seek closer ties: Will Canada become the EU's first associate member?
+1792152831|https://www.euronews.com/2026/10/16/portuguese-journalist-and-writer-joaquim-letria-dies|Portuguese journalist and writer Joaquim Letria dies
+1792152837|https://www.euronews.com/2026/10/16/croatias-leaders-slam-pro-nazi-chants-ahead-of-ajax-match-in-southern-city-split|Croatia's leaders slam pro-Nazi chants ahead of Ajax match in southern city Split
