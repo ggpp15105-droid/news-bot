@@ -1,8 +1,3 @@
-1791654929|https://lenta.ru/news/2026/10/10/spetspredstavitel-putina-prokommentiroval-zayavlenie-trampa-o-zelenskom/|Спецпредставитель Путина прокомментировал заявление Трампа о Зеленском
-1791655459|https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss|Nine killed in shooting in US state of Pennsylvania, including two children
-1791655466|https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss|Pope says death penalty ‘inadmissible’ as US plans to livestream execution
-1791655472|https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss|Video shows rare albino Asian black bear
-1791655479|https://lenta.ru/news/2026/10/10/fetisov-otsenil-slova-trampa-ob-ovechkine/|Фетисов оценил слова Трампа об Овечкине
 1791655489|https://lenta.ru/news/2026/10/10/zelenskiy-popytalsya-zaruchitsya-podderzhkoy-evropy-na-fone-zayavleniy-trampa/|Зеленский обзвонил европейцев после дизельной сделки Путина и Трампа
 1791656614|https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded|Riyadh airport suspends operations after attack leaves multiple people wounded
 1791656619|https://lenta.ru/news/2026/10/10/stabilnost/|Почти 100 российских сетей АЗС дали обещание о стабилизации цен
@@ -1998,3 +1993,8 @@
 1792188637|https://www.ign.com/articles/call-of-duty-modern-warfare-4-captain-prices-fate-explained|Call of Duty: Modern Warfare 4 – Captain Price's Fate Explained
 1792188645|https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show|Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show
 1792188652|https://www.ign.com/articles/mtg-darkhold-destiny-arcanum-bundle-whats-inside|MTG Darkhold Destiny Arcanum Bundle: What's Inside and Is It Worth The Price Tag?
+1792190290|https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-rdf|Brazil: Amazon deforestation lowest in nearly 40 years
+1792190298|https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns|Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns
+1792190305|https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/|All The Records GTA 6 Will Break, We Think
+1792190312|https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/|You Can Play WoW: Forever For Free Next Week (But There’s A Catch)
+1792190318|https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/|This Espresso Machine Can Run Doom
