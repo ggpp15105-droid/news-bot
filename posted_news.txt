@@ -1,8 +1,3 @@
-1791621059|https://lenta.ru/news/2026/10/10/v-nato-otsenili-veroyatnost-blokirovki-kaliningrada/|В НАТО оценили вероятность блокировки Калининграда
-1791622015|https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children|Live: Russian strikes on Ukraine's Zaporizhzhia kill at least seven, including children
-1791622019|https://lenta.ru/news/2026/10/10/judith/|58-летняя юмористка рассказала о борьбе с раком и пообещала ходить без бюстгальтера
-1791622028|https://www.kommersant.ru/doc/9023722|Пожар площадью 2 тыс. кв. м разгорелся на территории птицефабрики в Томске
-1791622037|https://www.kommersant.ru/doc/9023720|Собянин сообщил о летевших на Москву 403 беспилотниках
 1791622045|https://www.kommersant.ru/doc/9023716|В Минобороны КНР заявили о готовности укреплять отношения с армией США
 1791622754|https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss|Isaias weakens after making landfall in US Gulf Coast as hurricane
 1791622761|https://www.aljazeera.com/sports/2026/10/10/hopes-hundred-fires-west-indies-to-record-t20-win-over-india?traffic_source=rss|West Indies beat India as Hope’s hundred secures record T20 chase
@@ -1998,3 +1993,8 @@
 1792116360|https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss|Myanmar’s coup leader-turned-president wins back neighbours despite war
 1792116368|https://www.dw.com/en/oregon-school-shooting-3-children-teacher-killed-16-year-old-gunman-dies-after-community-member-pursues-him-into-school/a-79674849?maca=en-rss-en-all-1573-rdf|Oregon school shooting: 3 children, teacher killed; 16-year-old gunman dies after community member pursues him into school
 1792116377|https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html|Order to limit Starshield for Ukraine came from inside White House: Reuters reports
+1792118055|https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss|Argentine students protest on campus over Milei’s austerity
+1792118061|https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss|Progressives, AIPAC and the future of the Democratic Party
+1792118066|https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace|Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'
+1792118073|https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html|Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe
+1792118080|https://www.japantimes.co.jp/news/2026/10/16/world/how-houthis-attack-saudi-arabia/|How are Yemen’s Houthis attacking Saudi Arabia so effectively?
