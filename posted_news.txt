@@ -1,8 +1,3 @@
-1791647720|https://www.france24.com/en/video/20261010-russian-attack-on-ukrainian-city-kills-15-a-day-after-trump-eases-diesel-sanctions-on-moscow|Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow
-1791648240|https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss|Hurricane Isaias leaves two dead and 800,000 without power in US Southeast
-1791648245|https://www.france24.com/en/sport/20261010-french-cycling-prodigy-seixas-claims-first-monument-victory-at-giro-di-lombardia|French cycling prodigy Seixas claims first Monument victory at Giro di Lombardia
-1791648251|https://www.france24.com/en/video/20261010-war-in-ukraine-russian-strikes-kill-15-including-a-young-girl|War in Ukraine: Russian strikes kill 15, including a young girl
-1791648258|https://www.euronews.com/2026/10/10/cristiano-ronaldo-suspended-by-portuguese-fa-for-leaving-training-camp|Cristiano Ronaldo suspended by Portuguese FA for leaving training camp
 1791648266|https://www.euronews.com/2026/10/10/evacuations-and-injuries-reported-at-riyadh-airport-after-another-alleged-houthi-attack|Evacuations and injuries reported at Riyadh airport after another alleged Houthi attack
 1791649194|https://www.france24.com/en/video/20261010-india-protests-new-cockroach-movement-leader-named|India protests: New 'cockroach' movement leader named
 1791649199|https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban|South Africa: Anti-migrant unrest flares in Durban
@@ -1998,3 +1993,8 @@
 1792173878|https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-rdf|Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?
 1792173884|https://news.sky.com/story/christian-b-madeleine-mccann-prime-suspect-could-face-new-rape-trial-as-prosecutors-fight-to-overturn-acquittal-13599922|Madeleine McCann prime suspect could face new rape trial
 1792173888|https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-deny-new-torture-charges-as-false-accusations-13599870|Nicolas Maduro and wife deny new torture charges as 'false accusations'
+1792175744|https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss|Ukraine president targets Trump, Putin at EU summit
+1792175751|https://www.dw.com/en/new-white-house-press-secretary-katie-zacharia-on-way-out-after-only-five-days-on-job-reports-say/a-79684341?maca=en-rss-en-all-1573-rdf|New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
+1792175757|https://www.france24.com/en/tv-shows/spotlight/20261016-us-tilting-toward-russia-europeans-are-standing-more-and-more-solidly-with-zelensky|'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'
+1792175763|https://www.france24.com/en/americas/20261016-embattled-new-white-house-press-secretary-zacharia-let-go-from-her-role|Embattled new White House press secretary Zacharia 'let go' from her role
+1792175770|https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html|U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says
