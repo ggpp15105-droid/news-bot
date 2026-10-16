@@ -1,8 +1,3 @@
-1791632031|https://lenta.ru/news/2026/10/10/psihoterapevt-posovetovala-rossiyanam-lenitsya/|Психотерапевт посоветовала россиянам лениться
-1791632882|https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting|Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game
-1791632889|https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off|AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC
-1791632898|https://lenta.ru/news/2026/10/10/belorussiya-zapretila-prodazhu-odnogo-iz-chaev-greenfield/|Белоруссия запретила продажу популярного в России чая
-1791632903|https://lenta.ru/news/2026/10/10/v-kieve-nachalis-pereboi-s-vodoy/|В Киеве начались перебои с водой
 1791632907|https://lenta.ru/news/2026/10/10/kamale-harris-zapretili-ballotirovatsya-v-prezidenty/|Камале Харрис запретили баллотироваться в президенты
 1791633562|https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss|Exposing an alleged crime kingpin’s Cambodian empire
 1791633568|https://www.aa.com.tr/en/world/eu-urges-us-to-reverse-latest-sanctions-targeting-icc-/4084422|EU urges US to reverse latest sanctions targeting ICC
@@ -1998,3 +1993,8 @@
 1792140883|https://www.dw.com/en/strong-winds-fuel-fires-near-los-angeles-as-the-region-recovers-from-last-year-s-deadly-blazes/a-79676355?maca=en-rss-en-all-1573-rdf|Strong winds fuel fires near Los Angeles as the region recovers from last year's deadly blazes
 1792140889|https://www.france24.com/en/americas/20261016-oil-tanker-carry-russian-diesel-united-states|No, this oil tanker didn’t carry Russian diesel to the United States
 1792140896|https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html|Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Trump overshadows EU summit
+1792142391|https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss|Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed
+1792142398|https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss|Norway wealth fund urged to ease nuclear arms ban after Gaza investment row
+1792142406|https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf|Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter
+1792142414|https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf|Europe promotes sovereign, trusted AI as it struggles to catch US and China
+1792142419|https://www.france24.com/en/tv-shows/press-review/20261016-france-to-witness-a-crossroads-of-anger-as-mass-protests-expected-on-saturday|France to witness a 'crossroads of anger' as mass protests expected on Saturday
