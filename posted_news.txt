@@ -1,8 +1,3 @@
-1791651684|https://lenta.ru/news/2026/10/10/tramp-zayavil-chto-ukraine-sleduet-vybrat-novogo-lidera/|Трамп посоветовал украинцам выбрать нового лидера
-1791652527|https://www.euronews.com/2026/10/10/spanish-pm-sanchez-launches-campaign-with-housing-as-key-theme|Spanish PM Sánchez launches campaign with housing as key theme
-1791652533|https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is|A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is
-1791652539|https://lenta.ru/news/2026/10/10/tramp-prizval-zelenskogo-ostanovitsya/|Трамп призвал Зеленского остановиться
-1791652544|https://lenta.ru/news/2026/10/10/zelenskomu-ukazali-na-zabluzhdeniya-o-pvo/|Зеленскому указали на заблуждения о ПВО
 1791652553|https://www.kommersant.ru/doc/9023842|Трамп: Украине нужен новый президент
 1791653378|https://lenta.ru/news/2026/10/10/shesterkin-vybyl-do-kontsa-sezona/|Шестеркин выбыл до конца сезона
 1791653387|https://lenta.ru/news/2026/10/10/aston-villa-i-brentford-sygrali-vnichyu-v-apl/|«Астон Вилла» и «Брентфорд» сыграли вничью в АПЛ
@@ -1998,3 +1993,8 @@
 1792182141|https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest|Albanian PM blames 'foreign hands' for escalating anti-government unrest
 1792182154|https://www.japantimes.co.jp/press/2026/10/16/notice-ransomware-incident-second-report-jp/|【第2報】当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性に関するご報告
 1792182161|https://www.japantimes.co.jp/business/2026/10/16/adb-chief-interview/|ADB chief warns of high inflation in Asia amid uncertainty
+1792184002|https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss|Students in Europe are rising up to call for better education
+1792184007|https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss|Food affordability fears plague Gaza as Israel halts commercial goods
+1792184012|https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate|Zelensky turns to Europe for backing as ties with Trump deteriorate
+1792184018|https://www.france24.com/en/kenya-confirms-third-ebola-case|KENYA CONFIRMS THIRD EBOLA CASE
+1792184023|https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands|Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest
