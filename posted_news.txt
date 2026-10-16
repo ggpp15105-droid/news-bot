@@ -1,8 +1,3 @@
-1791627052|https://lenta.ru/news/2026/10/10/rossiyanka-andreeva-vpervye-v-kariere-stanet-tretiey-raketkoy-mira/|Россиянка Андреева впервые в карьере станет третьей ракеткой мира
-1791628066|https://www.france24.com/en/france/20261010-injuries-french-student-protests-draw-scrutiny-to-police-tactics|Injuries at French student protests draw scrutiny to police tactics
-1791628072|https://www.euronews.com/2026/10/10/eu-budget-ireland-pitches-141bn-cuts-to-appease-the-frugals|EU budget: Ireland pitches €141bn cuts to appease the ‘frugals’
-1791628078|https://www.euronews.com/video/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread|Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread
-1791628087|https://lenta.ru/news/2026/10/10/razin-rasskazal-o-vosstanovlenii-posle-otstraneniya-v-metallurge/|Разин рассказал о восстановлении после отстранения в «Металлурге»
 1791628095|https://lenta.ru/news/2026/10/10/tretyak-otreagiroval-na-slova-trampa-ob-ovechkine/|Третьяк отреагировал на слова Трампа об Овечкине
 1791628823|https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss|Chile declares Las Condes disaster zone after mudslide
 1791628832|https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html|Isaias weakens to post-tropical cyclone after Florida landfall, NHC says
@@ -1998,3 +1993,8 @@
 1792128802|https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss|Bystander guns down suspected primary school shooter in Oregon
 1792128807|https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss|Infantino apologises amid calls for him to quit as FIFA president
 1792128812|https://www.euronews.com/2026/10/16/eu-summit-leaders-to-rally-behind-zelenskyy-amid-bitter-row-with-trump|EU summit: Leaders to rally behind Zelenskyy amid bitter row with Trump
+1792130537|https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss|US sanctions leave Iranians facing flight cancellations and soaring costs
+1792130542|https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss|Rubio presses Lebanon on confiscation of weapons from Hezbollah
+1792130547|https://www.france24.com/en/tv-shows/sports/20261016-marseille-woes-continue-with-a-second-consecutive-europa-league-defeat|Marseille woes continue with a second consecutive Europa League defeat
+1792130552|https://www.euronews.com/2026/10/16/ukraine-pushes-for-european-alternatives-to-us-air-defences-and-starlink-amid-tensions-wit|Ukraine pushes for European alternatives to US air defences and Starlink amid tensions with Washington
+1792130558|https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-morning|Latest news bulletin | October 16th, 2026 – Morning
