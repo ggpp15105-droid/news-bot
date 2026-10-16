@@ -1,8 +1,3 @@
-1791628853|https://lenta.ru/news/2026/10/10/40-letnyaya-ledi-gaga-pokazala-vneshnost-bez-makiyazha/|40-летняя Леди Гага показала внешность без макияжа
-1791629622|https://lenta.ru/news/2026/10/10/narusheno/|В Брянской области из-за атак дронов нарушено движение по железной дороге
-1791629627|https://lenta.ru/news/2026/10/10/fis-izmenit-format-finala-kubka-mira-po-lyzhnym-gonkam/|FIS изменит формат финала Кубка мира по лыжным гонкам
-1791629633|https://lenta.ru/news/2026/10/10/venger-mozhet-sostavit-konkurentsiyu-infantino-na-vyborah-prezidenta-fifa/|Венгер может составить конкуренцию Инфантино на выборах президента ФИФА
-1791629638|https://www.kommersant.ru/doc/9023757|РБК: Роспотребнадзор запретил ввоз некоторых вин и напитков из Грузии // РБК сообщил о запрете Роспотребнадзора на ввоз некоторых напитков из Грузии
 1791629643|https://www.kommersant.ru/doc/9023754|Режим ЧС ввели на улицах Ростова-на-Дону, где повреждены дома после атаки БПЛА
 1791630117|https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire|Hunger and malnutrition stalk Gazans, a year on from ceasefire
 1791630122|https://www.euronews.com/2026/10/10/czechs-head-to-polls-in-local-and-senate-elections|Czechs head to polls in local and Senate elections
@@ -1998,3 +1993,8 @@
 1792132635|https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-rdf|India's 'Cockroaches' to march again after protest crackdown
 1792132642|https://www.france24.com/en/video/20261016-midterms-2026-can-democrats-capitalise-on-latino-voter-regret|Midterms 2026: Can Democrats capitalise on Latino voter regret?
 1792132649|https://www.euronews.com/2026/10/16/ukraines-zelenskyy-turns-to-brussels-as-us-support-falters|Ukraine's Zelenskyy turns to Brussels as US support falters
+1792135065|https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss|In Israel, Netanyahu’s ultimate legacy is the opposition he has forged
+1792135070|https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss|Which countries waste the most food, and how to reduce waste at home
+1792135075|https://www.france24.com/en/asia-pacific/20261016-indian-authorities-heighten-security-close-park-ahead-cockroach-movement-rally|Indian authorities heighten security, close park ahead of 'cockroach' movement rally
+1792135081|https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html|Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge
+1792135086|https://www.euronews.com/2026/10/16/italy-data-network-glitch-hits-airports-flights-delayed-and-cancellations|Italy data network glitch hits airports: Flights delayed and cancellations
