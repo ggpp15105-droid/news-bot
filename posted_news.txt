@@ -1,8 +1,3 @@
-1791675354|https://tass.ru/obschestvo/28202493|Эксперт Кобзева назвала последствия введения доплат за стаж
-1791676133|https://tass.ru/mezhdunarodnaya-panorama/28202509|WSJ: посол США в Греции хвасталась, что местные олигархи оплачивают ее перелеты
-1791676137|https://tass.ru/ekonomika/28202511|Новый ГОСТ на обувь для медработников вводится с 1 ноября
-1791676141|https://tass.ru/obschestvo/28202503|В Брянской области более 50% экспорта продукции АПК приходится на Белоруссию
-1791676146|https://www.vedomosti.ru/politics/news/2026/10/10/1236039-unichtozhili-78-bespilotnikov|Силы ПВО за день уничтожили 78 украинских беспилотников над регионами РФ
 1791676151|https://www.vedomosti.ru/politics/news/2026/10/10/1236036-postradali-v-aeroportu|Reuters: несколько человек пострадали в результате взрыва в аэропорту Эр-Рияда
 1791676732|https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss|Young men live in fear of being snatched off the streets and sold to Myanmar's army
 1791676737|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-treh-vygodnyh-stimulah-ot-ssha-dlya-rossii-radi-peremiriya/|Стало известно о трех «выгодных стимулах» от США для России ради перемирия
@@ -1998,3 +1993,8 @@
 1792228602|https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france|Students, trade unions and Yellow Vests set to protest across France
 1792228607|https://news.sky.com/story/three-men-sentenced-to-more-than-158-years-in-prison-for-murders-of-australian-and-us-surfers-13600108|Three men sentenced to more than 158 years in jail for murders of surfers​
 1792228614|https://www.eurogamer.net/over-the-hill-now-playing|Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow
+1792230343|https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss|Iran-backed Houthis strike Yemen’s Aden: What that means
+1792230351|https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf|US: California wildfires destroy homes, leave thousands without power
+1792230356|https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says|Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says
+1792230361|https://lenta.ru/news/2026/10/17/dallas-podpisal-obladatelya-kubka-stenli-perrona/|«Даллас» подписал обладателя Кубка Стенли Перрона
+1792230370|https://lenta.ru/news/2026/10/17/bellingem-izmenil-devushke-na-vecherinke-vinisiusa/|Беллингем изменил девушке на вечеринке Винисиуса
