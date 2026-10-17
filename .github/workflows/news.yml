@@ -61,7 +61,7 @@ jobs:
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           MM_EMAIL: ${{ secrets.MM_EMAIL }}
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
-          DIGEST_HOUR: ${{ vars.DIGEST_HOUR }}
+          DIGEST_HOURS: ${{ vars.DIGEST_HOURS }}
 
       - name: Сохранить состояние
         if: always()
