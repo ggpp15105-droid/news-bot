@@ -1,8 +1,3 @@
-1791671368|https://tass.ru/ekonomika/28202469|В ФТС рассказали, какие цветы ввозили в Россию чаще всего
-1791672242|https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss|Twelve killed in attack on airport in Saudi capital Riyadh
-1791672247|https://tass.ru/ekonomika/28202479|Трамп заявил, что ФРГ была на грани вымирания из-за зеленой энергетики
-1791672251|https://tass.ru/proisshestviya/28202481|В Днепре произошел взрыв
-1791672255|https://tass.ru/obschestvo/28202477|Ущерб урожаю в Башкирии составил порядка 70 млн рублей из-за ливней
 1791672261|https://www.vedomosti.ru/politics/news/2026/10/10/1236043-miroshnik-otsenil|Мирошник оценил реакцию Киева на слова Трампа о смене лидера Украины
 1791672967|https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss|Liverpool vs Man City: the top five clashes between Premier League giants
 1791672974|https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss|WHO says no plague case registered after Russian lab worker’s death
@@ -1998,3 +1993,8 @@
 1792221173|https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html|Some companies give AI to everyone. This CEO is doing the opposite
 1792221178|https://www.euronews.com/2026/10/17/no-money-for-ukraine-and-eu-budget-cuts-what-could-a-le-pen-victory-mean-for-the-eu|No money for Ukraine and EU budget cuts: What could a Le Pen victory mean for the EU?
 1792221183|https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package|Trump signs executive order waiving new Russia sanctions package
+1792222862|https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss|Israeli raids and arrests in southern Syria push population to the brink
+1792222868|https://www.euronews.com/2026/10/17/france-braces-for-tense-protests-as-security-concerns-take-centre-stage|France braces for tense day of protests as security concerns take centre stage
+1792222875|https://www.japantimes.co.jp/news/2026/10/17/japan/northern-territories-youth-awareness/|Japan to raise youth awareness about Northern Territories
+1792222882|https://www.japantimes.co.jp/business/2026/10/17/economy/imf-official-japan-tax-cut-plan/|IMF official welcomes Japan’s temporary tax cut plan
+1792222890|https://www.japantimes.co.jp/business/2026/10/17/china-chicken-exports/|This Chinese export boom really has legs — and wings
