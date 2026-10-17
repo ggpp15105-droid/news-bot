@@ -1,8 +1,3 @@
-1791674498|https://tass.ru/mezhdunarodnaya-panorama/28202501|Атака на аэропорт в Эр-Рияде была совершена хуситами
-1791675335|https://lenta.ru/news/2026/10/11/raskryto-glavnoe-zabluzhdenie-zapada-o-vtoroy-mirovoy-voyne/|Раскрыто главное заблуждение Запада о Второй мировой войне
-1791675340|https://lenta.ru/news/2026/10/11/hokkeynyy-trener-yuliya-karpova-umerla-v-vozraste-42-let/|Хоккейный тренер Юлия Карпова умерла в возрасте 42 лет
-1791675345|https://www.kommersant.ru/doc/9023869|Саудовская Аравия обвинила хуситов в ударе по аэропорту Эр-Рияда
-1791675350|https://tass.ru/obschestvo/28202505|Стали известны регионы с самой высокой долей курящих
 1791675354|https://tass.ru/obschestvo/28202493|Эксперт Кобзева назвала последствия введения доплат за стаж
 1791676133|https://tass.ru/mezhdunarodnaya-panorama/28202509|WSJ: посол США в Греции хвасталась, что местные олигархи оплачивают ее перелеты
 1791676137|https://tass.ru/ekonomika/28202511|Новый ГОСТ на обувь для медработников вводится с 1 ноября
@@ -1998,3 +1993,8 @@
 1792227395|https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404|What are we all playing this weekend?
 1792227400|https://lenta.ru/news/2026/10/17/pyanye-zritelnitsy-prervali-kontsert-valeriya-meladze/|Пьяные зрительницы прервали концерт Валерия Меладзе
 1792227409|https://lenta.ru/news/2026/10/17/albanskiy-forvard-spartaka-rasskazal-ob-izuchenii-russkogo-yazyka/|Албанский форвард «Спартака» рассказал об изучении русского языка
+1792228589|https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss|Murder in Malaysia: Justice for Altantuya Shaariibuu
+1792228597|https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss|Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
+1792228602|https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france|Students, trade unions and Yellow Vests set to protest across France
+1792228607|https://news.sky.com/story/three-men-sentenced-to-more-than-158-years-in-prison-for-murders-of-australian-and-us-surfers-13600108|Three men sentenced to more than 158 years in jail for murders of surfers​
+1792228614|https://www.eurogamer.net/over-the-hill-now-playing|Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow
