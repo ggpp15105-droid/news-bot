@@ -1,8 +1,3 @@
-1791669003|https://tass.ru/ekonomika/28202439|УВЗ ведет новые разработки машин на базе газотурбинного двигателя
-1791669619|https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss|Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
-1791669625|https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial|Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial
-1791669630|https://lenta.ru/news/2026/10/11/zaharova-otvetila-premieru-estonii-na-slova-o-rossiyskih-npz/|Захарова ответила премьеру Эстонии на слова о российских НПЗ
-1791669635|https://lenta.ru/news/2026/10/11/v-rodnom-gorode-zelenskogo-ostanovitsya-krupneyshiy-metallurgicheskiy-kombinat/|В родном городе Зеленского остановится крупнейший металлургический завод
 1791669640|https://lenta.ru/news/2026/10/11/udar-rossii-po-tsentralnomu-ofisu-ukrainskogo-internet-provaydera-v-odesse-popal-na-video/|Удар России по центральному офису украинского интернет-провайдера в Одессе попал на видео
 1791670418|https://lenta.ru/news/2026/10/11/v-avstrii-potrebovali-raz-yasneniy-iz-za-taynogo-gruza-kieva/|В Австрии потребовали разъяснений из-за тайного груза Киева
 1791670424|https://lenta.ru/news/2026/10/10/premier-britanii-zayavil-o-tyazhelom-dne-dlya-ukrainy/|Премьер Британии заявил о тяжелом дне для Украины
@@ -1998,3 +1993,8 @@
 1792215622|https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests|Live: France's Yellow Vests throw their weight behind mounting student protests
 1792215627|https://www.euronews.com/2026/10/17/trade-unions-push-for-eu-law-to-address-menopause-at-work|Trade unions push for EU law to address menopause at work
 1792215633|https://www.euronews.com/2026/10/17/smashing-pumpkins-annual-squash-festival-draws-thousands-to-brussels-castle|Smashing pumpkins: Annual squash festival draws thousands to Brussels castle
+1792217036|https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss|The chatbot murder guide: AI’s struggle between privacy, reporting violence
+1792217042|https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss|Russian attacks in Ukraine kill at least 8, cut power to 1 million
+1792217048|https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport|Yemen's Houthis claim responsibility for fresh missile strike on Aden airport
+1792217055|https://www.euronews.com/2026/10/17/pandora-opens-the-worlds-biggest-jewellery-factory-in-vietnam-but-is-success-guaranteed-in|The world’s biggest fine jewellery factory: How Pandora aims to make more and pollute less in Vietnam
+1792217062|https://www.japantimes.co.jp/business/2026/10/17/softbank-eyes-top-us-security-firm/|SoftBank is said to weigh buying top U.S. security firm allied
