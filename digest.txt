@@ -54,3 +54,8 @@
 1792247713|Anadolu|Иранский законодатель говорит, что косвенные переговоры с США продолжаются через Катар, Оман:|https://www.aa.com.tr/en/middle-east/iranian-lawmaker-says-indirect-talks-with-us-continuing-through-qatar-oman-report/4092082
 1792247718|Anadolu|Студенческие протесты в Албании начинаются на 5-й день, в то время как действия полиции пересматриваются.|https://www.aa.com.tr/en/europe/student-protests-enter-5th-day-in-albania-as-police-conduct-comes-under-review/4092081
 1792247724|Anadolu|Зеленский заявил, что ослабление санкций против России может продолжаться, дизельная сделка — «первый шаг»|https://www.aa.com.tr/en/eurasia/zelenskyy-says-russia-sanctions-relief-could-continue-diesel-deal-first-step-/4092076
+1792249068|Al Jazeera|Почему взрослые возвращаются в летний лагерь|https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss
+1792249074|Al Jazeera|Ураган «Труди» приближается к Мексике, угрожая проливным дождем|https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss
+1792249080|DW|Влияние Китая в игровой индустрии растет|https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf
+1792249087|Anadolu|Meta отрицает политическую предвзятость в Бразилии после решения суда|https://www.aa.com.tr/en/world/meta-denies-political-bias-in-brazil-after-court-ruling/4092095
+1792249092|Anadolu|Израильские оккупанты напали на европейскую дипломатическую делегацию на оккупированном Западном берегу|https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-european-diplomatic-delegation-in-occupied-west-bank/4092094

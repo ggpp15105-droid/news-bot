@@ -1,8 +1,3 @@
-1791690257|https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss|US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman
-1791690264|https://www.japantimes.co.jp/sports/2026/10/11/more-sports/eliud-kipchoge-sydney-marathon/|Eliud Kipchoge wins first marathon since 2023
-1791690271|https://www.aa.com.tr/en/world/british-prime-minister-burnham-reiterates-support-for-ukraine-in-call-with-zelenskyy/4084841|British Prime Minister Burnham reiterates support for Ukraine in call with Zelenskyy
-1791690276|https://lenta.ru/news/2026/10/11/rossiyskiy-komandir-soobschil-o-nachale-primeneniya-vsu-nochnoy-modifikatsii-hornet/|Российский командир сообщил о начале применения ВСУ ночной модификации Hornet
-1791690281|https://tass.ru/obschestvo/28202707|В Гонконге произошла вспышка оспы обезьян
 1791691122|https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss|Taiz hospitals near collapse as Houthis tighten siege: Yemen government
 1791691131|https://www.kommersant.ru/doc/9023877|Трамп: Путин высвобождает много нефти по очень низкой цене
 1791691135|https://tass.ru/obschestvo/28202711|В Иркутской области 11 населенных пунктов остались без электричества
@@ -1998,3 +1993,8 @@
 1792247713|https://www.aa.com.tr/en/middle-east/iranian-lawmaker-says-indirect-talks-with-us-continuing-through-qatar-oman-report/4092082|Iranian lawmaker says indirect talks with US continuing through Qatar, Oman: Report
 1792247718|https://www.aa.com.tr/en/europe/student-protests-enter-5th-day-in-albania-as-police-conduct-comes-under-review/4092081|Student protests enter 5th day in Albania as police conduct comes under review
 1792247724|https://www.aa.com.tr/en/eurasia/zelenskyy-says-russia-sanctions-relief-could-continue-diesel-deal-first-step-/4092076|Zelenskyy says Russia sanctions relief could continue, diesel deal ‘first step’
+1792249068|https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss|Why adults are going back to summer camp
+1792249074|https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss|Hurricane Trudy makes its way towards Mexico, threatening heavy rain
+1792249079|https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf|China's influence in the gaming industry is growing
+1792249087|https://www.aa.com.tr/en/world/meta-denies-political-bias-in-brazil-after-court-ruling/4092095|Meta denies political bias in Brazil after court ruling
+1792249092|https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-european-diplomatic-delegation-in-occupied-west-bank/4092094|Israeli occupiers attack European diplomatic delegation in occupied West Bank
