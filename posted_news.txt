@@ -1,8 +1,3 @@
-1791670435|https://tass.ru/armiya-i-opk/28202455|Марочко назвал самые успешные участки для ВС РФ в Сумской области
-1791671353|https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss|Yemeni government’s military says its forces advancing against Houthis
-1791671357|https://www.kommersant.ru/doc/9023867|При ударе по аэропорту Эр-Рияда погибли 12 человек, 309 пострадали // При ударе по аэропорту в Эр-Рияде погибли 12 человек
-1791671361|https://tass.ru/proisshestviya/28202475|UKMTO сообщил о попадании снаряда в танкер в Ормузском проливе
-1791671365|https://tass.ru/obschestvo/28202471|Путин поздравил аграриев с профессиональным праздником
 1791671368|https://tass.ru/ekonomika/28202469|В ФТС рассказали, какие цветы ввозили в Россию чаще всего
 1791672242|https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss|Twelve killed in attack on airport in Saudi capital Riyadh
 1791672247|https://tass.ru/ekonomika/28202479|Трамп заявил, что ФРГ была на грани вымирания из-за зеленой энергетики
@@ -1998,3 +1993,8 @@
 1792218937|https://www.dw.com/en/us-homes-burned-in-california-as-wildfires-rage/a-79685480?maca=en-rss-en-all-1573-rdf|US: Homes burned in California as wildfires rage
 1792218944|https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf|Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing
 1792218950|https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html|Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine
+1792221163|https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss|Can Yemen’s government forces sustain their offensive against the Houthis?
+1792221168|https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss|Ukraine and Europe have little choice but to work with Trump
+1792221173|https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html|Some companies give AI to everyone. This CEO is doing the opposite
+1792221178|https://www.euronews.com/2026/10/17/no-money-for-ukraine-and-eu-budget-cuts-what-could-a-le-pen-victory-mean-for-the-eu|No money for Ukraine and EU budget cuts: What could a Le Pen victory mean for the EU?
+1792221183|https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package|Trump signs executive order waiving new Russia sanctions package
