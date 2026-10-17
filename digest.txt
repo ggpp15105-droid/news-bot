@@ -1,4 +1,4 @@
-#last=2026-10-17-8|1792266661
+#last=2026-10-17-20|1792267531
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -124,3 +124,8 @@
 1792266691|Al Jazeera|Придет ли ЕС на помощь Украине в войне против России?|https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss
 1792266700|IGN|Лучшие предложения сегодня: Cyberpunk 2077 для Switch 2, Pikmin 4, Star Wars Zero Company и многое другое|https://www.ign.com/articles/best-deals-for-october-17-2026
 1792266708|Lenta.ru|Житель Курской области подорвался на мине ВСУ по пути на дачу и лишился части стопы|https://lenta.ru/news/2026/10/17/zhitel-kurskoy-oblasti-podorvalsya-na-mine-vsu-po-puti-na-dachu-i-lishilsya-chasti-stopy/
+1792267550|Al Jazeera|По меньшей мере 17 человек погибли в давке на религиозном собрании в Индии|https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss
+1792267557|Euronews|«Нет места для насилия», — сказал Макрон после того, как мятежники и мародеры захватили мирные демонстрации по всей Франции.|https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-
+1792267566|Lenta.ru|На Украине испугались возможности России управлять дронами «Герань» в реальном времени|https://lenta.ru/news/2026/10/17/na-ukraine-ispugalis-vozmozhnosti-rossii-upravlyat-dronami-geran-v-realnom-vremeni/
+1792267574|Lenta.ru|Один человек пострадал из-за атаки ВСУ на российский регион|https://lenta.ru/news/2026/10/18/odin-chelovek-postradal-iz-za-ataki-vsu-na-rossiyskiy-region/
+1792267582|Lenta.ru|В Европарламенте призвали прекратить выдачу всех видов виз россиянам|https://lenta.ru/news/2026/10/18/v-evroparlamente-prizvali-prekratit-vydachu-vseh-vidov-viz-rossiyanam/
