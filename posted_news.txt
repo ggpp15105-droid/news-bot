@@ -1,8 +1,3 @@
-1791697460|https://www.dw.com/en/india-court-orders-release-of-cockroach-movement-leaders/live-79631190?maca=en-rss-en-all-1573-rdf|India court orders release of 'Cockroach' movement leaders
-1791697467|https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html|After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens
-1791697473|https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html|AI may change the price of your Big Mac and groceries — what this means for shoppers
-1791697479|https://www.cnbc.com/make-it/2026/10/11/ray-dalio-billionaire-happiness-wealth.html|How much money buys happiness? Ray Dalio weighs in
-1791697486|https://www.japantimes.co.jp/news/2026/10/11/asia-pacific/science-health/indonesia-fires-orangutan-released/|Indonesia releases eight orangutans rescued from fires to protected forest
 1791698307|https://www.aljazeera.com/features/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss|How genocidal war on Gaza is shaping Israel’s election
 1791698311|https://lenta.ru/news/2026/10/11/v-germanii-nachali-rassledovanie-podzhoga-sklada-s-pomoschyu-dlya-ukrainy/|В Германии начали расследование поджога склада с помощью для Украины
 1791698316|https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-posledstviyah-ne-vyvoza-musora-v-srok/|Россиянам рассказали о последствиях не вывоза мусора в срок
@@ -1998,3 +1993,8 @@
 1792258722|https://news.sky.com/story/man-and-woman-charged-with-assault-and-criminal-damage-after-fatal-house-fire-13600228|Man and woman charged with assault and criminal damage after fatal house fire
 1792258729|https://www.euronews.com/2026/10/17/protesters-clash-with-police-in-belgium-as-demonstrations-turn-violent-across-europe|Protesters clash with police in Belgium as demonstrations turn violent across Europe
 1792258735|https://www.euronews.com/2026/10/17/european-diplomats-attacked-by-israeli-settlers-amid-rising-violence-in-occupied-west-bank|European diplomats attacked by Israeli settlers amid rising violence in occupied West Bank
+1792259851|https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss|India and West Indies denied a thrilling finale as rain hits final T20
+1792259857|https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss|Trump faces bipartisan backlash over Russia sanctions waiver
+1792259863|https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss|Jerusalem Daily: Israeli settlers attack farmers and journalists
+1792259870|https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf|Romanian fighter jets shoot down 2 drones over Black Sea
+1792259877|https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf|Egypt's Ssisi says he'll defend Saudi Arabia, if asked

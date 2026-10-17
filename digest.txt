@@ -1,4 +1,4 @@
-#last=2026-10-17-8|1792258691
+#last=2026-10-17-20|1792259829
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -94,3 +94,8 @@
 1792258723|Sky News|Мужчина и женщина обвинены в нападении и уголовном ущербе после смертельного пожара в доме|https://news.sky.com/story/man-and-woman-charged-with-assault-and-criminal-damage-after-fatal-house-fire-13600228
 1792258729|Euronews|Протестующие столкнулись с полицией в Бельгии, когда демонстрации по всей Европе переросли в насилие|https://www.euronews.com/2026/10/17/protesters-clash-with-police-in-belgium-as-demonstrations-turn-violent-across-europe
 1792258735|Euronews|Европейские дипломаты подверглись нападению израильских поселенцев на фоне роста насилия на оккупированном Западном берегу|https://www.euronews.com/2026/10/17/european-diplomats-attacked-by-israeli-settlers-amid-rising-violence-in-occupied-west-bank
+1792259851|Al Jazeera|Индия и Вест-Индия отказались от захватывающего финала, поскольку дождь попал в финал T20|https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss
+1792259857|Al Jazeera|Трамп столкнулся с двухпартийной реакцией из-за отказа от санкций против России|https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss
+1792259863|Al Jazeera|Jerusalem Daily: израильские поселенцы нападают на фермеров и журналистов|https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss
+1792259870|DW|Румынские истребители сбили 2 беспилотника над Черным морем|https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf
+1792259878|DW|Египетский Ссиси заявил, что будет защищать Саудовскую Аравию|https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf
