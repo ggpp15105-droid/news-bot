@@ -1,8 +1,3 @@
-1791665726|https://tass.ru/mezhdunarodnaya-panorama/28202345|Трамп хочет переименовать Атлантический или Тихий океаны
-1791666290|https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss|Damage seen inside Saudi airport after third attack this week
-1791666296|https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html|Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control
-1791666301|https://lenta.ru/news/2026/10/10/otsenena-veroyatnost-vozvrascheniya-ronaldu-v-sbornuyu-portugalii/|Оценена вероятность возвращения Роналду в сборную Португалии
-1791666305|https://tass.ru/armiya-i-opk/28202359|Глава УВЗ: Т-14 "Армата" дорабатывается с учетом опыта СВО
 1791666310|https://tass.ru/armiya-i-opk/28202357|Боец Коноплев несколько километров нес на себе тяжелораненого сослуживца
 1791667245|https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss|Malawi motorists queue for days as fuel shortage bites
 1791667255|https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss|Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast
@@ -1998,3 +1993,8 @@
 1792209579|https://lenta.ru/news/2026/10/17/finskiy-ministr-oborony-otreagiroval-na-prizyvy-sbivat-rossiyskie-samolety/|Финский министр обороны отреагировал на призывы сбивать российские самолеты
 1792209588|https://lenta.ru/news/2026/10/17/premier-belgii-dopustil-novyy-zapros-zelenskogo-o-pomoschi-u-evrosoyuza/|Премьер Бельгии допустил новый запрос Зеленского о помощи у Евросоюза
 1792209593|https://lenta.ru/news/2026/10/17/rossiyanam-raskryli-vliyanie-lishnego-vesa-na-prodolzhitelnost-zhizni/|Россиянам раскрыли влияние лишнего веса на продолжительность жизни
+1792210986|https://lenta.ru/news/2026/10/17/nazvany-vliyayuschie-na-rost-zarplaty-navyki/|Названы влияющие на рост зарплаты навыки
+1792210991|https://lenta.ru/news/2026/10/17/miroshnik-rasskazal-ob-izurodovannyh-telah-naemnikov-vsu/|Мирошник рассказал об изуродованных телах наемников ВСУ
+1792210996|https://lenta.ru/news/2026/10/17/v-rossii-predlozhili-obnulit-nds-na-odin-tip-produktsii/|В России предложили обнулить НДС на один тип продукции
+1792211001|https://lenta.ru/news/2026/10/17/stalo-izvestno-o-likvidatsii-desyatkov-letevshih-na-moskvu-bespilotnikov/|Более ста летевших на Москву беспилотников уничтожили за ночь
+1792211005|https://www.kommersant.ru/doc/9040992|Главные новости к утру 17 октября // Трамп заморозил «закон Грэма»
