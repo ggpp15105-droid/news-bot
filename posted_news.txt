@@ -1,8 +1,3 @@
-1791705387|https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss|US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’
-1791705395|https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-all-1573-rdf|Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs
-1791705400|https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests|Spanish PM Sanchez kicks off election campaign amid housing crisis protests
-1791705405|https://lenta.ru/news/2026/10/11/nazvan-region-rossii-s-samymi-vysokimi-sugrobami/|Назван регион России с самыми высокими сугробами
-1791705413|https://www.kommersant.ru/doc/9023920|Один погиб и двое пострадали при атаке БПЛА на Брянскую область
 1791706051|https://lenta.ru/news/2026/10/11/masku-predlozhili-soedinit-rossiyu-i-ssha/|Маску предложили соединить Россию и США
 1791706058|https://www.kommersant.ru/doc/9023919|Дмитриев призвал компанию Маска начать строить тоннель между Россией и США
 1791706067|https://www.kommersant.ru/doc/9023912|В работе сервисов «Яндекса» произошел сбой
@@ -1998,3 +1993,8 @@
 1792269059|https://lenta.ru/news/2026/10/18/tramp-sravnil-poshliny-s-zhenoy-i-bogom/|Трамп сравнил «пошлины» с «женой» и «Богом»
 1792269064|https://lenta.ru/news/2026/10/17/stalo-izvestno-mesto-pohoron-izvestnoy-rossiyskoy-hudozhnitsy/|Стало известно место похорон известной российской художницы
 1792269073|https://www.kommersant.ru/doc/9041190|Человек пострадал при ударе БПЛА по селу в Белгородской области
+1792270603|https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss|Protesters allege police brutality as violent clashes rage on in Albania
+1792270610|https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss|Al Jazeera reporter harassed, struck on head amid France protests, looting
+1792270615|https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss|Iranian TV airs video said to show tanker explosion in Hormuz
+1792270620|https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451|Crush at religious festival kills at least 17 and injures dozens in India
+1792270625|https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france|Historic Limoges town hall engulfed in flames amid protests in France

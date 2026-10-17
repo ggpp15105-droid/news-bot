@@ -1,4 +1,4 @@
-#last=2026-10-17-8|1792269023
+#last=2026-10-17-20|1792270576
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -134,3 +134,8 @@
 1792269059|Lenta.ru|Трамп сравнил «пошлины» с «женой» и «Богом»|https://lenta.ru/news/2026/10/18/tramp-sravnil-poshliny-s-zhenoy-i-bogom/
 1792269064|Lenta.ru|Стало известно место похорон известной российской художницы|https://lenta.ru/news/2026/10/17/stalo-izvestno-mesto-pohoron-izvestnoy-rossiyskoy-hudozhnitsy/
 1792269073|Коммерсантъ|Человек пострадал при ударе БПЛА по селу в Белгородской области|https://www.kommersant.ru/doc/9041190
+1792270603|Al Jazeera|Протестующие заявляют о жестокости полиции в связи с жестокими столкновениями в Албании|https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss
+1792270610|Al Jazeera|Репортер "Аль-Джазиры" издевался, ударился головой на фоне протестов во Франции, грабя|https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss
+1792270615|Al Jazeera|Иранское телевидение показало видео взрыва танкера в Ормузе|https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss
+1792270620|Sky News|Во время религиозного праздника в Индии погибли по меньшей мере 17 человек и десятки получили ранения|https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451
+1792270625|Euronews|Историческая ратуша Лимож охвачена пламенем на фоне протестов во Франции|https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france
