@@ -1,8 +1,3 @@
-1791709025|https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss|Pakistan imposes emergency rule in ​province governed by Imran Khan’s party
-1791709032|https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss|What the Iran war has done to the world’s energy supply, in charts
-1791709037|https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests|Spanish PM begins vote campaign overshadowed by housing protests
-1791709043|https://lenta.ru/news/2026/10/11/evrokomissiya-predlozhit-uzhestochit-vizovye-pravila-dlya-rossiyan/|Еврокомиссия предложит ужесточить визовые правила для россиян
-1791709048|https://lenta.ru/news/2026/10/11/v-kazahstane-i-kirgizii-soobschili-o-sboyah-v-rabote-servisov-yandeksa/|В двух странах СНГ сообщили о сбоях в работе сервисов «Яндекса»
 1791709592|https://www.japantimes.co.jp/community/2026/10/11/how-tos/permanent-residency-application-dos-donts/|The do’s, don’ts and pitfalls when applying for permanent residency in Japan
 1791709599|https://www.japantimes.co.jp/culture/2026/10/11/tv-streaming/netflix-strategy-plastic-beauty/|Netflix vies to be a cut above in TV production
 1791709604|https://lenta.ru/news/2026/10/11/v-mali-zayavili-o-podderzhke-terroristov-ukrainskoy-voennoy-razvedkoy/|В Мали заявили о поддержке террористов украинской военной разведкой
@@ -1998,3 +1993,8 @@
 1792274561|https://lenta.ru/news/2026/10/18/poyavilis-podrobnosti-zaderzhaniya-blogera-ivana-zolo/|Появились подробности задержания блогера Ивана Золо
 1792274570|https://lenta.ru/news/2026/10/18/zaharova-prokommentirovala-napravlenie-noty-v-mid-kazahstana-iz-za-aresta-repera-navai/|Захарова прокомментировала направление ноты в МИД Казахстана из-за ареста рэпера Navai
 1792274579|https://lenta.ru/news/2026/10/18/tri-letevshih-iz-turtsii-v-moskvu-samoleta-razvernulis-iz-za-ogranicheniy/|Три летевших из Турции в Москву самолета развернулись из-за ограничений
+1792275897|https://lenta.ru/news/2026/10/18/deputat-rady-nazval-preemnika-zelenskogo/|Депутат Рады назвал преемника Зеленского
+1792275901|https://lenta.ru/news/2026/10/18/rybalka-vo-floride-zakonchilas-smertelnoy-shvatkoy-s-alligatorom/|Рыбалка во Флориде закончилась смертельной схваткой с аллигатором
+1792275906|https://lenta.ru/news/2026/10/18/politolog-svyazal-migratsionnye-problemy-frantsii-s-posledstviyami-kolonialnoy-politiki/|Политолог связал миграционные проблемы Франции с последствиями колониальной политики
+1792275914|https://www.kommersant.ru/doc/9041194|Израильские поселенцы напали на дипломатов ЕС и избили мэра из Франции
+1792275923|https://www.kommersant.ru/doc/9041193|Протестующие во Франции сожгли здание мэрии XIX века
