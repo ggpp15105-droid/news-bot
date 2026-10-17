@@ -1,8 +1,3 @@
-1791676151|https://www.vedomosti.ru/politics/news/2026/10/10/1236036-postradali-v-aeroportu|Reuters: несколько человек пострадали в результате взрыва в аэропорту Эр-Рияда
-1791676732|https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss|Young men live in fear of being snatched off the streets and sold to Myanmar's army
-1791676737|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-treh-vygodnyh-stimulah-ot-ssha-dlya-rossii-radi-peremiriya/|Стало известно о трех «выгодных стимулах» от США для России ради перемирия
-1791676745|https://www.igromania.ru/news/169220/ekshen-valor-mortis-sozdatelej-ghostrunner-poluchil-gejmplejnyij-trejler-versij-dlya-ps5-i-xbox-series/|Экшен Valor Mortis создателей Ghostrunner получил геймплейный трейлер режимов на PS5 и Xbox Series
-1791676755|https://www.igromania.ru/news/169218/mstiteli-vojna-beskonechnosti-v-marvel-rivals-mezhsezonnoe-obnovlenie-s-novinkami-uzhe-vyishlo/|«Мстители: Война бесконечности» в Marvel Rivals — межсезонное обновление с новинками уже вышло
 1791677933|https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss|Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis
 1791677940|https://www.japantimes.co.jp/culture/2026/10/11/books/nao-cola-yamazaki-japanese-novelist/|Nao-Cola Yamazaki is your favorite writer’s favorite writer
 1791677944|https://lenta.ru/news/2026/10/11/na-zapade-zayavili-o-plachevnyh-posledstviyah-dlya-zelenskogo-iz-za-vypadov-v-adres-rossii/|На Западе заявили о плачевных последствиях для Зеленского из-за выпадов в адрес России
@@ -1998,3 +1993,8 @@
 1792230356|https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says|Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says
 1792230361|https://lenta.ru/news/2026/10/17/dallas-podpisal-obladatelya-kubka-stenli-perrona/|«Даллас» подписал обладателя Кубка Стенли Перрона
 1792230370|https://lenta.ru/news/2026/10/17/bellingem-izmenil-devushke-na-vecherinke-vinisiusa/|Беллингем изменил девушке на вечеринке Винисиуса
+1792231635|https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss|As Israel blocks PA funding, the West Bank’s healthcare system is failing
+1792231640|https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss|Sudan’s army claims dozens of RSF fighters killed in Nyala attack
+1792231645|https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss|IMF urges support for poorer nations facing high inflation, war spillovers
+1792231650|https://www.france24.com/en/tv-shows/sports/20261017-ligue-1-paris-saint-germain-aim-to-build-on-recent-progress-at-strasbourg|Ligue 1: Paris Saint-Germain aim to build on recent progress at Strasbourg
+1792231654|https://news.sky.com/story/pope-leo-to-leave-hospital-today-after-lung-cancer-surgery-the-vatican-says-13600129|Pope Leo to leave hospital today after lung cancer surgery, the Vatican says
