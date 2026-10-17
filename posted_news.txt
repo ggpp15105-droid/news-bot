@@ -1,8 +1,3 @@
-1791706051|https://lenta.ru/news/2026/10/11/masku-predlozhili-soedinit-rossiyu-i-ssha/|Маску предложили соединить Россию и США
-1791706058|https://www.kommersant.ru/doc/9023919|Дмитриев призвал компанию Маска начать строить тоннель между Россией и США
-1791706067|https://www.kommersant.ru/doc/9023912|В работе сервисов «Яндекса» произошел сбой
-1791706072|https://tass.ru/obschestvo/28202997|В районе Солнцево в Москве открылась школа для 1,2 тыс. учеников
-1791706076|https://tass.ru/ekonomika/28202999|"Россия" корректирует расписание из-за ограничений в аэропорту Сочи
 1791707136|https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss|US justice department investigates TV networks over Trump pool coverage
 1791707142|https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss|Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani
 1791707147|https://www.japantimes.co.jp/commentary/2026/10/11/japan/japan-china-tensions-rise/|With bilateral trade booming, why are Japan-China tensions rising?
@@ -1998,3 +1993,8 @@
 1792270615|https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss|Iranian TV airs video said to show tanker explosion in Hormuz
 1792270620|https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451|Crush at religious festival kills at least 17 and injures dozens in India
 1792270625|https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france|Historic Limoges town hall engulfed in flames amid protests in France
+1792271719|https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss|Violent clashes, looting and buildings ablaze as hundreds arrested after France protests
+1792271725|https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss|Anti-government protesters battle with police in Albania
+1792271733|https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss|At least 17 dead in crush at Hindu festival event in India
+1792271739|https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own|Grab an RTX 5090 for a discounted $5,300 as part of an MSI Infinite ZS prebuilt gaming PC — price includes other components worth about $2,300 on their own
+1792271743|https://lenta.ru/news/2026/10/18/stalo-izvestno-o-sisteme-podzemnyh-tunneley-vsu-v-dobropolie/|Стало известно о системе подземных туннелей ВСУ в Доброполье
