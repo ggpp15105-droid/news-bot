@@ -1,8 +1,3 @@
-1791691122|https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss|Taiz hospitals near collapse as Houthis tighten siege: Yemen government
-1791691131|https://www.kommersant.ru/doc/9023877|Трамп: Путин высвобождает много нефти по очень низкой цене
-1791691135|https://tass.ru/obschestvo/28202711|В Иркутской области 11 населенных пунктов остались без электричества
-1791691140|https://tass.ru/nedvizhimost/28202713|Эксперт Анохин рассказал, сколько ипотек берут россияне
-1791691144|https://tass.ru/obschestvo/28202709|Во Владивостоке более 34 тыс. человек остались без электричества
 1791691851|https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf|US: Justice Department probes Trump's press pool boycott for antitrust violation
 1791691859|https://www.japantimes.co.jp/sports/2026/10/11/more-sports/cancel/|NASCAR and IndyCar look to generate Formula One-type growth overseas
 1791691863|https://lenta.ru/news/2026/10/11/long-aeroport-saudovskoy-aravii-snova-podvergsya-raketnomu-udaru-sotni-chelovek-postradali-i-12-pogibli-chto-esche-izvestno/|Аэропорт Саудовской Аравии снова подвергся ракетному удару. Сотни человек пострадали и 12 погибли. Что еще известно?
@@ -1998,3 +1993,8 @@
 1792249079|https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf|China's influence in the gaming industry is growing
 1792249087|https://www.aa.com.tr/en/world/meta-denies-political-bias-in-brazil-after-court-ruling/4092095|Meta denies political bias in Brazil after court ruling
 1792249092|https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-european-diplomatic-delegation-in-occupied-west-bank/4092094|Israeli occupiers attack European diplomatic delegation in occupied West Bank
+1792250224|https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss|Thousands rally for biggest protest in years against Tunisia’s Saied
+1792250230|https://www.france24.com/en/video/20261017-protests-in-france-living-conditions-are-too-harsh|Protests in France: "Living conditions are too harsh"
+1792250235|https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests|France: What's different about today's protests?
+1792250239|https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor|🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
+1792250245|https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement|France: "We've seen extremely high tensions between protesters and law enforcement"

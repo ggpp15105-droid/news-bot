@@ -59,3 +59,8 @@
 1792249080|DW|Влияние Китая в игровой индустрии растет|https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf
 1792249087|Anadolu|Meta отрицает политическую предвзятость в Бразилии после решения суда|https://www.aa.com.tr/en/world/meta-denies-political-bias-in-brazil-after-court-ruling/4092095
 1792249092|Anadolu|Израильские оккупанты напали на европейскую дипломатическую делегацию на оккупированном Западном берегу|https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-european-diplomatic-delegation-in-occupied-west-bank/4092094
+1792250224|Al Jazeera|Тысячи людей вышли на акцию протеста против Саида в Тунисе|https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss
+1792250230|France 24|Протесты во Франции: условия жизни слишком суровы|https://www.france24.com/en/video/20261017-protests-in-france-living-conditions-are-too-harsh
+1792250235|France 24|Франция: Чем отличаются сегодняшние протесты?|https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests
+1792250239|France 24|Израильские поселенцы избили мэра Франции и напали на европейские дипломатические машины на Западном берегу|https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor
+1792250246|France 24|Франция: «Мы наблюдаем чрезвычайно высокую напряженность между протестующими и правоохранительными органами»|https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement
