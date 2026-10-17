@@ -1,8 +1,3 @@
-1791685412|https://www.japantimes.co.jp/news/2026/10/11/world/crime-legal/us-lethal-injection-survivor-returns-prison/|Survivor of botched U.S. lethal injection returns to prison
-1791685417|https://lenta.ru/news/2026/10/11/yandeks-soobschil-o-nepoladkah-v-odnom-iz-data-tsentrov/|«Яндекс» сообщил о неполадках в одном из дата-центров
-1791685421|https://tass.ru/obschestvo/28202647|Онищенко предупредил об опасности домашних клещей из-за неправильной стирки
-1791685424|https://tass.ru/armiya-i-opk/28202643|Механики-водители пусковых установок "Ярс" сдали экзамены в школе техников РВСН
-1791685428|https://tass.ru/armiya-i-opk/28202639|Бойцы "Востока" уничтожили минометы и пехоту ВСУ в Запорожской области
 1791686428|https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss|World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport
 1791686435|https://www.japantimes.co.jp/news/2026/10/11/world/science-health/trust-in-science-falls-survey/|Trust in science falls as COVID-era confidence fades, global survey finds
 1791686442|https://www.japantimes.co.jp/news/2026/10/11/japan/japan-float-festival-deaths/|Two die and 16 hurt in Osaka danjiri float festival accidents
@@ -1998,3 +1993,8 @@
 1792241828|https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month|Hungarian PM Péter Magyar says Zelenskyy unlikely to visit Budapest later this month
 1792241835|https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent|Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny
 1792241842|https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking|Leap seconds being retired next year to avoid wreaking havoc on computer systems
+1792242044|https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss|Child, four women among Palestinians injured in West Bank pogroms
+1792242052|https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss|Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final
+1792242060|https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid|Taiwan targets illicit AI server exports to China with five-year prison terms
+1792242067|https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought|Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test
+1792242075|https://lenta.ru/news/2026/10/17/krosbi-vyshel-na-sedmoe-mesto-v-istorii-nhl-po-assistam/|Кросби вышел на седьмое место в истории НХЛ по ассистам
