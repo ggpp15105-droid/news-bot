@@ -1,4 +1,4 @@
-#last=2026-10-17-20|1792257183
+#last=2026-10-17-8|1792258691
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -89,3 +89,8 @@
 1792257249|Rock Paper Shotgun|Поскольку слишком большая часть индустрии принимает собственную смерть через genAI, Konami говорит, что именно реальные люди наиболее важны для создания хороших игр.|https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games
 1792257258|Tom's Hardware|Режим Quad 8-pin защищает 8500 долларов RTX 5090, которые вы не можете заменить при плавлении|https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns
 1792257265|Tom's Hardware|База обратной связи MOZA AY210 и MFY Обзор Yoke: Погружение в симулятор полета на следующий уровень|https://www.tomshardware.com/peripherals/controllers-gamepads/moza-ay210-force-feedback-base-and-mfy-yoke-review
+1792258712|Al Jazeera|Al Jazeera сообщает из Парижа, что протесты переросли в насилие|https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss
+1792258718|Al Jazeera|Почему страны Латинской Америки укрепляют связи с Израилем?|https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss
+1792258723|Sky News|Мужчина и женщина обвинены в нападении и уголовном ущербе после смертельного пожара в доме|https://news.sky.com/story/man-and-woman-charged-with-assault-and-criminal-damage-after-fatal-house-fire-13600228
+1792258729|Euronews|Протестующие столкнулись с полицией в Бельгии, когда демонстрации по всей Европе переросли в насилие|https://www.euronews.com/2026/10/17/protesters-clash-with-police-in-belgium-as-demonstrations-turn-violent-across-europe
+1792258735|Euronews|Европейские дипломаты подверглись нападению израильских поселенцев на фоне роста насилия на оккупированном Западном берегу|https://www.euronews.com/2026/10/17/european-diplomats-attacked-by-israeli-settlers-amid-rising-violence-in-occupied-west-bank
