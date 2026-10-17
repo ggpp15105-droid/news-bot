@@ -1,8 +1,3 @@
-1791687995|https://www.japantimes.co.jp/news/2026/10/11/japan/japan-first-female-kishi-shogi-player/|Tomoka Nishiyama earns right to become shogi’s first female kishi player
-1791688003|https://lenta.ru/news/2026/10/11/spetspredstavitel-putina-posle-slov-trampa-sdelal-zayavlenie-o-vyborah-na-ukraine/|Спецпредставитель Путина после слов Трампа сделал заявление о выборах на Украине
-1791688011|https://lenta.ru/news/2026/10/11/politologe-predrek-ukraine-poslednyuyu-voennuyu-zimu/|Политолог предрек Украине последнюю военную зиму
-1791688016|https://www.kommersant.ru/doc/9023875|Австрийская оппозиция потребовала объяснить транзит 200 кг «специального груза» из Киева // В Австрии потребовали отчета о перевозке «специального груза» из Украины
-1791688020|https://tass.ru/sport/28202673|Капризов первым из россиян оформил хет-трик в новом сезоне НХЛ
 1791689174|https://www.japantimes.co.jp/news/2026/10/11/world/politics/trump-replacing-ukraine-zelenskyy/|Trump calls for replacing Zelenskyy in tussle over diesel deal with Russia
 1791689179|https://www.kommersant.ru/doc/9023876|Суд заменил реальный срок на условный фигуранту дела о поставках бронежилетов
 1791689183|https://tass.ru/obschestvo/28202697|Депутат Бессараб: праздники не повлияют на оклады россиян
@@ -1998,3 +1993,8 @@
 1792245229|https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf|India news: CJP founder released a day after detention
 1792245234|https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception|Will Paramount’s creation of Skydance test France’s cultural exception?
 1792245241|https://www.euronews.com/2026/10/17/portugal-sees-protests-over-cost-of-living-and-housing-crisis-as-demonstrations-sweep-euro|Portugal sees protests over cost of living and housing crisis as demonstrations sweep Europe
+1792246372|https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss|California Gov Newsom boosts AI regulation as he eyes 2028 presidential run
+1792246378|https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss|Protesters clash with police during nationwide demonstrations in France
+1792246385|https://www.aa.com.tr/en/world/antarctica-s-thwaites-glacier-melting-faster-than-thought-could-double-sea-level-contribution/4092041|Antarctica’s Thwaites Glacier melting faster than thought, could double sea-level contribution
+1792246390|https://www.aa.com.tr/en/europe/british-military-aircraft-have-2-near-misses-with-suspected-drones-report/4092035|British military aircraft have 2 near misses with suspected drones: Report
+1792246395|https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft|We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft
