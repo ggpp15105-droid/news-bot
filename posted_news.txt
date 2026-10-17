@@ -1,8 +1,3 @@
-1791695534|https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport|Live : Saudi Arabia vows 'decisive response' after deadly Houthi strike on Riyadh airport
-1791695542|https://www.euronews.com/2026/10/11/farming-and-solar-power-are-competing-for-land-can-agrivoltaics-solve-the-problem|Farming and solar power are competing for land. Can agrivoltaics solve the problem?
-1791695549|https://www.euronews.com/2026/10/11/europes-best-christmas-markets-to-visit-in-2026-according-to-travellers|Europe's best Christmas markets to visit in 2026, according to travellers
-1791695557|https://www.euronews.com/2026/10/11/esa-director-general-reveals-10bn-plan-to-get-to-space-without-nasa|ESA director general reveals €10bn plan to get to space without NASA
-1791695564|https://www.japantimes.co.jp/sports/2026/10/11/baseball/mlb/guardians-beats-white-sox-alds/|Guardians beat White Sox to complete comeback and punch ticket to ALCS
 1791696476|https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-morning|Latest news bulletin | October 11th, 2026 – Morning
 1791696482|https://www.japantimes.co.jp/news/2026/10/11/japan/okinawa-murder-us-marine-arrest-local-reaction/|‘Everyone is angry’: Okinawans fearful and frustrated after killing
 1791696490|https://lenta.ru/news/2026/10/11/oblomki-bpla-upali-na-territorii-aeroporta-sochi/|Обломки БПЛА упали на территории аэропорта Сочи
@@ -1998,3 +1993,8 @@
 1792256143|https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html|Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says
 1792256150|https://www.euronews.com/2026/10/17/euronews-crew-assaulted-by-masked-individuals-while-covering-the-major-demonstrations-in-p|Euronews' crew assaulted by masked individuals while covering protests in Paris
 1792256157|https://www.euronews.com/video/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille|Protesters storm town hall and clash with police in France’s Marseille
+1792257234|https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss|Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks
+1792257241|https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in|Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in
+1792257249|https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games|As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games
+1792257257|https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns|Quad 8-pin mod protects the $8,500 RTX 5090 you can’t replace from melting
+1792257264|https://www.tomshardware.com/peripherals/controllers-gamepads/moza-ay210-force-feedback-base-and-mfy-yoke-review|MOZA AY210 Force Feedback Base and MFY Yoke review: Taking flight sim immersion to the next level

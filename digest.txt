@@ -1,4 +1,4 @@
-#last=2026-10-17-8|1792213976
+#last=2026-10-17-20|1792257183
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -84,3 +84,8 @@
 1792256143|CNBC|Рынок полупроводников останется стабильным «по крайней мере до конца следующего года», заявил министр финансов Южной Кореи.|https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html
 1792256151|Euronews|Экипаж Euronews подвергся нападению людей в масках во время освещения протестов в Париже|https://www.euronews.com/2026/10/17/euronews-crew-assaulted-by-masked-individuals-while-covering-the-major-demonstrations-in-p
 1792256158|Euronews|Протестующие штурмуют ратушу и сталкиваются с полицией в Марселе|https://www.euronews.com/video/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille
+1792257234|Al Jazeera|Египетский ас-Сиси пообещал защитить Саудовскую Аравию от нападений хуситов|https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss
+1792257242|IGN|Актёр фильма «Капитан Прайс» отправил фанатам сообщение в качестве похвалы кампании Call of Duty : Modern Warfare 4|https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in
+1792257249|Rock Paper Shotgun|Поскольку слишком большая часть индустрии принимает собственную смерть через genAI, Konami говорит, что именно реальные люди наиболее важны для создания хороших игр.|https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games
+1792257258|Tom's Hardware|Режим Quad 8-pin защищает 8500 долларов RTX 5090, которые вы не можете заменить при плавлении|https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns
+1792257265|Tom's Hardware|База обратной связи MOZA AY210 и MFY Обзор Yoke: Погружение в симулятор полета на следующий уровень|https://www.tomshardware.com/peripherals/controllers-gamepads/moza-ay210-force-feedback-base-and-mfy-yoke-review
