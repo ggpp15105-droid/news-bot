@@ -1,8 +1,3 @@
-1791708170|https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-vozmozhnosti-s-ezdit-v-oae-po-minimalnoy-tsene/|Россиянам рассказали о возможности съездить в ОАЭ по минимальной цене
-1791708174|https://lenta.ru/news/2026/10/11/rossiyanam-nazvali-osennyuyu-alternativu-letnim-fruktam/|Россиянам назвали осеннюю альтернативу летним фруктам
-1791708180|https://lenta.ru/news/2026/10/11/rossiyskogo-hokkeista-priznali-vtoroy-zvezdoy-dnya-v-nhl/|Российского хоккеиста признали второй звездой дня в НХЛ
-1791708185|https://lenta.ru/news/2026/10/11/miroshnik-s-ironiey-otreagiroval-na-soglasie-maska-smenit-zelenskogo/|Мирошник с иронией отреагировал на согласие Маска сменить Зеленского
-1791708189|https://www.kommersant.ru/doc/9023922|РБК: Счетная палата предложила расширить список деликатесов без льгот по НДС
 1791709025|https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss|Pakistan imposes emergency rule in ​province governed by Imran Khan’s party
 1791709032|https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss|What the Iran war has done to the world’s energy supply, in charts
 1791709037|https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests|Spanish PM begins vote campaign overshadowed by housing protests
@@ -1998,3 +1993,8 @@
 1792273334|https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss|Ten killed in fire at beach resort in Bangladesh
 1792273340|https://www.aa.com.tr/en/turkiye/turkiye-urges-islamic-world-to-act-together-on-regional-challenges-palestine-at-oic-meeting/4092309|Türkiye urges Islamic world to act together on regional challenges, Palestine at OIC meeting
 1792273346|https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols|Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols
+1792274549|https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-praises-iraqi-premiers-strong-vision-for-advancing-bilateral-ties-with-ankara/4092319|Turkish foreign minister praises Iraqi premier's 'strong vision' for advancing bilateral ties with Ankara
+1792274556|https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world|Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world
+1792274561|https://lenta.ru/news/2026/10/18/poyavilis-podrobnosti-zaderzhaniya-blogera-ivana-zolo/|Появились подробности задержания блогера Ивана Золо
+1792274570|https://lenta.ru/news/2026/10/18/zaharova-prokommentirovala-napravlenie-noty-v-mid-kazahstana-iz-za-aresta-repera-navai/|Захарова прокомментировала направление ноты в МИД Казахстана из-за ареста рэпера Navai
+1792274579|https://lenta.ru/news/2026/10/18/tri-letevshih-iz-turtsii-v-moskvu-samoleta-razvernulis-iz-za-ogranicheniy/|Три летевших из Турции в Москву самолета развернулись из-за ограничений
