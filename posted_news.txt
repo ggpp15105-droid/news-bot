@@ -1,8 +1,3 @@
-1791704574|https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf|Demographic change: Germany's population is declining, but not everywhere
-1791704579|https://lenta.ru/news/2026/10/11/potap-i-nastya-kamenskih-stali-zarabatyvat-na-uehavshih-iz-rossii-artistah/|Потап и Настя Каменских стали зарабатывать на уехавших из России артистах
-1791704584|https://lenta.ru/news/2026/10/11/trevel-blogersha-opisala-shest-populyarnyh-stran-frazoy-ne-opravdali-ozhidaniy-turistov/|Тревел-блогерша описала шесть популярных стран фразой «не оправдали ожиданий туристов»
-1791704589|https://lenta.ru/news/2026/10/11/po-delu-o-postavkah-nekachestvennyh-bronezhiletov-dlya-minoborony-nachali-menyat-prigovory/|По делу о поставках некачественных бронежилетов для Минобороны начали менять приговоры
-1791704595|https://www.kommersant.ru/doc/9023913|Politico: Еврокомиссия готовит ужесточение визовых правил для россиян
 1791705387|https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss|US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’
 1791705395|https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-all-1573-rdf|Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs
 1791705400|https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests|Spanish PM Sanchez kicks off election campaign amid housing crisis protests
@@ -1998,3 +1993,8 @@
 1792267566|https://lenta.ru/news/2026/10/17/na-ukraine-ispugalis-vozmozhnosti-rossii-upravlyat-dronami-geran-v-realnom-vremeni/|На Украине испугались возможности России управлять дронами «Герань» в реальном времени
 1792267574|https://lenta.ru/news/2026/10/18/odin-chelovek-postradal-iz-za-ataki-vsu-na-rossiyskiy-region/|Один человек пострадал из-за атаки ВСУ на российский регион
 1792267582|https://lenta.ru/news/2026/10/18/v-evroparlamente-prizvali-prekratit-vydachu-vseh-vidov-viz-rossiyanam/|В Европарламенте призвали прекратить выдачу всех видов виз россиянам
+1792269044|https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france|Looters seize on massive French protests to raid and vandalise shops
+1792269050|https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original|Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original
+1792269059|https://lenta.ru/news/2026/10/18/tramp-sravnil-poshliny-s-zhenoy-i-bogom/|Трамп сравнил «пошлины» с «женой» и «Богом»
+1792269064|https://lenta.ru/news/2026/10/17/stalo-izvestno-mesto-pohoron-izvestnoy-rossiyskoy-hudozhnitsy/|Стало известно место похорон известной российской художницы
+1792269073|https://www.kommersant.ru/doc/9041190|Человек пострадал при ударе БПЛА по селу в Белгородской области
