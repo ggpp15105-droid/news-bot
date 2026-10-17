@@ -1,8 +1,3 @@
-1791710640|https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss|What can Man City expect against Liverpool at Anfield on Sunday?
-1791710647|https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss|Trump calls for Ukraine election, says Zelenskyy failed to end war
-1791710651|https://news.sky.com/story/residents-evacuated-after-flash-flooding-destroys-homes-in-nepal-13597674|Flash flooding destroys homes in Nepal
-1791710659|https://www.euronews.com/2026/10/11/protesters-take-to-the-streets-in-portugal-over-rising-living-costs-and-housing-prices|Protesters take to the streets in Portugal over rising living costs and housing prices
-1791710665|https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale|"We have to go a different path" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale
 1791711669|https://www.france24.com/en/africa/20261011-at-least-hundred-migrants-dead-scores-missing-after-boat-capsizes-off-djibouti|At least 109 migrants dead, more than 100 missing after boat capsizes off Djibouti
 1791711674|https://www.france24.com/en/video/20261011-going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand|'Going bankrupt': Iran shopkeepers struggle as war dims demand
 1791711680|https://www.france24.com/en/video/20261011-trump-urges-zelensky-replacement-as-diesel-row-rages|Trump urges Zelensky replacement as diesel row rages
@@ -1998,3 +1993,8 @@
 1792277176|https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-shot-down-saudi-apache-helicopter-near-yemen-border/4092322|Houthis claim to have shot down Saudi Apache helicopter near Yemen border
 1792277181|https://lenta.ru/news/2026/10/18/posol-rossii-otsenil-gotovnost-moldavii-rassledovat-intsidenty-s-bpla/|Посол России оценил готовность Молдавии расследовать инциденты с БПЛА
 1792277186|https://lenta.ru/news/2026/10/18/ivan-zolo-raskryl-prichinu-svoego-zaderzhaniya/|Иван Золо раскрыл причину своего задержания
+1792278165|https://www.japantimes.co.jp/culture/2026/10/18/art/zen-ghibli-exhibition-toshio-suzuki/|Kyoto exhibition finds Zen in the worlds of Studio Ghibli
+1792278172|https://www.aa.com.tr/en/middle-east/5-injured-in-ammunition-blast-at-iraqs-popular-mobilization-forces-base/4092325|5 injured in ammunition blast at Iraq's Popular Mobilization Forces base
+1792278177|https://lenta.ru/news/2026/10/18/eks-sovetnik-trampa-prizval-prekratit-vydelyat-dengi-zelenskomu/|Экс-советник Трампа призвал прекратить выделять деньги Зеленскому
+1792278186|https://www.kommersant.ru/doc/9041195|Рядом с Москвой сбили 11 БПЛА
+1792278194|https://www.kommersant.ru/doc/9040975|«МегаФон»: среднее число DDoS-атак за девять месяцев снизилось на 65%

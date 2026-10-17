@@ -164,3 +164,8 @@
 1792277176|Anadolu|Хуситы утверждают, что сбили саудовский вертолет Apache вблизи границы с Йеменом|https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-shot-down-saudi-apache-helicopter-near-yemen-border/4092322
 1792277181|Lenta.ru|Посол России оценил готовность Молдавии расследовать инциденты с БПЛА|https://lenta.ru/news/2026/10/18/posol-rossii-otsenil-gotovnost-moldavii-rassledovat-intsidenty-s-bpla/
 1792277186|Lenta.ru|Иван Золо раскрыл причину своего задержания|https://lenta.ru/news/2026/10/18/ivan-zolo-raskryl-prichinu-svoego-zaderzhaniya/
+1792278165|Japan Times|Киотская выставка находит Дзен в мирах студии Ghibli|https://www.japantimes.co.jp/culture/2026/10/18/art/zen-ghibli-exhibition-toshio-suzuki/
+1792278172|Anadolu|5 человек получили ранения в результате взрыва боеприпасов на базе Сил народной мобилизации Ирака|https://www.aa.com.tr/en/middle-east/5-injured-in-ammunition-blast-at-iraqs-popular-mobilization-forces-base/4092325
+1792278177|Lenta.ru|Экс-советник Трампа призвал прекратить выделять деньги Зеленскому|https://lenta.ru/news/2026/10/18/eks-sovetnik-trampa-prizval-prekratit-vydelyat-dengi-zelenskomu/
+1792278186|Коммерсантъ|Рядом с Москвой сбили 11 БПЛА|https://www.kommersant.ru/doc/9041195
+1792278194|Коммерсантъ|«МегаФон»: среднее число DDoS-атак за девять месяцев снизилось на 65%|https://www.kommersant.ru/doc/9040975
