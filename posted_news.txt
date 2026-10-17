@@ -1,8 +1,3 @@
-1791689174|https://www.japantimes.co.jp/news/2026/10/11/world/politics/trump-replacing-ukraine-zelenskyy/|Trump calls for replacing Zelenskyy in tussle over diesel deal with Russia
-1791689179|https://www.kommersant.ru/doc/9023876|Суд заменил реальный срок на условный фигуранту дела о поставках бронежилетов
-1791689183|https://tass.ru/obschestvo/28202697|Депутат Бессараб: праздники не повлияют на оклады россиян
-1791689188|https://tass.ru/ekonomika/28202695|Премьер ДНР заявил о ежегодном росте инвестиций в основной капитал
-1791689192|https://tass.ru/ekonomika/28202689|В аэропорту Нижнего Новгорода отменили временные ограничения
 1791690257|https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss|US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman
 1791690264|https://www.japantimes.co.jp/sports/2026/10/11/more-sports/eliud-kipchoge-sydney-marathon/|Eliud Kipchoge wins first marathon since 2023
 1791690271|https://www.aa.com.tr/en/world/british-prime-minister-burnham-reiterates-support-for-ukraine-in-call-with-zelenskyy/4084841|British Prime Minister Burnham reiterates support for Ukraine in call with Zelenskyy
@@ -1998,3 +1993,8 @@
 1792246385|https://www.aa.com.tr/en/world/antarctica-s-thwaites-glacier-melting-faster-than-thought-could-double-sea-level-contribution/4092041|Antarctica’s Thwaites Glacier melting faster than thought, could double sea-level contribution
 1792246390|https://www.aa.com.tr/en/europe/british-military-aircraft-have-2-near-misses-with-suspected-drones-report/4092035|British military aircraft have 2 near misses with suspected drones: Report
 1792246395|https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft|We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft
+1792247699|https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss|Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction
+1792247706|https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss|Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia
+1792247713|https://www.aa.com.tr/en/middle-east/iranian-lawmaker-says-indirect-talks-with-us-continuing-through-qatar-oman-report/4092082|Iranian lawmaker says indirect talks with US continuing through Qatar, Oman: Report
+1792247718|https://www.aa.com.tr/en/europe/student-protests-enter-5th-day-in-albania-as-police-conduct-comes-under-review/4092081|Student protests enter 5th day in Albania as police conduct comes under review
+1792247724|https://www.aa.com.tr/en/eurasia/zelenskyy-says-russia-sanctions-relief-could-continue-diesel-deal-first-step-/4092076|Zelenskyy says Russia sanctions relief could continue, diesel deal ‘first step’
