@@ -1,8 +1,3 @@
-1791701648|https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-rdf|Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces — why? And how?
-1791701653|https://lenta.ru/news/2026/10/11/nazvany-sposobnye-isportit-kreditnuyu-istoriyu-faktory/|Названы способные испортить кредитную историю факторы
-1791701662|https://lenta.ru/news/2026/10/11/punkty-vremennogo-soderzhaniya/|Пункт временного размещения открыли в российском городе после атаки ВСУ
-1791701666|https://lenta.ru/news/2026/10/11/yuta-obygrala-baffalo-v-nhl/|«Юта» обыграла «Баффало» в НХЛ
-1791701671|https://lenta.ru/news/2026/10/11/perechisleny-samye-populyarnye-napravleniya-dlya-otdyha-v-novogodnie-prazdniki-u-rossiyan/|Перечислены самые популярные направления для отдыха в новогодние праздники у россиян
 1791702489|https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss|Flash flood sweeps away buildings in Nepal
 1791702498|https://lenta.ru/news/2026/10/11/ataka-vsu-privela-k-sboyam-v-rossiyskom-internete/|Атака ВСУ привела к сбоям в российском интернете
 1791702502|https://lenta.ru/news/2026/10/11/50-letnyaya-rossiyanka-vyigrala-mezhdunarodnyy-konkurs-krasoty/|50-летняя россиянка выиграла международный конкурс красоты
@@ -1998,3 +1993,8 @@
 1792264088|https://lenta.ru/news/2026/10/17/premier-vengrii-razreshil-ukraine-transportirovat-odin-gruz-v-oplombirovannyh-vagonah/|Премьер Венгрии разрешил Украине транспортировать один груз в опломбированных вагонах
 1792264092|https://lenta.ru/news/2026/10/17/nazvana-vozmozhnaya-prichina-gibeli-rebenka-iz-rossii-v-otele-egipta/|Названа возможная причина гибели ребенка из России в отеле Египта
 1792264101|https://lenta.ru/news/2026/10/18/v-rossii-sochli-otorvannoy-ot-realnosti-ideyu-nemedlennogo-otkaza-ot-yadernogo-oruzhiya/|В России сочли оторванной от реальности идею немедленного отказа от ядерного оружия
+1792265397|https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf|Ilhan Omar: The US Democrat targeted by Donald Trump
+1792265403|https://www.aa.com.tr/en/world/meta-revises-commercial-terms-following-concerns-over-ai-scraping-of-news-websites/4092262|Meta revises commercial terms following concerns over AI scraping of news websites
+1792265410|https://www.aa.com.tr/en/middle-east/lebanon-to-take-part-in-us-backed-trilateral-talks-with-israel-on-oct-20-president-says/4092254|Lebanon to take part in US-backed trilateral talks with Israel on Oct. 20, president says
+1792265418|https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo|RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo
+1792265427|https://lenta.ru/news/2026/10/18/byvshaya-press-sekretar-zelenskogo-prizvala-ukrainu-gotovitsya-k-sdache-donbassa/|Бывшая пресс-секретарь Зеленского призвала Украину готовиться к сдаче Донбасса
