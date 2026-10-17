@@ -64,3 +64,8 @@
 1792250235|France 24|Франция: Чем отличаются сегодняшние протесты?|https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests
 1792250239|France 24|Израильские поселенцы избили мэра Франции и напали на европейские дипломатические машины на Западном берегу|https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor
 1792250246|France 24|Франция: «Мы наблюдаем чрезвычайно высокую напряженность между протестующими и правоохранительными органами»|https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement
+1792251856|DW|Насколько велика угроза России Германии?|https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf
+1792251861|France 24|США: Четверо убиты в школе в Орегоне|https://www.france24.com/en/video/20261017-us-four-killed-in-oregon-school-shooting
+1792251868|Euronews|Офис по туризму загорелся во время протестов в Лионе|https://www.euronews.com/video/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon
+1792251877|Anadolu|Космическое дыхание: глобальные призывы к молитве отвечают растущей исламофобии в Лондоне|https://www.aa.com.tr/en/features/cosmic-breath-global-calls-to-prayer-answer-rising-islamophobia-in-london/4092122
+1792251882|Anadolu|Небольшая лодка приближается, открывает огонь по танкеру СПГ у побережья Йемена, сообщает морское агентство Великобритании|https://www.aa.com.tr/en/middle-east/small-boat-approaches-opens-fire-on-lng-tanker-off-yemen-s-coast-uk-maritime-agency-says/4092086

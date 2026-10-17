@@ -1,8 +1,3 @@
-1791691851|https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf|US: Justice Department probes Trump's press pool boycott for antitrust violation
-1791691859|https://www.japantimes.co.jp/sports/2026/10/11/more-sports/cancel/|NASCAR and IndyCar look to generate Formula One-type growth overseas
-1791691863|https://lenta.ru/news/2026/10/11/long-aeroport-saudovskoy-aravii-snova-podvergsya-raketnomu-udaru-sotni-chelovek-postradali-i-12-pogibli-chto-esche-izvestno/|Аэропорт Саудовской Аравии снова подвергся ракетному удару. Сотни человек пострадали и 12 погибли. Что еще известно?
-1791691867|https://lenta.ru/news/2026/10/11/vrach-nazvala-negativno-vliyayuschiy-na-immunnuyu-sistemu-produkt/|Врач назвала негативно влияющий на иммунную систему продукт
-1791691876|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-mnogochasovoy-detonatsii-sklada-boepripasov-vsu/|Стало известно о многочасовой детонации склада боеприпасов ВСУ
 1791692944|https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-vliyanii-prazdnikov-na-oklady/|Россиянам рассказали о влиянии праздников на оклады
 1791692948|https://lenta.ru/news/2026/10/11/kosmetolog-ob-yasnila-nevozmozhnost-polucheniya-litsa-kak-u-zvezdy/|Косметолог объяснила невозможность получения лица «как у звезды»
 1791692956|https://lenta.ru/news/2026/10/11/raskryt-spisok-zatronutyh-sboem-posle-ataki-na-data-tsentr-yandeksa-prilozheniy/|Раскрыт список затронутых сбоем после атаки на дата-центр «Яндекса» приложений
@@ -1998,3 +1993,8 @@
 1792250235|https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests|France: What's different about today's protests?
 1792250239|https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor|🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
 1792250245|https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement|France: "We've seen extremely high tensions between protesters and law enforcement"
+1792251855|https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf|How big is Russia's threat against Germany?
+1792251861|https://www.france24.com/en/video/20261017-us-four-killed-in-oregon-school-shooting|US: Four killed in Oregon school shooting
+1792251868|https://www.euronews.com/video/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon|Tourism office set ablaze during cost-of-living protests in Lyon
+1792251876|https://www.aa.com.tr/en/features/cosmic-breath-global-calls-to-prayer-answer-rising-islamophobia-in-london/4092122|Cosmic Breath: Global calls to prayer answer rising Islamophobia in London
+1792251882|https://www.aa.com.tr/en/middle-east/small-boat-approaches-opens-fire-on-lng-tanker-off-yemen-s-coast-uk-maritime-agency-says/4092086|Small boat approaches, opens fire on LNG tanker off Yemen’s coast, UK maritime agency says
