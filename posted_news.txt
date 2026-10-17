@@ -1,8 +1,3 @@
-1791713206|https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss|Russia’s Yandex says data centre in Vladimir shut down after drone attack
-1791713210|https://news.sky.com/story/ai-and-nuclear-war-threaten-human-extinction-by-2100-report-warns-13597676|AI and nuclear war threaten human extinction by 2100, report warns
-1791713218|https://www.rockpapershotgun.com/the-sunday-papers-831|The Sunday Papers
-1791713224|https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-earth-10-ton-ghost-vehicle-gets-first-real-world-test-sierra-space-drops-radio-and-whiskey-from-68-500-feet-to-test-starcraft-like-supply-drops|U.S. military-backed cargo pod promises 90-minute orbital delivery anywhere on Earth
-1791713233|https://lenta.ru/news/2026/10/11/v-rossii-prizvali-evrosoyuz-prekratit-razzhigat-voynu/|В России призвали Евросоюз прекратить разжигать войну
 1791714177|https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21|Trump, Zelensky clash over diesel deal as Russian strikes kill 21
 1791714182|https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707|109 dead after ship sinks off coast of Djibouti, UN agency says
 1791714190|https://www.euronews.com/2026/10/11/czech-pm-babiss-ano-faces-strong-challenge-in-first-round-of-senate-election|Czech PM Babiš's ANO faces strong challenge in first round of Senate election
@@ -1998,3 +1993,8 @@
 1792280537|https://www.aa.com.tr/en/middle-east/israeli-forces-detain-2-palestinians-fire-tear-gas-during-occupied-west-bank-raids/4092331|Israeli forces detain 2 Palestinians, fire tear gas during occupied West Bank raids
 1792280544|https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns|Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns
 1792280553|https://lenta.ru/news/2026/10/18/politolog-svyazal-dizelnuyu-sdelku-s-nadezhdoy-trampa-uluchshit-nastroenie-amerikantsev/|Политолог связал дизельную сделку с надеждой Трампа улучшить настроение американцев
+1792281499|https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss|US ambassador urges Israel to prosecute attackers of American journalist
+1792281506|https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-zelenskyy-ukraine-support-analysis/|Trump-Zelenskyy rift threatens vital support for Kyiv
+1792281513|https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-russia-sanctions-republicans-mistake/|Trump’s Russia sanctions waiver called mistake by GOP allies
+1792281522|https://lenta.ru/news/2026/10/18/gosdep-podtverdil-lishenie-ukrainy-dostupa-k-voennoy-sputnikovoy-svyazi-starshield/|Госдеп подтвердил лишение Украины доступа к военной спутниковой связи Starshield
+1792281527|https://lenta.ru/news/2026/10/18/premiera-polshi-raskritikovali-posle-vstrechi-s-zelenskim/|Премьера Польши раскритиковали после встречи с Зеленским
