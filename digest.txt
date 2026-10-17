@@ -1,4 +1,4 @@
-#last=2026-10-17-20|1792265372
+#last=2026-10-17-8|1792266661
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -119,3 +119,8 @@
 1792265410|Anadolu|Ливан примет участие в трехсторонних переговорах с Израилем 20 октября, заявил президент|https://www.aa.com.tr/en/middle-east/lebanon-to-take-part-in-us-backed-trilateral-talks-with-israel-on-oct-20-president-says/4092254
 1792265418|Rock Paper Shotgun|RimWorld встречает Moebius-esque roguelite colony sim Trailblazers: Into The March приветствует вас на борту своих неуклюжих кораблей с шумной демонстрацией|https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo
 1792265427|Lenta.ru|Бывшая пресс-секретарь Зеленского призвала Украину готовиться к сдаче Донбасса|https://lenta.ru/news/2026/10/18/byvshaya-press-sekretar-zelenskogo-prizvala-ukrainu-gotovitsya-k-sdache-donbassa/
+1792266680|Al Jazeera|Полиция Албании стреляет резиновыми пулями в связи с эскалацией протестов против Рамы|https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss
+1792266685|Al Jazeera|Сотни митингующих в Киеве требуют отставки мэра Виталия Кличко|https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss
+1792266691|Al Jazeera|Придет ли ЕС на помощь Украине в войне против России?|https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss
+1792266700|IGN|Лучшие предложения сегодня: Cyberpunk 2077 для Switch 2, Pikmin 4, Star Wars Zero Company и многое другое|https://www.ign.com/articles/best-deals-for-october-17-2026
+1792266708|Lenta.ru|Житель Курской области подорвался на мине ВСУ по пути на дачу и лишился части стопы|https://lenta.ru/news/2026/10/17/zhitel-kurskoy-oblasti-podorvalsya-na-mine-vsu-po-puti-na-dachu-i-lishilsya-chasti-stopy/

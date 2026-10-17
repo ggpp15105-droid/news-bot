@@ -1,8 +1,3 @@
-1791702489|https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss|Flash flood sweeps away buildings in Nepal
-1791702498|https://lenta.ru/news/2026/10/11/ataka-vsu-privela-k-sboyam-v-rossiyskom-internete/|Атака ВСУ привела к сбоям в российском интернете
-1791702502|https://lenta.ru/news/2026/10/11/50-letnyaya-rossiyanka-vyigrala-mezhdunarodnyy-konkurs-krasoty/|50-летняя россиянка выиграла международный конкурс красоты
-1791702508|https://www.kommersant.ru/doc/9023900|Основатель «Рыбаря» вернулся в Россию после задержания в Черногории
-1791702513|https://www.kommersant.ru/doc/9023896|Минобороны: силы ПВО ночью сбили 479 дронов над территорией России
 1791703667|https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he|Four dead as Isaias continues to push across the Southeast US, bringing strong winds and heavy rain
 1791703671|https://lenta.ru/news/2026/10/11/long-vsu-vnov-atakovali-infrastrukturu-yandeksa-masshtabnyy-sboy-zatronul-taksi-sluzhby-dostavki-i-onlayn-magaziny/|ВСУ вновь атаковали инфраструктуру «Яндекса». Масштабный сбой затронул приложения такси, кафе и магазинов
 1791703676|https://lenta.ru/news/2026/10/11/v-rossiyskom-aeroporte-vveli-ogranicheniya-na-polety/|Работу российского аэропорта приостановили
@@ -1998,3 +1993,8 @@
 1792265410|https://www.aa.com.tr/en/middle-east/lebanon-to-take-part-in-us-backed-trilateral-talks-with-israel-on-oct-20-president-says/4092254|Lebanon to take part in US-backed trilateral talks with Israel on Oct. 20, president says
 1792265418|https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo|RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo
 1792265427|https://lenta.ru/news/2026/10/18/byvshaya-press-sekretar-zelenskogo-prizvala-ukrainu-gotovitsya-k-sdache-donbassa/|Бывшая пресс-секретарь Зеленского призвала Украину готовиться к сдаче Донбасса
+1792266680|https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss|Albanian police fire rubber bullets as protests against Rama escalate
+1792266685|https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss|Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko
+1792266691|https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss|Will the EU come to Ukraine’s rescue in war against Russia?
+1792266699|https://www.ign.com/articles/best-deals-for-october-17-2026|The Best Deals Today: Cyberpunk 2077 for Switch 2, Pikmin 4, Star Wars Zero Company, and More
+1792266708|https://lenta.ru/news/2026/10/17/zhitel-kurskoy-oblasti-podorvalsya-na-mine-vsu-po-puti-na-dachu-i-lishilsya-chasti-stopy/|Житель Курской области подорвался на мине ВСУ по пути на дачу и лишился части стопы
