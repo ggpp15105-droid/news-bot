@@ -1,8 +1,3 @@
-1791662338|https://tass.ru/kultura/28202295|Умер актер из "Улицы разбитых фонарей" Владимир Баранов
-1791663072|https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss|Why is the Trump administration trying to dismantle the ICC?
-1791663079|https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss|Lionel Messi returns from Argentina farewell as Inter Miami face DC United
-1791663084|https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss|Azerbaijan school pupils protest over reported hijab restrictions
-1791663092|https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss|Manchester United held by ten-man Tottenham as woes for both continue
 1791663100|https://lenta.ru/news/2026/10/10/na-zapade-raskryli-otnoshenie-trampa-k-zelenskomu/|На Западе раскрыли отношение Трампа к Зеленскому
 1791664004|https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game|Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game
 1791664010|https://lenta.ru/news/2026/10/10/slova-trampa-o-smene-lidera-na-ukraine-nazvali-istoricheskimi/|Слова Трампа о смене лидера на Украине назвали историческими
@@ -1998,3 +1993,8 @@
 1792202932|https://lenta.ru/news/2026/10/17/long-v-kongress-ssha-vnesli-zakonoproekt-o-sryve-dizelnoy-sdelki-chast-ego-sostaviteley-sostoit-v-gruppe-pomoschi-ukraine/|В Конгресс США внесли законопроект о срыве дизельной сделки. Часть его составителей состоит в группе помощи Украине
 1792202941|https://lenta.ru/news/2026/10/17/voennosluzhaschie-skaly-okazalis-v-unichtozhennoy-gruppirovke-vsu-na-harkovschine/|Военнослужащие «Скалы» оказались в уничтоженной группировке ВСУ на Харьковщине
 1792202946|https://lenta.ru/news/2026/10/17/nazvany-otmenennye-ukazom-trampa-adskie-sanktsii-protiv-rossii/|Названы отмененные указом Трампа «адские санкции» против России
+1792204501|https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf|Trump puts new Russia sanctions on hold
+1792204508|https://www.japantimes.co.jp/news/2026/10/17/japan/crime-legal/more-data-breaches-japan/|Cyberattacks continue to menace Japan as more firms disclose data breaches
+1792204516|https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-makeup-chores/|Japan’s leader says she loses hours to makeup and chores. Opinions abound.
+1792204523|https://www.japantimes.co.jp/news/2026/10/17/asia-pacific/politics/us-myanmar-secret-talks/|U.S. holds more secret talks with Myanmar’s military-backed rulers in Tokyo, sources say
+1792204530|https://www.japantimes.co.jp/news/2026/10/17/japan/crime-legal/russia-japan-prisoner-swap-speculation/|Russia may seek prisoner swap after detaining Japanese journalist
