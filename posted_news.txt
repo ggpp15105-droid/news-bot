@@ -1,8 +1,3 @@
-1791692944|https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-vliyanii-prazdnikov-na-oklady/|Россиянам рассказали о влиянии праздников на оклады
-1791692948|https://lenta.ru/news/2026/10/11/kosmetolog-ob-yasnila-nevozmozhnost-polucheniya-litsa-kak-u-zvezdy/|Косметолог объяснила невозможность получения лица «как у звезды»
-1791692956|https://lenta.ru/news/2026/10/11/raskryt-spisok-zatronutyh-sboem-posle-ataki-na-data-tsentr-yandeksa-prilozheniy/|Раскрыт список затронутых сбоем после атаки на дата-центр «Яндекса» приложений
-1791692961|https://www.kommersant.ru/doc/9023879|Премьер-министр Эстонии пожаловался на смену позиции США по российскому топливу
-1791692965|https://tass.ru/obschestvo/28202733|Опрошенные россияне назвали главные требования к идеальному офису
 1791693941|https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss|ICE agent in New York shooting also involved in assault of pregnant woman
 1791693945|https://lenta.ru/news/2026/10/11/proverku-zreniya-nazvali-sposobom-opredelit-nalichie-simptomov-diabeta/|Проверку зрения назвали способом определить наличие симптомов диабета
 1791693951|https://lenta.ru/news/2026/10/11/raskryt-dolg-ukrainy-pered-mvf-i-vsemirnym-bankom/|Раскрыт долг Украины перед МВФ и Всемирным банком
@@ -1998,3 +1993,8 @@
 1792251868|https://www.euronews.com/video/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon|Tourism office set ablaze during cost-of-living protests in Lyon
 1792251876|https://www.aa.com.tr/en/features/cosmic-breath-global-calls-to-prayer-answer-rising-islamophobia-in-london/4092122|Cosmic Breath: Global calls to prayer answer rising Islamophobia in London
 1792251882|https://www.aa.com.tr/en/middle-east/small-boat-approaches-opens-fire-on-lng-tanker-off-yemen-s-coast-uk-maritime-agency-says/4092086|Small boat approaches, opens fire on LNG tanker off Yemen’s coast, UK maritime agency says
+1792253082|https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss|Neto’s brace fires Chelsea past Everton but Martinez head injury mars win
+1792253087|https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss|Ilhan Omar’s lawyers demand the return of property seized in house raid
+1792253092|https://www.euronews.com/2026/10/17/we-are-here-to-help-them-says-yellow-vests-representative-on-joining-students-for-nationwi|'We are here to help them,' says yellow vests representative on joining students for nationwide protests
+1792253098|https://www.aa.com.tr/en/middle-east/yemen-s-houthis-release-159-detainees-in-sanaa-icrc/4092084|Yemen’s Houthis release 159 detainees in Sanaa: ICRC
+1792253104|https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy|Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy
