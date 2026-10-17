@@ -1,8 +1,3 @@
-1791680866|https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss|Ebola spreads in eastern DRC as Kenya confirms imported case
-1791680871|https://lenta.ru/news/2026/10/11/na-zapade-otsenili-otnosheniya-mezhdu-ssha-i-ukrainoy-posle-slov-trampa-o-zelenskom/|На Западе оценили отношения между США и Украиной после слов Трампа о Зеленском
-1791680876|https://www.kommersant.ru/doc/9023872|Маск: Зеленский зашел слишком далеко
-1791680880|https://tass.ru/obschestvo/28202563|Звинчук рассказал, что оказался неинтересен США и странам ЕС
-1791680884|https://tass.ru/politika/28202559|Дмитриев назвал слова Маска о Зеленском "переломным моментом"
 1791681880|https://lenta.ru/news/2026/10/11/v-es-zayavili-o-zavisti-kallas-posle-sdelki-rossii-i-ssha/|В ЕС заявили о зависти Каллас после сделки Путина и Трампа
 1791681884|https://tass.ru/proisshestviya/28202587|ТАСС: Лерчек отказалась проходить полиграф в рамках проверки по исчезновению ее украшений
 1791681888|https://tass.ru/ekonomika/28202575|На ЗАЭС заявили о недопустимости создания чрезвычайных условий
@@ -1998,3 +1993,8 @@
 1792234581|https://www.france24.com/en/video/20261017-coastal-homes-burn-as-hot-winds-fuel-california-fires|Coastal homes burn as hot winds fuel California fires
 1792234586|https://www.france24.com/en/video/20261017-trump-says-did-not-order-curb-to-starshield-for-ukraine|Trump says did not order curb to Starshield for Ukraine
 1792234592|https://www.cnbc.com/2026/10/17/ecbs-lagarde-says-bond-selloff-will-slow-inflation.html|ECB's Lagarde says bond selloff will slow inflation
+1792235660|https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss|Sally Rooney’s books pulled from UK over Palestine Action support
+1792235665|https://www.france24.com/en/video/20261017-uganda-launches-ebola-vaccine-trial|Uganda launches Ebola vaccine trial
+1792235672|https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography|Modder finishes nine-year Xbox 360 voltage glitch mod with a $4 microcontroller, cracks the console open
+1792235680|https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts|ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica
+1792235688|https://lenta.ru/news/2026/10/17/v-parizhe-zakryli-neskolko-stantsiy-metro/|В Париже закрыли несколько станций метро
