@@ -174,3 +174,8 @@
 1792279386|Lenta.ru|Россиянам рассказали о пользе зефира|https://lenta.ru/news/2026/10/18/rossiyanam-rasskazali-o-polze-zefira/
 1792279390|Lenta.ru|Стало известно о попытке ВСУ стабилизировать фронт на глуховском участке|https://lenta.ru/news/2026/10/18/stalo-izvestno-o-popytke-vsu-stabilizirovat-front-na-gluhovskom-uchastke/
 1792279395|Коммерсантъ|Блогера Ивана Золо задержали на концерте в Донецке за рисунок на футболке|https://www.kommersant.ru/doc/9041196
+1792280524|Al Jazeera|Коалиция во главе с Саудовской Аравией перехватывает беспилотники, поскольку Египет взвешивает отправку помощи|https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss
+1792280531|Japan Times|Массовые протесты во Франции переросли в худшие беспорядки за последние годы|https://www.japantimes.co.jp/news/2026/10/18/world/mass-protests-france-riots/
+1792280537|Anadolu|Израильские силы задержали 2 палестинцев, которые применили слезоточивый газ во время оккупированных рейдов на Западном берегу|https://www.aa.com.tr/en/middle-east/israeli-forces-detain-2-palestinians-fire-tear-gas-during-occupied-west-bank-raids/4092331
+1792280545|IGN|Dev, стоящий за российской игрой в рулетку, отменил демо-планы Steam после опасений AI Copycat|https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns
+1792280553|Lenta.ru|Политолог связал дизельную сделку с надеждой Трампа улучшить настроение американцев|https://lenta.ru/news/2026/10/18/politolog-svyazal-dizelnuyu-sdelku-s-nadezhdoy-trampa-uluchshit-nastroenie-amerikantsev/

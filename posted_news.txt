@@ -1,8 +1,3 @@
-1791712626|https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf|Pakistan: President puts Khan stronghold province under emergency rule
-1791712633|https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf|Yemen's Houthis warn passengers not to use Saudi airports
-1791712637|https://news.sky.com/story/inside-ukraines-wartime-postal-service-which-risks-everything-to-take-supplies-to-frontline-towns-13597690|'If we don't do it, nobody else will': Inside Ukraine's wartime postal service
-1791712642|https://lenta.ru/news/2026/10/11/sobranie-ob-ustanovke-shlagbauma-v-rossiyskom-dvore-zakonchilos-sudom/|Собрание об установке шлагбаума в российском дворе закончилось судом
-1791712647|https://lenta.ru/news/2026/10/11/moskvicham-poobeschali-grozu-i-liven/|Москвичам пообещали грозу и ливень
 1791713206|https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss|Russia’s Yandex says data centre in Vladimir shut down after drone attack
 1791713210|https://news.sky.com/story/ai-and-nuclear-war-threaten-human-extinction-by-2100-report-warns-13597676|AI and nuclear war threaten human extinction by 2100, report warns
 1791713218|https://www.rockpapershotgun.com/the-sunday-papers-831|The Sunday Papers
@@ -1998,3 +1993,8 @@
 1792279386|https://lenta.ru/news/2026/10/18/rossiyanam-rasskazali-o-polze-zefira/|Россиянам рассказали о пользе зефира
 1792279390|https://lenta.ru/news/2026/10/18/stalo-izvestno-o-popytke-vsu-stabilizirovat-front-na-gluhovskom-uchastke/|Стало известно о попытке ВСУ стабилизировать фронт на глуховском участке
 1792279395|https://www.kommersant.ru/doc/9041196|Блогера Ивана Золо задержали на концерте в Донецке за рисунок на футболке
+1792280524|https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss|Saudi-led coalition intercepts drones as Egypt weighs sending help
+1792280531|https://www.japantimes.co.jp/news/2026/10/18/world/mass-protests-france-riots/|Mass protests in France spiral into worst riots in years
+1792280537|https://www.aa.com.tr/en/middle-east/israeli-forces-detain-2-palestinians-fire-tear-gas-during-occupied-west-bank-raids/4092331|Israeli forces detain 2 Palestinians, fire tear gas during occupied West Bank raids
+1792280544|https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns|Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns
+1792280553|https://lenta.ru/news/2026/10/18/politolog-svyazal-dizelnuyu-sdelku-s-nadezhdoy-trampa-uluchshit-nastroenie-amerikantsev/|Политолог связал дизельную сделку с надеждой Трампа улучшить настроение американцев
