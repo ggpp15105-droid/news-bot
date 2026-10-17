@@ -19,3 +19,8 @@
 1790859733|IGN|После «жесткого сжатия» в последние месяцы Gears of War: E-Day разработчики, как сообщается, теперь ожидают увольнений|https://www.ign.com/articles/after-crunching-hard-through-their-final-months-gears-of-war-e-day-developers-are-reportedly-now-expecting-layoffs
 1790859751|IGN|Gears of War: E-Day пропускает классические игры|https://www.ign.com/articles/gears-of-war-e-day-missing-meat-shields
 1790859770|IGN|«Extraction is Still a Major Part of Marathon» — директор игры Marathon убеждает фанатов, что основной режим игры никуда не денется|https://www.ign.com/articles/extraction-is-still-a-major-part-of-marathon-marathon-game-director-reassures-fans-main-game-mode-isnt-going-anywhere
+1792240608|BBC World|Редкий розовый бриллиант выставлен во Франции спустя 100 лет после любительского ограбления|https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss
+1792240613|Al Jazeera|Жесткий израильский раввин вынес решение по украденным палестинским оливкам|https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss
+1792240618|Al Jazeera|США и Иран претендуют на контроль над Ормузским проливом на фоне нападений на суда|https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss
+1792240623|Al Jazeera|Женщины протестуют в Нью-Дели против жестокости полиции|https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss
+1792240629|CNBC|Ураган «Труди» приближается к Мексике, поскольку тайфун «Чампи» угрожает Гуаму|https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html
