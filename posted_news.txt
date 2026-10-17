@@ -1,8 +1,3 @@
-1791687363|https://www.japantimes.co.jp/news/2026/10/11/japan/japan-survey-us-biggest-threat-to-peace/|26% in Japan see U.S. as biggest threat to world peace: survey
-1791687369|https://www.aa.com.tr/en/world/un-chief-strongly-condemns-houthi-attack-targeting-main-airport-in-saudi-capital-riyadh/4084833|UN chief 'strongly' condemns Houthi attack targeting main airport in Saudi capital Riyadh
-1791687379|https://lenta.ru/news/2026/10/11/raskryty-podrobnosti-o-dorabotke-tanka-armata/|Раскрыты подробности о доработке танка «Армата»
-1791687384|https://lenta.ru/news/2026/10/11/long-zashel-slishkom-daleko-mask-raskritikoval-zelenskogo-za-udary-po-rossiyskim-npz-chto-na-eto-otvetili-v-rossii/|«Зашел слишком далеко». Маск раскритиковал Зеленского за удары по российским НПЗ. Что на это ответили в России?
-1791687388|https://www.kommersant.ru/doc/9023874|Дата-центр «Яндекса» во Владимире был атакован БПЛА
 1791687995|https://www.japantimes.co.jp/news/2026/10/11/japan/japan-first-female-kishi-shogi-player/|Tomoka Nishiyama earns right to become shogi’s first female kishi player
 1791688003|https://lenta.ru/news/2026/10/11/spetspredstavitel-putina-posle-slov-trampa-sdelal-zayavlenie-o-vyborah-na-ukraine/|Спецпредставитель Путина после слов Трампа сделал заявление о выборах на Украине
 1791688011|https://lenta.ru/news/2026/10/11/politologe-predrek-ukraine-poslednyuyu-voennuyu-zimu/|Политолог предрек Украине последнюю военную зиму
@@ -1998,3 +1993,8 @@
 1792243675|https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-17-2026-packaging-roadmaps-chinese-dgx-spark-rival-emerges-and-digging-into-asmls-earnings|This week on Tom's Hardware Premium: October 17, 2026
 1792243681|https://lenta.ru/news/2026/10/17/merts-opolchilsya-na-odnopartiytsev/|Мерц ополчился на однопартийцев
 1792243686|https://lenta.ru/news/2026/10/17/uchastniki-protesta-vo-frantsii-ustroili-pogrom-merii/|Участники протеста во Франции устроили погром мэрии
+1792245215|https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss|Nursery owner in China jailed for life after hundreds of children poisoned
+1792245221|https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss|Why Trump’s latest White House press secretary lasted just five days
+1792245229|https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf|India news: CJP founder released a day after detention
+1792245234|https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception|Will Paramount’s creation of Skydance test France’s cultural exception?
+1792245241|https://www.euronews.com/2026/10/17/portugal-sees-protests-over-cost-of-living-and-housing-crisis-as-demonstrations-sweep-euro|Portugal sees protests over cost of living and housing crisis as demonstrations sweep Europe

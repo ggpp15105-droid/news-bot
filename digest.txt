@@ -39,3 +39,8 @@
 1792243676|Tom's Hardware|Tom’s Hardware Premium: 17 октября 2026|https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-17-2026-packaging-roadmaps-chinese-dgx-spark-rival-emerges-and-digging-into-asmls-earnings
 1792243681|Lenta.ru|Мерц ополчился на однопартийцев|https://lenta.ru/news/2026/10/17/merts-opolchilsya-na-odnopartiytsev/
 1792243686|Lenta.ru|Участники протеста во Франции устроили погром мэрии|https://lenta.ru/news/2026/10/17/uchastniki-protesta-vo-frantsii-ustroili-pogrom-merii/
+1792245215|BBC World|Владелец детского сада в Китае приговорен к пожизненному заключению после отравления сотен детей|https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss
+1792245221|Al Jazeera|Почему последний пресс-секретарь Трампа продержался всего пять дней|https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss
+1792245229|DW|Новости Индии: Основатель CJP вышел на свободу через день после задержания|https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf
+1792245235|France 24|Проверит ли создание Paramount Skydance культурное исключение Франции?|https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception
+1792245242|Euronews|Португалия рассматривает протесты по поводу стоимости жизни и жилищного кризиса как демонстрацию в Европе|https://www.euronews.com/2026/10/17/portugal-sees-protests-over-cost-of-living-and-housing-crisis-as-demonstrations-sweep-euro
