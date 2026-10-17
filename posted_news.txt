@@ -1,8 +1,3 @@
-1791672987|https://lenta.ru/news/2026/10/11/putin-sdelal-zayavlenie-o-rabote-otechestvennogo-apk/|Путин сделал заявление о работе отечественного АПК
-1791673555|https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-all-1573-rdf|Palestinian president postpones elections until late 2027
-1791673563|https://www.japantimes.co.jp/life/2026/10/11/food-drink/nori-caviar-recipe-soy-sauce-seafood-japanese-cuisine/|Win friends and influence people with nori ‘caviar’
-1791673574|https://www.kommersant.ru/doc/9023868|Каллас раскритиковала дизельную сделку России и США и анонсировала новые санкции
-1791673578|https://tass.ru/armiya-i-opk/28202485|Марочко ожидает ослабления ВСУ после уничтожения ВС РФ моста через Оскол
 1791673582|https://www.vedomosti.ru/politics/news/2026/10/10/1236038-dva-cheloveka-pogibli|NYT: два человека погибли из-за урагана «Исайяс» в США
 1791674480|https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-all-1573-rdf|Storm Isaias leaves 4 dead as it moves across southern US
 1791674484|https://lenta.ru/news/2026/10/11/polsha-podnyala-voennuyu-aviatsiyu-yakoby-iz-za-rossii/|Польша испугалась России и подняла военную авиацию
@@ -1998,3 +1993,8 @@
 1792224231|https://www.japantimes.co.jp/business/2026/10/17/economy/boj-2-percent-inflation/|BOJ’s Ueda ‘can’t tolerate’ underlying inflation further over 2%
 1792224242|https://www.aa.com.tr/en/world/morning-briefing-oct-17-2026/4091615|Morning Briefing: Oct. 17, 2026
 1792224248|https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion|What we've been playing - "I simply didn't know if a first-person shooter could work as a Soulslike"
+1792225741|https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss|Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia
+1792225747|https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss|Senegal-sized Antarctic glacier melting faster than thought: Why it matters
+1792225752|https://www.aljazeera.com/video/newsfeed/2026/10/17/11-year-old-flying-car-company-mocks-tesla-roadster?traffic_source=rss|11-year old flying car company mocks Tesla Roadster
+1792225759|https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf|Mexico sentences killers of US, Australian surfers to 158 years each in prison
+1792225764|https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf|France braces for nationwide protests
