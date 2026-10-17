@@ -1,8 +1,3 @@
-1791667275|https://www.kommersant.ru/doc/9023865|FT: как минимум 50 человек пострадали при ракетном ударе по аэропорту Эр-Рияда
-1791668172|https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss|Hundreds of doctors demand World Medical Association suspend Israel
-1791668180|https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high|Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High
-1791668189|https://lenta.ru/news/2026/10/10/padenie-bloka-rakety-amerikanskogo-zrk-patriot-na-zhilye-doma-v-kieve-popalo-na-video/|Падение блока ракеты американского ЗРК Patriot на жилые дома в Киеве попало на видео
-1791668194|https://lenta.ru/news/2026/10/11/rossiyanka-popytalas-zadushit-svoih-detey-v-kolyaske/|Россиянка попыталась задушить своих детей в коляске
 1791668198|https://tass.ru/obschestvo/28202423|День многодетной семьи отмечают в Подмосковье
 1791668986|https://www.kommersant.ru/doc/9023866|FT: США пригрозили лишить Украину разведданных из-за ударов по российским НПЗ
 1791668991|https://tass.ru/sport/28202443|Моуринью не пришел на пресс-конференцию после игры с "Вильярреалом"
@@ -1998,3 +1993,8 @@
 1792212785|https://lenta.ru/news/2026/10/17/kievu-predrekli-slozhnuyu-situatsiyu-iz-za-problem-s-energetikoy/|Киеву предрекли сложную ситуацию из-за проблем с энергетикой
 1792212790|https://lenta.ru/news/2026/10/17/v-rossiyskom-regione-iz-za-ataki-bpla-zagorelas-avtomasterskaya/|В российском регионе из-за атаки БПЛА загорелась автомастерская
 1792212794|https://lenta.ru/news/2026/10/17/hokkeist-opisal-stoimost-zhizni-v-ssha-i-rossii-frazoy-o-debilah/|Хоккеист описал стоимость жизни в США и России фразой о дебилах
+1792213999|https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss|Albania’s PM blames ‘foreign hands’ for protests
+1792214004|https://www.euronews.com/2026/10/17/europes-sponge-cities-are-turning-rain-from-waste-into-a-valuable-resource|Europe’s sponge cities are turning rain from waste into a valuable resource
+1792214011|https://www.euronews.com/2026/10/17/data-centres-are-the-new-front-line-and-europes-ai-factories-should-slow-down-says-un-advi|Data centres are the new front line and Europe’s AI factories should slow down, says UN adviser
+1792214016|https://www.euronews.com/2026/10/17/trip-designers-wellness-and-privacy-whats-trending-in-luxury-travel-for-2027|Trip designers, wellness and privacy: What's trending in luxury travel for 2027?
+1792214023|https://www.aa.com.tr/en/economy/ai-driven-profits-concentrated-at-top-despite-widespread-global-ai-adoption/4091613|AI-driven profits concentrated at top despite widespread global AI adoption
