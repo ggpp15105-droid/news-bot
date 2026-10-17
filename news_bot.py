@@ -763,8 +763,15 @@ def post_news():
     for item in fresh[:MAX_POSTS_PER_RUN]:
         try:
             if post_item(item):
-                save_posted(item["id"], item["title"])
-                published += 1
+    save_posted(item["id"], item["title"])
+
+    digest_add(
+        item["source"],
+        translate_text(item["title"]),
+        item["link"],
+    )
+
+    published += 1
         except Exception as e:
             msg = f"Ошибка обработки «{item['title'][:50]}»: {e}"
             log.error(msg)
