@@ -1,8 +1,3 @@
-1791663100|https://lenta.ru/news/2026/10/10/na-zapade-raskryli-otnoshenie-trampa-k-zelenskomu/|На Западе раскрыли отношение Трампа к Зеленскому
-1791664004|https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game|Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game
-1791664010|https://lenta.ru/news/2026/10/10/slova-trampa-o-smene-lidera-na-ukraine-nazvali-istoricheskimi/|Слова Трампа о смене лидера на Украине назвали историческими
-1791664015|https://lenta.ru/news/2026/10/10/uchastvovavshie-v-peregovorah-v-mayami-ukrainskie-chinovniki-sravnili-ih-s-lovushkoy/|Участвовавшие в переговорах в Майами украинские чиновники сравнили их с ловушкой
-1791664020|https://lenta.ru/news/2026/10/10/na-peregovorah-v-mayami-vyskazalis-o-peredache-rossii-patriot-dlya-zaschity-npz/|На переговорах в Майами высказались о передаче России Patriot для защиты НПЗ
 1791664025|https://www.kommersant.ru/doc/9023860|В Федерации футбола Португалии выразили надежду на скорое возвращение Роналду
 1791664936|https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss|Rubio pledges US cooperation in Marine-linked murder case
 1791664942|https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss|Israeli attack destroys building in Gaza one year into ‘ceasefire’
@@ -1998,3 +1993,8 @@
 1792204516|https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-makeup-chores/|Japan’s leader says she loses hours to makeup and chores. Opinions abound.
 1792204523|https://www.japantimes.co.jp/news/2026/10/17/asia-pacific/politics/us-myanmar-secret-talks/|U.S. holds more secret talks with Myanmar’s military-backed rulers in Tokyo, sources say
 1792204530|https://www.japantimes.co.jp/news/2026/10/17/japan/crime-legal/russia-japan-prisoner-swap-speculation/|Russia may seek prisoner swap after detaining Japanese journalist
+1792206196|https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss|Brazil sees record fall in Amazon deforestation as key election looms
+1792206201|https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss|Trump waives several Russia sanctions as new US law takes effect
+1792206206|https://lenta.ru/news/2026/10/17/rossiyanam-raskryli-podrobnosti-ob-indeksatsii-lgot-v-2027-godu/|Россиянам раскрыли подробности об индексации льгот в 2027 году
+1792206211|https://lenta.ru/news/2026/10/17/vs-rossii-atakovali-promyshlennoe-predpriyatie-v-krivom-roge/|ВС России атаковали промышленное предприятие в Кривом Роге
+1792206216|https://lenta.ru/news/2026/10/17/tramp-poruchil-administratsii-ssha-sledit-za-postavkami-rossiyskih-energonositeley/|Трамп поручил администрации США следить за поставками российских энергоносителей
