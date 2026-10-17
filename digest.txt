@@ -1,4 +1,4 @@
-#last=2026-10-17-20|1792262638
+#last=2026-10-17-8|1792264042
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -109,3 +109,8 @@
 1792262680|Lenta.ru|Илон Маск пообещал «сознание» у нового летающего автомобиля|https://lenta.ru/news/2026/10/17/ilon-mask-poobeschal-soznanie-u-novogo-letayuschego-avtomobilya/
 1792262689|Lenta.ru|Беспорядки во французском Лиможе привели к пожару в здании мэрии|https://lenta.ru/news/2026/10/17/besporyadki-vo-frantsuzskom-limozhe-priveli-k-pozharu-v-zdanii-merii/
 1792262697|Lenta.ru|«Краснодар» вырвал ничью у «Локомотива» в матче РПЛ|https://lenta.ru/news/2026/10/17/krasnodar-vyrval-nichyu-u-lokomotiva-v-matche-rpl/
+1792264074|Al Jazeera|Посольство США в Иерусалиме для Израиля или для Америки?|https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss
+1792264079|Lenta.ru|Хуситы заявили об уничтожении саудовского вертолета Apache|https://lenta.ru/news/2026/10/18/husity-zayavili-ob-unichtozhenii-saudovskogo-vertoleta-apache/
+1792264088|Lenta.ru|Премьер Венгрии разрешил Украине транспортировать один груз в опломбированных вагонах|https://lenta.ru/news/2026/10/17/premier-vengrii-razreshil-ukraine-transportirovat-odin-gruz-v-oplombirovannyh-vagonah/
+1792264092|Lenta.ru|Названа возможная причина гибели ребенка из России в отеле Египта|https://lenta.ru/news/2026/10/17/nazvana-vozmozhnaya-prichina-gibeli-rebenka-iz-rossii-v-otele-egipta/
+1792264101|Lenta.ru|В России сочли оторванной от реальности идею немедленного отказа от ядерного оружия|https://lenta.ru/news/2026/10/18/v-rossii-sochli-otorvannoy-ot-realnosti-ideyu-nemedlennogo-otkaza-ot-yadernogo-oruzhiya/

@@ -1,8 +1,3 @@
-1791700337|https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss|Vinicius apologises for hair-pull red card but could miss El Clasico
-1791700342|https://lenta.ru/news/2026/10/11/ilon-mask-zayavil-o-neobhodimosti-smeny-prezidenta-na-ukraine/|Илон Маск заявил о необходимости смены президента на Украине
-1791700347|https://lenta.ru/news/2026/10/11/minoborony-sdelalo-zayavlenie-o-nochnoy-atake-vsu-na-rossiyskie-regiony/|Минобороны сделало заявление о ночной атаке ВСУ на российские регионы
-1791700353|https://lenta.ru/news/2026/10/11/moskvicham-rasskazali-o/|Москвичам рассказали о выпадении первого снега
-1791700358|https://lenta.ru/news/2026/10/11/rossiyan-predupredili-o/|Россиян предупредили об опасности для здоровья неправильной стирки вещей
 1791701648|https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-rdf|Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces — why? And how?
 1791701653|https://lenta.ru/news/2026/10/11/nazvany-sposobnye-isportit-kreditnuyu-istoriyu-faktory/|Названы способные испортить кредитную историю факторы
 1791701662|https://lenta.ru/news/2026/10/11/punkty-vremennogo-soderzhaniya/|Пункт временного размещения открыли в российском городе после атаки ВСУ
@@ -1998,3 +1993,8 @@
 1792262680|https://lenta.ru/news/2026/10/17/ilon-mask-poobeschal-soznanie-u-novogo-letayuschego-avtomobilya/|Илон Маск пообещал «сознание» у нового летающего автомобиля
 1792262689|https://lenta.ru/news/2026/10/17/besporyadki-vo-frantsuzskom-limozhe-priveli-k-pozharu-v-zdanii-merii/|Беспорядки во французском Лиможе привели к пожару в здании мэрии
 1792262697|https://lenta.ru/news/2026/10/17/krasnodar-vyrval-nichyu-u-lokomotiva-v-matche-rpl/|«Краснодар» вырвал ничью у «Локомотива» в матче РПЛ
+1792264074|https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss|Is the US Embassy in Jerusalem for Israel or America?
+1792264079|https://lenta.ru/news/2026/10/18/husity-zayavili-ob-unichtozhenii-saudovskogo-vertoleta-apache/|Хуситы заявили об уничтожении саудовского вертолета Apache
+1792264088|https://lenta.ru/news/2026/10/17/premier-vengrii-razreshil-ukraine-transportirovat-odin-gruz-v-oplombirovannyh-vagonah/|Премьер Венгрии разрешил Украине транспортировать один груз в опломбированных вагонах
+1792264092|https://lenta.ru/news/2026/10/17/nazvana-vozmozhnaya-prichina-gibeli-rebenka-iz-rossii-v-otele-egipta/|Названа возможная причина гибели ребенка из России в отеле Египта
+1792264101|https://lenta.ru/news/2026/10/18/v-rossii-sochli-otorvannoy-ot-realnosti-ideyu-nemedlennogo-otkaza-ot-yadernogo-oruzhiya/|В России сочли оторванной от реальности идею немедленного отказа от ядерного оружия
