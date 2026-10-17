@@ -1,4 +1,4 @@
-#last=2026-10-17-8|1792260891
+#last=2026-10-17-20|1792262638
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -104,3 +104,8 @@
 1792260936|Tom's Hardware|Nvidia настаивает на том, что RTX 5090 не умер, несмотря на серьезную нехватку и удаленные списки в нескольких розничных магазинах.|https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon
 1792260944|Tom's Hardware|Sandisk 512 ГБ Коммутатор 2-ready microSD Экспресс-карта — кража за $98 при продаже|https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage
 1792260954|Lenta.ru|По делу погибшего в отеле Египта ребенка из России проведут расследование|https://lenta.ru/news/2026/10/17/po-delu-pogibshego-rebenka-iz-rossii-v-otele-egipta-provedut-rassledovanie/
+1792262664|Al Jazeera|Израильские беспилотники убили шесть палестинцев по всей Газе, несмотря на прекращение огня|https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss
+1792262672|Eurogamer|Vampire: The Masquerade - Bloodlines ремастер по слухам, с утечкой настаивая, что это не ремейк|https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour
+1792262680|Lenta.ru|Илон Маск пообещал «сознание» у нового летающего автомобиля|https://lenta.ru/news/2026/10/17/ilon-mask-poobeschal-soznanie-u-novogo-letayuschego-avtomobilya/
+1792262689|Lenta.ru|Беспорядки во французском Лиможе привели к пожару в здании мэрии|https://lenta.ru/news/2026/10/17/besporyadki-vo-frantsuzskom-limozhe-priveli-k-pozharu-v-zdanii-merii/
+1792262697|Lenta.ru|«Краснодар» вырвал ничью у «Локомотива» в матче РПЛ|https://lenta.ru/news/2026/10/17/krasnodar-vyrval-nichyu-u-lokomotiva-v-matche-rpl/

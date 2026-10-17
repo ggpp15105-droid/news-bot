@@ -1,8 +1,3 @@
-1791698951|https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race|Teen revolt or revolution? The student protests threatening France's presidential race
-1791698960|https://lenta.ru/news/2026/10/11/chlen-kongressa-ssha-obvinila-v-litsemerii-prizyvayuschih-postavlyat-kievu-oruzhie-kolleg/|Член Конгресса США обвинила в лицемерии призывающих поставлять Киеву оружие коллег
-1791698965|https://www.kommersant.ru/doc/9023893|Минобороны отчиталось об ударе по дата-центру в Одессе и сухогрузу в Черном море
-1791698972|https://www.kommersant.ru/doc/9023890|Фицо заявил о наивности руководства ЕС после топливной сделки России и США
-1791698982|https://www.kommersant.ru/doc/9023889|Главные анонсы 12–18 октября // Важные и интересные события предстоящей недели
 1791700337|https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss|Vinicius apologises for hair-pull red card but could miss El Clasico
 1791700342|https://lenta.ru/news/2026/10/11/ilon-mask-zayavil-o-neobhodimosti-smeny-prezidenta-na-ukraine/|Илон Маск заявил о необходимости смены президента на Украине
 1791700347|https://lenta.ru/news/2026/10/11/minoborony-sdelalo-zayavlenie-o-nochnoy-atake-vsu-na-rossiyskie-regiony/|Минобороны сделало заявление о ночной атаке ВСУ на российские регионы
@@ -1998,3 +1993,8 @@
 1792260935|https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon|Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers
 1792260944|https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage|Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale
 1792260954|https://lenta.ru/news/2026/10/17/po-delu-pogibshego-rebenka-iz-rossii-v-otele-egipta-provedut-rassledovanie/|По делу погибшего в отеле Египта ребенка из России проведут расследование
+1792262664|https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss|Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’
+1792262672|https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour|Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake
+1792262680|https://lenta.ru/news/2026/10/17/ilon-mask-poobeschal-soznanie-u-novogo-letayuschego-avtomobilya/|Илон Маск пообещал «сознание» у нового летающего автомобиля
+1792262689|https://lenta.ru/news/2026/10/17/besporyadki-vo-frantsuzskom-limozhe-priveli-k-pozharu-v-zdanii-merii/|Беспорядки во французском Лиможе привели к пожару в здании мэрии
+1792262697|https://lenta.ru/news/2026/10/17/krasnodar-vyrval-nichyu-u-lokomotiva-v-matche-rpl/|«Краснодар» вырвал ничью у «Локомотива» в матче РПЛ
