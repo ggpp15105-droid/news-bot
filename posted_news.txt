@@ -1,8 +1,3 @@
-1791666310|https://tass.ru/armiya-i-opk/28202357|Боец Коноплев несколько километров нес на себе тяжелораненого сослуживца
-1791667245|https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss|Malawi motorists queue for days as fuel shortage bites
-1791667255|https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss|Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast
-1791667261|https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss|Yemen’s Houthis release video of drone attacks on gov’t forces
-1791667266|https://lenta.ru/news/2026/10/11/vyzhivshuyu-posle-kazni-zhenschinu-vernuli-v-tyurmu-v-ssha/|Выжившую после казни женщину вернули в тюрьму в США
 1791667275|https://www.kommersant.ru/doc/9023865|FT: как минимум 50 человек пострадали при ракетном ударе по аэропорту Эр-Рияда
 1791668172|https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss|Hundreds of doctors demand World Medical Association suspend Israel
 1791668180|https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high|Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High
@@ -1998,3 +1993,8 @@
 1792210996|https://lenta.ru/news/2026/10/17/v-rossii-predlozhili-obnulit-nds-na-odin-tip-produktsii/|В России предложили обнулить НДС на один тип продукции
 1792211001|https://lenta.ru/news/2026/10/17/stalo-izvestno-o-likvidatsii-desyatkov-letevshih-na-moskvu-bespilotnikov/|Более ста летевших на Москву беспилотников уничтожили за ночь
 1792211005|https://www.kommersant.ru/doc/9040992|Главные новости к утру 17 октября // Трамп заморозил «закон Грэма»
+1792212767|https://www.euronews.com/video/2026/10/17/from-fruit-to-bricks-hong-kong-engineers-explore-how-to-build-houses-on-mars|From fruit to bricks: Hong Kong engineers explore how to build houses on Mars
+1792212777|https://www.japantimes.co.jp/news/2026/10/17/world/politics/trump-waives-russia-sanctions/|Trump waives new Russia sanctions as Ukraine ties slump
+1792212785|https://lenta.ru/news/2026/10/17/kievu-predrekli-slozhnuyu-situatsiyu-iz-za-problem-s-energetikoy/|Киеву предрекли сложную ситуацию из-за проблем с энергетикой
+1792212790|https://lenta.ru/news/2026/10/17/v-rossiyskom-regione-iz-za-ataki-bpla-zagorelas-avtomasterskaya/|В российском регионе из-за атаки БПЛА загорелась автомастерская
+1792212794|https://lenta.ru/news/2026/10/17/hokkeist-opisal-stoimost-zhizni-v-ssha-i-rossii-frazoy-o-debilah/|Хоккеист описал стоимость жизни в США и России фразой о дебилах
