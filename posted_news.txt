@@ -1,8 +1,3 @@
-1791664967|https://lenta.ru/news/2026/10/10/vlasti-prizvali-kievlyan-zapastis-vodoy-i-proviziey/|Власти призвали киевлян запастись водой и провизией
-1791665706|https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss|Philippines volcano erupts, creating 6km-high ash cloud
-1791665711|https://lenta.ru/news/2026/10/10/vs-rossii-atakovali-kiev/|ВС России атаковали Киев
-1791665715|https://lenta.ru/news/2026/10/10/raskryta-vygoda-dlya-kazny-rossii-ot-dizelnoy-sdelki-putina-i-trampa/|Раскрыта выгода для казны России от дизельной сделки Путина и Трампа
-1791665722|https://www.kommersant.ru/doc/9023862|«Яндекс» добавил атаки БПЛА в список форс-мажоров
 1791665726|https://tass.ru/mezhdunarodnaya-panorama/28202345|Трамп хочет переименовать Атлантический или Тихий океаны
 1791666290|https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss|Damage seen inside Saudi airport after third attack this week
 1791666296|https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html|Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control
@@ -1998,3 +1993,8 @@
 1792207748|https://lenta.ru/news/2026/10/17/raskryt-razmer-posobiya-po-bezrabotitse-v-2027-godu/|Раскрыт размер пособия по безработице в 2027 году
 1792207753|https://lenta.ru/news/2026/10/17/dmitriev-napomnil-pervoprichiny-ukrainskogo-konflikta/|Дмитриев напомнил первопричины украинского конфликта
 1792207762|https://www.kommersant.ru/doc/9040989|КСИР: супертанкер подорвался на минах в Ормузском проливе
+1792209565|https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss|Southern California wildfire engulfs homes, prompts evacuation orders
+1792209571|https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss|Cameroonians await government reshuffle after Biya’s return
+1792209579|https://lenta.ru/news/2026/10/17/finskiy-ministr-oborony-otreagiroval-na-prizyvy-sbivat-rossiyskie-samolety/|Финский министр обороны отреагировал на призывы сбивать российские самолеты
+1792209588|https://lenta.ru/news/2026/10/17/premier-belgii-dopustil-novyy-zapros-zelenskogo-o-pomoschi-u-evrosoyuza/|Премьер Бельгии допустил новый запрос Зеленского о помощи у Евросоюза
+1792209593|https://lenta.ru/news/2026/10/17/rossiyanam-raskryli-vliyanie-lishnego-vesa-na-prodolzhitelnost-zhizni/|Россиянам раскрыли влияние лишнего веса на продолжительность жизни
