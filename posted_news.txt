@@ -1,8 +1,3 @@
-1791682839|https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss|Man dies after entering tiger enclosure at England wildlife park
-1791682845|https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss|Global pro-Palestinian protests one year after Gaza ‘ceasefire’
-1791682853|https://www.japantimes.co.jp/community/2026/10/11/autumn-beagle-adopt-me/|People-loving Autumn is ready for a new home
-1791682858|https://lenta.ru/news/2026/10/11/long-200-kg-osobogo-gruza-v-avstrii-potrebovali-ot-vlastey-raz-yasneniy-o-gruze-ukrainskih-spetssluzhb-chto-kiev-mog-perevozit/|«200 кг тайного груза». В Австрии потребовали разъяснений об особой перевозке украинских спецслужб. Что там было?
-1791682863|https://lenta.ru/news/2026/10/11/ukrainskiy-dezertir-rasskazal-o-nosivshih-natsistskie-shevrony-devushkah-kursantah/|Украинский дезертир рассказал о носивших нацистские шевроны девушках-курсантах
 1791683696|https://www.japantimes.co.jp/news/2026/10/11/japan/politics/rubio-motegi-icc-sanctions/|Rubio cites ‘necessity’ of U.S. sanctions on ICC in call with Japanese counterpart
 1791683700|https://lenta.ru/news/2026/10/11/spetspredstavitel-putina-otvetil-na-slova-maska-o-pereshedshem-chertu-zelenskom/|Спецпредставитель Путина ответил на слова Маска о перешедшем черту Зеленском
 1791683705|https://lenta.ru/news/2026/10/11/tramp-zayavil-o-neobhodimosti-provedeniya-vyborov-na-ukraine/|Трамп заявил о необходимости проведения выборов на Украине
@@ -1998,3 +1993,8 @@
 1792237230|https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss|Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
 1792237238|https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf|Russia wants blackout in Ukraine as winter comes — Zelenskyy
 1792237244|https://www.france24.com/en/video/20261017-cameroonian-journalist-shot-in-bamenda|Cameroonian journalist shot in Bamenda
+1792238575|https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests|France faces day of cost-of-living protests
+1792238582|https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals|The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting
+1792238590|https://www.tomshardware.com/video-games/retro-gaming/game-decompilation-tracker-decomp-dev-shuts-its-public-leaderboard-saying-ai-has-broken-the-community-its-creator-blames-forks-that-use-ai-to-finish-other-teams-projects-and-races-to-ship-rough-pc-ports|Game decompilation hub freezes leaderboard after AI turns progress into a hollow numbers game amid explosion of 'AI slop'
+1792238594|https://lenta.ru/news/2026/10/17/bekhem-mozhet-stat-prezidentom-fifa/|Бекхэм станет президентом ФИФА
+1792238599|https://lenta.ru/news/2026/10/17/zelenskiy-sdelal-zayavlenie-o-novom-reshenii-trampa-po-rossii/|Зеленский сделал заявление о новом решении Трампа по России
