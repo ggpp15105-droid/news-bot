@@ -1,8 +1,3 @@
-1791672261|https://www.vedomosti.ru/politics/news/2026/10/10/1236043-miroshnik-otsenil|Мирошник оценил реакцию Киева на слова Трампа о смене лидера Украины
-1791672967|https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss|Liverpool vs Man City: the top five clashes between Premier League giants
-1791672974|https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss|WHO says no plague case registered after Russian lab worker’s death
-1791672978|https://lenta.ru/news/2026/10/11/mask-zayavil-o-zashedshem-slishkom-daleko-zelenskom/|Маск заявил о зашедшем слишком далеко Зеленском
-1791672982|https://lenta.ru/news/2026/10/11/chislo-postradavshih-v-rezultate-udara-po-aeroportu-er-riyada-vozroslo/|Число пострадавших в результате удара по аэропорту Эр-Рияда возросло
 1791672987|https://lenta.ru/news/2026/10/11/putin-sdelal-zayavlenie-o-rabote-otechestvennogo-apk/|Путин сделал заявление о работе отечественного АПК
 1791673555|https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-all-1573-rdf|Palestinian president postpones elections until late 2027
 1791673563|https://www.japantimes.co.jp/life/2026/10/11/food-drink/nori-caviar-recipe-soy-sauce-seafood-japanese-cuisine/|Win friends and influence people with nori ‘caviar’
@@ -1998,3 +1993,8 @@
 1792222875|https://www.japantimes.co.jp/news/2026/10/17/japan/northern-territories-youth-awareness/|Japan to raise youth awareness about Northern Territories
 1792222882|https://www.japantimes.co.jp/business/2026/10/17/economy/imf-official-japan-tax-cut-plan/|IMF official welcomes Japan’s temporary tax cut plan
 1792222890|https://www.japantimes.co.jp/business/2026/10/17/china-chicken-exports/|This Chinese export boom really has legs — and wings
+1792224218|https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system|North Korea says it tested new AI-powered torpedo system
+1792224225|https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-yasukuni-shrine-offering/|Takaichi makes ritual offering to Yasukuni Shrine
+1792224231|https://www.japantimes.co.jp/business/2026/10/17/economy/boj-2-percent-inflation/|BOJ’s Ueda ‘can’t tolerate’ underlying inflation further over 2%
+1792224242|https://www.aa.com.tr/en/world/morning-briefing-oct-17-2026/4091615|Morning Briefing: Oct. 17, 2026
+1792224248|https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion|What we've been playing - "I simply didn't know if a first-person shooter could work as a Soulslike"
