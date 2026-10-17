@@ -159,3 +159,8 @@
 1792275906|Lenta.ru|Политолог связал миграционные проблемы Франции с последствиями колониальной политики|https://lenta.ru/news/2026/10/18/politolog-svyazal-migratsionnye-problemy-frantsii-s-posledstviyami-kolonialnoy-politiki/
 1792275914|Коммерсантъ|Израильские поселенцы напали на дипломатов ЕС и избили мэра из Франции|https://www.kommersant.ru/doc/9041194
 1792275923|Коммерсантъ|Протестующие во Франции сожгли здание мэрии XIX века|https://www.kommersant.ru/doc/9041193
+1792277164|Anadolu|Палестина призывает к действиям после нападения израильских оккупантов на европейских дипломатов на Западном берегу|https://www.aa.com.tr/en/middle-east/palestine-urges-action-after-israeli-occupiers-attack-european-diplomats-in-west-bank/4092324
+1792277170|Anadolu|Коалиция во главе с Саудовской Аравией заявила, что перехватила 2 баллистические ракеты хуситов, направляющиеся на юго-запад Саудовской Аравии.|https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-headed-for-southwestern-saudi-arabia/4092323
+1792277176|Anadolu|Хуситы утверждают, что сбили саудовский вертолет Apache вблизи границы с Йеменом|https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-shot-down-saudi-apache-helicopter-near-yemen-border/4092322
+1792277181|Lenta.ru|Посол России оценил готовность Молдавии расследовать инциденты с БПЛА|https://lenta.ru/news/2026/10/18/posol-rossii-otsenil-gotovnost-moldavii-rassledovat-intsidenty-s-bpla/
+1792277186|Lenta.ru|Иван Золо раскрыл причину своего задержания|https://lenta.ru/news/2026/10/18/ivan-zolo-raskryl-prichinu-svoego-zaderzhaniya/
