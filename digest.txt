@@ -79,3 +79,8 @@
 1792254586|France 24|Протесты во Франции: "На площади Республики вспыхнули два пожара"|https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique
 1792254591|Anadolu|Тысячи людей вышли на митинг в Португалии за более высокую зарплату и доступное жилье|https://www.aa.com.tr/en/europe/thousands-rally-in-portugal-for-higher-wages-affordable-housing/4092144
 1792254600|Tom's Hardware|Обзор HyperX Cloud Alpha Air: открытый и бюджетный|https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review
+1792256130|DW|Западный берег: израильские поселенцы напали на дипломатов ЕС|https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats/a-79688819?maca=en-rss-en-all-1573-rdf
+1792256135|France 24|Индия: полиция расправляется с протестами в Нью-Дели|https://www.france24.com/en/video/20261017-india-police-crack-down-on-new-delhi-protests
+1792256143|CNBC|Рынок полупроводников останется стабильным «по крайней мере до конца следующего года», заявил министр финансов Южной Кореи.|https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html
+1792256151|Euronews|Экипаж Euronews подвергся нападению людей в масках во время освещения протестов в Париже|https://www.euronews.com/2026/10/17/euronews-crew-assaulted-by-masked-individuals-while-covering-the-major-demonstrations-in-p
+1792256158|Euronews|Протестующие штурмуют ратушу и сталкиваются с полицией в Марселе|https://www.euronews.com/video/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille
