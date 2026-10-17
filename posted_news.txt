@@ -1,8 +1,3 @@
-1791698307|https://www.aljazeera.com/features/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss|How genocidal war on Gaza is shaping Israel’s election
-1791698311|https://lenta.ru/news/2026/10/11/v-germanii-nachali-rassledovanie-podzhoga-sklada-s-pomoschyu-dlya-ukrainy/|В Германии начали расследование поджога склада с помощью для Украины
-1791698316|https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-posledstviyah-ne-vyvoza-musora-v-srok/|Россиянам рассказали о последствиях не вывоза мусора в срок
-1791698321|https://lenta.ru/news/2026/10/11/v-germanii-zastupilis-za-shredera-posle-predatelstva-evropy-iz-za-vstrechi-s-putinym/|В Германии заступились за Шредера после «предательства Европы» из-за встречи с Путиным
-1791698325|https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-pribavke-k-pensii-i-izmenenii-grafika-detskih-vyplat/|Россиянам рассказали о прибавке к пенсии и изменении графика детских выплат
 1791698951|https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race|Teen revolt or revolution? The student protests threatening France's presidential race
 1791698960|https://lenta.ru/news/2026/10/11/chlen-kongressa-ssha-obvinila-v-litsemerii-prizyvayuschih-postavlyat-kievu-oruzhie-kolleg/|Член Конгресса США обвинила в лицемерии призывающих поставлять Киеву оружие коллег
 1791698965|https://www.kommersant.ru/doc/9023893|Минобороны отчиталось об ударе по дата-центру в Одессе и сухогрузу в Черном море
@@ -1998,3 +1993,8 @@
 1792259863|https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss|Jerusalem Daily: Israeli settlers attack farmers and journalists
 1792259870|https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf|Romanian fighter jets shoot down 2 drones over Black Sea
 1792259877|https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf|Egypt's Ssisi says he'll defend Saudi Arabia, if asked
+1792260919|https://www.euronews.com/2026/10/17/albanian-police-fire-rubber-bullets-and-arrest-hundreds-as-anti-government-protests-enter-|Albanian police fire rubber bullets and arrest hundreds as anti-government protests enter fifth day
+1792260927|https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale|Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has "fallen short"
+1792260935|https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon|Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers
+1792260944|https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage|Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale
+1792260954|https://lenta.ru/news/2026/10/17/po-delu-pogibshego-rebenka-iz-rossii-v-otele-egipta-provedut-rassledovanie/|По делу погибшего в отеле Египта ребенка из России проведут расследование

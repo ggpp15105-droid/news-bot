@@ -1,4 +1,4 @@
-#last=2026-10-17-20|1792259829
+#last=2026-10-17-8|1792260891
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -99,3 +99,8 @@
 1792259863|Al Jazeera|Jerusalem Daily: израильские поселенцы нападают на фермеров и журналистов|https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss
 1792259870|DW|Румынские истребители сбили 2 беспилотника над Черным морем|https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf
 1792259878|DW|Египетский Ссиси заявил, что будет защищать Саудовскую Аравию|https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf
+1792260920|Euronews|Полиция Албании стреляет резиновыми пулями и арестовывает сотни людей, когда антиправительственные протесты начинаются на пятый день|https://www.euronews.com/2026/10/17/albanian-police-fire-rubber-bullets-and-arrest-hundreds-as-anti-government-protests-enter-
+1792260927|Eurogamer|Sega вытаскивает Total War: Shogun 2 - Complete Edition из продажи на фоне обвинений в ИИ, признав, что он «короткий»|https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale
+1792260936|Tom's Hardware|Nvidia настаивает на том, что RTX 5090 не умер, несмотря на серьезную нехватку и удаленные списки в нескольких розничных магазинах.|https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon
+1792260944|Tom's Hardware|Sandisk 512 ГБ Коммутатор 2-ready microSD Экспресс-карта — кража за $98 при продаже|https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage
+1792260954|Lenta.ru|По делу погибшего в отеле Египта ребенка из России проведут расследование|https://lenta.ru/news/2026/10/17/po-delu-pogibshego-rebenka-iz-rossii-v-otele-egipta-provedut-rassledovanie/
