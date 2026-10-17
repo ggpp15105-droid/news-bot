@@ -1,8 +1,3 @@
-1791673582|https://www.vedomosti.ru/politics/news/2026/10/10/1236038-dva-cheloveka-pogibli|NYT: два человека погибли из-за урагана «Исайяс» в США
-1791674480|https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-all-1573-rdf|Storm Isaias leaves 4 dead as it moves across southern US
-1791674484|https://lenta.ru/news/2026/10/11/polsha-podnyala-voennuyu-aviatsiyu-yakoby-iz-za-rossii/|Польша испугалась России и подняла военную авиацию
-1791674490|https://lenta.ru/news/2026/10/11/v-rossii-ob-yasnili-prizyv-trampa-smenit-zelenskogo/|В России объяснили призыв Трампа сменить Зеленского
-1791674494|https://tass.ru/obschestvo/28202495|Миронов призвал расширить перечень продуктов для мониторинга цен
 1791674498|https://tass.ru/mezhdunarodnaya-panorama/28202501|Атака на аэропорт в Эр-Рияде была совершена хуситами
 1791675335|https://lenta.ru/news/2026/10/11/raskryto-glavnoe-zabluzhdenie-zapada-o-vtoroy-mirovoy-voyne/|Раскрыто главное заблуждение Запада о Второй мировой войне
 1791675340|https://lenta.ru/news/2026/10/11/hokkeynyy-trener-yuliya-karpova-umerla-v-vozraste-42-let/|Хоккейный тренер Юлия Карпова умерла в возрасте 42 лет
@@ -1998,3 +1993,8 @@
 1792225752|https://www.aljazeera.com/video/newsfeed/2026/10/17/11-year-old-flying-car-company-mocks-tesla-roadster?traffic_source=rss|11-year old flying car company mocks Tesla Roadster
 1792225759|https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf|Mexico sentences killers of US, Australian surfers to 158 years each in prison
 1792225764|https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf|France braces for nationwide protests
+1792227379|https://www.aljazeera.com/video/newsfeed/2026/10/17/wildfire-prompts-thousands-of-evacuation-orders-in-orange-county?traffic_source=rss|Wildfire prompts thousands of evacuation orders in Orange County
+1792227387|https://www.japantimes.co.jp/culture/2026/10/17/film/daniel-raim-ozu-diaries/|‘Ozu showed the way’: A documentarian looks for the man behind the legend
+1792227395|https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404|What are we all playing this weekend?
+1792227400|https://lenta.ru/news/2026/10/17/pyanye-zritelnitsy-prervali-kontsert-valeriya-meladze/|Пьяные зрительницы прервали концерт Валерия Меладзе
+1792227409|https://lenta.ru/news/2026/10/17/albanskiy-forvard-spartaka-rasskazal-ob-izuchenii-russkogo-yazyka/|Албанский форвард «Спартака» рассказал об изучении русского языка
