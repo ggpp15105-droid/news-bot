@@ -74,3 +74,8 @@
 1792253093|Euronews|«Мы здесь, чтобы помочь им», - говорит представитель желтых жилетов о присоединении студентов к общенациональным протестам.|https://www.euronews.com/2026/10/17/we-are-here-to-help-them-says-yellow-vests-representative-on-joining-students-for-nationwi
 1792253098|Anadolu|Йеменские хуситы освободили 159 заключенных в Сане|https://www.aa.com.tr/en/middle-east/yemen-s-houthis-release-159-detainees-in-sanaa-icrc/4092084
 1792253104|Rock Paper Shotgun|Спустя полгода после запуска Samson шведский разработчик Liquid Swords объявил о банкротстве|https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy
+1792254574|Al Jazeera|Здания и автомобили, подожженные во время протестов, потрясли Францию|https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss
+1792254580|France 24|Украинская война: в Польше открылась опера «Матери Херсона»|https://www.france24.com/en/video/20261017-ukraine-war-mothers-of-kherson-opera-opens-in-poland
+1792254586|France 24|Протесты во Франции: "На площади Республики вспыхнули два пожара"|https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique
+1792254591|Anadolu|Тысячи людей вышли на митинг в Португалии за более высокую зарплату и доступное жилье|https://www.aa.com.tr/en/europe/thousands-rally-in-portugal-for-higher-wages-affordable-housing/4092144
+1792254600|Tom's Hardware|Обзор HyperX Cloud Alpha Air: открытый и бюджетный|https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review

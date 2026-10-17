@@ -1,8 +1,3 @@
-1791693941|https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss|ICE agent in New York shooting also involved in assault of pregnant woman
-1791693945|https://lenta.ru/news/2026/10/11/proverku-zreniya-nazvali-sposobom-opredelit-nalichie-simptomov-diabeta/|Проверку зрения назвали способом определить наличие симптомов диабета
-1791693951|https://lenta.ru/news/2026/10/11/raskryt-dolg-ukrainy-pered-mvf-i-vsemirnym-bankom/|Раскрыт долг Украины перед МВФ и Всемирным банком
-1791693955|https://www.kommersant.ru/doc/9023884|Пожар произошел при ударе беспилотников по инфраструктуре в пригороде Владимира
-1791693959|https://tass.ru/sport/28202763|Ассистентский дубль Кучерова помог "Тампе" обыграть "Айлендерс" в матче НХЛ
 1791694826|https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss|US opens antitrust probe into TV networks halting Trump coverage
 1791694832|https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss|Hurricane Isaias kills four, leaves 650,000 without power in Florida
 1791694837|https://lenta.ru/news/2026/10/11/kot-otkryl-kran-i-zatopil-kvartiru-na-sotni-tysyach-rubley/|Кот открыл кран и затопил квартиру на сотни тысяч рублей
@@ -1998,3 +1993,8 @@
 1792253092|https://www.euronews.com/2026/10/17/we-are-here-to-help-them-says-yellow-vests-representative-on-joining-students-for-nationwi|'We are here to help them,' says yellow vests representative on joining students for nationwide protests
 1792253098|https://www.aa.com.tr/en/middle-east/yemen-s-houthis-release-159-detainees-in-sanaa-icrc/4092084|Yemen’s Houthis release 159 detainees in Sanaa: ICRC
 1792253104|https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy|Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy
+1792254574|https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss|Buildings and cars set on fire as cost of living protests rock France
+1792254579|https://www.france24.com/en/video/20261017-ukraine-war-mothers-of-kherson-opera-opens-in-poland|Ukraine war: "Mothers of Kherson" opera opens in Poland
+1792254586|https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique|Protests in France: "Two fires broke out in Place de la République"
+1792254591|https://www.aa.com.tr/en/europe/thousands-rally-in-portugal-for-higher-wages-affordable-housing/4092144|Thousands rally in Portugal for higher wages, affordable housing
+1792254599|https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review|HyperX Cloud Alpha Air Review: Open-back and budget-friendly
