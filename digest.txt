@@ -289,3 +289,8 @@
 1792316577|France 24|Протесты во Франции: правительство приняло неправильные решения?|https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions
 1792316583|France 24|Лига 1: ПСЖ вернулся на вершину Лиги 1 после потрясающего возвращения в Страсбург|https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback
 1792316591|The Guardian|Веселые шутки и «100 000-вольтовая» энергия: гипнотизеры (и женщины) переосмысливают музыку Afrobeats|https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype
+1792317867|BBC World|Сгоревшие автомобили и разбитое стекло на улицах Парижа после протестов превратились в беспорядки и грабежи|https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss
+1792317872|Al Jazeera|Еда или лекарства? Невозможный выбор, стоящий перед хронически больным Суданом|https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss
+1792317877|Sky News|Папа Римский появился на публике через день после выписки из больницы после операции по лечению рака легких|https://news.sky.com/story/pope-makes-public-appearance-a-day-after-being-discharged-from-hospital-following-lung-cancer-surgery-13598963
+1792317883|Euronews|Франция шатается после того, как протесты по поводу стоимости жизни привели к широкомасштабному насилию|https://www.euronews.com/2026/10/18/france-reels-after-cost-of-living-protests-see-widespread-violence
+1792317888|Euronews|Лиссабон признан лучшим городом Европы и круизным направлением на 2026 год|https://www.euronews.com/2026/10/18/lisbon-named-europes-best-city-and-cruise-destination-for-2026

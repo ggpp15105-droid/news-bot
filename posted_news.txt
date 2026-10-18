@@ -1,8 +1,3 @@
-1791733235|https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss|Poland stabbings driven by online glorification of violence, Tusk says
-1791733241|https://www.ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world|‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World
-1791733250|https://www.ign.com/articles/marvel-tokon-dlc-roadmap-reveals-first-look-at-jane-foster-thor-venom-and-jubilee-coming-in-2027|Marvel Tokon DLC Roadmap Reveals First Look at Jane Foster Thor, Venom and Jubilee Coming in 2027
-1791733256|https://lenta.ru/news/2026/10/11/tsska-stal-liderom-rpl/|ЦСКА стал лидером РПЛ
-1791733261|https://lenta.ru/news/2026/10/11/passazhirskiy-terminal-aeroporta-v-saudovskoy-aravii-podvergsya-novomu-udaru/|Пассажирский терминал аэропорта в Саудовской Аравии подвергся новому удару
 1791734079|https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss|Power bank fire forces plane to emergency land in India
 1791734085|https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss|How the ICC can be saved
 1791734090|https://lenta.ru/news/2026/10/11/rossiyskiy-pevets-xolidayboy-popal-v-bazu-mirotvortsa/|Российский певец Xolidayboy попал в базу «Миротворца»
@@ -1998,3 +1993,8 @@
 1792316577|https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions|France protests: Did the government make the wrong decisions?
 1792316582|https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback|Ligue 1: PSG Back on top of Ligue 1 after stunning Strasbourg comeback
 1792316590|https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype|Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music
+1792317867|https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss|Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+1792317872|https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss|Food or medicine? The impossible choices facing Sudan’s chronically ill
+1792317876|https://news.sky.com/story/pope-makes-public-appearance-a-day-after-being-discharged-from-hospital-following-lung-cancer-surgery-13598963|Pope makes public appearance a day after being discharged from hospital following lung cancer surgery
+1792317882|https://www.euronews.com/2026/10/18/france-reels-after-cost-of-living-protests-see-widespread-violence|France reels after cost-of-living protests see widespread violence
+1792317888|https://www.euronews.com/2026/10/18/lisbon-named-europes-best-city-and-cruise-destination-for-2026|Lisbon named Europe's best city and cruise destination for 2026
