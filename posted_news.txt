@@ -1,8 +1,3 @@
-1791738253|https://lenta.ru/news/2026/10/11/gotovnost-zelenskogo-provesti-chestnye-vybory-otsenili/|Готовность Зеленского провести честные выборы оценили
-1791738262|https://lenta.ru/news/2026/10/11/es-vydelit-ukraine-novye-sredstva-na-rakety-i-drony/|ЕС выделит Украине новые средства на ракеты и дроны
-1791738267|https://www.kommersant.ru/doc/9024195|Власти могут ввести мораторий на обнуление демпфера по дизтопливу
-1791738272|https://www.kommersant.ru/doc/9024193|Хуситы подтвердили удары по аэропорту в Эр-Рияде // Движение «Ансар Аллах»: атака на аэропорт в Эр-Рияде прошла в три этапа
-1791738277|https://www.kommersant.ru/doc/9024178|В Москве показали новый мюзикл «Дориан» по Оскару Уайльду
 1791739236|https://www.euronews.com/2026/10/11/thousands-urge-for-climate-action-at-brussels-demonstration|Ten of thousands urge EU for climate action at Brussels demonstration
 1791739242|https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december|Escape the Backrooms is throwing an After Party with three new levels this December
 1791739247|https://lenta.ru/news/2026/10/11/rossiyskaya-pensionerka-reshila-nayti-muzha-s-pomoschyu-vip-svahi-i-ostalas-ni-s-chem/|Российская пенсионерка решила найти мужа с помощью VIP-свахи и осталась ни с чем
@@ -1998,3 +1993,8 @@
 1792324684|https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichis-support-rate-falls/|Takaichi’s support rate falls below 50%, lowest since taking office, Kyodo reports
 1792324692|https://www.japantimes.co.jp/news/2026/10/18/japan/politics/ldp-denial-impact-budget-ex-farm-minister/|LDP exec denies ex-farm minister’s influence on budget cuts
 1792324699|https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug|In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons
+1792325877|https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss|Oil facilities hit in deadly overnight attack on St Petersburg
+1792325883|https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss|Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?
+1792325890|https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf|Germany news: Police probe security incident at Leipzig/Halle airport
+1792325896|https://www.aa.com.tr/en/eurasia/russian-saudi-foreign-ministers-voice-concern-over-tensions-in-southern-arabian-peninsula-bab-el-mandeb-strait/4092648|Russian, Saudi foreign ministers voice concern over tensions in southern Arabian Peninsula, Bab el-Mandeb Strait
+1792325902|https://www.aa.com.tr/en/eurasia/moscow-says-it-backs-gcc-efforts-to-prevent-return-to-full-scale-war-in-middle-east/4092642|Moscow says it backs GCC efforts to prevent return to full-scale war in Middle East
