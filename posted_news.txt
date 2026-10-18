@@ -1,8 +1,3 @@
-1791748910|https://lenta.ru/news/2026/10/11/dinamo-obygralo-zenit-i-vyshlo-v-final-kubka-legend/|«Динамо» обыграло «Зенит» и вышло в финал Кубка легенд
-1791748919|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-pomoschi-lyudey-v-forme-vsu-v-mobilizatsii-zhiteley-lvova/|Стало известно о помощи людей в форме ВСУ в мобилизации жителей Львова
-1791748927|https://www.kommersant.ru/doc/9024230|Один человек погиб при ударе БПЛА по машине в Белгородской области
-1791748931|https://www.kommersant.ru/doc/9024223|В Польше задержали более 100 подростков из-за угроз нападений на школы
-1791748935|https://tass.ru/mezhdunarodnaya-panorama/28203925|Bloomberg: Эр-Рияд разочарован недостаточной поддержкой Запада в конфликте с хуситами
 1791749744|https://lenta.ru/news/2026/10/11/peskov-vyskazalsya-o-prodazhe-rossiyskogo-dizelya/|Песков высказался о продаже российского дизеля
 1791749749|https://lenta.ru/news/2026/10/12/v-minoborony-evropeyskoy-strany-pozhalovalis-na-naznacheniya-po-znakomstvu/|В Минобороны европейской страны пожаловались на назначения по знакомству
 1791749754|https://lenta.ru/news/2026/10/11/v-irane-prigrozili-iduschim-cherez-ormuzskiy-proliv-sudam/|В Иране пригрозили идущим через Ормузский пролив судам
@@ -1998,3 +1993,8 @@
 1792342563|https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss|French mayor attacked by settlers during occupied West Bank olive harvest
 1792342571|https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf|Saudi Arabia sends skyscraper employees home amid Houthi threats
 1792342576|https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters|Renewed clashes in Paris: "We've seen numerous CRS charges to disperse protesters"
+1792343699|https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible|France protests: "There's a constant back and forth over who's actually responsible"
+1792343704|https://news.sky.com/story/bodies-of-four-family-members-killed-in-ireland-house-fire-arrive-at-church-before-funeral-13600687|Bodies of four family members killed in Ireland house fire arrive at church before funeral
+1792343710|https://news.sky.com/story/violent-protests-a-threat-to-eu-membership-not-government-albanian-pm-says-13600589|Violent protests a threat to EU membership, not government, Albanian PM says
+1792343717|https://www.euronews.com/2026/10/18/marine-le-pen-warns-of-threat-to-democracy-and-blasts-exhausted-macronist-power|Marine Le Pen warns of 'threat to democracy' and blasts 'exhausted Macronist power'
+1792343725|https://www.aa.com.tr/en/europe/28-arrested-141-officers-injured-as-cost-of-living-protests-turn-violent-in-italy/4092848|28 arrested, 141 officers injured as cost-of-living protests turn violent in Italy

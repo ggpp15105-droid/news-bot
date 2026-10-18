@@ -1,4 +1,4 @@
-#last=2026-10-18-8|1792300282
+#last=2026-10-18-20|1792343678
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -379,3 +379,8 @@
 1792342563|Al Jazeera|Французский мэр подвергся нападению поселенцев во время сбора урожая оливок на Западном берегу|https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss
 1792342571|DW|Саудовская Аравия отправила сотрудников небоскребов домой на фоне угроз хуситов|https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf
 1792342577|France 24|Возобновленные столкновения в Париже: «Мы видели многочисленные обвинения CRS в разгоне протестующих»|https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters
+1792343699|France 24|Протесты во Франции: «Существует постоянный круг тех, кто на самом деле несет ответственность»|https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible
+1792343705|Sky News|Тела четырех членов семьи, погибших в Ирландии от пожара, прибыли в церковь перед похоронами|https://news.sky.com/story/bodies-of-four-family-members-killed-in-ireland-house-fire-arrive-at-church-before-funeral-13600687
+1792343710|Sky News|Насильственные протесты угрожают членству в ЕС, а не правительству, заявил премьер-министр Албании|https://news.sky.com/story/violent-protests-a-threat-to-eu-membership-not-government-albanian-pm-says-13600589
+1792343718|Euronews|Марин Ле Пен предупреждает об «угрозе демократии» и взрывает «истощенную власть Макрона»|https://www.euronews.com/2026/10/18/marine-le-pen-warns-of-threat-to-democracy-and-blasts-exhausted-macronist-power
+1792343725|Anadolu|28 арестованных, 141 офицер ранен в результате протестов в Италии|https://www.aa.com.tr/en/europe/28-arrested-141-officers-injured-as-cost-of-living-protests-turn-violent-in-italy/4092848
