@@ -1,8 +1,3 @@
-1791749744|https://lenta.ru/news/2026/10/11/peskov-vyskazalsya-o-prodazhe-rossiyskogo-dizelya/|Песков высказался о продаже российского дизеля
-1791749749|https://lenta.ru/news/2026/10/12/v-minoborony-evropeyskoy-strany-pozhalovalis-na-naznacheniya-po-znakomstvu/|В Минобороны европейской страны пожаловались на назначения по знакомству
-1791749754|https://lenta.ru/news/2026/10/11/v-irane-prigrozili-iduschim-cherez-ormuzskiy-proliv-sudam/|В Иране пригрозили идущим через Ормузский пролив судам
-1791749759|https://lenta.ru/news/2026/10/11/peskov-otsenil-debyut-docheri-na-sorevnovaniyah-po-figurnomu-kataniyu/|Песков оценил дебют дочери на соревнованиях по фигурному катанию
-1791749763|https://tass.ru/obschestvo/28203927|Аэропорт Нижнего Новгорода принял 15 следовавших в Москву рейсов
 1791750719|https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss|Pakistan suspends Imran Khan’s party-led provincial government
 1791750724|https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss|Saudi health minister visits survivors of deadly Riyadh airport attack
 1791750731|https://www.dw.com/en/moscow-claims-former-ukrainian-prisoners-are-fighting-under-russian-command-voluntarily-but-veterans-and-former-pows-share-different-accounts/a-79629555?maca=en-rss-en-all-1573-rdf|Moscow claims former Ukrainian prisoners are fighting under Russian command — voluntarily. But veterans and former POWs share different accounts.
@@ -1998,3 +1993,8 @@
 1792343710|https://news.sky.com/story/violent-protests-a-threat-to-eu-membership-not-government-albanian-pm-says-13600589|Violent protests a threat to EU membership, not government, Albanian PM says
 1792343717|https://www.euronews.com/2026/10/18/marine-le-pen-warns-of-threat-to-democracy-and-blasts-exhausted-macronist-power|Marine Le Pen warns of 'threat to democracy' and blasts 'exhausted Macronist power'
 1792343725|https://www.aa.com.tr/en/europe/28-arrested-141-officers-injured-as-cost-of-living-protests-turn-violent-in-italy/4092848|28 arrested, 141 officers injured as cost-of-living protests turn violent in Italy
+1792345229|https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration|Trump says 'France is burning', country 'shattered' by immigration
+1792345237|https://www.aa.com.tr/en/americas/carney-says-4-killed-dozens-seriously-wounded-in-fire-at-canadian-military-base/4092859|Carney says 4 killed, dozens seriously wounded in fire at Canadian military base
+1792345245|https://www.ign.com/articles/best-deals-for-october-18-2026|The Best Deals Today: The Adventures of Elliot, Pikmin 4, Mouse: P.I. For Hire, and More
+1792345253|https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond|Battlefield 6 devs to fix "Secuty" skin typo, but five-pistol outfit was intentional
+1792345261|https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2|The PS6's memory and storage alone reportedly cost more than $680

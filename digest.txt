@@ -1,4 +1,4 @@
-#last=2026-10-18-20|1792343678
+#last=2026-10-18-8|1792345208
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -384,3 +384,8 @@
 1792343710|Sky News|Насильственные протесты угрожают членству в ЕС, а не правительству, заявил премьер-министр Албании|https://news.sky.com/story/violent-protests-a-threat-to-eu-membership-not-government-albanian-pm-says-13600589
 1792343718|Euronews|Марин Ле Пен предупреждает об «угрозе демократии» и взрывает «истощенную власть Макрона»|https://www.euronews.com/2026/10/18/marine-le-pen-warns-of-threat-to-democracy-and-blasts-exhausted-macronist-power
 1792343725|Anadolu|28 арестованных, 141 офицер ранен в результате протестов в Италии|https://www.aa.com.tr/en/europe/28-arrested-141-officers-injured-as-cost-of-living-protests-turn-violent-in-italy/4092848
+1792345229|France 24|Трамп заявил, что «Франция горит», страна «раздроблена» иммиграцией|https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration
+1792345237|Anadolu|По словам Карни, 4 человека погибли, десятки получили серьезные ранения в результате пожара на канадской военной базе.|https://www.aa.com.tr/en/americas/carney-says-4-killed-dozens-seriously-wounded-in-fire-at-canadian-military-base/4092859
+1792345245|IGN|Лучшие предложения сегодня: Приключения Эллиота, Пикмин 4, Мышь: P.I. для найма и многое другое|https://www.ign.com/articles/best-deals-for-october-18-2026
+1792345253|Eurogamer|Разработчики Battlefield 6 исправили опечатку кожи «Secuty», но наряд из пяти пистолетов был преднамеренным|https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond
+1792345261|Eurogamer|Только память и хранилище PS6 стоят более 680 долларов.|https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2
