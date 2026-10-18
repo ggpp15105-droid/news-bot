@@ -1,8 +1,3 @@
-1791725479|https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss|India’s crackdown on youth protesters: What next?
-1791725484|https://www.france24.com/en/europe/20261011-the-week-in-pictures-french-student-protests-october-7-anniversary-and-adenot-return-to-earth|The week in pictures: French student protests, October 7 anniversary and Adenot's return to Earth
-1791725489|https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign|Brazil's Lula accuses social media giant Meta of election interference amid tight run-off campaign
-1791725495|https://www.euronews.com/2026/10/11/russian-army-strikes-sloviansk-and-kyiv-as-ukrainian-drones-hit-third-yandex-data-centre|Russian army strikes Sloviansk and Kyiv as Ukrainian drones hit third Yandex data centre
-1791725501|https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers|Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers
 1791726436|https://lenta.ru/news/2026/10/11/andreeva-proigrala-v-finale-turnira-wta-v-pekine/|Андреева проиграла в финале турнира WTA в Пекине
 1791726441|https://lenta.ru/news/2026/10/11/perechisleny-pugayuschie-30-letnih-modnye-trendy-zumerov/|Перечислены пугающие 30-летних модные тренды зумеров
 1791726447|https://lenta.ru/news/2026/10/11/troe-boytsov-oshtrafovany-posle-vzveshivaniya-na-ufc-vegas-122/|Трое бойцов оштрафованы после взвешивания на UFC Vegas 122
@@ -1998,3 +1993,8 @@
 1792301899|https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss|St Petersburg under attack from Ukrainian drone swarm
 1792301905|https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/rays-guardians-alcs-even/|Jonathan Aranda leads way as Rays beat Guardians to even ALCS at 2-2
 1792301910|https://www.japantimes.co.jp/news/2026/10/18/japan/science-health/tie-up-ads-guidelines/|Japan’s health ministry sets new guidelines for tie-up ads in movies and TV shows
+1792303282|https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss|Guatemalan former prosecutor shot dead at sports centre
+1792303288|https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss|AI tool helps stranded protesters find their way home in the Indian capital
+1792303294|https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody|India's 'cockroach' movement founder released from police custody
+1792303300|https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france|Live: Vance blames immigration for violence during protests in France
+1792303307|https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest|Leisure out of reach for one in eight people in the EU: Where is the problem biggest?
