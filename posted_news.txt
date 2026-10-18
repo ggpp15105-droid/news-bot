@@ -1,8 +1,3 @@
-1791751747|https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss|Zelenskyy welcomes US-announced energy ceasefire
-1791751753|https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss|Syrian families demand release of detainees held by Israel
-1791751760|https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-rdf|Who are the Ukrainian 'volunteers' under Russian command?
-1791751764|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-nedovolstve-trampa-otnosheniem-zelenskogo-k-podderzhke-ssha/|Стало известно о недовольстве Трампа отношением Зеленского к поддержке США
-1791751769|https://lenta.ru/news/2026/10/11/na-yuge-rossii-proizoshlo-zemletryasenie/|На юге России произошло землетрясение
 1791752467|https://lenta.ru/news/2026/10/11/rossiyskie-figuristy-vernulis-v-moskvu-posle-turnira/|Российские фигуристы вернулись в Москву после турнира
 1791752472|https://lenta.ru/news/2026/10/11/v-ormuzskom-prolive-esche-odin-tanker-stolknulsya-s-morskoy-minoy/|В Ормузском проливе еще один танкер столкнулся с морской миной
 1791752476|https://lenta.ru/news/2026/10/11/nazvano-samoe-poleznoe-myaso-pri-nizkom-gemoglobine/|Названо самое полезное мясо при низком гемоглобине
@@ -1998,3 +1993,8 @@
 1792346408|https://www.euronews.com/video/2026/10/18/shopkeepers-defend-their-livelihood-from-masked-looters-during-the-french-riots|Shopkeepers defend their livelihood from masked looters during the French riots
 1792346417|https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons|F-22 Raptor pilot successfully demonstrates command of 'wingman' fighter drone in simulated combat
 1792346426|https://lenta.ru/news/2026/10/18/rossiyanka-vpervye-vyigrala-chempionat-evropy-po-nastolnomu-tennisu/|Россиянка впервые выиграла чемпионат Европы по настольному теннису
+1792347725|https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss|Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen
+1792347731|https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss|JERUSALEM DAILY: Settlers attack EU diplomats
+1792347738|https://www.euronews.com/video/2026/10/18/tensions-remain-high-in-paris-after-violent-protests-across-france|Tensions remain high in Paris after violent protests across France
+1792347746|https://www.euronews.com/2026/10/18/spain-changes-ceuta-patrol-rules-over-ships-innocent-passage|Spain changes Ceuta patrol rules over ships' "innocent passage"
+1792347751|https://lenta.ru/news/2026/10/18/byvshaya-press-sekretar-zelenskogo-obratilas-k-nemu-s-prizyvom/|Бывшая пресс-секретарь Зеленского обратилась к нему с призывом

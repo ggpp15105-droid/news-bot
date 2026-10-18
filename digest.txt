@@ -1,4 +1,4 @@
-#last=2026-10-18-20|1792346374
+#last=2026-10-18-8|1792347705
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -394,3 +394,8 @@
 1792346409|Euronews|Владельцы магазинов защищают свои средства к существованию от мародеров в масках во время французских беспорядков|https://www.euronews.com/video/2026/10/18/shopkeepers-defend-their-livelihood-from-masked-looters-during-the-french-riots
 1792346417|Tom's Hardware|Пилот F-22 Raptor успешно продемонстрировал командование беспилотником-истребителем «wingman» в смоделированных боях|https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons
 1792346426|Lenta.ru|Россиянка впервые выиграла чемпионат Европы по настольному теннису|https://lenta.ru/news/2026/10/18/rossiyanka-vpervye-vyigrala-chempionat-evropy-po-nastolnomu-tennisu/
+1792347725|Al Jazeera|Индийская суперзвезда Болливуда Тайгер Шрофф, предположительно, был застрелен боевиками|https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss
+1792347731|Al Jazeera|ИЕРУСАЛИМ ДАЙЛИ: поселенцы нападают на дипломатов ЕС|https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss
+1792347739|Euronews|Напряженность в Париже остается высокой после протестов по всей Франции|https://www.euronews.com/video/2026/10/18/tensions-remain-high-in-paris-after-violent-protests-across-france
+1792347746|Euronews|Испания меняет правила патрулирования Сеуты из-за «невинного прохода» кораблей|https://www.euronews.com/2026/10/18/spain-changes-ceuta-patrol-rules-over-ships-innocent-passage
+1792347751|Lenta.ru|Бывшая пресс-секретарь Зеленского обратилась к нему с призывом|https://lenta.ru/news/2026/10/18/byvshaya-press-sekretar-zelenskogo-obratilas-k-nemu-s-prizyvom/
