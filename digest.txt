@@ -1,4 +1,4 @@
-#last=2026-10-17-20|1792270576
+#last=2026-10-18-8|1792300282
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -234,3 +234,8 @@
 1792298871|Anadolu|Коалиция во главе с Саудовской Аравией заявила, что 2 офицера погибли в результате крушения вертолета в Наджране|https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-2-officers-killed-in-helicopter-crash-in-najran/4092345
 1792298876|Lenta.ru|Зеленского предупредили о скором скандале из-за хищения денег США|https://lenta.ru/news/2026/10/18/zelenskogo-predupredili-o-skorom-skandale/
 1792298880|Lenta.ru|В России рассказали о повышении пенсии до конца 2026 года|https://lenta.ru/news/2026/10/18/v-rossii-rasskazali-o-povyshenii-pensii-do-kontsa-2026-goda/
+1792300307|DW|Новости Индии: Kolkata stampede dampens Праздник Дурга Пуджа|https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-rdf
+1792300312|Euronews|«Каждая солнечная поверхность» работает. Европейцы трансформируют свои дома солнечными дорогами|https://www.euronews.com/2026/10/18/every-sunny-surface-is-being-put-to-work-europeans-transforming-their-homes-with-solar-dri
+1792300318|Euronews|Tee off в самых недооцененных местах отдыха для гольфа в Европе|https://www.euronews.com/2026/10/18/tee-off-in-europes-most-underrated-golf-holiday-destinations
+1792300326|Japan Times|Орлы помещают QB Jalen Hurts в поврежденный резерв с тромбом|https://www.japantimes.co.jp/sports/2026/10/18/more-sports/hurts-blood-clot-injured-reserve/
+1792300330|Lenta.ru|На военной базе в Канаде вспыхнул крупный пожар после взрыва|https://lenta.ru/news/2026/10/18/na-voennoy-baze-v-kanade-vspyhnul-krupnyy-pozhar-posle-vzryva/
