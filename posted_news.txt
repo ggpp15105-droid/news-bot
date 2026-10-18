@@ -1,8 +1,3 @@
-1791744982|https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss|Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza
-1791744990|https://www.euronews.com/2026/10/11/shakira-sets-amazon-music-record-in-madrid-with-most-watched-live-stream-by-a-female-artis|Shakira sets Amazon Music record in Madrid with most-watched live stream by a female artist
-1791744995|https://www.euronews.com/2026/10/11/antarctic-penguins-emit-up-to-7-million-tonnes-of-methane-a-year-study-finds|Antarctic penguins emit up to 7 million tonnes of methane a year, study finds
-1791745005|https://www.aa.com.tr/en/europe/2nd-day-of-london-halal-forum-kicks-off-with-palestinian-breakfast/4085445|2nd day of London Halal Forum kicks off with Palestinian breakfast
-1791745011|https://lenta.ru/news/2026/10/11/v-belorussii-sochli-protesty-v-evropeyskih-stranah-izderzhkami-pomoschi-ukraine/|В Белоруссии сочли протесты в европейских странах издержками помощи Украине
 1791745611|https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss|War and high debt to dominate IMF-World Bank meetings in Bangkok
 1791745621|https://lenta.ru/news/2026/10/12/premier-vengrii-poobeschal-sokratit-energeticheskuyu-zavisimost-ot-rossii/|Премьер Венгрии пообещал сократить энергетическую зависимость от России
 1791745625|https://lenta.ru/news/2026/10/11/vlasti-vladimira-soobschili-o-likvidatsii-boezaryadov-posle-ataki-bpla/|Власти Владимира сообщили о ликвидации боезарядов после атаки БПЛА
@@ -1998,3 +1993,8 @@
 1792335407|https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html|Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink
 1792335415|https://www.euronews.com/video/2026/10/18/russia-huge-flames-and-smoke-rise-over-st-petersburg-after-drone-strikes|Russia: Huge flames and smoke rise over St Petersburg after drone strikes
 1792335422|https://www.euronews.com/2026/10/18/rubio-arrives-in-samarkand-as-washington-seeks-closer-ties-with-central-asia|Rubio arrives in Samarkand as Washington seeks closer ties with Central Asia
+1792336495|https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss|A timeline of West Bank attacks on Palestinians and foreign officials
+1792336499|https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers|Who capped Starlink in Ukraine? Musk, Trump and Rubio give three different answers
+1792336504|https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658|Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'
+1792336510|https://www.euronews.com/2026/10/18/pope-leo-xiv-after-his-hospital-stay-i-feel-closer-to-those-who-suffer-illness|Pope Leo XIV after his hospital stay: "I feel closer to those who suffer illness"
+1792336517|https://www.aa.com.tr/en/americas/americans-increasingly-dissatisfied-with-trump-as-midterms-approach-poll/4092761|Americans increasingly dissatisfied with Trump as midterms approach: Poll

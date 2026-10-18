@@ -354,3 +354,8 @@
 1792335407|CNBC|Бессент предупреждает Зеленского «быть очень осторожным» в отношении заявлений о том, что США подавляют Starlink|https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html
 1792335415|Euronews|Россия: Огромное пламя и дым поднимаются над Санкт-Петербургом после ударов беспилотников|https://www.euronews.com/video/2026/10/18/russia-huge-flames-and-smoke-rise-over-st-petersburg-after-drone-strikes
 1792335422|Euronews|Рубио прибыл в Самарканд в поисках более тесных связей с Центральной Азией|https://www.euronews.com/2026/10/18/rubio-arrives-in-samarkand-as-washington-seeks-closer-ties-with-central-asia
+1792336495|Al Jazeera|Расписание нападений на палестинцев и иностранных чиновников на Западном берегу|https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss
+1792336500|France 24|Кто закрыл Starlink в Украине? Маск, Трамп и Рубио дали три разных ответа|https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers
+1792336504|Sky News|Трамп поддержал Нетаньяху перед выборами в Израиле, назвав его «великим воином-премьером»|https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658
+1792336510|Euronews|Папа Лев XIV: «Я чувствую себя ближе к тем, кто страдает от болезней»|https://www.euronews.com/2026/10/18/pope-leo-xiv-after-his-hospital-stay-i-feel-closer-to-those-who-suffer-illness
+1792336517|Anadolu|Американцы все больше недовольны Трампом по мере приближения промежуточных выборов|https://www.aa.com.tr/en/americas/americans-increasingly-dissatisfied-with-trump-as-midterms-approach-poll/4092761
