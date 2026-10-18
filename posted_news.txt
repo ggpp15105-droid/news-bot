@@ -1,8 +1,3 @@
-1791742653|https://news.sky.com/story/at-least-13-miners-killed-in-airstrike-on-sudan-egypt-border-says-medical-group-13597904|At least 13 miners killed in airstrike
-1791742661|https://lenta.ru/news/2026/10/11/bolee-100-migrantov-pogibli-v-rezultate-krushenii-sudna-u-beregov-dzhibuti/|Более 100 мигрантов погибли в результате крушения судна у берегов Джибути
-1791742670|https://lenta.ru/news/2026/10/11/rossiyskaya-pensionerka-zasudila-obmanuvshego-ee-santehnika-na-211-tysyach-rubley/|Российская пенсионерка засудила обманувшего ее сантехника на 211 тысяч рублей
-1791742675|https://lenta.ru/news/2026/10/11/ahmat-i-baltika-sygrali-vnichyu-v-groznom/|«Ахмат» и «Балтика» сыграли вничью в Грозном
-1791742680|https://lenta.ru/news/2026/10/11/germaniya-potrebovala-nakazat-shredera-za-vizit-k-putinu/|Германия потребовала наказать Шредера за визит к Путину
 1791743887|https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss|Lebanon’s first electric train hopes to revive railway system
 1791743892|https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796|Pakistan's president declares state of emergency in province run by Imran Khan's party
 1791743900|https://www.euronews.com/2026/10/11/french-social-democratic-primary-raphael-glucksmann-wins-big-in-first-round|French Social democratic primary: Raphaël Glucksmann wins big in first round
@@ -1998,3 +1993,8 @@
 1792332432|https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz|Cinebench world record that stood for 12 years gets toppled
 1792332442|https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27aqgnv-27-inch-g-sync-pulsar-gaming-monitor-review|Asus ROG Strix XG27AQGNV 27-inch G-Sync Pulsar gaming monitor review: Super smooth with unprecedented control
 1792332450|https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers|Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport
+1792333905|https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss|Why have France’s school protests become a wider political crisis?
+1792333911|https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss|Sudan army accused of drone strike on livestock market
+1792333919|https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf|Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.
+1792333926|https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf|Pope appears in public for first time since surgery
+1792333933|https://www.euronews.com/2026/10/18/check-your-wallet-some-2-euro-coins-are-worth-far-more|Check your wallet: some 2-euro coins are worth far more
