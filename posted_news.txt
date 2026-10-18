@@ -1,8 +1,3 @@
-1791739236|https://www.euronews.com/2026/10/11/thousands-urge-for-climate-action-at-brussels-demonstration|Ten of thousands urge EU for climate action at Brussels demonstration
-1791739242|https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december|Escape the Backrooms is throwing an After Party with three new levels this December
-1791739247|https://lenta.ru/news/2026/10/11/rossiyskaya-pensionerka-reshila-nayti-muzha-s-pomoschyu-vip-svahi-i-ostalas-ni-s-chem/|Российская пенсионерка решила найти мужа с помощью VIP-свахи и осталась ни с чем
-1791739251|https://lenta.ru/news/2026/10/11/iran-nazval-uslovie-otkrytiya-ormuzskogo-proliva/|Иран назвал условие открытия Ормузского пролива
-1791739256|https://www.kommersant.ru/doc/9024201|«Яндекс» объяснил ограничение работы части функций «Диска» // «Яндекс»: отдельные функции «Диска» ограничены для снижения нагрузки
 1791740195|https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss|Poland detains man suspected of planning assassination of PM Tusk
 1791740200|https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss|‘Who will represent us?’ Palestinians react to election delay
 1791740207|https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss|Turkiye highway crash kills 11, injures 27 after tour bus hits truck
@@ -1998,3 +1993,8 @@
 1792325890|https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf|Germany news: Police probe security incident at Leipzig/Halle airport
 1792325896|https://www.aa.com.tr/en/eurasia/russian-saudi-foreign-ministers-voice-concern-over-tensions-in-southern-arabian-peninsula-bab-el-mandeb-strait/4092648|Russian, Saudi foreign ministers voice concern over tensions in southern Arabian Peninsula, Bab el-Mandeb Strait
 1792325902|https://www.aa.com.tr/en/eurasia/moscow-says-it-backs-gcc-efforts-to-prevent-return-to-full-scale-war-in-middle-east/4092642|Moscow says it backs GCC efforts to prevent return to full-scale war in Middle East
+1792328087|https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss|There’s a ‘New Middle East’, but not the one Israel planned
+1792328092|https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack|Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze
+1792328099|https://www.euronews.com/2026/10/18/businesses-and-shopkeepers-pick-up-the-pieces-after-protests-in-france-spiral-into-looting|Businesses and shopkeepers pick up the pieces after protests in France spiral into looting
+1792328105|https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/|Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch
+1792328112|https://www.rockpapershotgun.com/the-sunday-papers-832|The Sunday Papers
