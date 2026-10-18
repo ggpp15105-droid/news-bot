@@ -1,8 +1,3 @@
-1791729916|https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss|Why are Houthi missiles breaking through Saudi Arabia’s air defences?
-1791729922|https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate|France: Can the left unite behind a single candidate?
-1791729926|https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire|🔴 Trump says Russia and Ukraine agree to 'energy ceasefire'
-1791729932|https://www.france24.com/en/video/20261011-india-s-cockroach-leaders-vow-to-keep-up-election-protests|India's 'cockroach' leaders vow to keep up election protests
-1791729938|https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition|Strike on Riyadh: What options for the Saudi-led coalition?
 1791730693|https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss|Children among 109 dead after boat capsizes off Djibouti, UN says
 1791730698|https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss|Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties
 1791730704|https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution|Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot
@@ -1998,3 +1993,8 @@
 1792310501|https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/mlb-dodgers-sweep-salary-cap-fight/|Experts split about whether Brewers’ sweep of Dodgers will impact MLB labor talks
 1792310506|https://lenta.ru/news/2026/10/18/v-natstsentre-rossiya-nagradili-pobediteley-premii-shum/|В наццентре «Россия» наградили победителей премии «ШУМ»
 1792310514|https://lenta.ru/news/2026/10/18/ozvucheno-chislo-zaderzhannyh-na-protestah-vo-frantsii/|Озвучено число задержанных на протестах во Франции
+1792311981|https://www.euronews.com/2026/10/18/possible-drone-explosion-in-northern-lithuania-near-latvian-border|Possible drone explosion in northern Lithuania near Latvian border
+1792311987|https://www.japantimes.co.jp/commentary/2026/10/18/world/americas-bad-oil-ideas/|America’s oldest bad idea about oil
+1792311992|https://lenta.ru/news/2026/10/18/epidemiologicheskuyu-situatsiyu-v-rossii-otsenili/|Эпидемиологическую ситуацию в России оценили
+1792312001|https://lenta.ru/news/2026/10/18/mikroavtobus-stolknulsya-s-furoy-v-regione-rossii/|Микроавтобус столкнулся с фурой в регионе России
+1792312010|https://lenta.ru/news/2026/10/18/stalo-izvestno-o-zanyatiyah-makrona-nakanune-krupnyh-protestov-vo-frantsii/|Стало известно о занятиях Макрона накануне крупных протестов во Франции

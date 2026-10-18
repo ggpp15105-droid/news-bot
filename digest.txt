@@ -269,3 +269,8 @@
 1792310501|Japan Times|Эксперты поделились мнениями о том, повлияет ли зачистка Dodgers на переговоры о труде MLB|https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/mlb-dodgers-sweep-salary-cap-fight/
 1792310506|Lenta.ru|В наццентре «Россия» наградили победителей премии «ШУМ»|https://lenta.ru/news/2026/10/18/v-natstsentre-rossiya-nagradili-pobediteley-premii-shum/
 1792310514|Lenta.ru|Озвучено число задержанных на протестах во Франции|https://lenta.ru/news/2026/10/18/ozvucheno-chislo-zaderzhannyh-na-protestah-vo-frantsii/
+1792311981|Euronews|Возможный взрыв дрона на севере Литвы близ границы с Латвией|https://www.euronews.com/2026/10/18/possible-drone-explosion-in-northern-lithuania-near-latvian-border
+1792311987|Japan Times|Старейшая плохая идея Америки о нефти|https://www.japantimes.co.jp/commentary/2026/10/18/world/americas-bad-oil-ideas/
+1792311992|Lenta.ru|Эпидемиологическую ситуацию в России оценили|https://lenta.ru/news/2026/10/18/epidemiologicheskuyu-situatsiyu-v-rossii-otsenili/
+1792312001|Lenta.ru|Микроавтобус столкнулся с фурой в регионе России|https://lenta.ru/news/2026/10/18/mikroavtobus-stolknulsya-s-furoy-v-regione-rossii/
+1792312010|Lenta.ru|Стало известно о занятиях Макрона накануне крупных протестов во Франции|https://lenta.ru/news/2026/10/18/stalo-izvestno-o-zanyatiyah-makrona-nakanune-krupnyh-protestov-vo-frantsii/
