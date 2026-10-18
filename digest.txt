@@ -249,3 +249,8 @@
 1792303294|France 24|Основатель движения тараканов в Индии освобожден из-под стражи|https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody
 1792303300|France 24|Вэнс обвинил иммиграцию в насилии во время протестов во Франции|https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france
 1792303307|Euronews|Досуг вне досягаемости для одного из восьми человек в ЕС: Где самая большая проблема?|https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest
+1792305022|CNBC|Почему хедж-фонды могут сделать шок рынка облигаций более вероятным|https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html
+1792305029|Euronews|Смотрите, никаких рук: Euronews ехал без водителя в первом в Европе роботакси в Загребе|https://www.euronews.com/2026/10/18/look-no-hands-euronews-rode-driverless-in-europes-first-robotaxi-in-zagreb
+1792305035|Japan Times|Кастелла ищет дом, милый дом|https://www.japantimes.co.jp/community/2026/10/18/castella-cats-adoption/
+1792305042|Japan Times|Заместитель мэра города в Эхимэ умирает после того, как его раздавил фестивальный поплавок|https://www.japantimes.co.jp/news/2026/10/18/japan/saijo-festival-deputy-mayor-death/
+1792305051|Lenta.ru|В российском регионе уничтожили более 200 БПЛА|https://lenta.ru/news/2026/10/18/v-rossiyskom-regione-unichtozhili-bolee-200-bpla/
