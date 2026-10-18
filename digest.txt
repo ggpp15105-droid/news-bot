@@ -254,3 +254,8 @@
 1792305035|Japan Times|Кастелла ищет дом, милый дом|https://www.japantimes.co.jp/community/2026/10/18/castella-cats-adoption/
 1792305042|Japan Times|Заместитель мэра города в Эхимэ умирает после того, как его раздавил фестивальный поплавок|https://www.japantimes.co.jp/news/2026/10/18/japan/saijo-festival-deputy-mayor-death/
 1792305051|Lenta.ru|В российском регионе уничтожили более 200 БПЛА|https://lenta.ru/news/2026/10/18/v-rossiyskom-regione-unichtozhili-bolee-200-bpla/
+1792307395|BBC World|Фотографии показывают роскошную лодку с 50-метровым бассейном и водными горками возле летнего отдыха Ким Чен Ына|https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss
+1792307401|Al Jazeera|Даниэль Дюбуа победил Фабио Уордли, чтобы сохранить титул чемпиона WBO в супертяжелом весе|https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss
+1792307408|DW|Популистский чешский премьер Бабиш ушел с пустыми руками на выборах в Сенат|https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf
+1792307414|France 24|Месячные лесные пожары в Индонезии извергают токсичную дымку по всей Юго-Восточной Азии|https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia
+1792307420|Euronews|Канада сообщила о гибели и ранениях после инцидента на военной базе|https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base

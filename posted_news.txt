@@ -1,8 +1,3 @@
-1791727216|https://lenta.ru/news/2026/10/11/glava-minfina-ssha/|Глава Минфина США заявил о выгоде сотрудничества с Россией
-1791727225|https://lenta.ru/news/2026/10/11/zaharyan-vpervye-v-sezone-popal-v-startovyy-sostav-real-sosiedad/|Захарян впервые в сезоне попал в стартовый состав «Реал Сосьедад»
-1791727234|https://lenta.ru/news/2026/10/11/zelenskiy-soglasilsya-provesti-vybory-na-ukraine/|Зеленский согласился провести выборы на Украине
-1791727238|https://lenta.ru/news/2026/10/11/agrba-pobedil-abdullaeva-i-zavoeval-vremennyy-titul-wba/|Агрба победил Абдуллаева и завоевал временный титул WBA
-1791727243|https://lenta.ru/news/2026/10/11/monako-upustil-pobedu-nad-tuluzoy-v-lige-1/|«Монако» упустил победу над «Тулузой» в Лиге 1
 1791727962|https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss|Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints
 1791727968|https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss|Cockroach Janta Party accuses Modi of ‘waging war’ on Indians
 1791727973|https://lenta.ru/news/2026/10/11/sbornaya-rossii-vyigrala-medalnyy-zachet-etapa-kubka-mira-v-tashkente/|Сборная России выиграла медальный зачет этапа Кубка мира в Ташкенте
@@ -1998,3 +1993,8 @@
 1792305035|https://www.japantimes.co.jp/community/2026/10/18/castella-cats-adoption/|Castella searching for a home, sweet home
 1792305041|https://www.japantimes.co.jp/news/2026/10/18/japan/saijo-festival-deputy-mayor-death/|Deputy mayor of city in Ehime dies after being crushed by festival float
 1792305051|https://lenta.ru/news/2026/10/18/v-rossiyskom-regione-unichtozhili-bolee-200-bpla/|В российском регионе уничтожили более 200 БПЛА
+1792307395|https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss|Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat
+1792307401|https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss|Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title
+1792307408|https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf|Populist Czech PM Babis goes empty-handed in Senate elections
+1792307413|https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia|Months-long Indonesia wildfires spew toxic haze across Southeast Asia
+1792307420|https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base|Canada reports 'fatalities and injuries' following incident at military base
