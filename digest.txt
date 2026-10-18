@@ -284,3 +284,8 @@
 1792314816|France 24|Франция: протесты «объединили все население для общей цели»|https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose
 1792314822|France 24|Франция: Кто принимал участие в субботних протестах?|https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests
 1792314829|France 24|Кто стоял за насилием на субботних протестах?|https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests
+1792316565|Al Jazeera|Боевые действия в Йемене усиливаются по мере углубления гуманитарного кризиса|https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss
+1792316572|DW|Вьетнам подписал соглашение о свободной торговле с четырьмя европейскими странами|https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf
+1792316577|France 24|Протесты во Франции: правительство приняло неправильные решения?|https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions
+1792316583|France 24|Лига 1: ПСЖ вернулся на вершину Лиги 1 после потрясающего возвращения в Страсбург|https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback
+1792316591|The Guardian|Веселые шутки и «100 000-вольтовая» энергия: гипнотизеры (и женщины) переосмысливают музыку Afrobeats|https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype
