@@ -1,8 +1,3 @@
-1791730693|https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss|Children among 109 dead after boat capsizes off Djibouti, UN says
-1791730698|https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss|Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties
-1791730704|https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution|Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot
-1791730709|https://lenta.ru/news/2026/10/11/v-snyatii-sanktsiy-s-rossiyskogo-dizelya-usmotreli-izmenenie-politiki-trampa/|В снятии санкций с российского дизеля усмотрели изменение политики Трампа
-1791730714|https://lenta.ru/news/2026/10/11/andreeva-sravnyalas-s-peguloy-po-chislu-pobed-v-sezone/|Андреева сравнялась с Пегулой по числу побед в сезоне
 1791731345|https://lenta.ru/news/2026/10/11/voennyy-ekspert-vyskazalsya-o-perehode-kieva-na-zhestkiy-paek/|Военный эксперт высказался о переходе Киева на «жесткий паек»
 1791731351|https://lenta.ru/news/2026/10/11/sbornaya-rossii-razgromila-kirgiziyu-na-chm-po-mikrofutzalu/|Сборная России разгромила Киргизию на ЧМ по микрофутзалу
 1791731356|https://lenta.ru/news/2026/10/11/proverku-dokumentov-bolshunova-uzhestochili-iz-za-evropeytsev/|Проверку документов Большунова ужесточили из-за европейцев
@@ -1998,3 +1993,8 @@
 1792311992|https://lenta.ru/news/2026/10/18/epidemiologicheskuyu-situatsiyu-v-rossii-otsenili/|Эпидемиологическую ситуацию в России оценили
 1792312001|https://lenta.ru/news/2026/10/18/mikroavtobus-stolknulsya-s-furoy-v-regione-rossii/|Микроавтобус столкнулся с фурой в регионе России
 1792312010|https://lenta.ru/news/2026/10/18/stalo-izvestno-o-zanyatiyah-makrona-nakanune-krupnyh-protestov-vo-frantsii/|Стало известно о занятиях Макрона накануне крупных протестов во Франции
+1792313662|https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss|Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’
+1792313668|https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss|‘No Kings’ protests spread across the US ahead of midterm elections
+1792313673|https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss|‘Young protesters across Europe share grievances and tactics’
+1792313679|https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss|Photos: Protests across France spiral into looting, blazes and clashes
+1792313685|https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss|There is no split in MAGA
