@@ -1,8 +1,3 @@
-1791720170|https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers|Cryptomining malware that locates its control server in a GitHub poem has hit more than 3,400 servers, researchers say
-1791720176|https://lenta.ru/news/2026/10/11/v-ssha-zayavili-o-nizshey-tochke-v-otnosheniyah-trampa-i-zelenskogo/|В США заявили о низшей точке в отношениях Трампа и Зеленского
-1791720181|https://lenta.ru/news/2026/10/11/sobyanin-soobschil-o-novoy-popytke-vsu-atakovat-moskvu/|Собянин сообщил о новой попытке ВСУ атаковать Москву
-1791720186|https://lenta.ru/news/2026/10/11/zelenskogo-prizvali-perestat-zhdat-pomoschi-ot-evropy/|Зеленского призвали перестать ждать помощи от Европы
-1791720191|https://lenta.ru/news/2026/10/11/vuchich-sdelal-zayavlenie-o-sdelke-rossii-i-ssha-po-dizelyu/|Вучич сделал заявление о сделке России и США по дизелю
 1791721034|https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss|Homes and bridges swept away as fresh floods hit Nepal
 1791721040|https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss|Trump’s brash remarks entertain crowd at election rally in Tennessee
 1791721046|https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html|Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike
@@ -1998,3 +1993,8 @@
 1792293752|https://www.japantimes.co.jp/news/2026/10/18/japan/princess-aiko-disaster-prevention-forum/|Princess Aiko attends disaster prevention forum in Tottori
 1792293757|https://lenta.ru/news/2026/10/18/nevrolog-predostereg-ot-chteniya-rabochih-chatov-pered-snom/|Невролог предостерег от чтения рабочих чатов перед сном
 1792293762|https://lenta.ru/news/2026/10/18/nad-leningradskoy-oblastyu-otrazili-novuyu-ataku-bespilotnikov/|Над Ленинградской областью отразили новую атаку беспилотников
+1792295656|https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss|Deadly fire breaks out at Canada military base
+1792295661|https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss|Rubio wants ‘crackdown’ on settler violence after US journalist attack
+1792295666|https://www.aa.com.tr/en/americas/explosion-fire-at-canadian-military-base-leave-multiple-fatalities-injuries/4092342|Explosion, fire at Canadian military base leave multiple fatalities, injuries
+1792295675|https://lenta.ru/news/2026/10/18/v-ssha-priznalis-v-molitve-za-frantsiyu/|В США признались в молитве за Францию
+1792295683|https://lenta.ru/news/2026/10/18/vladeltsam-avtomobiley-raskryli-populyarnye-shemy-moshennichestva/|Владельцам автомобилей раскрыли популярные схемы мошенничества

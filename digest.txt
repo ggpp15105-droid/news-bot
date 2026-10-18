@@ -219,3 +219,8 @@
 1792293753|Japan Times|Принцесса Айко посетила форум по предотвращению стихийных бедствий в Тоттори|https://www.japantimes.co.jp/news/2026/10/18/japan/princess-aiko-disaster-prevention-forum/
 1792293757|Lenta.ru|Невролог предостерег от чтения рабочих чатов перед сном|https://lenta.ru/news/2026/10/18/nevrolog-predostereg-ot-chteniya-rabochih-chatov-pered-snom/
 1792293762|Lenta.ru|Над Ленинградской областью отразили новую атаку беспилотников|https://lenta.ru/news/2026/10/18/nad-leningradskoy-oblastyu-otrazili-novuyu-ataku-bespilotnikov/
+1792295656|BBC World|Смертельный пожар вспыхнул на военной базе Канады|https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss
+1792295661|Al Jazeera|Рубио хочет «разгромить» поселенческое насилие после нападения американских журналистов|https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss
+1792295666|Anadolu|Взрыв, пожар на канадской военной базе привели к многочисленным жертвам и ранениям|https://www.aa.com.tr/en/americas/explosion-fire-at-canadian-military-base-leave-multiple-fatalities-injuries/4092342
+1792295675|Lenta.ru|В США признались в молитве за Францию|https://lenta.ru/news/2026/10/18/v-ssha-priznalis-v-molitve-za-frantsiyu/
+1792295683|Lenta.ru|Владельцам автомобилей раскрыли популярные схемы мошенничества|https://lenta.ru/news/2026/10/18/vladeltsam-avtomobiley-raskryli-populyarnye-shemy-moshennichestva/
