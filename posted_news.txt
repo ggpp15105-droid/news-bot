@@ -1,8 +1,3 @@
-1791721034|https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss|Homes and bridges swept away as fresh floods hit Nepal
-1791721040|https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss|Trump’s brash remarks entertain crowd at election rally in Tennessee
-1791721046|https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html|Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike
-1791721053|https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event|Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns
-1791721060|https://www.tomshardware.com/video-games/pc-gaming/two-steam-games-generated-usd560-000-across-135-000-sales-but-the-co-creator-only-took-home-usd15-000-annually-high-chinese-refund-rates-steams-30-percent-fee-and-publisher-cuts-eat-most-of-the-profit-leaving-the-co-creator-driving-a-2012-mazda|Two Steam games generated $560,000 across 135,000 sales, but the co-creator only took home $15,000 annually
 1791722408|https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss|Meet the man helping India’s detained protesters get home
 1791722414|https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss|Sweet protein brazzein shows promise in reducing blood sugar spikes: Study
 1791722420|https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss|Polish police probe alleged plot to assassinate PM Tusk, defence minister
@@ -1998,3 +1993,8 @@
 1792295666|https://www.aa.com.tr/en/americas/explosion-fire-at-canadian-military-base-leave-multiple-fatalities-injuries/4092342|Explosion, fire at Canadian military base leave multiple fatalities, injuries
 1792295675|https://lenta.ru/news/2026/10/18/v-ssha-priznalis-v-molitve-za-frantsiyu/|В США признались в молитве за Францию
 1792295683|https://lenta.ru/news/2026/10/18/vladeltsam-avtomobiley-raskryli-populyarnye-shemy-moshennichestva/|Владельцам автомобилей раскрыли популярные схемы мошенничества
+1792296997|https://www.aa.com.tr/en/americas/ukraines-request-for-access-to-starshield-under-discussion-rubio-says/4092344|Ukraine's request for access to Starshield 'under discussion,' Rubio says
+1792297003|https://www.aa.com.tr/en/asia-pacific/12-killed-as-truck-runs-over-devotees-near-temple-in-central-india-police/4092343|12 killed as truck runs over devotees near temple in central India: police
+1792297009|https://lenta.ru/news/2026/10/18/na-ukraine-sprognozirovali-smenu-rukovodstva-kieva-v-blizhayshie-nedeli/|На Украине спрогнозировали смену руководства Киева в ближайшие недели
+1792297018|https://lenta.ru/news/2026/10/18/endokrinolog-rasskazala-o-vliyanii-menopauzy-na-zdorovie/|Эндокринолог рассказала о влиянии менопаузы на здоровье
+1792297022|https://lenta.ru/news/2026/10/18/zivert-anonsirovala-kontsert-v-luzhnikah-posle-rezonansnogo-vystupleniya-v-peterburge/|Zivert анонсировала концерт в «Лужниках» после резонансного выступления в Петербурге

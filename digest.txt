@@ -224,3 +224,8 @@
 1792295666|Anadolu|Взрыв, пожар на канадской военной базе привели к многочисленным жертвам и ранениям|https://www.aa.com.tr/en/americas/explosion-fire-at-canadian-military-base-leave-multiple-fatalities-injuries/4092342
 1792295675|Lenta.ru|В США признались в молитве за Францию|https://lenta.ru/news/2026/10/18/v-ssha-priznalis-v-molitve-za-frantsiyu/
 1792295683|Lenta.ru|Владельцам автомобилей раскрыли популярные схемы мошенничества|https://lenta.ru/news/2026/10/18/vladeltsam-avtomobiley-raskryli-populyarnye-shemy-moshennichestva/
+1792296997|Anadolu|Запрос Украины о доступе к Starshield «под обсуждением»|https://www.aa.com.tr/en/americas/ukraines-request-for-access-to-starshield-under-discussion-rubio-says/4092344
+1792297003|Anadolu|12 человек погибли, когда грузовик проехал по преданным возле храма в центральной Индии|https://www.aa.com.tr/en/asia-pacific/12-killed-as-truck-runs-over-devotees-near-temple-in-central-india-police/4092343
+1792297009|Lenta.ru|На Украине спрогнозировали смену руководства Киева в ближайшие недели|https://lenta.ru/news/2026/10/18/na-ukraine-sprognozirovali-smenu-rukovodstva-kieva-v-blizhayshie-nedeli/
+1792297018|Lenta.ru|Эндокринолог рассказала о влиянии менопаузы на здоровье|https://lenta.ru/news/2026/10/18/endokrinolog-rasskazala-o-vliyanii-menopauzy-na-zdorovie/
+1792297022|Lenta.ru|Zivert анонсировала концерт в «Лужниках» после резонансного выступления в Петербурге|https://lenta.ru/news/2026/10/18/zivert-anonsirovala-kontsert-v-luzhnikah-posle-rezonansnogo-vystupleniya-v-peterburge/
