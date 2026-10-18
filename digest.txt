@@ -1,4 +1,4 @@
-#last=2026-10-18-8|1792350615
+#last=2026-10-18-20|1792351956
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -409,3 +409,8 @@
 1792350654|Lenta.ru|Водителям перечислили главные опасности поездок в дождь|https://lenta.ru/news/2026/10/18/voditelyam-perechislili-glavnye-opasnosti-poezdok-v-dozhd/
 1792350663|Lenta.ru|На Украине заявили о переброске сотен российских БПЛА к границе|https://lenta.ru/news/2026/10/18/na-ukraine-zayavili-o-perebroske-soten-rossiyskih-bpla-k-granitse/
 1792350671|Lenta.ru|В России высказались о «видящем русских у ворот Парижа» Макроне|https://lenta.ru/news/2026/10/18/v-rossii-vyskazalis-o-vidyaschem-russkih-u-vorot-parizha-makrone/
+1792351976|Sky News|Второй день насилия в Милане: протестующие столкнулись с полицией|https://news.sky.com/story/second-day-of-violence-in-milan-as-protesters-clash-with-police-13600765
+1792351985|Lenta.ru|Российские гимнасты вышли в финал ЧМ|https://lenta.ru/news/2026/10/18/rossiyskie-gimnasty-vyshli-v-final-chm/
+1792351990|Lenta.ru|В Германии оценили готовность Европы заменить Зеленскому США|https://lenta.ru/news/2026/10/18/v-germanii-otsenili-gotovnost-evropy-zamenit-zelenskomu-ssha/
+1792351995|Lenta.ru|В России предсказали «неприятный сюрприз» для Зеленского после слов Трампа|https://lenta.ru/news/2026/10/18/v-rossii-predskazali-nepriyatnyy-syurpriz-dlya-zelenskogo-posle-slov-trampa/
+1792352004|Lenta.ru|«Локомотив-Кубань» обыграл «Зенит» с разницей в одно очко|https://lenta.ru/news/2026/10/18/lokomotiv-kuban-obygral-zenit-s-raznitsey-v-odno-ochko/

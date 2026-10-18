@@ -1,8 +1,3 @@
-1791754270|https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss|Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says
-1791754276|https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss|Waves crash into homes as excavators try to protect California properties
-1791754281|https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss|UK Greens leader seeks rule change after party declares Zionism is racism
-1791754286|https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss|Two killed near Israeli-occupied area in south Lebanon
-1791754294|https://www.ign.com/articles/best-deals-for-october-11-2026|The Best Deals Today: Doom: The Dark Ages, Star Wars Zero Company, 007 4K Blu-ray, and More
 1791755243|https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss|Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
 1791755249|https://lenta.ru/news/2026/10/12/polyanskiy-ob-yasnil-molchanie-zapada-o-mirnyh-peregovorah-v-2022-godu/|Полянский объяснил молчание Запада о мирных переговорах в 2022 году
 1791755254|https://lenta.ru/news/2026/10/12/uchenye-nashli-sposob-zaschitit-serdtse-ot-povrezhdeniy-posle-infarkta/|Ученые нашли способ защитить сердце от повреждений после инфаркта
@@ -1998,3 +1993,8 @@
 1792350654|https://lenta.ru/news/2026/10/18/voditelyam-perechislili-glavnye-opasnosti-poezdok-v-dozhd/|Водителям перечислили главные опасности поездок в дождь
 1792350663|https://lenta.ru/news/2026/10/18/na-ukraine-zayavili-o-perebroske-soten-rossiyskih-bpla-k-granitse/|На Украине заявили о переброске сотен российских БПЛА к границе
 1792350671|https://lenta.ru/news/2026/10/18/v-rossii-vyskazalis-o-vidyaschem-russkih-u-vorot-parizha-makrone/|В России высказались о «видящем русских у ворот Парижа» Макроне
+1792351976|https://news.sky.com/story/second-day-of-violence-in-milan-as-protesters-clash-with-police-13600765|Second day of violence in Milan as protesters clash with police
+1792351985|https://lenta.ru/news/2026/10/18/rossiyskie-gimnasty-vyshli-v-final-chm/|Российские гимнасты вышли в финал ЧМ
+1792351990|https://lenta.ru/news/2026/10/18/v-germanii-otsenili-gotovnost-evropy-zamenit-zelenskomu-ssha/|В Германии оценили готовность Европы заменить Зеленскому США
+1792351995|https://lenta.ru/news/2026/10/18/v-rossii-predskazali-nepriyatnyy-syurpriz-dlya-zelenskogo-posle-slov-trampa/|В России предсказали «неприятный сюрприз» для Зеленского после слов Трампа
+1792352004|https://lenta.ru/news/2026/10/18/lokomotiv-kuban-obygral-zenit-s-raznitsey-v-odno-ochko/|«Локомотив-Кубань» обыграл «Зенит» с разницей в одно очко
