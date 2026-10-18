@@ -229,3 +229,8 @@
 1792297009|Lenta.ru|На Украине спрогнозировали смену руководства Киева в ближайшие недели|https://lenta.ru/news/2026/10/18/na-ukraine-sprognozirovali-smenu-rukovodstva-kieva-v-blizhayshie-nedeli/
 1792297018|Lenta.ru|Эндокринолог рассказала о влиянии менопаузы на здоровье|https://lenta.ru/news/2026/10/18/endokrinolog-rasskazala-o-vliyanii-menopauzy-na-zdorovie/
 1792297022|Lenta.ru|Zivert анонсировала концерт в «Лужниках» после резонансного выступления в Петербурге|https://lenta.ru/news/2026/10/18/zivert-anonsirovala-kontsert-v-luzhnikah-posle-rezonansnogo-vystupleniya-v-peterburge/
+1792298860|Al Jazeera|19 человек погибли в давке на индуистском фестивале в Калькутте|https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss
+1792298865|Al Jazeera|Экономический кризис в Тунисе углубляется по мере того, как исчезает обещание лучшей жизни|https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss
+1792298871|Anadolu|Коалиция во главе с Саудовской Аравией заявила, что 2 офицера погибли в результате крушения вертолета в Наджране|https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-2-officers-killed-in-helicopter-crash-in-najran/4092345
+1792298876|Lenta.ru|Зеленского предупредили о скором скандале из-за хищения денег США|https://lenta.ru/news/2026/10/18/zelenskogo-predupredili-o-skorom-skandale/
+1792298880|Lenta.ru|В России рассказали о повышении пенсии до конца 2026 года|https://lenta.ru/news/2026/10/18/v-rossii-rasskazali-o-povyshenii-pensii-do-kontsa-2026-goda/

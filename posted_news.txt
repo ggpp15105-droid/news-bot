@@ -1,8 +1,3 @@
-1791722408|https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss|Meet the man helping India’s detained protesters get home
-1791722414|https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss|Sweet protein brazzein shows promise in reducing blood sugar spikes: Study
-1791722420|https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss|Polish police probe alleged plot to assassinate PM Tusk, defence minister
-1791722427|https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video|GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked
-1791722434|https://www.tomshardware.com/video-games/retro-gaming/programmer-ports-super-mario-64-to-microsofts-zune-hd-media-player-the-2009-ipod-rival-runs-the-game-natively-on-its-nvidia-tegra-chip-with-touchscreen-controls-and-saves|Programmer ports Super Mario 64 to Microsoft’s Zune HD media player
 1791723580|https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html|AI’s quiet safety gatekeepers are stepping into the spotlight
 1791723587|https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night|Denmark tests humanoid robots in supermarkets to help to ease staff workload at night
 1791723594|https://www.tomshardware.com/video-games/developer-turns-classic-windows-minesweeper-into-hand-holding-big-budget-triple-a-parody-browser-reboot-mocks-modern-gaming-with-chatty-npcs-internal-monologues-and-promised-loot-boxes|Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A’ parody
@@ -1998,3 +1993,8 @@
 1792297009|https://lenta.ru/news/2026/10/18/na-ukraine-sprognozirovali-smenu-rukovodstva-kieva-v-blizhayshie-nedeli/|На Украине спрогнозировали смену руководства Киева в ближайшие недели
 1792297018|https://lenta.ru/news/2026/10/18/endokrinolog-rasskazala-o-vliyanii-menopauzy-na-zdorovie/|Эндокринолог рассказала о влиянии менопаузы на здоровье
 1792297022|https://lenta.ru/news/2026/10/18/zivert-anonsirovala-kontsert-v-luzhnikah-posle-rezonansnogo-vystupleniya-v-peterburge/|Zivert анонсировала концерт в «Лужниках» после резонансного выступления в Петербурге
+1792298860|https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss|At least 19 dead in stampede at Kolkata Hindu festival
+1792298865|https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss|Tunisia’s economic crisis deepens as the promise of a better life fades
+1792298871|https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-2-officers-killed-in-helicopter-crash-in-najran/4092345|Saudi-led coalition says 2 officers killed in helicopter crash in Najran
+1792298876|https://lenta.ru/news/2026/10/18/zelenskogo-predupredili-o-skorom-skandale/|Зеленского предупредили о скором скандале из-за хищения денег США
+1792298880|https://lenta.ru/news/2026/10/18/v-rossii-rasskazali-o-povyshenii-pensii-do-kontsa-2026-goda/|В России рассказали о повышении пенсии до конца 2026 года
