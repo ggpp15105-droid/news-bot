@@ -189,3 +189,8 @@
 1792283014|Lenta.ru|Силы ПВО отразили атаку более десяти беспилотников на Ленинградскую область|https://lenta.ru/news/2026/10/18/sily-pvo-otrazili-ataku-bolee-desyati-bespilotnikov-na-leningradskuyu-oblast/
 1792283019|Lenta.ru|Эксперт заявил об ослаблении позиций ВСУ в Харьковской области|https://lenta.ru/news/2026/10/18/marochko-raskryl-prichiny-prodvizheniya-rossiyskih-voysk-v-harkovskoy-oblasti/
 1792283023|Lenta.ru|Аналитик рассказал о страхе Макрона из-за протестов во Франции|https://lenta.ru/news/2026/10/18/analitik-rasskazal-o-strahe-makrona-iz-za-protestov-vo-frantsii/
+1792285505|DW|Митинги «Нет королей» подталкивают к досрочному голосованию перед промежуточными выборами в США|https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf
+1792285511|Anadolu|8 йеменских солдат убиты на юге страны|https://www.aa.com.tr/en/world/8-yemeni-soldiers-killed-in-countrys-south-army/4092337
+1792285518|Anadolu|"На нас напали": Европейский дипломат отверг сомнения Нетаньяху по поводу нападения на Западный берег|https://www.aa.com.tr/en/middle-east/we-were-attacked-european-diplomat-rejects-netanyahus-doubts-over-west-bank-attack/4092336
+1792285527|Lenta.ru|Пленный из ВСУ высказался об отношении украинцев к майдану|https://lenta.ru/news/2026/10/18/plennyy-iz-vsu-vyskazalsya-ob-otnoshenii-ukraintsev-k-maydanu/
+1792285537|Коммерсантъ|В деревне Низино под Петербургом после атаки БПЛА произошел пожар|https://www.kommersant.ru/doc/9041201
