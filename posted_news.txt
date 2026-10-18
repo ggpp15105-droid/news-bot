@@ -1,8 +1,3 @@
-1791719464|https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss|The scramble to rewrite Biden’s record on Gaza
-1791719471|https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf|A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing
-1791719478|https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release|Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release
-1791719487|https://www.tomshardware.com/3d-printing/state-of-california-sues-3d-printer-filament-company-polymaker-for-promoting-ghost-guns-by-marketing-to-3d-printed-gun-community-state-alleges-company-turns-harmless-pla-filament-into-a-regulated-firearm-precursor-part|State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community
-1791719491|https://lenta.ru/news/2026/10/11/v-kremle-poshutili-o-razgovore-putina-i-trampa/|В Кремле пошутили о разговоре Путина и Трампа
 1791720170|https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers|Cryptomining malware that locates its control server in a GitHub poem has hit more than 3,400 servers, researchers say
 1791720176|https://lenta.ru/news/2026/10/11/v-ssha-zayavili-o-nizshey-tochke-v-otnosheniyah-trampa-i-zelenskogo/|В США заявили о низшей точке в отношениях Трампа и Зеленского
 1791720181|https://lenta.ru/news/2026/10/11/sobyanin-soobschil-o-novoy-popytke-vsu-atakovat-moskvu/|Собянин сообщил о новой попытке ВСУ атаковать Москву
@@ -1998,3 +1993,8 @@
 1792292321|https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact|Rubio says Trump to 'analyze' global impact of Russia sanctions during pause
 1792292327|https://www.aa.com.tr/en/americas/us-envoy-calls-for-prosecution-of-israeli-occupiers-over-cowardly-attack-on-american-journalist-in-west-bank/4092341|US envoy calls for prosecution of Israeli occupiers over 'cowardly' attack on American journalist in West Bank
 1792292334|https://www.aa.com.tr/en/americas/us-very-disturbed-by-attack-on-american-journalist-in-occupied-west-bank-rubio/4092340|US 'very disturbed' by attack on American journalist in occupied West Bank: Rubio
+1792293736|https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichi-china-apec-parliament/|Takaichi to attend APEC in China if parliament allows
+1792293744|https://www.japantimes.co.jp/business/2026/10/18/companies/toyota-software-defined-vehicles/|All Toyota models to be software-based by 2030
+1792293752|https://www.japantimes.co.jp/news/2026/10/18/japan/princess-aiko-disaster-prevention-forum/|Princess Aiko attends disaster prevention forum in Tottori
+1792293757|https://lenta.ru/news/2026/10/18/nevrolog-predostereg-ot-chteniya-rabochih-chatov-pered-snom/|Невролог предостерег от чтения рабочих чатов перед сном
+1792293762|https://lenta.ru/news/2026/10/18/nad-leningradskoy-oblastyu-otrazili-novuyu-ataku-bespilotnikov/|Над Ленинградской областью отразили новую атаку беспилотников

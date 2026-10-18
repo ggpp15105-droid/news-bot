@@ -214,3 +214,8 @@
 1792292321|France 24|Рубио заявил, что Трамп «анализирует» глобальное влияние санкций против России во время паузы|https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact
 1792292327|Anadolu|Посол США призвал привлечь к ответственности израильских оккупантов за "трусливое" нападение на американского журналиста на Западном берегу|https://www.aa.com.tr/en/americas/us-envoy-calls-for-prosecution-of-israeli-occupiers-over-cowardly-attack-on-american-journalist-in-west-bank/4092341
 1792292334|Anadolu|США «очень обеспокоены» нападением на американского журналиста на оккупированном Западном берегу: Рубио|https://www.aa.com.tr/en/americas/us-very-disturbed-by-attack-on-american-journalist-in-occupied-west-bank-rubio/4092340
+1792293737|Japan Times|Такаичи примет участие в АТЭС в Китае, если парламент позволит|https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichi-china-apec-parliament/
+1792293744|Japan Times|Все модели Toyota будут основаны на программном обеспечении к 2030 году|https://www.japantimes.co.jp/business/2026/10/18/companies/toyota-software-defined-vehicles/
+1792293753|Japan Times|Принцесса Айко посетила форум по предотвращению стихийных бедствий в Тоттори|https://www.japantimes.co.jp/news/2026/10/18/japan/princess-aiko-disaster-prevention-forum/
+1792293757|Lenta.ru|Невролог предостерег от чтения рабочих чатов перед сном|https://lenta.ru/news/2026/10/18/nevrolog-predostereg-ot-chteniya-rabochih-chatov-pered-snom/
+1792293762|Lenta.ru|Над Ленинградской областью отразили новую атаку беспилотников|https://lenta.ru/news/2026/10/18/nad-leningradskoy-oblastyu-otrazili-novuyu-ataku-bespilotnikov/
