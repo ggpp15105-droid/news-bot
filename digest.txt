@@ -334,3 +334,8 @@
 1792329704|Al Jazeera|Почему погромы поселенцев усилились во время сезона сбора урожая оливок на Западном берегу?|https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss
 1792329708|France 24|Как будто у нас была война: Франция подсчитала стоимость протестов|https://www.france24.com/en/video/20261018-like-we-had-a-war-france-counts-cost-of-violent-protests
 1792329713|France 24|Протесты во Франции: «В игре есть целый ряд претензий»|https://www.france24.com/en/video/20261018-france-protests-there-s-a-whole-range-of-grievances-at-play
+1792331235|Al Jazeera|Была ли древняя Индия забытой сверхдержавой?|https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss
+1792331241|Al Jazeera|Париж вышел из-под контроля, поскольку студенческие протесты становятся хаотичными|https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss
+1792331248|DW|Франция: молодые избиратели жалуются на социалистов Глюксмана|https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf
+1792331254|France 24|Неделя в фотографиях: эскалация протестов по всей Европе и трагическое опрокидывание лодки мигрантов|https://www.france24.com/en/france/20261018-the-week-in-pictures-escalating-protests-across-europe-and-the-tragic-capsize-of-a-migrant-boat
+1792331259|Sky News|США осудили «презренное» нападение израильских поселенцев, в результате которого серьезно пострадал американский фотограф|https://news.sky.com/story/israeli-settlers-attack-european-diplomats-and-french-mayor-in-west-bank-belgium-says-13600419

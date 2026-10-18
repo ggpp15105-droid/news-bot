@@ -1,8 +1,3 @@
-1791741057|https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote|🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote
-1791741061|https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner|Ukraine: Coerced into a Corner?
-1791741069|https://www.euronews.com/video/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood|Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood
-1791741075|https://lenta.ru/news/2026/10/11/moshenniki-natselilis-na-gotovyaschihsya-k-ege-uchenikov/|Мошенники нацелились на готовящихся к ЕГЭ учеников
-1791741080|https://lenta.ru/news/2026/10/11/zaharova-otvetila-na-slova-zelenskogo-o-smene-vlasti-na-ukraine-frazoy-vydal-bazu/|Захарова ответила на слова Зеленского о смене власти на Украине фразой «выдал базу»
 1791741710|https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss|Liverpool fans give Manchester City a fiery welcome at Anfield
 1791741718|https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss|Man City beat 10-man Liverpool 3-0 in first game after guilty verdict
 1791741724|https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss|Is the Yemen war entering a new phase?
@@ -1998,3 +1993,8 @@
 1792329704|https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss|Why have settler pogroms surged during olive harvest season in West Bank?
 1792329708|https://www.france24.com/en/video/20261018-like-we-had-a-war-france-counts-cost-of-violent-protests|'Like we had a war': France counts cost of violent protests
 1792329713|https://www.france24.com/en/video/20261018-france-protests-there-s-a-whole-range-of-grievances-at-play|France protests: "There's a whole range of grievances at play"
+1792331235|https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss|Was ancient India the world’s forgotten superpower?
+1792331241|https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss|Paris left reeling as student-led protests turn chaotic
+1792331248|https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf|France: Young voters blase about Glucksmann's Socialists
+1792331254|https://www.france24.com/en/france/20261018-the-week-in-pictures-escalating-protests-across-europe-and-the-tragic-capsize-of-a-migrant-boat|The week in pictures: Escalating protests across Europe and the tragic capsize of a migrant boat
+1792331259|https://news.sky.com/story/israeli-settlers-attack-european-diplomats-and-french-mayor-in-west-bank-belgium-says-13600419|US condemns 'despicable' Israeli settler attack that seriously injured American photographer
