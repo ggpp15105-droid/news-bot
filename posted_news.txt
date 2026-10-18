@@ -1,8 +1,3 @@
-1791728932|https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss|Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?
-1791728938|https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss|The Mafia Football Murders | True Crime Reports
-1791728943|https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss|Hormuz attacks intensify as efforts to end war on Iran stall
-1791728949|https://www.euronews.com/2026/10/11/hochvogel-mountain-at-risk-of-major-collapse-as-400000-cubic-metres-of-rock-threatens-to-b|Hochvogel mountain at risk of major collapse as 400,000 cubic metres of rock threatens to break away
-1791728954|https://www.euronews.com/2026/10/11/up-to-our-people-to-pick-leader-zelenskyy-responds-to-trumps-pledge-for-new-elections-in-u|'Up to our people' to pick leader, Zelenskyy responds to Trump's pledge for new elections in Ukraine
 1791729916|https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss|Why are Houthi missiles breaking through Saudi Arabia’s air defences?
 1791729922|https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate|France: Can the left unite behind a single candidate?
 1791729926|https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire|🔴 Trump says Russia and Ukraine agree to 'energy ceasefire'
@@ -1998,3 +1993,8 @@
 1792309004|https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria|An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria
 1792309012|https://www.japantimes.co.jp/environment/2026/10/18/sustainability/yokohama-green-expo/|As Yokohama’s Green Expo nears, organizers draw inspiration from the past
 1792309020|https://www.japantimes.co.jp/news/2026/10/18/japan/keen-sword-military-exercises/|Joint Japan-U.S. military drill set to break new ground
+1792310489|https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss|Why Iran-US negotiations keep failing
+1792310495|https://www.japantimes.co.jp/sports/2026/10/18/more-sports/judoka-homestay-japan-scotland-exchange/|Scottish teen chases judo dreams through unique Japanese homestay
+1792310501|https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/mlb-dodgers-sweep-salary-cap-fight/|Experts split about whether Brewers’ sweep of Dodgers will impact MLB labor talks
+1792310506|https://lenta.ru/news/2026/10/18/v-natstsentre-rossiya-nagradili-pobediteley-premii-shum/|В наццентре «Россия» наградили победителей премии «ШУМ»
+1792310514|https://lenta.ru/news/2026/10/18/ozvucheno-chislo-zaderzhannyh-na-protestah-vo-frantsii/|Озвучено число задержанных на протестах во Франции

@@ -264,3 +264,8 @@
 1792309005|The Guardian|Необыкновенная жизнь: потомок приветствует биографию женщины, «одаренной» королеве Виктории|https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria
 1792309012|Japan Times|По мере приближения выставки Yokohama Green Expo организаторы черпают вдохновение из прошлого.|https://www.japantimes.co.jp/environment/2026/10/18/sustainability/yokohama-green-expo/
 1792309020|Japan Times|Совместные японско-американские военные учения проложат новую почву|https://www.japantimes.co.jp/news/2026/10/18/japan/keen-sword-military-exercises/
+1792310489|Al Jazeera|Почему ирано-американские переговоры провалились|https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss
+1792310495|Japan Times|Шотландский подросток преследует мечты о дзюдо через уникальный японский дом|https://www.japantimes.co.jp/sports/2026/10/18/more-sports/judoka-homestay-japan-scotland-exchange/
+1792310501|Japan Times|Эксперты поделились мнениями о том, повлияет ли зачистка Dodgers на переговоры о труде MLB|https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/mlb-dodgers-sweep-salary-cap-fight/
+1792310506|Lenta.ru|В наццентре «Россия» наградили победителей премии «ШУМ»|https://lenta.ru/news/2026/10/18/v-natstsentre-rossiya-nagradili-pobediteley-premii-shum/
+1792310514|Lenta.ru|Озвучено число задержанных на протестах во Франции|https://lenta.ru/news/2026/10/18/ozvucheno-chislo-zaderzhannyh-na-protestah-vo-frantsii/
