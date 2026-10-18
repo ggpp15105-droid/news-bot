@@ -1,8 +1,3 @@
-1791760194|https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss|Footage shows moment Russian strike hits Ukrainian grocery store
-1791760200|https://www.japantimes.co.jp/business/2026/10/12/tech/hydrovault-startup/|Cooling innovation from a hot startup
-1791760209|https://lenta.ru/news/2026/10/12/muzhchina-poymal-zhenu-s-lyubovnikom-i-zastavil-ih-zanyatsya-seksom-na-lyudyah/|Мужчина поймал жену с любовником и заставил их заняться сексом на людях
-1791760214|https://lenta.ru/news/2026/10/12/pcs/|Поставки компьютеров рухнули
-1791760223|https://www.kommersant.ru/doc/9024255|ЕС выделит Украине дополнительное финансирование на ракеты и беспилотники
 1791761174|https://news.sky.com/story/putin-has-already-broken-trumps-energy-ceasefire-with-attack-on-power-plant-says-zelenskyy-13597989|Putin has already broken Trump's 'energy ceasefire' with attack on power plant, says Zelenskyy
 1791761184|https://lenta.ru/news/2026/10/12/politolog-dopustil-uzhestochenie-pozitsii-trampa-v-otnoshenii-zelenskogo/|Политолог допустил ужесточение позиции Трампа в отношении Зеленского
 1791761189|https://lenta.ru/news/2026/10/12/zyuganov-obratilsya-k-kim-chen-ynu/|Зюганов обратился к Ким Чен Ыну
@@ -1998,3 +1993,8 @@
 1792359823|https://lenta.ru/news/2026/10/19/tramp-zayavil-ob-izmenenii-usloviy-dlya-mirnogo-soglasheniya-s-ukrainoy/|Трамп заявил об изменении условий для мирного соглашения с Украиной
 1792359828|https://lenta.ru/news/2026/10/19/putinu-napomnili-o-priglashenii-v-odnu-stranu/|Путину напомнили о приглашении в одну страну
 1792359832|https://lenta.ru/news/2026/10/19/atletiko-na-vyezde-obygral-espanol-v-chempionate-ispanii/|«Атлетико» на выезде обыграл «Эспаньол» в чемпионате Испании
+1792361032|https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions|Trump defends Russia sanctions relief, accuses Zelensky of rejecting peace
+1792361042|https://www.aa.com.tr/en/europe/france-s-macron-says-prefects-can-ban-demonstrations-to-maintain-public-order/4092934|France’s Macron says prefects can ban demonstrations to maintain public order
+1792361051|https://lenta.ru/news/2026/10/19/tramp-vyskazalsya-o-vvedenii-sanktsiy-protiv-rossii/|Трамп высказался об ужесточении санкций против России
+1792361056|https://lenta.ru/news/2026/10/19/fundora-nokautiroval-hadribeya-na-posledney-sekunde-boya/|Фундора нокаутировал Хадрибея на последней секунде боя
+1792361061|https://lenta.ru/news/2026/10/19/zelenskiy-obvinil-trampa-v-kapitulyatsii-ukrainy/|Зеленский обвинил Трампа в «капитуляции Украины»
