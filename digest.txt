@@ -1,4 +1,4 @@
-#last=2026-10-18-8|1792347705
+#last=2026-10-18-20|1792349541
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -399,3 +399,8 @@
 1792347739|Euronews|Напряженность в Париже остается высокой после протестов по всей Франции|https://www.euronews.com/video/2026/10/18/tensions-remain-high-in-paris-after-violent-protests-across-france
 1792347746|Euronews|Испания меняет правила патрулирования Сеуты из-за «невинного прохода» кораблей|https://www.euronews.com/2026/10/18/spain-changes-ceuta-patrol-rules-over-ships-innocent-passage
 1792347751|Lenta.ru|Бывшая пресс-секретарь Зеленского обратилась к нему с призывом|https://lenta.ru/news/2026/10/18/byvshaya-press-sekretar-zelenskogo-obratilas-k-nemu-s-prizyvom/
+1792349563|Al Jazeera|Бодибилдеры Газы находят утешение в сильной конкуренции среди руин|https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss
+1792349569|Al Jazeera|Почему США ведут тайные переговоры с военным правителем Мьянмы|https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss
+1792349574|France 24|Макрон заявил, что «ничто не оправдывает» насилие во время протестов|https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation
+1792349579|France 24|Президент Франции Эммануэль Макрон обратился к нации после беспорядков|https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest
+1792349585|France 24|Французские беспорядки: подарок Ле Пен?|https://www.france24.com/en/tv-shows/spotlight/20261018-french-riots-a-gift-for-le-pen
