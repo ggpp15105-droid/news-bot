@@ -459,3 +459,8 @@
 1792363804|Lenta.ru|«Никогда не хотел заканчивать войну и лишился океанов и морей». Трамп назвал виновного в продолжающемся конфликте на Украине|https://lenta.ru/news/2026/10/19/long-tramp-ze/
 1792363809|Lenta.ru|Нетаньяху высказался о спорах с Россией|https://lenta.ru/news/2026/10/19/netanyahu-vyskazalsya-o-sporah-s-rossiey/
 1792363814|Lenta.ru|Россиянам напомнили о короткой рабочей неделе в ноябре|https://lenta.ru/news/2026/10/19/rossiyanam-napomnili-o-korotkoy-rabochey-nedele-v-noyabre/
+1792364809|Al Jazeera|Оппозиция Венесуэлы возобновила поддержку Марии Корины Мачадо в качестве лидера|https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss
+1792364818|CNBC|Нефть Brent колеблется около 109 долларов за баррель, поскольку Украина возобновляет энергетические удары, танкеры атакованы на Ближнем Востоке|https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html
+1792364824|CNBC|Anthropic инвестирует 5% акций в новый фонд общественных благ, который может решить проблему нарушения работы ИИ|https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html
+1792364832|Lenta.ru|В Конгрессе США выступили против призывов к продолжению конфликта на Украине|https://lenta.ru/news/2026/10/19/v-kongresse-ssha-vystupili-protiv-prizyvov-k-prodolzheniyu-konflikta-na-ukraine/
+1792364840|Lenta.ru|Трамп объяснил отказ ужесточать санкции против России|https://lenta.ru/news/2026/10/19/tramp-ob-yasnil-otkaz-uzhestochat-sanktsii-protiv-rossii/

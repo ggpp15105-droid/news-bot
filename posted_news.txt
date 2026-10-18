@@ -1,8 +1,3 @@
-1791762827|https://lenta.ru/news/2026/10/12/v-yaroslavle-snyali-ogranicheniya-na-vyezd-v-storonu-moskvy/|В Ярославле сняли ограничения на выезд в сторону Москвы
-1791762832|https://lenta.ru/news/2026/10/12/v-irane-otvergli-otvet-ssha-na-predlozhenie-po-ormuzskomu-prolivu/|В Иране отвергли ответ США на предложение по Ормузскому проливу
-1791762836|https://www.kommersant.ru/doc/9024259|В Брянской области восстановили движение поездов на мосту после удара БПЛА
-1791762841|https://www.kommersant.ru/doc/9024180|Танкерный фрахт для РФ растет четвертый месяц подряд
-1791762849|https://www.kommersant.ru/doc/9024214|ЦБ и Минфин не поддержали владельцев облигаций
 1791763440|https://lenta.ru/news/2026/10/12/pochti-70-protsentov-kieva-ostalis-bez-vody/|Почти 70 процентов Киева остались без воды
 1791763449|https://www.kommersant.ru/doc/9024215|Коксующийся уголь в России в октябре подорожал на 19,5–35,7%
 1791763454|https://tass.ru/proisshestviya/28204061|Почти 70% Киева осталось без водоснабжения из-за повреждения ЛЭП
@@ -1998,3 +1993,8 @@
 1792363804|https://lenta.ru/news/2026/10/19/long-tramp-ze/|«Никогда не хотел заканчивать войну и лишился океанов и морей». Трамп назвал виновного в продолжающемся конфликте на Украине
 1792363809|https://lenta.ru/news/2026/10/19/netanyahu-vyskazalsya-o-sporah-s-rossiey/|Нетаньяху высказался о спорах с Россией
 1792363814|https://lenta.ru/news/2026/10/19/rossiyanam-napomnili-o-korotkoy-rabochey-nedele-v-noyabre/|Россиянам напомнили о короткой рабочей неделе в ноябре
+1792364809|https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss|Venezuela opposition renews support for Maria Corina Machado as leader
+1792364817|https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html|Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East
+1792364823|https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html|Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption
+1792364832|https://lenta.ru/news/2026/10/19/v-kongresse-ssha-vystupili-protiv-prizyvov-k-prodolzheniyu-konflikta-na-ukraine/|В Конгрессе США выступили против призывов к продолжению конфликта на Украине
+1792364840|https://lenta.ru/news/2026/10/19/tramp-ob-yasnil-otkaz-uzhestochat-sanktsii-protiv-rossii/|Трамп объяснил отказ ужесточать санкции против России
