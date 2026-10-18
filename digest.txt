@@ -1,4 +1,4 @@
-#last=2026-10-18-20|1792354035
+#last=2026-10-18-8|1792355500
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -424,3 +424,8 @@
 1792354076|Lenta.ru|Нелюбова сообщила о получении зарубежной визы|https://lenta.ru/news/2026/10/18/nelyubova-soobschila-o-poluchenii-zarubezhnoy-vizy/
 1792354085|Lenta.ru|В Крыму напомнили Украине один факт о полуострове|https://lenta.ru/news/2026/10/18/krym/
 1792354091|Lenta.ru|В Раде сочли арест Зеленского лучшим выходом из ситуации|https://lenta.ru/news/2026/10/18/v-rade-sochli-arest-zelenskogo-luchshim-vyhodom-iz-situatsii/
+1792355518|Al Jazeera|«Гнев и стыд»: Макрон осудил массовые беспорядки во Франции|https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss
+1792355526|Lenta.ru|Раскрыты подробности о роскошной яхте Ким Чен Ына|https://lenta.ru/news/2026/10/18/raskryty-podrobnosti-o-roskoshnoy-yahte-kim-chen-yna/
+1792355531|Lenta.ru|Хргович посоветовал Уордли завершить боксерскую карьеру|https://lenta.ru/news/2026/10/18/hrgovich-posovetoval-uordli-zavershit-bokserskuyu-karieru/
+1792355535|Lenta.ru|Российские «Герани» атаковали склад с электроникой для беспилотников ВСУ|https://lenta.ru/news/2026/10/18/rossiyskie-gerani-atakovali-sklad-s-elektronikoy-dlya-bespilotnikov-vsu/
+1792355540|Lenta.ru|Семененко выиграл короткую программу на Гран-при России|https://lenta.ru/news/2026/10/18/semenenko-vyigral-korotkuyu-programmu-na-gran-pri-rossii/
