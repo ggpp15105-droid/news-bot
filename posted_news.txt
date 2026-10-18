@@ -1,8 +1,3 @@
-1791747472|https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss|Republican senator says Trump diesel agreement with Russia may be illegal
-1791747477|https://lenta.ru/news/2026/10/11/premier-kanady-obsudil-s-zelenskim-soglashenie-po-dizelyu/|Премьер Канады обсудил с Зеленским соглашение по дизелю
-1791747486|https://lenta.ru/news/2026/10/12/netanyahu-sozval-soveschanie-v-minoborony/|Нетаньяху созвал совещание в Минобороны
-1791747494|https://lenta.ru/news/2026/10/11/v-peterburge-pyanyy-voditel-vrezalsya-v-pamyatnik-voinskoy-slavy/|В Петербурге пьяный водитель врезался в памятник воинской славы
-1791747504|https://www.kommersant.ru/doc/9024221|FT: США пригрозили Киеву заблокировать программу поставок оружия PURL
 1791748299|https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss|Mexican president urges residents to shelter as Hurricane Simon approaches
 1791748305|https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-all-1573-rdf|Air strikes kill dozens of gold miners on Sudan-Egypt border
 1791748311|https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote|UK PM Burnham warns French voters of Russian political influence on back of Brexit vote
@@ -1998,3 +1993,8 @@
 1792339429|https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt|Samson dev Liquid Swords has reportedly gone bankrupt
 1792339436|https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game|God of War Laufey's £130 Collector Box doesn't come with the game
 1792339442|https://www.tomshardware.com/3d-printing/anycubics-award-winning-3d-printer-hits-all-time-low-pricing-kobra-x-is-an-excellent-entry-level-four-color-printer-thats-now-just-usd299-99-for-amazon-prime-members|Anycubic's award-winning 3D printer hits all-time low pricing
+1792340946|https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf|Meloni backs police after cost-of-living protests turn violent in Italian cities
+1792340951|https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election|Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election
+1792340959|https://www.euronews.com/2026/10/18/magyar-links-french-riots-to-migration-says-shocking-scenes-justify-hard-line|Magyar links French riots to migration, says ‘shocking scenes’ justify hard line
+1792340966|https://www.euronews.com/2026/10/18/southern-valencia-coast-on-alert-as-storm-adam-may-dump-300-mm-of-rain-in-12-hours|Southern Valencia coast on alert as storm Adam may dump 300 mm of rain in 12 hours
+1792340974|https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance|Modder brings full Nvidia DLSS 5 suite to three generations of AMD gaming GPUs
