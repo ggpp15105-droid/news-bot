@@ -1,8 +1,3 @@
-1791718533|https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss|Mohamed Salah sets Turkish Super Lig record for Trabzonspor
-1791718541|https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss|Yemen fighting expands as Houthis attack Saudi airport: What to know
-1791718546|https://news.sky.com/story/four-dead-as-hurricane-isaias-crashes-into-us-as-mexico-braces-itself-for-major-storm-13597710|Four dead as Hurricane Isaias crashes into US - as Mexico braces itself for major storm
-1791718553|https://www.euronews.com/video/2026/10/11/zaporizhzhia-airstrikes-kill-17-as-russia-intensifies-attacks-across-ukraine|Zaporizhzhia airstrikes kill 17 as Russia intensifies attacks across Ukraine
-1791718559|https://www.japantimes.co.jp/news/2026/10/11/japan/crime-legal/japan-drivers-license-data-breach-spread/|Driver’s license data breaches becoming major concern
 1791719464|https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss|The scramble to rewrite Biden’s record on Gaza
 1791719471|https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf|A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing
 1791719478|https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release|Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release
@@ -1998,3 +1993,8 @@
 1792290584|https://www.japantimes.co.jp/business/2026/10/18/companies/nidec-legal-measures/|Nidec to seek damages from founder and executives over accounting fraud
 1792290590|https://www.japantimes.co.jp/news/2026/10/18/world/politics/el-sissi-egypt-president-2030/|Egypt’s Abdel-Fattah el-Sissi says his presidency will end in 2030
 1792290596|https://www.japantimes.co.jp/news/2026/10/18/asia-pacific/stampede-india-religious-gathering/|At least 19 dead and 25 hurt in stampede at India religious gathering
+1792292311|https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss|Search continues for 11 missing after boat sank off Mexico’s Baja coast
+1792292316|https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss|Fears grow in DRC as former President Joseph Kabila joins rebellion
+1792292321|https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact|Rubio says Trump to 'analyze' global impact of Russia sanctions during pause
+1792292327|https://www.aa.com.tr/en/americas/us-envoy-calls-for-prosecution-of-israeli-occupiers-over-cowardly-attack-on-american-journalist-in-west-bank/4092341|US envoy calls for prosecution of Israeli occupiers over 'cowardly' attack on American journalist in West Bank
+1792292334|https://www.aa.com.tr/en/americas/us-very-disturbed-by-attack-on-american-journalist-in-occupied-west-bank-rubio/4092340|US 'very disturbed' by attack on American journalist in occupied West Bank: Rubio
