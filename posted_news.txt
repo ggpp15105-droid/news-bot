@@ -1,8 +1,3 @@
-1791734657|https://lenta.ru/news/2026/10/11/ugrozhavshego-premier-ministru-evropeyskoy-strany-muzhchinu-zaderzhali/|Угрожавшего премьер-министру европейской страны мужчину задержали
-1791734662|https://lenta.ru/news/2026/10/11/v-germanii-vystupili-s-groznym-preduprezhdeniem-iz-za-podderzhki-ukrainy/|В Германии выступили с грозным предупреждением из-за поддержки Украины
-1791734667|https://lenta.ru/news/2026/10/11/vospitatelnitsa-izbila-detey-v-detskom-sadu-v-rossiyskom-gorode/|Воспитательница избила детей в детском саду в российском городе
-1791734672|https://lenta.ru/news/2026/10/11/peskov-otsenil-gotovnost-rossii-k-peregovoram-po-ukraine/|Песков оценил готовность России к переговорам по Украине
-1791734677|https://www.kommersant.ru/doc/9024174|Бессент назвал законными поставки российского дизеля в США и на мировой рынок // Глава Минфина США: закон Грэма не запрещает поставки российского дизеля
 1791735660|https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss|Tour bus crash in Turkiye leaves at least 11 dead
 1791735666|https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released|Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released
 1791735672|https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12|Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12
@@ -1998,3 +1993,8 @@
 1792319356|https://www.euronews.com/2026/10/18/off-the-record-trump-blames-zelenskyy-to-cover-up-his-own-mess-in-a-dramatic-week-for-ukra|Off the Record: Trump blames Zelenskyy to cover up his own mess in a dramatic week for Ukraine
 1792319364|https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-midday|Latest news bulletin | October 18th, 2026 – Midday
 1792319371|https://www.japantimes.co.jp/community/2026/10/18/pepperdine-university-kyoto-program/|In tourist-weary Kyoto, U.S. college targets deeper ties between students and residents
+1792320840|https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss|Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites
+1792320847|https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss|Russia’s war in Ukraine puts Europe on edge
+1792320854|https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss|Gaza Family Reunion: Finding each other after the ‘ceasefire’
+1792320861|https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss|Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks
+1792320867|https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss|Indian YouTuber Dhruv Rathee leads anti-BJP protest in London
