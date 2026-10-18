@@ -194,3 +194,8 @@
 1792285518|Anadolu|"На нас напали": Европейский дипломат отверг сомнения Нетаньяху по поводу нападения на Западный берег|https://www.aa.com.tr/en/middle-east/we-were-attacked-european-diplomat-rejects-netanyahus-doubts-over-west-bank-attack/4092336
 1792285527|Lenta.ru|Пленный из ВСУ высказался об отношении украинцев к майдану|https://lenta.ru/news/2026/10/18/plennyy-iz-vsu-vyskazalsya-ob-otnoshenii-ukraintsev-k-maydanu/
 1792285537|Коммерсантъ|В деревне Низино под Петербургом после атаки БПЛА произошел пожар|https://www.kommersant.ru/doc/9041201
+1792287239|Al Jazeera|Возглавляемые Саудовской Аравией силы пытаются сорвать осаду хуситами Таиза авиаударами|https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss
+1792287243|Lenta.ru|Трамп взял два месяца на оценку последствий от возможных санкций против России|https://lenta.ru/news/2026/10/18/tramp-vzyal-dva-mesyatsa-na-otsenku-posledstviy-ot-vozmozhnyh-sanktsiy-protiv-rossii/
+1792287252|Lenta.ru|В Подмосковье участились случаи появления следов медведей вблизи человеческого жилья|https://lenta.ru/news/2026/10/18/v-podmoskovie-uchastilis-sluchai-poyavleniya-sledov-medvedey-vblizi-chelovecheskogo-zhilya/
+1792287257|Lenta.ru|Россиянам рассказали о влиянии праздничного дня 4 ноября на зарплаты|https://lenta.ru/news/2026/10/18/rossiyanam-rasskazali-o-vliyanii-prazdnichnogo-dnya-4-noyabrya-na-zarplaty/
+1792287261|Lenta.ru|«Макрон, уходи!» На протесты во Франции вышло более полумиллиона человек, демонстранты громят магазины и жгут машины|https://lenta.ru/news/2026/10/18/long-makron-uhodi-na-protesty-vo-frantsii-vyshlo-bolee-polumilliona-chelovek-demonstranty-gromyat-magaziny-i-zhgut-mashiny/
