@@ -1,8 +1,3 @@
-1791746572|https://lenta.ru/news/2026/10/11/yandeks-zaveril-klientov-v-sohrannosti-deneg-v-yandeks-pey/|«Яндекс» заверил клиентов в сохранности денег в «Яндекс Пэй»
-1791746577|https://lenta.ru/news/2026/10/11/vo-frantsii-podderzhali-zayavlenie-trampa-o-zelenskom/|Во Франции поддержали заявление Трампа о Зеленском
-1791746582|https://lenta.ru/news/2026/10/11/desyatki-samoletov-ne-smogli-prizemlitsya-v-aeroportah-moskvy/|Десятки самолетов не смогли приземлиться в аэропортах Москвы
-1791746589|https://www.kommersant.ru/doc/9024225|«Яндекс»: деньги клиентов «Пэй» в безопасности
-1791746594|https://www.kommersant.ru/doc/9024222|Силы ПВО уничтожили 23 БПЛА на подлете к Москве за сутки
 1791747472|https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss|Republican senator says Trump diesel agreement with Russia may be illegal
 1791747477|https://lenta.ru/news/2026/10/11/premier-kanady-obsudil-s-zelenskim-soglashenie-po-dizelyu/|Премьер Канады обсудил с Зеленским соглашение по дизелю
 1791747486|https://lenta.ru/news/2026/10/12/netanyahu-sozval-soveschanie-v-minoborony/|Нетаньяху созвал совещание в Минобороны
@@ -1998,3 +1993,8 @@
 1792338120|https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss|Tirana sees sixth day of violent protests as Albania’s PM refuses to resign
 1792338126|https://www.aa.com.tr/en/americas/tiktok-permanently-suspends-advertising-account-for-elon-musk-documentary-report/4092768|TikTok permanently suspends advertising account for Elon Musk documentary: Report
 1792338132|https://www.aa.com.tr/en/middle-east/egyptian-parliament-adjourns-session-on-potential-military-support-for-saudi-arabia/4092755|Egyptian parliament adjourns session on potential military support for Saudi Arabia
+1792339415|https://news.sky.com/story/zelenskyy-says-us-taking-putins-side-would-be-historic-mistake-as-russian-oil-sites-attacked-13600632|Zelenskyy says US taking Putin's side would be 'historic mistake' - as Russian oil sites attacked
+1792339423|https://www.aa.com.tr/en/americas/california-wildfire-forces-thousands-to-evacuate-burns-570-acres/4092753|California wildfire forces thousands to evacuate, burns 570 acres
+1792339429|https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt|Samson dev Liquid Swords has reportedly gone bankrupt
+1792339436|https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game|God of War Laufey's £130 Collector Box doesn't come with the game
+1792339442|https://www.tomshardware.com/3d-printing/anycubics-award-winning-3d-printer-hits-all-time-low-pricing-kobra-x-is-an-excellent-entry-level-four-color-printer-thats-now-just-usd299-99-for-amazon-prime-members|Anycubic's award-winning 3D printer hits all-time low pricing
