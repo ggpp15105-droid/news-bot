@@ -1,4 +1,4 @@
-#last=2026-10-18-20|1792349541
+#last=2026-10-18-8|1792350615
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -404,3 +404,8 @@
 1792349574|France 24|Макрон заявил, что «ничто не оправдывает» насилие во время протестов|https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation
 1792349579|France 24|Президент Франции Эммануэль Макрон обратился к нации после беспорядков|https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest
 1792349585|France 24|Французские беспорядки: подарок Ле Пен?|https://www.france24.com/en/tv-shows/spotlight/20261018-french-riots-a-gift-for-le-pen
+1792350643|Al Jazeera|ССАГПЗ осуждает нападения хуситов на Саудовскую Аравию, поскольку боевые действия в Йемене усиливаются|https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss
+1792350649|Euronews|Макрон пообещал привлечь к ответственности тех, кто пытался «свалить Республику» после беспорядков|https://www.euronews.com/2026/10/18/macron-vows-to-hold-those-who-sought-to-bring-down-the-republic-accountable-after-riots
+1792350654|Lenta.ru|Водителям перечислили главные опасности поездок в дождь|https://lenta.ru/news/2026/10/18/voditelyam-perechislili-glavnye-opasnosti-poezdok-v-dozhd/
+1792350663|Lenta.ru|На Украине заявили о переброске сотен российских БПЛА к границе|https://lenta.ru/news/2026/10/18/na-ukraine-zayavili-o-perebroske-soten-rossiyskih-bpla-k-granitse/
+1792350671|Lenta.ru|В России высказались о «видящем русских у ворот Парижа» Макроне|https://lenta.ru/news/2026/10/18/v-rossii-vyskazalis-o-vidyaschem-russkih-u-vorot-parizha-makrone/

@@ -1,8 +1,3 @@
-1791753299|https://lenta.ru/news/2026/10/12/mirnyy-zhitel-pogib-pri-atake-bespilotnika-v-dnr/|Мирный житель погиб при атаке беспилотника в ДНР
-1791753304|https://www.kommersant.ru/doc/9024200|Объем рынка факторинга перевалил за 3 трлн рублей
-1791753309|https://www.kommersant.ru/doc/9024235|Группа сенаторов обвинила Трампа в нарушении закона за дизельную сделку с РФ
-1791753319|https://www.kommersant.ru/doc/9024232|Axios: Уиткофф и Кушнер отложили поездку в Москву // Axios: США ждут согласования единого предложения по переговорам от Украины и ЕС
-1791753323|https://tass.ru/ekonomika/28203963|Выездные заседания руководства МВФ и Всемирного банка откроются в Бангкоке
 1791754270|https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss|Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says
 1791754276|https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss|Waves crash into homes as excavators try to protect California properties
 1791754281|https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss|UK Greens leader seeks rule change after party declares Zionism is racism
@@ -1998,3 +1993,8 @@
 1792349574|https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation|Macron says 'nothing justifies' violence in protests during address to nation
 1792349579|https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest|REPLAY: French President Emmanuel Macron addresses the nation after unrest
 1792349584|https://www.france24.com/en/tv-shows/spotlight/20261018-french-riots-a-gift-for-le-pen|French Riots: A Gift for Le Pen?
+1792350643|https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss|GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
+1792350649|https://www.euronews.com/2026/10/18/macron-vows-to-hold-those-who-sought-to-bring-down-the-republic-accountable-after-riots|Macron vows to hold those who sought to “bring down the Republic” accountable after riots
+1792350654|https://lenta.ru/news/2026/10/18/voditelyam-perechislili-glavnye-opasnosti-poezdok-v-dozhd/|Водителям перечислили главные опасности поездок в дождь
+1792350663|https://lenta.ru/news/2026/10/18/na-ukraine-zayavili-o-perebroske-soten-rossiyskih-bpla-k-granitse/|На Украине заявили о переброске сотен российских БПЛА к границе
+1792350671|https://lenta.ru/news/2026/10/18/v-rossii-vyskazalis-o-vidyaschem-russkih-u-vorot-parizha-makrone/|В России высказались о «видящем русских у ворот Парижа» Макроне
