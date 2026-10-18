@@ -259,3 +259,8 @@
 1792307408|DW|Популистский чешский премьер Бабиш ушел с пустыми руками на выборах в Сенат|https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf
 1792307414|France 24|Месячные лесные пожары в Индонезии извергают токсичную дымку по всей Юго-Восточной Азии|https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia
 1792307420|Euronews|Канада сообщила о гибели и ранениях после инцидента на военной базе|https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base
+1792308990|Al Jazeera|Финал WNBA: Габби Уильямс ведет Валькирии к победе над Dream в игре No1|https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss
+1792308997|Al Jazeera|Связи Израиля с Европой ухудшаются. Могут ли выборы изменить это?|https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss
+1792309005|The Guardian|Необыкновенная жизнь: потомок приветствует биографию женщины, «одаренной» королеве Виктории|https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria
+1792309012|Japan Times|По мере приближения выставки Yokohama Green Expo организаторы черпают вдохновение из прошлого.|https://www.japantimes.co.jp/environment/2026/10/18/sustainability/yokohama-green-expo/
+1792309020|Japan Times|Совместные японско-американские военные учения проложат новую почву|https://www.japantimes.co.jp/news/2026/10/18/japan/keen-sword-military-exercises/

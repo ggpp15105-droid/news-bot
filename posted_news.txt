@@ -1,8 +1,3 @@
-1791727962|https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss|Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints
-1791727968|https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss|Cockroach Janta Party accuses Modi of ‘waging war’ on Indians
-1791727973|https://lenta.ru/news/2026/10/11/sbornaya-rossii-vyigrala-medalnyy-zachet-etapa-kubka-mira-v-tashkente/|Сборная России выиграла медальный зачет этапа Кубка мира в Ташкенте
-1791727978|https://lenta.ru/news/2026/10/11/ochevidtsy-rasskazali-o-pytavsheysya-zadushit-detey-v-moskve-zhenschine/|Очевидцы рассказали о пытавшейся задушить детей в Москве женщине
-1791727987|https://lenta.ru/news/2026/10/11/semak-ob-yasnil-poteryu-kontsentratsii-zenita-v-matche-s-krasnodarom/|Семак объяснил потерю концентрации «Зенита» в матче с «Краснодаром»
 1791728932|https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss|Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?
 1791728938|https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss|The Mafia Football Murders | True Crime Reports
 1791728943|https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss|Hormuz attacks intensify as efforts to end war on Iran stall
@@ -1998,3 +1993,8 @@
 1792307408|https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf|Populist Czech PM Babis goes empty-handed in Senate elections
 1792307413|https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia|Months-long Indonesia wildfires spew toxic haze across Southeast Asia
 1792307420|https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base|Canada reports 'fatalities and injuries' following incident at military base
+1792308990|https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss|WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream
+1792308997|https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss|Israel’s ties with Europe are fraying. Can its election change that?
+1792309004|https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria|An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria
+1792309012|https://www.japantimes.co.jp/environment/2026/10/18/sustainability/yokohama-green-expo/|As Yokohama’s Green Expo nears, organizers draw inspiration from the past
+1792309020|https://www.japantimes.co.jp/news/2026/10/18/japan/keen-sword-military-exercises/|Joint Japan-U.S. military drill set to break new ground
