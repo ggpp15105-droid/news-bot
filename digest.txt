@@ -239,3 +239,8 @@
 1792300318|Euronews|Tee off в самых недооцененных местах отдыха для гольфа в Европе|https://www.euronews.com/2026/10/18/tee-off-in-europes-most-underrated-golf-holiday-destinations
 1792300326|Japan Times|Орлы помещают QB Jalen Hurts в поврежденный резерв с тромбом|https://www.japantimes.co.jp/sports/2026/10/18/more-sports/hurts-blood-clot-injured-reserve/
 1792300330|Lenta.ru|На военной базе в Канаде вспыхнул крупный пожар после взрыва|https://lenta.ru/news/2026/10/18/na-voennoy-baze-v-kanade-vspyhnul-krupnyy-pozhar-posle-vzryva/
+1792301889|BBC World|Волна самодельных синтетических наркотиков охватила США и углубила кризис|https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss
+1792301894|Al Jazeera|Почему визит Марко Рубио в Мумбаи взбесил перья в Индии|https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss
+1792301899|Al Jazeera|Санкт-Петербург подвергся нападению украинского роя беспилотников|https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss
+1792301905|Japan Times|Джонатан Аранда лидирует, поскольку Рэйс обыграл Стражей даже ALCS со счетом 2-2|https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/rays-guardians-alcs-even/
+1792301911|Japan Times|Министерство здравоохранения Японии устанавливает новые правила для рекламы в фильмах и сериалах|https://www.japantimes.co.jp/news/2026/10/18/japan/science-health/tie-up-ads-guidelines/

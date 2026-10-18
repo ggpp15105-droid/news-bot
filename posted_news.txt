@@ -1,8 +1,3 @@
-1791724425|https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss|Ukraine strikes Russian data centre again despite Trump warning
-1791724431|https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss|Ceuta migrants allege beatings as camps cleared ahead of royal visit
-1791724437|https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h|Riyadh airport stays shut after deadly attack as Trump says US may join Saudi strikes on Houthis
-1791724442|https://www.euronews.com/2026/10/11/macrons-popularity-hits-lowest-level-since-2017-as-bardella-and-le-pen-also-lose-ground|Macron's popularity hits lowest level since 2017 as Bardella and Le Pen also lose ground
-1791724449|https://www.tomshardware.com/pc-components/ssds/sandisk-nas-800-1-92tb-ssd-review|Sandisk NAS 800 1.92TB SSD Review: Endurance at a premium
 1791725479|https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss|India’s crackdown on youth protesters: What next?
 1791725484|https://www.france24.com/en/europe/20261011-the-week-in-pictures-french-student-protests-october-7-anniversary-and-adenot-return-to-earth|The week in pictures: French student protests, October 7 anniversary and Adenot's return to Earth
 1791725489|https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign|Brazil's Lula accuses social media giant Meta of election interference amid tight run-off campaign
@@ -1998,3 +1993,8 @@
 1792300318|https://www.euronews.com/2026/10/18/tee-off-in-europes-most-underrated-golf-holiday-destinations|Tee off in Europe’s most underrated golf holiday destinations
 1792300325|https://www.japantimes.co.jp/sports/2026/10/18/more-sports/hurts-blood-clot-injured-reserve/|Eagles place QB Jalen Hurts on injured reserve with blood clot
 1792300330|https://lenta.ru/news/2026/10/18/na-voennoy-baze-v-kanade-vspyhnul-krupnyy-pozhar-posle-vzryva/|На военной базе в Канаде вспыхнул крупный пожар после взрыва
+1792301889|https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss|A wave of homemade, synthetic drugs sweeps US and deepens crisis
+1792301894|https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss|Why Marco Rubio’s visit to Mumbai has ruffled feathers in India
+1792301899|https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss|St Petersburg under attack from Ukrainian drone swarm
+1792301905|https://www.japantimes.co.jp/sports/2026/10/18/baseball/mlb/rays-guardians-alcs-even/|Jonathan Aranda leads way as Rays beat Guardians to even ALCS at 2-2
+1792301910|https://www.japantimes.co.jp/news/2026/10/18/japan/science-health/tie-up-ads-guidelines/|Japan’s health ministry sets new guidelines for tie-up ads in movies and TV shows
