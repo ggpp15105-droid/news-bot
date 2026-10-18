@@ -1,8 +1,3 @@
-1791745611|https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss|War and high debt to dominate IMF-World Bank meetings in Bangkok
-1791745621|https://lenta.ru/news/2026/10/12/premier-vengrii-poobeschal-sokratit-energeticheskuyu-zavisimost-ot-rossii/|Премьер Венгрии пообещал сократить энергетическую зависимость от России
-1791745625|https://lenta.ru/news/2026/10/11/vlasti-vladimira-soobschili-o-likvidatsii-boezaryadov-posle-ataki-bpla/|Власти Владимира сообщили о ликвидации боезарядов после атаки БПЛА
-1791745630|https://lenta.ru/news/2026/10/11/ssha-prigrozili-ukraine/|США пригрозили Украине
-1791745635|https://lenta.ru/news/2026/10/11/raskryty-posledstviya-sdelki-s-ssha-po-dizelyu-dlya-ukrainy/|Раскрыты последствия сделки с США по дизелю для Украины
 1791746572|https://lenta.ru/news/2026/10/11/yandeks-zaveril-klientov-v-sohrannosti-deneg-v-yandeks-pey/|«Яндекс» заверил клиентов в сохранности денег в «Яндекс Пэй»
 1791746577|https://lenta.ru/news/2026/10/11/vo-frantsii-podderzhali-zayavlenie-trampa-o-zelenskom/|Во Франции поддержали заявление Трампа о Зеленском
 1791746582|https://lenta.ru/news/2026/10/11/desyatki-samoletov-ne-smogli-prizemlitsya-v-aeroportah-moskvy/|Десятки самолетов не смогли приземлиться в аэропортах Москвы
@@ -1998,3 +1993,8 @@
 1792336504|https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658|Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'
 1792336510|https://www.euronews.com/2026/10/18/pope-leo-xiv-after-his-hospital-stay-i-feel-closer-to-those-who-suffer-illness|Pope Leo XIV after his hospital stay: "I feel closer to those who suffer illness"
 1792336517|https://www.aa.com.tr/en/americas/americans-increasingly-dissatisfied-with-trump-as-midterms-approach-poll/4092761|Americans increasingly dissatisfied with Trump as midterms approach: Poll
+1792338107|https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss|Photos: Antigovernment protesters clash with police in Albania’s capital
+1792338114|https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss|Manchester United held at Leeds despite improved performance for Carrick
+1792338120|https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss|Tirana sees sixth day of violent protests as Albania’s PM refuses to resign
+1792338126|https://www.aa.com.tr/en/americas/tiktok-permanently-suspends-advertising-account-for-elon-musk-documentary-report/4092768|TikTok permanently suspends advertising account for Elon Musk documentary: Report
+1792338132|https://www.aa.com.tr/en/middle-east/egyptian-parliament-adjourns-session-on-potential-military-support-for-saudi-arabia/4092755|Egyptian parliament adjourns session on potential military support for Saudi Arabia
