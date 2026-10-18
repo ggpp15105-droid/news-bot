@@ -454,3 +454,8 @@
 1792362437|DW|Эбола: число заболевших в Кении возросло до 8, распространившись на 8-ю провинцию Конго|https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf
 1792362443|France 24|Пожар на канадской военной базе унес жизни не менее четырех человек, десятки получили ранения|https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised
 1792362450|CNBC|Фьючерсы Nasdaq растут, поскольку инвесторы покупают падение в торговле ИИ: живые обновления|https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html
+1792363793|Anadolu|Тюркие выразил соболезнования Канаде после взрыва на военной базе|https://www.aa.com.tr/en/turkiye/turkiye-offers-condolences-to-canada-following-explosion-at-military-base/4092942
+1792363799|Anadolu|США предупредили ЕС об «разрушительном» ответе на планы спутникового спектра|https://www.aa.com.tr/en/americas/us-warns-eu-of-devastating-retaliation-over-satellite-spectrum-plans/4092940
+1792363804|Lenta.ru|«Никогда не хотел заканчивать войну и лишился океанов и морей». Трамп назвал виновного в продолжающемся конфликте на Украине|https://lenta.ru/news/2026/10/19/long-tramp-ze/
+1792363809|Lenta.ru|Нетаньяху высказался о спорах с Россией|https://lenta.ru/news/2026/10/19/netanyahu-vyskazalsya-o-sporah-s-rossiey/
+1792363814|Lenta.ru|Россиянам напомнили о короткой рабочей неделе в ноябре|https://lenta.ru/news/2026/10/19/rossiyanam-napomnili-o-korotkoy-rabochey-nedele-v-noyabre/
