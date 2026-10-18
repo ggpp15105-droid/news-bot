@@ -1,8 +1,3 @@
-1791731345|https://lenta.ru/news/2026/10/11/voennyy-ekspert-vyskazalsya-o-perehode-kieva-na-zhestkiy-paek/|Военный эксперт высказался о переходе Киева на «жесткий паек»
-1791731351|https://lenta.ru/news/2026/10/11/sbornaya-rossii-razgromila-kirgiziyu-na-chm-po-mikrofutzalu/|Сборная России разгромила Киргизию на ЧМ по микрофутзалу
-1791731356|https://lenta.ru/news/2026/10/11/proverku-dokumentov-bolshunova-uzhestochili-iz-za-evropeytsev/|Проверку документов Большунова ужесточили из-за европейцев
-1791731361|https://www.kommersant.ru/doc/9024063|Посол России в Черногории объяснил реакцию властей страны на задержание «Рыбаря»
-1791731367|https://www.kommersant.ru/doc/9024049|Топ-менеджеру КБХА вменили превышение полномочий с ущербом на 5 млрд рублей
 1791732343|https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf|German 'lawfare': When lawsuits become a political weapon
 1791732350|https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns|Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles
 1791732355|https://lenta.ru/news/2026/10/11/zelenskiy-okazalsya-ne-v-kurse-ob-yavlennogo-trampom-energeticheskogo-peremiriya/|Зеленский оказался не в курсе объявленного Трампом «энергетического перемирия»
@@ -1998,3 +1993,8 @@
 1792313673|https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss|‘Young protesters across Europe share grievances and tactics’
 1792313679|https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss|Photos: Protests across France spiral into looting, blazes and clashes
 1792313685|https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss|There is no split in MAGA
+1792314802|https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss|Haaland’s record scoring spree helps Man City to seventh Premier League win
+1792314809|https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-rdf|How reliant is Ukraine on the US-controlled Starlink internet service?
+1792314816|https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose|France: Protests "brought the entire population together for a common purpose"
+1792314822|https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests|France: Who took part in Saturday's protests?
+1792314828|https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests|France: Who was behind the violence at Saturday's protests?
