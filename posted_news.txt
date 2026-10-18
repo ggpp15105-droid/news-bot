@@ -1,8 +1,3 @@
-1791755243|https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss|Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
-1791755249|https://lenta.ru/news/2026/10/12/polyanskiy-ob-yasnil-molchanie-zapada-o-mirnyh-peregovorah-v-2022-godu/|Полянский объяснил молчание Запада о мирных переговорах в 2022 году
-1791755254|https://lenta.ru/news/2026/10/12/uchenye-nashli-sposob-zaschitit-serdtse-ot-povrezhdeniy-posle-infarkta/|Ученые нашли способ защитить сердце от повреждений после инфаркта
-1791755259|https://lenta.ru/news/2026/10/12/iznasilovannomu-tremya-zhenschinami-taksistu-zaplatyat-762-tysyachi-rubley/|Изнасилованному тремя женщинами таксисту заплатили 762 тысячи рублей
-1791755265|https://lenta.ru/news/2026/10/12/uitkoff-i-kushner-otlozhili-poezdku-v-moskvu/|Уиткофф и Кушнер отложили поездку в Москву
 1791756021|https://lenta.ru/news/2026/10/12/v-rossiyskom-regione-rebenka-s-priznakami-obmorozheniya-gospitalizirovali-posle-splava/|В российском регионе ребенка с признаками обморожения госпитализировали после сплава
 1791756026|https://lenta.ru/news/2026/10/11/long-tramp-ochen-zol-prezident-ssha-ob-yavil-energeticheskoe-peremirie-mezhdu-rossiey-i-ukrainoy-i-prigrozil-kievu/|«Трамп очень зол». Президент США объявил «энергетическое перемирие» между Россией и Украиной и пригрозил Киеву
 1791756036|https://www.kommersant.ru/doc/9024250|Глава МИД Саудовской Аравии созвонился с Аракчи после удара хуситов по аэропорту
@@ -1998,3 +1993,8 @@
 1792351990|https://lenta.ru/news/2026/10/18/v-germanii-otsenili-gotovnost-evropy-zamenit-zelenskomu-ssha/|В Германии оценили готовность Европы заменить Зеленскому США
 1792351995|https://lenta.ru/news/2026/10/18/v-rossii-predskazali-nepriyatnyy-syurpriz-dlya-zelenskogo-posle-slov-trampa/|В России предсказали «неприятный сюрприз» для Зеленского после слов Трампа
 1792352004|https://lenta.ru/news/2026/10/18/lokomotiv-kuban-obygral-zenit-s-raznitsey-v-odno-ochko/|«Локомотив-Кубань» обыграл «Зенит» с разницей в одно очко
+1792353247|https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss|Macron calls for calm in France and warns rioting must not escalate
+1792353253|https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss|What we know so far about deadly fire at Canadian military base
+1792353258|https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss|How will Europe deal with youth-led protests?
+1792353263|https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss|Clarence Seedorf calls out genocide in first Corinthians press conference
+1792353269|https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss|Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
