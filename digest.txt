@@ -314,3 +314,8 @@
 1792323321|France 24|Неуправляемый грузовик убил 13 человек на индуистском фестивале в Индии|https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india
 1792323326|France 24|Беспорядки в Тиране начались на пятый день после эскалации антиправительственных протестов в Албании|https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate
 1792323334|Euronews|Лион просыпается на месте разрушений после протестов|https://www.euronews.com/video/2026/10/18/lyon-wakes-up-to-scenes-of-destruction-after-violent-protests
+1792324671|Al Jazeera|Похороны 75 палестинцев, найденных в руинах Газы|https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss
+1792324676|France 24|Парижские протесты: взгляд на последствия|https://www.france24.com/en/video/20261018-paris-protests-a-look-at-the-aftermath
+1792324685|Japan Times|Уровень поддержки Такаичи упал ниже 50%, что является самым низким с момента вступления в должность, сообщает Kyodo.|https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichis-support-rate-falls/
+1792324692|Japan Times|Глава LDP отрицает влияние бывшего министра сельского хозяйства на сокращение бюджета|https://www.japantimes.co.jp/news/2026/10/18/japan/politics/ldp-denial-impact-budget-ex-farm-minister/
+1792324699|Eurogamer|В эпоху искусственного интеллекта один человек потратил годы, сжимая целый музей на Game Boy - Почему? По самым человеческим причинам|https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug

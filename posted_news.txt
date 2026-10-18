@@ -1,8 +1,3 @@
-1791737624|https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss|Saudi capital airport hit by second strike in two days
-1791737629|https://lenta.ru/news/2026/10/11/barselona-razgromila-hetafe-v-matche-la-ligi/|«Барселона» разгромила «Хетафе» в матче Ла Лиги
-1791737635|https://lenta.ru/news/2026/10/11/vneshnost-novoispechennyh-roditeley-palvin-i-sprousa-vyzvala-sochuvstvie-u-fanatov/|Внешность новоиспеченных родителей Палвин и Спроуса вызвала сочувствие у фанатов
-1791737640|https://lenta.ru/news/2026/10/11/rossiya-udarila-po-ukrainskomu-logisticheskomu-tsentru/|Россия ударила по украинскому логистическому центру
-1791737645|https://lenta.ru/news/2026/10/11/minfin-ssha-zhestko-otvetil-evrope-na-kritiku-sdelki-s-rossiey-po-dizelyu/|Минфин США жестко ответил Европе на критику сделки с Россией по дизелю
 1791738253|https://lenta.ru/news/2026/10/11/gotovnost-zelenskogo-provesti-chestnye-vybory-otsenili/|Готовность Зеленского провести честные выборы оценили
 1791738262|https://lenta.ru/news/2026/10/11/es-vydelit-ukraine-novye-sredstva-na-rakety-i-drony/|ЕС выделит Украине новые средства на ракеты и дроны
 1791738267|https://www.kommersant.ru/doc/9024195|Власти могут ввести мораторий на обнуление демпфера по дизтопливу
@@ -1998,3 +1993,8 @@
 1792323321|https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india|Out-of-control truck kills 13 at Hindu festival in India
 1792323326|https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate|Riots in Tirana enter a fifth day as Albania's anti-government protests escalate
 1792323334|https://www.euronews.com/video/2026/10/18/lyon-wakes-up-to-scenes-of-destruction-after-violent-protests|Lyon wakes up to scenes of destruction after violent protests
+1792324671|https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss|Funeral held for 75 Palestinians after remains recovered from Gaza ruins
+1792324676|https://www.france24.com/en/video/20261018-paris-protests-a-look-at-the-aftermath|Paris protests: A look at the aftermath
+1792324684|https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichis-support-rate-falls/|Takaichi’s support rate falls below 50%, lowest since taking office, Kyodo reports
+1792324692|https://www.japantimes.co.jp/news/2026/10/18/japan/politics/ldp-denial-impact-budget-ex-farm-minister/|LDP exec denies ex-farm minister’s influence on budget cuts
+1792324699|https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug|In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons
