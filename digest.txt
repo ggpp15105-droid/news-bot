@@ -1,4 +1,4 @@
-#last=2026-10-18-8|1792353224
+#last=2026-10-18-20|1792354035
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -419,3 +419,8 @@
 1792353258|Al Jazeera|Как Европа будет бороться с молодежными протестами?|https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss
 1792353263|Al Jazeera|Кларенс Седорф призвал к геноциду на первой пресс-конференции в Коринфе|https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss
 1792353269|Al Jazeera|Война России с Украиной «должна быть прекращена», считает Зеленский|https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss
+1792354059|Al Jazeera|Репрессии Индии против тараканов, критиков и камер|https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss
+1792354067|DW|Премьер-министр Албании Эди Рама игнорирует призывы уйти в отставку на фоне ожесточенных столкновений|https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf
+1792354076|Lenta.ru|Нелюбова сообщила о получении зарубежной визы|https://lenta.ru/news/2026/10/18/nelyubova-soobschila-o-poluchenii-zarubezhnoy-vizy/
+1792354085|Lenta.ru|В Крыму напомнили Украине один факт о полуострове|https://lenta.ru/news/2026/10/18/krym/
+1792354091|Lenta.ru|В Раде сочли арест Зеленского лучшим выходом из ситуации|https://lenta.ru/news/2026/10/18/v-rade-sochli-arest-zelenskogo-luchshim-vyhodom-iz-situatsii/

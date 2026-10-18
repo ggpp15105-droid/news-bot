@@ -1,8 +1,3 @@
-1791756021|https://lenta.ru/news/2026/10/12/v-rossiyskom-regione-rebenka-s-priznakami-obmorozheniya-gospitalizirovali-posle-splava/|В российском регионе ребенка с признаками обморожения госпитализировали после сплава
-1791756026|https://lenta.ru/news/2026/10/11/long-tramp-ochen-zol-prezident-ssha-ob-yavil-energeticheskoe-peremirie-mezhdu-rossiey-i-ukrainoy-i-prigrozil-kievu/|«Трамп очень зол». Президент США объявил «энергетическое перемирие» между Россией и Украиной и пригрозил Киеву
-1791756036|https://www.kommersant.ru/doc/9024250|Глава МИД Саудовской Аравии созвонился с Аракчи после удара хуситов по аэропорту
-1791756041|https://www.kommersant.ru/doc/9024249|За день над Россией сбили 112 беспилотников
-1791756046|https://www.kommersant.ru/doc/9024234|Axios: РФ пока не согласилась на объявленное Трампом энергетическое перемирие
 1791756781|https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform|Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda
 1791756788|https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html|Stock futures are little changed with big banks set to kick off earnings season: Live updates
 1791756796|https://lenta.ru/news/2026/10/12/rossiyanam-nazvali-neobhodimoe-vremya-v-nedelyu-dlya-zanyatiy-sportom/|Россиянам назвали необходимое время в неделю для занятий спортом
@@ -1998,3 +1993,8 @@
 1792353258|https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss|How will Europe deal with youth-led protests?
 1792353263|https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss|Clarence Seedorf calls out genocide in first Corinthians press conference
 1792353269|https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss|Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
+1792354059|https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss|India’s crackdown on cockroaches, critics and cameras
+1792354067|https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf|Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes
+1792354076|https://lenta.ru/news/2026/10/18/nelyubova-soobschila-o-poluchenii-zarubezhnoy-vizy/|Нелюбова сообщила о получении зарубежной визы
+1792354085|https://lenta.ru/news/2026/10/18/krym/|В Крыму напомнили Украине один факт о полуострове
+1792354091|https://lenta.ru/news/2026/10/18/v-rade-sochli-arest-zelenskogo-luchshim-vyhodom-iz-situatsii/|В Раде сочли арест Зеленского лучшим выходом из ситуации
