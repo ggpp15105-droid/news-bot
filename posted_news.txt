@@ -1,8 +1,3 @@
-1791759551|https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss|CCTV shows moment of deadly Houthi strike on Riyadh airport
-1791759558|https://www.dw.com/en/saudi-arabia-second-strike-kills-11-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf|Saudi Arabia: Second strike kills 11 at Riyadh airport
-1791759567|https://lenta.ru/news/2026/10/12/v-kremle-nazvali-vazhnyy-dlya-moskvy-punkt-v-deystviyah-kieva/|В Кремле назвали важный для Москвы пункт в действиях Киева
-1791759572|https://lenta.ru/news/2026/10/12/miroshnik-predupredil-o-vozmozhnyh-provokatsiyah-na-fone-sdelki-rossii-i-ssha/|Мирошник предупредил о возможных провокациях на фоне сделки России и США
-1791759577|https://lenta.ru/news/2026/10/12/ovechkin-obnovil-snayperskiy-rekord-nhl/|Овечкин обновил снайперский рекорд НХЛ
 1791760194|https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss|Footage shows moment Russian strike hits Ukrainian grocery store
 1791760200|https://www.japantimes.co.jp/business/2026/10/12/tech/hydrovault-startup/|Cooling innovation from a hot startup
 1791760209|https://lenta.ru/news/2026/10/12/muzhchina-poymal-zhenu-s-lyubovnikom-i-zastavil-ih-zanyatsya-seksom-na-lyudyah/|Мужчина поймал жену с любовником и заставил их заняться сексом на людях
@@ -1998,3 +1993,8 @@
 1792358176|https://lenta.ru/news/2026/10/19/19-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/|19 октября: какой праздник отмечают в России и мире
 1792358185|https://lenta.ru/news/2026/10/18/rossiyskie-rapiristy-pobedili-na-etape-kubka-mira/|Российские рапиристы победили на этапе Кубка мира
 1792358194|https://lenta.ru/news/2026/10/18/tramp-obvinil-zelenskogo-v-nezhelanii-zakanchivat-konflikt/|Трамп обвинил Зеленского в нежелании заканчивать конфликт
+1792359808|https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss|Macron condemns violence after riots lead to looting and mass arrests
+1792359818|https://www.aa.com.tr/en/americas/trump-holds-off-on-new-measures-against-russia-to-avoid-undermining-ukraine-peace-talks/4092929|Trump holds off on new measures against Russia to avoid undermining Ukraine peace talks
+1792359823|https://lenta.ru/news/2026/10/19/tramp-zayavil-ob-izmenenii-usloviy-dlya-mirnogo-soglasheniya-s-ukrainoy/|Трамп заявил об изменении условий для мирного соглашения с Украиной
+1792359828|https://lenta.ru/news/2026/10/19/putinu-napomnili-o-priglashenii-v-odnu-stranu/|Путину напомнили о приглашении в одну страну
+1792359832|https://lenta.ru/news/2026/10/19/atletiko-na-vyezde-obygral-espanol-v-chempionate-ispanii/|«Атлетико» на выезде обыграл «Эспаньол» в чемпионате Испании

@@ -439,3 +439,8 @@
 1792358176|Lenta.ru|19 октября: какой праздник отмечают в России и мире|https://lenta.ru/news/2026/10/19/19-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/
 1792358185|Lenta.ru|Российские рапиристы победили на этапе Кубка мира|https://lenta.ru/news/2026/10/18/rossiyskie-rapiristy-pobedili-na-etape-kubka-mira/
 1792358194|Lenta.ru|Трамп обвинил Зеленского в нежелании заканчивать конфликт|https://lenta.ru/news/2026/10/18/tramp-obvinil-zelenskogo-v-nezhelanii-zakanchivat-konflikt/
+1792359808|Al Jazeera|Макрон осудил насилие после того, как беспорядки привели к грабежам и массовым арестам|https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss
+1792359819|Anadolu|Трамп отложил новые меры против России, чтобы избежать подрыва мирных переговоров по Украине|https://www.aa.com.tr/en/americas/trump-holds-off-on-new-measures-against-russia-to-avoid-undermining-ukraine-peace-talks/4092929
+1792359823|Lenta.ru|Трамп заявил об изменении условий для мирного соглашения с Украиной|https://lenta.ru/news/2026/10/19/tramp-zayavil-ob-izmenenii-usloviy-dlya-mirnogo-soglasheniya-s-ukrainoy/
+1792359828|Lenta.ru|Путину напомнили о приглашении в одну страну|https://lenta.ru/news/2026/10/19/putinu-napomnili-o-priglashenii-v-odnu-stranu/
+1792359832|Lenta.ru|«Атлетико» на выезде обыграл «Эспаньол» в чемпионате Испании|https://lenta.ru/news/2026/10/19/atletiko-na-vyezde-obygral-espanol-v-chempionate-ispanii/
