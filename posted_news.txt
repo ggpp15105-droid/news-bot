@@ -1,8 +1,3 @@
-1791758712|https://lenta.ru/news/2026/10/12/v-mid-otsenili-zayavleniya-trampa-o-neobhodimosti-smeny-rukovodstva-ukrainy/|В МИД оценили заявления Трампа о необходимости смены руководства Украины
-1791758716|https://www.kommersant.ru/doc/9024251|Из-за ограничений в Москве более 25 самолетов ушли на запасные аэродромы
-1791758720|https://tass.ru/obschestvo/28204035|В ОП предложили ввести в школах поощрения за дежурство в школе
-1791758724|https://tass.ru/proisshestviya/28204033|На Алтае загорелась школа
-1791758729|https://tass.ru/mezhdunarodnaya-panorama/28204031|При атаке на аэропорт Эр-Рияда погиб человек
 1791759551|https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss|CCTV shows moment of deadly Houthi strike on Riyadh airport
 1791759558|https://www.dw.com/en/saudi-arabia-second-strike-kills-11-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf|Saudi Arabia: Second strike kills 11 at Riyadh airport
 1791759567|https://lenta.ru/news/2026/10/12/v-kremle-nazvali-vazhnyy-dlya-moskvy-punkt-v-deystviyah-kieva/|В Кремле назвали важный для Москвы пункт в действиях Киева
@@ -1998,3 +1993,8 @@
 1792357066|https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible|Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'
 1792357075|https://lenta.ru/news/2026/10/18/sinitsyna-rasskazala-o-perehode-k-plyuschenko/|Синицына рассказала о переходе к Плющенко
 1792357081|https://lenta.ru/news/2026/10/18/nazvany-tseli-udarov-po-kievu/|Названы цели ударов по Киеву
+1792358163|https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss|Inside Chicago's battle against the synthetic drugs flooding the US
+1792358171|https://lenta.ru/news/2026/10/19/filadelfiya-obygrala-ottavu-i-prervala-seriyu-iz-devyati-porazheniy/|«Филадельфия» обыграла «Оттаву» и прервала серию из девяти поражений
+1792358176|https://lenta.ru/news/2026/10/19/19-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/|19 октября: какой праздник отмечают в России и мире
+1792358185|https://lenta.ru/news/2026/10/18/rossiyskie-rapiristy-pobedili-na-etape-kubka-mira/|Российские рапиристы победили на этапе Кубка мира
+1792358194|https://lenta.ru/news/2026/10/18/tramp-obvinil-zelenskogo-v-nezhelanii-zakanchivat-konflikt/|Трамп обвинил Зеленского в нежелании заканчивать конфликт
