@@ -464,3 +464,8 @@
 1792364824|CNBC|Anthropic инвестирует 5% акций в новый фонд общественных благ, который может решить проблему нарушения работы ИИ|https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html
 1792364832|Lenta.ru|В Конгрессе США выступили против призывов к продолжению конфликта на Украине|https://lenta.ru/news/2026/10/19/v-kongresse-ssha-vystupili-protiv-prizyvov-k-prodolzheniyu-konflikta-na-ukraine/
 1792364840|Lenta.ru|Трамп объяснил отказ ужесточать санкции против России|https://lenta.ru/news/2026/10/19/tramp-ob-yasnil-otkaz-uzhestochat-sanktsii-protiv-rossii/
+1792366139|Al Jazeera|Протестующие сорвали мероприятие Бен-Гвира, вынудив его покинуть сцену|https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss
+1792366147|CNBC|Министр финансов Индии обвиняет легкие выходы и избыточную ликвидность в неэффективности фондового рынка|https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html
+1792366154|Japan Times|Зеленский заявил, что Трамп подталкивает Украину к капитуляции перед Россией|https://www.japantimes.co.jp/news/2026/10/19/world/politics/zelenskyy-trump-ukraine-russia-war/
+1792366163|Lenta.ru|Дмитриев картинкой с золотым унитазом прокомментировал разоблачение Трампом Зеленского|https://lenta.ru/news/2026/10/19/dmitriev-kartinkoy-s-zolotym-unitazom-prokommentiroval-razoblachenie-trampom-zelenskogo/
+1792366167|Lenta.ru|Дмитриев дал Зеленскому совет|https://lenta.ru/news/2026/10/19/dmitriev-dal-zelenskomu-sovet/

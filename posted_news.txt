@@ -1,8 +1,3 @@
-1791763440|https://lenta.ru/news/2026/10/12/pochti-70-protsentov-kieva-ostalis-bez-vody/|Почти 70 процентов Киева остались без воды
-1791763449|https://www.kommersant.ru/doc/9024215|Коксующийся уголь в России в октябре подорожал на 19,5–35,7%
-1791763454|https://tass.ru/proisshestviya/28204061|Почти 70% Киева осталось без водоснабжения из-за повреждения ЛЭП
-1791763458|https://tass.ru/nedvizhimost/28204057|В ОП предложили давать многодетным жилье из числа нераспроданных квартир
-1791763462|https://tass.ru/sport/28204059|"Вашингтон" проиграл "Сиэтлу" в матче НХЛ, несмотря на первый гол Овечкина
 1791765225|https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss|Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’
 1791765233|https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-hed-return-to-the-doom-series-in-a-heartbeat|Doom 2016 Composer Mick Gordon Says He'd Return to the Doom Series "In a Heartbeat"
 1791765242|https://lenta.ru/news/2026/10/12/v-ssha-zayavili-o-finalnoy-stadii-konflikta-na-ukraine/|В США заявили о финальной стадии конфликта на Украине
@@ -1998,3 +1993,8 @@
 1792364823|https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html|Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption
 1792364832|https://lenta.ru/news/2026/10/19/v-kongresse-ssha-vystupili-protiv-prizyvov-k-prodolzheniyu-konflikta-na-ukraine/|В Конгрессе США выступили против призывов к продолжению конфликта на Украине
 1792364840|https://lenta.ru/news/2026/10/19/tramp-ob-yasnil-otkaz-uzhestochat-sanktsii-protiv-rossii/|Трамп объяснил отказ ужесточать санкции против России
+1792366139|https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss|Protesters disrupt Ben-Gvir event forcing him off stage
+1792366146|https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html|India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance
+1792366154|https://www.japantimes.co.jp/news/2026/10/19/world/politics/zelenskyy-trump-ukraine-russia-war/|Zelenskyy says Trump is pushing Ukraine to capitulate to Russia
+1792366163|https://lenta.ru/news/2026/10/19/dmitriev-kartinkoy-s-zolotym-unitazom-prokommentiroval-razoblachenie-trampom-zelenskogo/|Дмитриев картинкой с золотым унитазом прокомментировал разоблачение Трампом Зеленского
+1792366167|https://lenta.ru/news/2026/10/19/dmitriev-dal-zelenskomu-sovet/|Дмитриев дал Зеленскому совет
