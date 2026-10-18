@@ -1,8 +1,3 @@
-1791765225|https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss|Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’
-1791765233|https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-hed-return-to-the-doom-series-in-a-heartbeat|Doom 2016 Composer Mick Gordon Says He'd Return to the Doom Series "In a Heartbeat"
-1791765242|https://lenta.ru/news/2026/10/12/v-ssha-zayavili-o-finalnoy-stadii-konflikta-na-ukraine/|В США заявили о финальной стадии конфликта на Украине
-1791765250|https://lenta.ru/news/2026/10/12/na-ukraine-zahoteli-prezidenta-kak-putin/|На Украине захотели президента как Путин
-1791765255|https://lenta.ru/news/2026/10/12/raskryt-sposob-bezopasno-poluchit-udovolstvie-ot-neobychnogo-fetisha-na-pogodu/|Раскрыт способ безопасно получить удовольствие от необычного фетиша на погоду
 1791767009|https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss|Iran’s FM urges diplomacy in call with Saudi counterpart
 1791767016|https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss|Hurricane Isaias leaves trail of destruction across the US Gulf Coast
 1791767022|https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss|Ceuta or Sebta? Why one city has two names and a disputed status
@@ -1998,3 +1993,8 @@
 1792366154|https://www.japantimes.co.jp/news/2026/10/19/world/politics/zelenskyy-trump-ukraine-russia-war/|Zelenskyy says Trump is pushing Ukraine to capitulate to Russia
 1792366163|https://lenta.ru/news/2026/10/19/dmitriev-kartinkoy-s-zolotym-unitazom-prokommentiroval-razoblachenie-trampom-zelenskogo/|Дмитриев картинкой с золотым унитазом прокомментировал разоблачение Трампом Зеленского
 1792366167|https://lenta.ru/news/2026/10/19/dmitriev-dal-zelenskomu-sovet/|Дмитриев дал Зеленскому совет
+1792367331|https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss|'Very upsetting': Residents in shock after historic French town hall set alight
+1792367339|https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss|Major fire at Canada military base leaves four dead, dozens injured
+1792367347|https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf|Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition
+1792367355|https://www.japantimes.co.jp/news/2026/10/19/japan/politics/yokohama-mayor-election-atsumi-harasawa/|Yokohama elects new mayor after power harassment controversy
+1792367365|https://www.aa.com.tr/en/world/irans-foreign-minister-accuses-netanyahu-of-pushing-us-toward-another-war-to-avoid-prison/4092947|Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison
