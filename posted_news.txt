@@ -1,8 +1,3 @@
-1791761174|https://news.sky.com/story/putin-has-already-broken-trumps-energy-ceasefire-with-attack-on-power-plant-says-zelenskyy-13597989|Putin has already broken Trump's 'energy ceasefire' with attack on power plant, says Zelenskyy
-1791761184|https://lenta.ru/news/2026/10/12/politolog-dopustil-uzhestochenie-pozitsii-trampa-v-otnoshenii-zelenskogo/|Политолог допустил ужесточение позиции Трампа в отношении Зеленского
-1791761189|https://lenta.ru/news/2026/10/12/zyuganov-obratilsya-k-kim-chen-ynu/|Зюганов обратился к Ким Чен Ыну
-1791761193|https://lenta.ru/news/2026/10/12/kolichestvo-zadaniy-na-ege-po-dvum-predmetam-uvelichitsya/|Количество заданий на ЕГЭ по двум предметам увеличится
-1791761202|https://www.kommersant.ru/doc/9024212|Ужесточение торговой политики ЕС скажется на экономике КНР незначительно
 1791762019|https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss|Pakistani national killed in second Houthi strike on Riyadh airport
 1791762025|https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss|US Homeland Security secretary sees no ‘risk’ from livestreamed execution
 1791762032|https://www.aa.com.tr/en/world/germany-reaffirms-russia-sanctions-after-trump-putin-diesel-supply-agreement/4084711|Germany reaffirms Russia sanctions after Trump-Putin diesel supply agreement
@@ -1998,3 +1993,8 @@
 1792361051|https://lenta.ru/news/2026/10/19/tramp-vyskazalsya-o-vvedenii-sanktsiy-protiv-rossii/|Трамп высказался об ужесточении санкций против России
 1792361056|https://lenta.ru/news/2026/10/19/fundora-nokautiroval-hadribeya-na-posledney-sekunde-boya/|Фундора нокаутировал Хадрибея на последней секунде боя
 1792361061|https://lenta.ru/news/2026/10/19/zelenskiy-obvinil-trampa-v-kapitulyatsii-ukrainy/|Зеленский обвинил Трампа в «капитуляции Украины»
+1792362422|https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss|Trump says suspension of Russia sanctions is to keep peace negotiations going
+1792362430|https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss|Alberta independence referendum: Will separatists survive a loss?
+1792362437|https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf|Ebola: Kenya cases rise to 8, spreads to 8th Congo province
+1792362443|https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised|Canadian military base fire kills at least four, injures dozens
+1792362449|https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html|Nasdaq futures gain as investors buy the dip in the AI trade: Live updates

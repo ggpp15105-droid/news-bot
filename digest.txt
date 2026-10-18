@@ -449,3 +449,8 @@
 1792361051|Lenta.ru|Трамп высказался об ужесточении санкций против России|https://lenta.ru/news/2026/10/19/tramp-vyskazalsya-o-vvedenii-sanktsiy-protiv-rossii/
 1792361056|Lenta.ru|Фундора нокаутировал Хадрибея на последней секунде боя|https://lenta.ru/news/2026/10/19/fundora-nokautiroval-hadribeya-na-posledney-sekunde-boya/
 1792361061|Lenta.ru|Зеленский обвинил Трампа в «капитуляции Украины»|https://lenta.ru/news/2026/10/19/zelenskiy-obvinil-trampa-v-kapitulyatsii-ukrainy/
+1792362422|BBC World|Трамп заявил, что приостановка санкций против России означает продолжение мирных переговоров|https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss
+1792362430|Al Jazeera|Референдум о независимости Альберты: выживут ли сепаратисты?|https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss
+1792362437|DW|Эбола: число заболевших в Кении возросло до 8, распространившись на 8-ю провинцию Конго|https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf
+1792362443|France 24|Пожар на канадской военной базе унес жизни не менее четырех человек, десятки получили ранения|https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised
+1792362450|CNBC|Фьючерсы Nasdaq растут, поскольку инвесторы покупают падение в торговле ИИ: живые обновления|https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html
