@@ -1,8 +1,3 @@
-1791748299|https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss|Mexican president urges residents to shelter as Hurricane Simon approaches
-1791748305|https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-all-1573-rdf|Air strikes kill dozens of gold miners on Sudan-Egypt border
-1791748311|https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote|UK PM Burnham warns French voters of Russian political influence on back of Brexit vote
-1791748316|https://www.euronews.com/2026/10/11/judo-japan-reclaim-mixed-team-world-title-with-eighth-gold-in-baku|Judo: Japan reclaim mixed team world title with eighth gold in Baku
-1791748324|https://www.kommersant.ru/doc/9024228|Песков назвал огромным спрос на российское дизельное топливо // Песков: Россия без проблем поставит дизель на мировые рынки
 1791748910|https://lenta.ru/news/2026/10/11/dinamo-obygralo-zenit-i-vyshlo-v-final-kubka-legend/|«Динамо» обыграло «Зенит» и вышло в финал Кубка легенд
 1791748919|https://lenta.ru/news/2026/10/11/stalo-izvestno-o-pomoschi-lyudey-v-forme-vsu-v-mobilizatsii-zhiteley-lvova/|Стало известно о помощи людей в форме ВСУ в мобилизации жителей Львова
 1791748927|https://www.kommersant.ru/doc/9024230|Один человек погиб при ударе БПЛА по машине в Белгородской области
@@ -1998,3 +1993,8 @@
 1792340959|https://www.euronews.com/2026/10/18/magyar-links-french-riots-to-migration-says-shocking-scenes-justify-hard-line|Magyar links French riots to migration, says ‘shocking scenes’ justify hard line
 1792340966|https://www.euronews.com/2026/10/18/southern-valencia-coast-on-alert-as-storm-adam-may-dump-300-mm-of-rain-in-12-hours|Southern Valencia coast on alert as storm Adam may dump 300 mm of rain in 12 hours
 1792340974|https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance|Modder brings full Nvidia DLSS 5 suite to three generations of AMD gaming GPUs
+1792342550|https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss|Trump endorses Netanyahu in Israeli legislative elections
+1792342556|https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss|‘Hybrid warfare’: Taiwan drives away 16 Chinese ships
+1792342563|https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss|French mayor attacked by settlers during occupied West Bank olive harvest
+1792342571|https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf|Saudi Arabia sends skyscraper employees home amid Houthi threats
+1792342576|https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters|Renewed clashes in Paris: "We've seen numerous CRS charges to disperse protesters"
