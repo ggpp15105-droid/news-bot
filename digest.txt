@@ -309,3 +309,8 @@
 1792321866|DW|Под угрозой восьмичасовой рабочий день в Германии?|https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf
 1792321873|Euronews|Украинские войска наносят удары по Санкт-Петербургу и Ленинградской области|https://www.euronews.com/2026/10/18/ukrainian-forces-strike-st-petersburg-and-leningrad-region
 1792321882|Euronews|Сожженные велосипеды, разбитые окна и разграбленные магазины: тропа разрушений по всему Парижу|https://www.euronews.com/video/2026/10/18/burnt-bicycles-smashed-windows-and-looted-shops-trail-of-destruction-across-paris
+1792323309|Al Jazeera|Какую помощь может оказать Саудовская Аравия в войне против хуситов?|https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss
+1792323316|France 24|Знаменитая таверна Атланты отмечает прошлое Грузии с прицелом на будущее по мере приближения промежуточных выборов.|https://www.france24.com/en/americas/20261018-atlanta-iconic-tavern-marks-georgia-past-eye-future-midterms-approach-ossoff-collins
+1792323321|France 24|Неуправляемый грузовик убил 13 человек на индуистском фестивале в Индии|https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india
+1792323326|France 24|Беспорядки в Тиране начались на пятый день после эскалации антиправительственных протестов в Албании|https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate
+1792323334|Euronews|Лион просыпается на месте разрушений после протестов|https://www.euronews.com/video/2026/10/18/lyon-wakes-up-to-scenes-of-destruction-after-violent-protests

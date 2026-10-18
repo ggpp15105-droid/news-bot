@@ -1,8 +1,3 @@
-1791736697|https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss|Football fans speak about City’s charges as they face Liverpool
-1791736703|https://www.euronews.com/2026/10/11/paris-motor-show-macron-calls-for-european-preference-against-china|Paris motor show: Macron calls for European preference against China
-1791736710|https://www.ign.com/articles/tekken-8-yujiro-teaser-reveals-baki-reps-in-game-render-is-just-as-uncanny-as-fans-expected|Tekken 8 Yujiro Teaser Reveals Baki Rep's In-Game Render Is Just as Uncanny as Fans Expected
-1791736716|https://www.tomshardware.com/video-games/console-gaming/console-market-craters-as-xbox-sales-crash-33-percent-to-the-lowest-since-launch-25-years-ago-ps5-sales-drop-25-percent-steep-price-hikes-push-series-x-to-usd800-and-ps5-pro-to-usd900|Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%
-1791736723|https://www.tomshardware.com/software/linux/cyberleek-threatens-full-gta-6-build-leak-unless-take-two-apologizes-and-his-usd30-million-crypto-memecoin-goal-is-met-leaker-demands-physical-release-while-pumping-solana-memecoin-to-usd30m|Cyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met
 1791737624|https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss|Saudi capital airport hit by second strike in two days
 1791737629|https://lenta.ru/news/2026/10/11/barselona-razgromila-hetafe-v-matche-la-ligi/|«Барселона» разгромила «Хетафе» в матче Ла Лиги
 1791737635|https://lenta.ru/news/2026/10/11/vneshnost-novoispechennyh-roditeley-palvin-i-sprousa-vyzvala-sochuvstvie-u-fanatov/|Внешность новоиспеченных родителей Палвин и Спроуса вызвала сочувствие у фанатов
@@ -1998,3 +1993,8 @@
 1792321866|https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf|Is Germany's eight-hour workday under threat?
 1792321873|https://www.euronews.com/2026/10/18/ukrainian-forces-strike-st-petersburg-and-leningrad-region|Ukrainian forces strike St Petersburg and Leningrad region
 1792321881|https://www.euronews.com/video/2026/10/18/burnt-bicycles-smashed-windows-and-looted-shops-trail-of-destruction-across-paris|Burnt bicycles, smashed windows and looted shops: Trail of destruction across Paris
+1792323309|https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss|What help can Egypt offer Saudi Arabia in the war against the Houthis?
+1792323315|https://www.france24.com/en/americas/20261018-atlanta-iconic-tavern-marks-georgia-past-eye-future-midterms-approach-ossoff-collins|Atlanta’s iconic tavern marks Georgia’s past with an eye on future as midterms approach
+1792323321|https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india|Out-of-control truck kills 13 at Hindu festival in India
+1792323326|https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate|Riots in Tirana enter a fifth day as Albania's anti-government protests escalate
+1792323334|https://www.euronews.com/video/2026/10/18/lyon-wakes-up-to-scenes-of-destruction-after-violent-protests|Lyon wakes up to scenes of destruction after violent protests
