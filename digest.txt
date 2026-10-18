@@ -1,4 +1,4 @@
-#last=2026-10-18-8|1792345208
+#last=2026-10-18-20|1792346374
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -389,3 +389,8 @@
 1792345245|IGN|Лучшие предложения сегодня: Приключения Эллиота, Пикмин 4, Мышь: P.I. для найма и многое другое|https://www.ign.com/articles/best-deals-for-october-18-2026
 1792345253|Eurogamer|Разработчики Battlefield 6 исправили опечатку кожи «Secuty», но наряд из пяти пистолетов был преднамеренным|https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond
 1792345261|Eurogamer|Только память и хранилище PS6 стоят более 680 долларов.|https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2
+1792346395|Al Jazeera|Мадуэке забил только гол, так как ниже Арсенал обыграл Ноттингем Форест|https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss
+1792346401|Al Jazeera|Жители рассказывают об ударах беспилотников в северном регионе Тиграй в Эфиопии|https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss
+1792346409|Euronews|Владельцы магазинов защищают свои средства к существованию от мародеров в масках во время французских беспорядков|https://www.euronews.com/video/2026/10/18/shopkeepers-defend-their-livelihood-from-masked-looters-during-the-french-riots
+1792346417|Tom's Hardware|Пилот F-22 Raptor успешно продемонстрировал командование беспилотником-истребителем «wingman» в смоделированных боях|https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons
+1792346426|Lenta.ru|Россиянка впервые выиграла чемпионат Европы по настольному теннису|https://lenta.ru/news/2026/10/18/rossiyanka-vpervye-vyigrala-chempionat-evropy-po-nastolnomu-tennisu/

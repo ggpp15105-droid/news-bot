@@ -1,8 +1,3 @@
-1791750719|https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss|Pakistan suspends Imran Khan’s party-led provincial government
-1791750724|https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss|Saudi health minister visits survivors of deadly Riyadh airport attack
-1791750731|https://www.dw.com/en/moscow-claims-former-ukrainian-prisoners-are-fighting-under-russian-command-voluntarily-but-veterans-and-former-pows-share-different-accounts/a-79629555?maca=en-rss-en-all-1573-rdf|Moscow claims former Ukrainian prisoners are fighting under Russian command — voluntarily. But veterans and former POWs share different accounts.
-1791750737|https://www.ign.com/articles/new-netease-fps-sparks-warzone-rip-off-claims-but-some-call-of-duty-fans-are-happy-to-see-it|New NetEase FPS Sparks Warzone 'Rip-Off' Claims, But Some Call of Duty Fans Are Happy to See It
-1791750742|https://lenta.ru/news/2026/10/11/v-ssha-raskryli-podrobnosti-zayavleniya-trampa-ob-energeticheskom-peremirii/|В США раскрыли подробности заявления Трампа об энергетическом перемирии
 1791751747|https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss|Zelenskyy welcomes US-announced energy ceasefire
 1791751753|https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss|Syrian families demand release of detainees held by Israel
 1791751760|https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-rdf|Who are the Ukrainian 'volunteers' under Russian command?
@@ -1998,3 +1993,8 @@
 1792345245|https://www.ign.com/articles/best-deals-for-october-18-2026|The Best Deals Today: The Adventures of Elliot, Pikmin 4, Mouse: P.I. For Hire, and More
 1792345253|https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond|Battlefield 6 devs to fix "Secuty" skin typo, but five-pistol outfit was intentional
 1792345261|https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2|The PS6's memory and storage alone reportedly cost more than $680
+1792346395|https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss|Madueke scores only goal as below-par Arsenal beat Nottingham Forest
+1792346401|https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss|Residents recount drone strikes in Ethiopia’s northern Tigray region
+1792346408|https://www.euronews.com/video/2026/10/18/shopkeepers-defend-their-livelihood-from-masked-looters-during-the-french-riots|Shopkeepers defend their livelihood from masked looters during the French riots
+1792346417|https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons|F-22 Raptor pilot successfully demonstrates command of 'wingman' fighter drone in simulated combat
+1792346426|https://lenta.ru/news/2026/10/18/rossiyanka-vpervye-vyigrala-chempionat-evropy-po-nastolnomu-tennisu/|Россиянка впервые выиграла чемпионат Европы по настольному теннису
