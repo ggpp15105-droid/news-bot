@@ -1,8 +1,3 @@
-1791717591|https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss|Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on
-1791717596|https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss|Fear and uncertainty for civilians as Yemen’s capital comes under attack
-1791717601|https://lenta.ru/news/2026/10/11/zapashnyy-zayavil-o-zhelanii-tsirkovyh-artistov-iz-ukrainy-priehat-v-rossiyu/|Запашный заявил о желании цирковых артистов из Украины приехать в Россию
-1791717606|https://lenta.ru/news/2026/10/11/amerikanskiy-samolet-razvedchik-zametili-vblizi-kryma/|Американский самолет-разведчик заметили вблизи Крыма
-1791717611|https://lenta.ru/news/2026/10/11/nekotorye-storonniki-trampa-vystupili-protiv-dizelnoy-sdelki-ssha-i-rossii/|Некоторые сторонники Трампа выступили против дизельной сделки США и России
 1791718533|https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss|Mohamed Salah sets Turkish Super Lig record for Trabzonspor
 1791718541|https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss|Yemen fighting expands as Houthis attack Saudi airport: What to know
 1791718546|https://news.sky.com/story/four-dead-as-hurricane-isaias-crashes-into-us-as-mexico-braces-itself-for-major-storm-13597710|Four dead as Hurricane Isaias crashes into US - as Mexico braces itself for major storm
@@ -1998,3 +1993,8 @@
 1792289023|https://www.japantimes.co.jp/news/2026/10/18/world/saudi-arabia-attack-egypt-help/|Saudi Arabia reports incoming fire as Egypt weighs sending help
 1792289033|https://lenta.ru/news/2026/10/18/v-lenoblasti-oblomki-bespilotnikov-upali-na-mnogokvartirnyy-dom/|В Ленобласти обломки беспилотников упали на многоквартирный дом
 1792289038|https://lenta.ru/news/2026/10/18/v-vs-rossii-zayavili-o-razgrome-soten-raschetov-bespilotnikov-vsu/|В ВС России заявили о разгроме сотен расчетов беспилотников ВСУ
+1792290573|https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss|Iran says two tankers catch fire after hitting mines in Strait of Hormuz
+1792290579|https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf|Canada: Major fire reported at military base in Alberta
+1792290584|https://www.japantimes.co.jp/business/2026/10/18/companies/nidec-legal-measures/|Nidec to seek damages from founder and executives over accounting fraud
+1792290590|https://www.japantimes.co.jp/news/2026/10/18/world/politics/el-sissi-egypt-president-2030/|Egypt’s Abdel-Fattah el-Sissi says his presidency will end in 2030
+1792290596|https://www.japantimes.co.jp/news/2026/10/18/asia-pacific/stampede-india-religious-gathering/|At least 19 dead and 25 hurt in stampede at India religious gathering

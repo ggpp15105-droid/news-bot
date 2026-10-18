@@ -204,3 +204,8 @@
 1792289024|Japan Times|Саудовская Аравия сообщает о приближающемся пожаре, поскольку Египет взвешивает отправку помощи|https://www.japantimes.co.jp/news/2026/10/18/world/saudi-arabia-attack-egypt-help/
 1792289033|Lenta.ru|В Ленобласти обломки беспилотников упали на многоквартирный дом|https://lenta.ru/news/2026/10/18/v-lenoblasti-oblomki-bespilotnikov-upali-na-mnogokvartirnyy-dom/
 1792289038|Lenta.ru|В ВС России заявили о разгроме сотен расчетов беспилотников ВСУ|https://lenta.ru/news/2026/10/18/v-vs-rossii-zayavili-o-razgrome-soten-raschetov-bespilotnikov-vsu/
+1792290573|Al Jazeera|Иран заявил, что два танкера загорелись после попадания в шахты в Ормузском проливе|https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss
+1792290579|DW|Канада: на военной базе в Альберте зарегистрирован крупный пожар|https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf
+1792290585|Japan Times|Nidec будет добиваться возмещения убытков от учредителей и руководителей за мошенничество с бухгалтерским учетом|https://www.japantimes.co.jp/business/2026/10/18/companies/nidec-legal-measures/
+1792290590|Japan Times|Абдель-Фаттах ас-Сиси заявил, что его президентство закончится в 2030 году|https://www.japantimes.co.jp/news/2026/10/18/world/politics/el-sissi-egypt-president-2030/
+1792290596|Japan Times|По меньшей мере 19 погибших и 25 раненых в давке на религиозном собрании в Индии|https://www.japantimes.co.jp/news/2026/10/18/asia-pacific/stampede-india-religious-gathering/
