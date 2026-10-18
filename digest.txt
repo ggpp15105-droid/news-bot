@@ -184,3 +184,8 @@
 1792281513|Japan Times|Отказ Трампа от санкций в отношении России назвали ошибкой союзников Республиканской партии|https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-russia-sanctions-republicans-mistake/
 1792281522|Lenta.ru|Госдеп подтвердил лишение Украины доступа к военной спутниковой связи Starshield|https://lenta.ru/news/2026/10/18/gosdep-podtverdil-lishenie-ukrainy-dostupa-k-voennoy-sputnikovoy-svyazi-starshield/
 1792281527|Lenta.ru|Премьера Польши раскритиковали после встречи с Зеленским|https://lenta.ru/news/2026/10/18/premiera-polshi-raskritikovali-posle-vstrechi-s-zelenskim/
+1792283002|Al Jazeera|Иранская война в прямом эфире: танкеры нанесли удар в Ормузе; израильские поселенцы напали на дипломатов ЕС|https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss
+1792283009|Japan Times|В США мероприятия «Нет королей» способствуют досрочному голосованию|https://www.japantimes.co.jp/news/2026/10/18/world/politics/us-no-kings-early-voting/
+1792283014|Lenta.ru|Силы ПВО отразили атаку более десяти беспилотников на Ленинградскую область|https://lenta.ru/news/2026/10/18/sily-pvo-otrazili-ataku-bolee-desyati-bespilotnikov-na-leningradskuyu-oblast/
+1792283019|Lenta.ru|Эксперт заявил об ослаблении позиций ВСУ в Харьковской области|https://lenta.ru/news/2026/10/18/marochko-raskryl-prichiny-prodvizheniya-rossiyskih-voysk-v-harkovskoy-oblasti/
+1792283023|Lenta.ru|Аналитик рассказал о страхе Макрона из-за протестов во Франции|https://lenta.ru/news/2026/10/18/analitik-rasskazal-o-strahe-makrona-iz-za-protestov-vo-frantsii/
