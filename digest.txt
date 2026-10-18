@@ -1,4 +1,4 @@
-#last=2026-10-18-8|1792355500
+#last=2026-10-18-20|1792357035
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -429,3 +429,8 @@
 1792355531|Lenta.ru|Хргович посоветовал Уордли завершить боксерскую карьеру|https://lenta.ru/news/2026/10/18/hrgovich-posovetoval-uordli-zavershit-bokserskuyu-karieru/
 1792355535|Lenta.ru|Российские «Герани» атаковали склад с электроникой для беспилотников ВСУ|https://lenta.ru/news/2026/10/18/rossiyskie-gerani-atakovali-sklad-s-elektronikoy-dlya-bespilotnikov-vsu/
 1792355540|Lenta.ru|Семененко выиграл короткую программу на Гран-при России|https://lenta.ru/news/2026/10/18/semenenko-vyigral-korotkuyu-programmu-na-gran-pri-rossii/
+1792357053|Al Jazeera|Пожар охватил Верховный суд Албании, протесты начались на пятый день|https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss
+1792357059|Sky News|Рейс из Тель-Авива в Вену совершил аварийную посадку после угрозы взрыва|https://news.sky.com/story/flight-from-tel-aviv-to-vienna-makes-emergency-landing-after-bomb-threat-13600784
+1792357066|IGN|Silent Hill Remake Studio хочет сделать физические игры как можно дольше|https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible
+1792357075|Lenta.ru|Синицына рассказала о переходе к Плющенко|https://lenta.ru/news/2026/10/18/sinitsyna-rasskazala-o-perehode-k-plyuschenko/
+1792357081|Lenta.ru|Названы цели ударов по Киеву|https://lenta.ru/news/2026/10/18/nazvany-tseli-udarov-po-kievu/

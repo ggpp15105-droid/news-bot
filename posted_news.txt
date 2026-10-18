@@ -1,8 +1,3 @@
-1791757771|https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf|UK's Burnham accuses Russia of meddling in Brexit vote
-1791757776|https://lenta.ru/news/2026/10/12/u-beregov-indoneziyskogo-ostrova-proizoshlo-zemletryasenie/|У берегов индонезийского острова произошло землетрясение
-1791757781|https://lenta.ru/news/2026/10/12/v-slovakii-vystupili-za-prodolzhenie-postavok-rossiyskogo-gaza/|В Словакии выступили за продолжение поставок российского газа
-1791757786|https://www.kommersant.ru/doc/9024252|Хуситы атаковали аэропорт Эд-Даммама в Саудовской Аравии
-1791757791|https://tass.ru/mezhdunarodnaya-panorama/28204027|Конгрессмен Мэсси поддержал договоренности России и США по дизелю
 1791758712|https://lenta.ru/news/2026/10/12/v-mid-otsenili-zayavleniya-trampa-o-neobhodimosti-smeny-rukovodstva-ukrainy/|В МИД оценили заявления Трампа о необходимости смены руководства Украины
 1791758716|https://www.kommersant.ru/doc/9024251|Из-за ограничений в Москве более 25 самолетов ушли на запасные аэродромы
 1791758720|https://tass.ru/obschestvo/28204035|В ОП предложили ввести в школах поощрения за дежурство в школе
@@ -1998,3 +1993,8 @@
 1792355531|https://lenta.ru/news/2026/10/18/hrgovich-posovetoval-uordli-zavershit-bokserskuyu-karieru/|Хргович посоветовал Уордли завершить боксерскую карьеру
 1792355535|https://lenta.ru/news/2026/10/18/rossiyskie-gerani-atakovali-sklad-s-elektronikoy-dlya-bespilotnikov-vsu/|Российские «Герани» атаковали склад с электроникой для беспилотников ВСУ
 1792355540|https://lenta.ru/news/2026/10/18/semenenko-vyigral-korotkuyu-programmu-na-gran-pri-rossii/|Семененко выиграл короткую программу на Гран-при России
+1792357053|https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss|Fire engulfs Albania’s Supreme Court as protests enter fifth day
+1792357058|https://news.sky.com/story/flight-from-tel-aviv-to-vienna-makes-emergency-landing-after-bomb-threat-13600784|Flight from Tel Aviv to Vienna makes emergency landing after bomb threat
+1792357066|https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible|Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'
+1792357075|https://lenta.ru/news/2026/10/18/sinitsyna-rasskazala-o-perehode-k-plyuschenko/|Синицына рассказала о переходе к Плющенко
+1792357081|https://lenta.ru/news/2026/10/18/nazvany-tseli-udarov-po-kievu/|Названы цели ударов по Киеву
