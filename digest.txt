@@ -349,3 +349,8 @@
 1792333919|DW|Украина приносит извинения после того, как подозреваемый беспилотник разбился в Литве, повредив движущийся автомобиль.|https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf
 1792333926|DW|Папа Римский впервые появился на публике после операции|https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf
 1792333934|Euronews|Проверьте свой кошелек: некоторые монеты достоинством 2 евро стоят намного больше|https://www.euronews.com/2026/10/18/check-your-wallet-some-2-euro-coins-are-worth-far-more
+1792335394|Al Jazeera|Протесты во Франции: Макрон обратится к нации после протестов|https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss
+1792335400|Al Jazeera|Почему Трамп поощряет голосование по почте?|https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss
+1792335407|CNBC|Бессент предупреждает Зеленского «быть очень осторожным» в отношении заявлений о том, что США подавляют Starlink|https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html
+1792335415|Euronews|Россия: Огромное пламя и дым поднимаются над Санкт-Петербургом после ударов беспилотников|https://www.euronews.com/video/2026/10/18/russia-huge-flames-and-smoke-rise-over-st-petersburg-after-drone-strikes
+1792335422|Euronews|Рубио прибыл в Самарканд в поисках более тесных связей с Центральной Азией|https://www.euronews.com/2026/10/18/rubio-arrives-in-samarkand-as-washington-seeks-closer-ties-with-central-asia

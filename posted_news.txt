@@ -1,8 +1,3 @@
-1791743887|https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss|Lebanon’s first electric train hopes to revive railway system
-1791743892|https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796|Pakistan's president declares state of emergency in province run by Imran Khan's party
-1791743900|https://www.euronews.com/2026/10/11/french-social-democratic-primary-raphael-glucksmann-wins-big-in-first-round|French Social democratic primary: Raphaël Glucksmann wins big in first round
-1791743909|https://lenta.ru/news/2026/10/11/na-ukraine-priznali-nesposobnost-protivostoyat-rossiyskim-reaktivnym-geranyam/|На Украине признали неспособность противостоять российским реактивным «Гераням»
-1791743914|https://lenta.ru/news/2026/10/11/dinamo-stalo-liderom-rpl/|«Динамо» стало лидером РПЛ
 1791744982|https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss|Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza
 1791744990|https://www.euronews.com/2026/10/11/shakira-sets-amazon-music-record-in-madrid-with-most-watched-live-stream-by-a-female-artis|Shakira sets Amazon Music record in Madrid with most-watched live stream by a female artist
 1791744995|https://www.euronews.com/2026/10/11/antarctic-penguins-emit-up-to-7-million-tonnes-of-methane-a-year-study-finds|Antarctic penguins emit up to 7 million tonnes of methane a year, study finds
@@ -1998,3 +1993,8 @@
 1792333919|https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf|Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.
 1792333926|https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf|Pope appears in public for first time since surgery
 1792333933|https://www.euronews.com/2026/10/18/check-your-wallet-some-2-euro-coins-are-worth-far-more|Check your wallet: some 2-euro coins are worth far more
+1792335394|https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss|France protests live: Macron to address nation after protests
+1792335400|https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss|Why is Trump now encouraging mail-in voting?
+1792335407|https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html|Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink
+1792335415|https://www.euronews.com/video/2026/10/18/russia-huge-flames-and-smoke-rise-over-st-petersburg-after-drone-strikes|Russia: Huge flames and smoke rise over St Petersburg after drone strikes
+1792335422|https://www.euronews.com/2026/10/18/rubio-arrives-in-samarkand-as-washington-seeks-closer-ties-with-central-asia|Rubio arrives in Samarkand as Washington seeks closer ties with Central Asia
