@@ -329,3 +329,8 @@
 1792328099|Euronews|Предприятия и владельцы магазинов поднимают кусочки после протестов во Франции|https://www.euronews.com/2026/10/18/businesses-and-shopkeepers-pick-up-the-pieces-after-protests-in-france-spiral-into-looting
 1792328105|GameSpot|Tenebris Somnia выпускает 2D-визуалы со сценами ужасов в прямом эфире, и они уже продаются на старте|https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/
 1792328112|Rock Paper Shotgun|Воскресные газеты|https://www.rockpapershotgun.com/the-sunday-papers-832
+1792329694|Al Jazeera|ФИФА отказывается от своей премии мира после присуждения ее президенту США Трампу?|https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss
+1792329699|Al Jazeera|Жители Парижа говорят Al Jazeera, что они встревожены ущербом от протестов|https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss
+1792329704|Al Jazeera|Почему погромы поселенцев усилились во время сезона сбора урожая оливок на Западном берегу?|https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss
+1792329708|France 24|Как будто у нас была война: Франция подсчитала стоимость протестов|https://www.france24.com/en/video/20261018-like-we-had-a-war-france-counts-cost-of-violent-protests
+1792329713|France 24|Протесты во Франции: «В игре есть целый ряд претензий»|https://www.france24.com/en/video/20261018-france-protests-there-s-a-whole-range-of-grievances-at-play

@@ -1,8 +1,3 @@
-1791740195|https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss|Poland detains man suspected of planning assassination of PM Tusk
-1791740200|https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss|‘Who will represent us?’ Palestinians react to election delay
-1791740207|https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss|Turkiye highway crash kills 11, injures 27 after tour bus hits truck
-1791740215|https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops|Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November
-1791740220|https://lenta.ru/news/2026/10/11/zaharyan-vpervye-s-2025-goda-zabil-v-chempionate-ispanii/|Захарян впервые с 2025 года забил в чемпионате Испании
 1791741057|https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote|🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote
 1791741061|https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner|Ukraine: Coerced into a Corner?
 1791741069|https://www.euronews.com/video/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood|Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood
@@ -1998,3 +1993,8 @@
 1792328099|https://www.euronews.com/2026/10/18/businesses-and-shopkeepers-pick-up-the-pieces-after-protests-in-france-spiral-into-looting|Businesses and shopkeepers pick up the pieces after protests in France spiral into looting
 1792328105|https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/|Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch
 1792328112|https://www.rockpapershotgun.com/the-sunday-papers-832|The Sunday Papers
+1792329694|https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss|Is FIFA scrapping its peace prize after awarding it to US President Trump?
+1792329699|https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss|Paris residents tell Al Jazeera they’re dismayed by protest damage
+1792329704|https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss|Why have settler pogroms surged during olive harvest season in West Bank?
+1792329708|https://www.france24.com/en/video/20261018-like-we-had-a-war-france-counts-cost-of-violent-protests|'Like we had a war': France counts cost of violent protests
+1792329713|https://www.france24.com/en/video/20261018-france-protests-there-s-a-whole-range-of-grievances-at-play|France protests: "There's a whole range of grievances at play"
