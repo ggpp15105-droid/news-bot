@@ -304,3 +304,8 @@
 1792320854|Al Jazeera|Воссоединение семьи в Газе: поиски друг друга после прекращения огня|https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss
 1792320861|Al Jazeera|Египет окажет «необходимую» поддержку Саудовской Аравии на фоне атак хуситов|https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss
 1792320867|Al Jazeera|Индийский YouTuber Dhruv Rathee возглавил протест против BJP в Лондоне|https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss
+1792321853|Al Jazeera|Иордано-израильская граница стала новой горячей точкой для торговли наркотиками|https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss
+1792321859|Al Jazeera|Чемпионка Палестины по каратэ Марьям Бшарат завоевала второй титул|https://www.aljazeera.com/video/newsfeed/2026/10/18/palestinian-karate-champion-maryam-bsharat-wins-second-world-title?traffic_source=rss
+1792321866|DW|Под угрозой восьмичасовой рабочий день в Германии?|https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf
+1792321873|Euronews|Украинские войска наносят удары по Санкт-Петербургу и Ленинградской области|https://www.euronews.com/2026/10/18/ukrainian-forces-strike-st-petersburg-and-leningrad-region
+1792321882|Euronews|Сожженные велосипеды, разбитые окна и разграбленные магазины: тропа разрушений по всему Парижу|https://www.euronews.com/video/2026/10/18/burnt-bicycles-smashed-windows-and-looted-shops-trail-of-destruction-across-paris
