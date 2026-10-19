@@ -1,13 +1,3 @@
-1791801348|https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss|Melbourne man linked to flydubai attack suspect rejects ‘false accusations’
-1791801354|https://www.france24.com/en/fire-destroys-historic-french-market-of-enfants-rouges-in-paris|Fire destroys historic French market of Enfants-Rouges in Paris
-1791801360|https://www.france24.com/en/are-european-automakers-capable-of-withstanding-chinese-competition|Are European automakers capable of withstanding Chinese competition?
-1791801366|https://www.france24.com/en/at-least-139-migrants-die-in-boat-wreck-between-djibouti-and-yemen|At least 139 migrants die in boat wreck between Djibouti and Yemen
-1791801374|https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html|Brent tops $105 as doubts grow over supply boost from Trump’s ‘energy ceasefire’
-1791802536|https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss|Saudi minister vows 'serious response' to Houthi attacks on airports
-1791802543|https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss|What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield
-1791802551|https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf|Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia
-1791802561|https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf|Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict
-1791802568|https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html|Global travel warnings after Iran-backed Houthi militants strike Riyadh airport
 1791803363|https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss|Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds
 1791803368|https://www.france24.com/en/prison-games-of-hope-olympics-in-italy-unite-inmates-and-staff|Prison 'Games of Hope' olympics in Italy unite inmates and staff
 1791803374|https://www.france24.com/en/poland-police-foils-alleged-assassination-attempt-against-pm|Poland: Police foils alleged assassination attempt against PM
@@ -1947,3 +1937,8 @@
 1792405647|https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss|Mexican protesters demanding clean water storm state congress
 1792405655|https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504?maca=en-rss-en-all-1573-rdf|Greece: At least 12 die in migrant drownings overnight
 1792405662|https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf|Australian MP seriously hurt in suspected car attack
+1792407628|https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-all-1573-rdf|From delivery driver to global fame: A Korean writer's journey
+1792407634|https://www.dw.com/en/how-a-homeless-man-lives-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf|How a homeless man lives in front of a London mega-mansion
+1792407641|https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-rdf|Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says
+1792407649|https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html|Elon Musk says he'll give a SpaceX share to every child in America next year
+1792407656|https://www.euronews.com/2026/10/19/russia-woos-asian-tourists-in-attempt-to-counter-european-visits-collapse|Russia woos Asian tourists in attempt to counter European visits collapse

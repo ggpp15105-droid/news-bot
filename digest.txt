@@ -568,3 +568,8 @@
 1792405647|Al Jazeera|Мексиканские протестующие требуют от Конгресса штата провести чистую воду|https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss
 1792405655|DW|Греция: 12 человек погибли в результате утопления мигрантов|https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504?maca=en-rss-en-all-1573-rdf
 1792405662|DW|Австралийский депутат серьезно пострадал при подозрении на автомобильную атаку|https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf
+1792407628|DW|От водителя доставки до мировой славы: путешествие корейского писателя|https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-all-1573-rdf
+1792407634|DW|Как бездомный живет перед лондонским особняком|https://www.dw.com/en/how-a-homeless-man-lives-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf
+1792407641|DW|Украина не получила никакого предупреждения о российских баллистических ударах, говорит Зеленский|https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-rdf
+1792407649|CNBC|Илон Маск пообещал предоставить SpaceX каждому ребёнку в США|https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html
+1792407657|Euronews|Россия осуждает азиатских туристов в попытке противостоять краху европейских визитов|https://www.euronews.com/2026/10/19/russia-woos-asian-tourists-in-attempt-to-counter-european-visits-collapse
