@@ -1,12 +1,3 @@
-1791804614|https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss|Pupil arrested after two teachers shot at French school
-1791804620|https://www.france24.com/en/netanyahu-demands-probe-into-israeli-anonymous-whistleblowers-in-naza-documentary|Netanyahu demands probe into Israeli anonymous whistleblowers in 'NAZA' documentary
-1791804627|https://www.euronews.com/2026/10/12/thales-to-open-what-could-be-japans-first-foreign-run-defence-maintenance-base|Thales to open what could be Japan’s first foreign-run defence maintenance base
-1791804634|https://www.euronews.com/2026/10/12/french-mps-push-exit-tax-on-crypto-above-800000-and-fines-for-undeclared-wallets|French MPs push exit tax on crypto above €800,000 and fines for undeclared wallets
-1791805837|https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss|‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?
-1791805842|https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss|Giants Brigades lead southern Yemen fightback against the Houthis
-1791805847|https://www.france24.com/en/americas/20261012-inside-jeffrey-epstein-s-network-how-favours-money-and-influence-kept-it-running|Inside Jeffrey Epstein's network: How favours, money and influence kept it running
-1791805852|https://www.euronews.com/2026/10/12/as-drones-reshape-warfare-lithuania-brings-them-into-the-classroom|As drones reshape warfare, Lithuania brings them into the classroom
-1791805858|https://www.euronews.com/video/2026/10/12/citroen-revives-its-classic-2cv-with-a-new-electric-concept|Citroën revives its classic 2CV with a new electric concept
 1791806892|https://www.dw.com/en/ukraine-zelenskyy-accuses-russia-of-ceasefire-violations/a-79640911?maca=en-rss-en-all-1573-rdf|Ukraine: Zelenskyy accuses Russia of ceasefire violations
 1791806899|https://www.euronews.com/2026/10/12/what-to-know-about-pope-leo-xivs-upcoming-lung-surgery|What to know about Pope Leo XIV's upcoming lung surgery
 1791806906|https://www.euronews.com/2026/10/12/miriam-gonzalez-launches-new-party-to-take-on-spains-big-two-in-snap-election|Miriam González launches new party to take on Spain’s big two in snap election
@@ -1941,3 +1932,8 @@
 1792409395|https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss|Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit
 1792409402|https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss|Israeli police arrest 10 after settler attacks on journalist, diplomats
 1792409410|https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss|Australian MP Helen Haines critically injured in ‘deliberate’ car ramming
+1792411469|https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss|Personal attacks fire up debate before Brazil's run-off vote
+1792411474|https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss|Qatar to unveil regional defence partnership
+1792411481|https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss|On Iran, Israel’s opposition is even more hawkish than Netanyahu
+1792411488|https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future|Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'
+1792411494|https://www.france24.com/en/video/20261019-marseille-cleans-up-after-looting-and-vandalism-in-protest|Marseille cleans up after looting and vandalism in protest
