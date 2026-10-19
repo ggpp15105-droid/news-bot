@@ -21,6 +21,7 @@ from .util import (
     atomic_write_json,
     canonical_url,
     host_of,
+    is_http_url,
     load_json,
     msk_date,
     stable_hash,
@@ -32,6 +33,7 @@ SCHEMA_VERSION = 2
 MAX_CLUSTERS = 3000
 MAX_DIGEST_ENTRIES = 6000
 MAX_ALERTS = 300
+MAX_REJECTIONS = 400
 MAX_FEEDBACK_USERS = 500
 
 
@@ -50,6 +52,7 @@ def _empty_state() -> dict[str, Any]:
         "translations": {},
         "embeddings": {},
         "feedback": {},
+        "rejections": [],
         "admin": {"offset": 0, "paused_until": 0, "disabled_feeds": []},
         "stats": {
             "runs": 0,
@@ -106,6 +109,26 @@ class RedisRestBackend:
         except Exception as exc:
             log.warning("Redis GET: %s", exc)
             return None
+
+    def ping(self) -> tuple[bool, str]:
+        """Проверка доступности Redis REST для /doctor."""
+        if not self.available:
+            return False, "не настроен (нет URL или токена)"
+        try:
+            r = self.session.get(
+                f"{self.url}/ping",
+                headers=self._headers(),
+                timeout=self.timeout,
+            )
+            if r.ok:
+                try:
+                    payload = r.json()
+                except ValueError:
+                    payload = {}
+                return True, f"ответ {payload.get('result', 'OK')}"
+            return False, f"HTTP {r.status_code}"
+        except Exception as exc:
+            return False, f"{exc.__class__.__name__}: {exc}"[:120]
 
     def save(self, data: dict[str, Any]) -> bool:
         if not self.available:
@@ -365,6 +388,12 @@ class State:
             k: int(v) for k, v in alerts.items() if int(v) >= now - 90 * 86400
         }
 
+        rejections = [
+            item for item in self.data.get("rejections", [])
+            if int(item.get("ts", 0)) >= cutoff
+        ]
+        self.data["rejections"] = rejections[-MAX_REJECTIONS:]
+
         feedback: dict[str, dict] = self.data.get("feedback", {})
         kept_feedback = {}
         for cid, fb in feedback.items():
@@ -569,6 +598,33 @@ class State:
     # ------------------------------------------------------------------
     # Админ-состояние
     # ------------------------------------------------------------------
+
+    def record_rejection(self, url: str, reason: str, now: float) -> None:
+        """Запоминает, почему ссылка не попала в новости (для /why)."""
+        url = (url or "").strip()
+        if not url:
+            return
+        items: list[dict] = self.data.setdefault("rejections", [])
+        items.append({
+            "ts": int(now),
+            "url": url,
+            "canonical": canonical_url(url) or url,
+            "reason": reason,
+        })
+        if len(items) > MAX_REJECTIONS:
+            del items[:-MAX_REJECTIONS]
+
+    def find_rejection(self, query: str) -> dict | None:
+        query = (query or "").strip()
+        if not query:
+            return None
+        canon = canonical_url(query) if is_http_url(query) else ""
+        for item in reversed(self.data.get("rejections", [])):
+            if canon and item.get("canonical") == canon:
+                return item
+            if not canon and query.lower() in str(item.get("url", "")).lower():
+                return item
+        return None
 
     def disabled_feeds(self) -> set[str]:
         return {str(x) for x in self.admin.get("disabled_feeds", [])}

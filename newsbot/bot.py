@@ -8,13 +8,13 @@ import time
 from dataclasses import dataclass
 from datetime import datetime
 
-from .admin import AdminService, feedback_keyboard
+from .admin import AdminService, feedback_keyboard, source_buttons
 from .article import Article, download_image, download_video, fetch_article
 from .config import Config, ConfigError, load_config
 from .dedup import Candidate, Deduper
 from .digest import DigestService
 from .feeds import FeedFetcher, RawItem
-from .render import build_caption, build_full_text
+from .render import build_caption, build_full_text, plural_sources
 from .state import State
 from .telegram import TelegramClient
 from .text import (
@@ -38,6 +38,7 @@ from .util import (
     format_list,
     host_of,
     in_quiet_hours,
+    is_http_url,
     make_session,
     quiet_end,
     setup_logging,
@@ -48,6 +49,18 @@ from .util import (
 log = logging.getLogger("news-bot")
 
 MAX_ATTEMPTS_PER_CLUSTER = 3
+
+
+@dataclass
+class Composed:
+    """Результат подготовки поста: всё, что нужно для отправки."""
+
+    url: str
+    source: str
+    category: str
+    chat_id: str
+    caption: str
+    article: Article
 
 
 @dataclass
@@ -83,6 +96,10 @@ class NewsBot:
             post_url=self.post_url,
             force_digest=self.force_digest,
             force_recap=self.force_recap,
+            explain=self.explain,
+            preview=self.preview_candidates,
+            preview_post=self.preview_post,
+            doctor=self.doctor_report,
         )
         self.alerts: list[str] = []
         self.stats = RunStats()
@@ -169,18 +186,23 @@ class NewsBot:
             seen.add(canonical)
             if canonical in self.state.posted:
                 self.stats.already_posted += 1
+                self.state.record_rejection(item.link, "already-posted", now)
                 continue
             if self.state.source_cap_reached(item.source, now):
+                self.state.record_rejection(item.link, "source-cap", now)
                 continue
             title = normalize_title_for_dedup(clean_html(item.title))
             if not title:
+                self.state.record_rejection(item.link, "empty-title", now)
                 continue
             if is_low_value(title, self.cfg.skip_patterns):
                 self.stats.low_value += 1
+                self.state.record_rejection(item.link, "low-value", now)
                 continue
             age = now - item.published_ts
             if age > self.cfg.freshness_hours * 3600:
                 self.stats.stale += 1
+                self.state.record_rejection(item.link, "stale", now)
                 continue
             hint = item.feed_category if item.feed_category != "мир" else ""
             cats = detect_categories(item.source, title, item.summary, hint)
@@ -353,23 +375,32 @@ class NewsBot:
         }
         return len(clusters)
 
-    def post_pending(self) -> None:
-        now = self.now
+    def _global_block(self, now: float) -> str:
+        """Общая причина, по которой сейчас нельзя публиковать ('' — можно)."""
         counters = self.state.counter_today(now)
         if int(counters.get("posts", 0)) >= self.cfg.max_posts_per_day:
-            log.info("Дневной лимит постов достигнут (%s)", counters.get("posts"))
-            return
+            return f"дневной лимит постов ({self.cfg.max_posts_per_day})"
         if self._hourly_posts(now) >= self.cfg.max_posts_per_hour:
-            log.info("Часовой лимит постов достигнут")
-            return
-
-        quiet = in_quiet_hours(datetime.fromtimestamp(now, MSK), self.cfg.quiet_hours)
+            return f"часовой лимит постов ({self.cfg.max_posts_per_hour})"
+        if self.state.paused(now):
+            until = int(self.state.admin.get("paused_until", 0))
+            if until:
+                return f"пауза до {datetime.fromtimestamp(until, MSK):%d.%m %H:%M} МСК"
+            return "публикации на паузе"
+        local = datetime.fromtimestamp(now, MSK)
+        quiet = in_quiet_hours(local, self.cfg.quiet_hours)
         if quiet and not self.cfg.breaking_at_night:
-            end = quiet_end(datetime.fromtimestamp(now, MSK), self.cfg.quiet_hours)
-            log.info("Тихие часы до %s — публикации отложены", end.strftime("%H:%M") if end else "?")
-            return
+            end = quiet_end(local, self.cfg.quiet_hours)
+            return f"тихие часы до {end:%H:%M} МСК" if end else "тихие часы"
+        return ""
 
+    def _is_quiet(self, now: float) -> bool:
+        return in_quiet_hours(datetime.fromtimestamp(now, MSK), self.cfg.quiet_hours)
+
+    def _eligible_pool(self, now: float) -> list[dict]:
+        """Свежие неопубликованные сюжеты, отсортированные по приоритету."""
         freshness = self.cfg.freshness_hours * 3600
+        quiet = self._is_quiet(now)
         eligible: list[dict] = []
         for cluster in self.state.clusters.values():
             if cluster.get("posted") or cluster.get("skipped"):
@@ -384,24 +415,49 @@ class NewsBot:
                 continue
             eligible.append(cluster)
         eligible.sort(key=lambda c: -self._cluster_rank(c, now))
+        return eligible
 
+    def _pick(self, pool: list[dict], now: float) -> tuple[list[dict], dict[str, str]]:
+        """Отбирает посты по квотам. Возвращает выбранные и причины пропуска."""
         selected: list[dict] = []
+        reasons: dict[str, str] = {}
         per_source: dict[str, int] = {}
         per_category: dict[str, int] = {}
-        for cluster in eligible:
-            if len(selected) >= self.cfg.max_posts_per_run:
-                break
+        for cluster in pool:
+            cid = str(cluster.get("id", ""))
             source = str(cluster.get("source", ""))
             category = str(cluster.get("category", "мир"))
+            if len(selected) >= self.cfg.max_posts_per_run:
+                reasons[cid] = f"лимит {self.cfg.max_posts_per_run} постов за запуск"
+                continue
             if per_source.get(source, 0) >= self.cfg.max_per_source_per_run:
+                reasons[cid] = (
+                    f"лимит {self.cfg.max_per_source_per_run} постов с одного источника за запуск"
+                )
                 continue
             if per_category.get(category, 0) >= self.cfg.max_per_category_per_run:
+                reasons[cid] = (
+                    f"лимит {self.cfg.max_per_category_per_run} постов на категорию за запуск"
+                )
                 continue
             if self.state.source_cap_reached(source, now):
+                reasons[cid] = f"суточный лимит источника ({self.cfg.max_per_source_per_day})"
                 continue
             selected.append(cluster)
             per_source[source] = per_source.get(source, 0) + 1
             per_category[category] = per_category.get(category, 0) + 1
+        return selected, reasons
+
+    def post_pending(self) -> None:
+        now = self.now
+        block = self._global_block(now)
+        if block:
+            log.info("Публикации отложены: %s", block)
+            return
+
+        eligible = self._eligible_pool(now)
+        selected, _ = self._pick(eligible, now)
+        quiet = self._is_quiet(now)
 
         if not selected:
             log.info("Нет подходящих сюжетов для публикации (кандидатов %d)", len(eligible))
@@ -423,11 +479,12 @@ class NewsBot:
                 log.warning("Не удалось опубликовать «%s»: %s", cluster.get("title", "")[:60], reason)
             time.sleep(self.cfg.post_delay)
 
-    def post_cluster(self, cluster: dict, now: float, silent: bool = False,
-                     article: Article | None = None) -> tuple[bool, str]:
+    def _compose(self, cluster: dict, now: float,
+                 article: Article | None = None) -> "Composed | None":
+        """Готовит заголовок, лид, теги, медиа и подпись. Ничего не отправляет."""
         links = cluster.get("links") or []
         if not links:
-            return False, "нет ссылок"
+            return None
         primary = links[0]
         url = primary.get("url", "")
         source = str(cluster.get("source") or primary.get("source") or host_of(url))
@@ -508,8 +565,39 @@ class NewsBot:
         if article.video:
             media["video"] = article.video
 
-        buttons = feedback_keyboard(str(cluster.get("id", ""))) if self.cfg.feedback_buttons else None
         caption = build_caption(self.cfg, cluster, lead=lead_ru, translated=translated)
+        return Composed(
+            url=url,
+            source=source,
+            category=category,
+            chat_id=chat_id,
+            caption=caption,
+            article=article,
+        )
+
+    def _buttons(self, cluster: dict) -> list[list[dict]] | None:
+        """Кнопки под постом: дополнительные источники и (опционально) 👍/👎."""
+        rows: list[list[dict]] = []
+        if self.cfg.source_buttons:
+            rows.extend(source_buttons(cluster))
+        if self.cfg.feedback_buttons:
+            rows.extend(feedback_keyboard(str(cluster.get("id", ""))))
+        return rows or None
+
+    def post_cluster(self, cluster: dict, now: float, silent: bool = False,
+                     article: Article | None = None) -> tuple[bool, str]:
+        composed = self._compose(cluster, now, article)
+        if composed is None:
+            return False, "нет ссылок"
+        links = cluster.get("links") or []
+        primary = links[0]
+        url, source, category = composed.url, composed.source, composed.category
+        chat_id, caption = composed.chat_id, composed.caption
+        media = cluster.get("media") or {}
+        buttons = self._buttons(cluster)
+        translated = bool(cluster.get("translated"))
+        lead_ru = str(cluster.get("lead_ru") or "")
+        original_title = str(cluster.get("title") or "")
 
         sent_kind = ""
         message_id: int | None = None
@@ -662,40 +750,65 @@ class NewsBot:
     def _send_digest(self, chat_id: str, text: str) -> bool:
         return self.tg.send_text(chat_id, text, preview=False).ok
 
-    def force_digest(self) -> str:
+    def _digest_text(self, weekly: bool = False) -> tuple[str, int]:
+        """Текст дайджеста без отправки: (html, сколько новостей)."""
         now = time.time()
         self.digest.now = now
-        picked = self.digest.select(now - 24 * 3600)
-        if not picked:
-            return "Нет новостей для дайджеста"
         local = datetime.fromtimestamp(now, MSK)
         slot = f"{local:%Y-%m-%d}T{local.hour:02d}"
-        text = self.digest.render(picked, slot)
+        if weekly:
+            picked = self.digest.select(
+                now - 7 * 86400,
+                limit=self.cfg.weekly_recap_items,
+                max_per_source=max(1, self.cfg.digest_max_per_source),
+            )
+            if not picked:
+                return "", 0
+            return self.digest.render(picked, slot, weekly=True), len(picked)
+        picked = self.digest.select(now - 24 * 3600)
+        if not picked:
+            return "", 0
+        return self.digest.render(picked, slot), len(picked)
+
+    def preview_digest(self, weekly: bool = False) -> tuple[str, int]:
+        """Дайджест для --dry-run: ничего не отправляет и не меняет слот."""
+        return self._digest_text(weekly)
+
+    def force_digest(self) -> str:
+        text, count = self._digest_text(False)
+        if not count:
+            return "Нет новостей для дайджеста"
         ok = self.tg.send_text(self.cfg.channel_id, text, preview=False).ok
         if ok:
-            self.digest.state.stats["last_digest_ts"] = int(now)
-            return f"✅ Дайджест отправлен ({len(picked)} новостей)"
+            self.digest.state.stats["last_digest_ts"] = int(time.time())
+            return f"✅ Дайджест отправлен ({count} новостей)"
         return "❌ Не удалось отправить дайджест"
 
     def force_recap(self) -> str:
-        now = time.time()
-        self.digest.now = now
-        picked = self.digest.select(now - 7 * 86400,
-                                    limit=self.cfg.weekly_recap_items,
-                                    max_per_source=max(1, self.cfg.digest_max_per_source))
-        if not picked:
+        text, count = self._digest_text(True)
+        if not count:
             return "Нет новостей для недельного обзора"
-        local = datetime.fromtimestamp(now, MSK)
-        text = self.digest.render(picked, f"{local:%Y-%m-%d}T{local.hour:02d}", weekly=True)
         ok = self.tg.send_text(self.cfg.channel_id, text, preview=False).ok
         if ok:
-            return f"✅ Недельный обзор отправлен ({len(picked)} новостей)"
+            return f"✅ Недельный обзор отправлен ({count} новостей)"
         return "❌ Не удалось отправить обзор"
 
-    def post_url(self, url: str) -> str:
-        now = time.time()
-        self.now = now
-        url = url.strip()
+    # ------------------------------------------------------------------
+    # Ручные операции и диагностика: /post, /test, /why, /preview, /doctor
+    # ------------------------------------------------------------------
+
+    _REJECTION_LABELS = {
+        "already-posted": "уже была опубликована — ссылка есть в истории постов",
+        "source-cap": "исчерпан суточный лимит источника",
+        "low-value": "заголовок похож на служебный или кликбейт (SKIP_PATTERNS)",
+        "stale": "слишком старая новость (FRESHNESS_HOURS)",
+        "empty-title": "пустой заголовок после очистки",
+    }
+
+    def _manual_cluster(self, url: str, now: float,
+                        register: bool = True) -> "tuple[dict, Article] | str":
+        """Загружает статью и собирает кластер. При ошибке возвращает текст."""
+        url = (url or "").strip()
         article = fetch_article(self.cfg, self.session, url)
         title = article.title or host_of(url) or url
         title = normalize_title_for_dedup(title) or title
@@ -724,14 +837,285 @@ class NewsBot:
         cluster = self.deduper.create(
             candidate,
             force_id=stable_hash("manual", url, now, length=20),
+            register=register,
         )
         self._ensure_cluster_title(cluster, now)
         self._refresh_cluster(cluster, candidate)
+        return cluster, article
+
+    def post_url(self, url: str) -> str:
+        now = time.time()
+        self.now = now
+        prepared = self._manual_cluster(url, now)
+        if isinstance(prepared, str):
+            return prepared
+        cluster, article = prepared
         ok, reason = self.post_cluster(cluster, now, article=article)
         if ok:
             self.state.save(now)
-            return f"✅ Опубликовано: {cluster.get('title_ru') or title}"
+            return f"✅ Опубликовано: {cluster.get('title_ru') or cluster.get('title')}"
         return f"❌ Не удалось опубликовать: {reason}"
+
+    def preview_post(self, url: str) -> str:
+        """Черновик поста по ссылке: ничего не публикует и не пишет в state."""
+        now = time.time()
+        self.now = now
+        prepared = self._manual_cluster(url, now, register=False)
+        if isinstance(prepared, str):
+            return prepared
+        cluster, article = prepared
+        composed = self._compose(cluster, now, article)
+        if composed is None:
+            return "❌ Не удалось собрать пост: нет ссылок"
+        buttons = self._buttons(cluster) or []
+        lines = [
+            "🧪 <b>Черновик поста</b> — в канал не отправлен",
+            "",
+            composed.caption,
+            "",
+            "— — —",
+            f"Категория: #{esc(composed.category)} → <code>{esc(composed.chat_id)}</code>",
+            f"Скор: {float(cluster.get('score', 0)):.1f}",
+        ]
+        if buttons:
+            labels = ", ".join(row[0].get("text", "") for row in buttons)
+            lines.append(f"Кнопки: {esc(labels)}")
+        if cluster.get("translation_failed"):
+            lines.append("⚠️ Перевод не удался — часть текста осталась на языке оригинала.")
+        return "\n".join(lines)
+
+    def _find_cluster(self, query: str, canon: str = "") -> dict | None:
+        query = (query or "").strip()
+        if not query:
+            return None
+        lowered = query.casefold()
+        clusters = list(self.state.clusters.values())
+        if canon:
+            for cluster in clusters:
+                for link in cluster.get("links") or []:
+                    if link.get("canonical") == canon:
+                        return cluster
+        if len(lowered) >= 4:
+            for cluster in clusters:
+                if str(cluster.get("id", "")).startswith(lowered):
+                    return cluster
+        if len(lowered) >= 4:
+            for cluster in clusters:
+                text = (
+                    str(cluster.get("title", "")) + " " + str(cluster.get("title_ru", ""))
+                ).casefold()
+                if lowered in text:
+                    return cluster
+        return None
+
+    def _queue_reasons(self, cluster: dict, now: float) -> list[str]:
+        """Почему сюжет ещё не опубликован (без побочных эффектов)."""
+        reasons: list[str] = []
+        block = self._global_block(now)
+        if block:
+            reasons.append(block)
+        score = float(cluster.get("score", 0))
+        if score < self.cfg.min_score:
+            reasons.append(f"скор {score:.1f} ниже MIN_SCORE={self.cfg.min_score}")
+        published = float(cluster.get("published_ts") or cluster.get("first_seen") or 0)
+        age_h = (now - published) / 3600 if published else 0.0
+        if age_h > self.cfg.freshness_hours:
+            reasons.append(f"возраст {age_h:.0f} ч больше FRESHNESS_HOURS={self.cfg.freshness_hours}")
+        source = str(cluster.get("source", ""))
+        if self.state.source_cap_reached(source, now):
+            reasons.append(f"исчерпан суточный лимит источника ({self.cfg.max_per_source_per_day})")
+        if self._is_quiet(now) and not cluster.get("breaking"):
+            reasons.append("тихие часы: сюжет не breaking")
+
+        freshness = self.cfg.freshness_hours * 3600
+        pool = [
+            c for c in self.state.clusters.values()
+            if not c.get("posted") and not c.get("skipped")
+            and float(c.get("score", 0)) >= self.cfg.min_score
+            and (
+                not float(c.get("published_ts") or 0)
+                or now - float(c.get("published_ts") or 0) <= freshness
+            )
+        ]
+        pool.sort(key=lambda c: -self._cluster_rank(c, now))
+        ids = [str(c.get("id", "")) for c in pool]
+        cid = str(cluster.get("id", ""))
+        if cid in ids:
+            position = ids.index(cid) + 1
+            if position > self.cfg.max_posts_per_run:
+                reasons.append(
+                    f"в очереди {position}-е место, за запуск выходит "
+                    f"{self.cfg.max_posts_per_run}"
+                )
+        return reasons
+
+    def _explain_posted(self, record: dict) -> str:
+        ts = int(record.get("ts", 0))
+        when = datetime.fromtimestamp(ts, MSK).strftime("%d.%m %H:%M") if ts else "—"
+        lines = [
+            "✅ <b>Новость уже опубликована</b>",
+            f"<b>{esc(str(record.get('title_ru') or record.get('title') or '—'))}</b>",
+            f"{esc(str(record.get('source') or '—'))} · #{esc(str(record.get('category') or 'мир'))}",
+            f"Время: {when} МСК",
+        ]
+        if record.get("message_id"):
+            lines.append(
+                f"Сообщение: #{record.get('message_id')} в {esc(str(record.get('chat_id') or ''))}"
+            )
+        if record.get("alias"):
+            lines.append("Пометка: это дубль другого поста (тот же сюжет)")
+        return "\n".join(lines)
+
+    def _explain_cluster(self, cluster: dict, now: float) -> str:
+        title = cluster.get("title_ru") or cluster.get("title") or "—"
+        lines = [
+            "🔎 <b>Сюжет найден</b>",
+            f"<b>{esc(str(title))}</b>",
+            f"{esc(str(cluster.get('source') or '—'))} · #{esc(str(cluster.get('category') or 'мир'))}"
+            f" · скор {float(cluster.get('score', 0)):.1f}"
+            f" · {plural_sources(max(1, Deduper.distinct_sources(cluster)))}",
+        ]
+        first_seen = float(cluster.get("first_seen") or 0)
+        if first_seen:
+            lines.append(f"Появился: {datetime.fromtimestamp(first_seen, MSK):%d.%m %H:%M} МСК")
+        if cluster.get("posted"):
+            posted_ts = float(cluster.get("posted_ts") or 0)
+            when = (
+                datetime.fromtimestamp(posted_ts, MSK).strftime("%d.%m %H:%M")
+                if posted_ts else "—"
+            )
+            lines.append(f"✅ Опубликован {when} МСК")
+            for chat_id, info in (cluster.get("messages") or {}).items():
+                lines.append(f"Сообщение: #{info.get('id')} в {esc(str(chat_id))}")
+                break
+            if cluster.get("pending_update"):
+                lines.append("🔄 Ждёт обновления: пришёл новый источник")
+            return "\n".join(lines)
+        skipped = str(cluster.get("skipped") or "")
+        if skipped == "stale":
+            lines.append("⏳ Снят с очереди: новость старше FRESHNESS_HOURS")
+            return "\n".join(lines)
+        if skipped == "error":
+            lines.append(
+                f"❌ Снят после {MAX_ATTEMPTS_PER_CLUSTER} неудачных попыток публикации"
+            )
+            return "\n".join(lines)
+        lines.append("🕓 <b>В очереди</b>")
+        reasons = self._queue_reasons(cluster, now)
+        if reasons:
+            lines += [f"• {esc(reason)}" for reason in reasons]
+        else:
+            lines.append("• ограничений нет — выйдет при следующем запуске")
+        return "\n".join(lines)
+
+    def _explain_rejection(self, item: dict) -> str:
+        reason = str(item.get("reason") or "")
+        label = self._REJECTION_LABELS.get(reason, reason or "неизвестно")
+        ts = int(item.get("ts", 0))
+        when = datetime.fromtimestamp(ts, MSK).strftime("%d.%m %H:%M") if ts else "—"
+        lines = [
+            "🚫 <b>Новость отфильтрована</b>",
+            f"Причина: {esc(label)}",
+            f"Когда: {when} МСК",
+            f"Ссылка: {esc(str(item.get('url') or ''))}",
+        ]
+        if reason == "low-value":
+            lines.append("Правила задаются переменной SKIP_PATTERNS.")
+        elif reason == "stale":
+            lines.append(f"Порог свежести: FRESHNESS_HOURS={self.cfg.freshness_hours}.")
+        return "\n".join(lines)
+
+    def explain(self, query: str) -> str:
+        """Объясняет судьбу новости по URL, id кластера или части заголовка."""
+        query = (query or "").strip()
+        if not query:
+            return "Использование: <code>/why https://…</code> или <code>/why id-кластера</code>"
+        canon = canonical_url(query) if is_http_url(query) else ""
+        record = self.state.posted.get(canon) if canon else None
+        if record:
+            return self._explain_posted(record)
+        cluster = self._find_cluster(query, canon)
+        if cluster:
+            return self._explain_cluster(cluster, self.now)
+        rejection = self.state.find_rejection(query)
+        if rejection:
+            return self._explain_rejection(rejection)
+        lines = [
+            "🤷 <b>Ничего не нашёл</b>",
+            f"Запрос: <code>{esc(smart_cut(query, 200))}</code>",
+            "",
+            "Возможные причины:",
+            "• URL отличается от того, что пришёл в ленте — проверь ссылку без utm-меток;",
+            "• новость старше KEEP_DAYS и выпала из истории;",
+            "• новость ещё не приходила в ленты.",
+            "",
+            "Посмотреть очередь: /preview",
+        ]
+        return "\n".join(lines)
+
+    def preview_candidates(self, limit: int = 8) -> str:
+        """Топ очереди с причинами, почему сюжет ещё не вышел."""
+        now = self.now
+        limit = max(1, min(20, int(limit or 8)))
+        block = self._global_block(now)
+        pool = self._eligible_pool(now)
+        selected, reasons = self._pick(pool, now)
+        selected_ids = {str(c.get("id", "")) for c in selected}
+
+        lines = ["<b>👀 Очередь публикации</b>", ""]
+        if block:
+            lines.append(f"⛔ Сейчас публикации заблокированы: {esc(block)}")
+        else:
+            lines.append(
+                f"Сейчас выйдет {len(selected)} из {len(pool)} "
+                f"(лимит {self.cfg.max_posts_per_run} за запуск)"
+            )
+        lines.append("")
+        if not pool:
+            lines.append("Очередь пуста: подходящих свежих сюжетов нет.")
+            return "\n".join(lines)
+
+        for index, cluster in enumerate(pool[:limit], 1):
+            title = str(cluster.get("title_ru") or cluster.get("title") or "—")
+            cid = str(cluster.get("id", ""))
+            source = str(cluster.get("source") or "—")
+            category = str(cluster.get("category") or "мир")
+            size = max(1, int(cluster.get("size", len(cluster.get("links") or [])) or 1))
+            score = float(cluster.get("score", 0))
+            mark = "▶️" if cid in selected_ids else "•"
+            line = f"{mark} {index}. <b>{esc(smart_cut(title, 140))}</b>"
+            line += (
+                f"\n    {esc(source)} · #{esc(category)} · скор {score:.1f}"
+                f" · {plural_sources(size)}"
+            )
+            flags = []
+            if cluster.get("breaking"):
+                flags.append("breaking")
+            if cluster.get("opinion"):
+                flags.append("мнение")
+            if flags:
+                line += " · " + esc(", ".join(flags))
+            reason = reasons.get(cid, "")
+            if reason and cid not in selected_ids:
+                line += f"\n    ⏸ {esc(reason)}"
+            lines.append(line)
+        if len(pool) > limit:
+            lines.append(f"\n…и ещё {len(pool) - limit}. <code>/preview {min(20, len(pool))}</code>")
+        return "\n".join(lines)
+
+    def doctor_report(self) -> str:
+        """Preflight-отчёт для Telegram: реальные проверки, без dry-run."""
+        from .doctor import render, run
+
+        real_tg = TelegramClient(self.cfg, self.session, dry_run=False)
+        checks = run(
+            self.cfg,
+            session=self.session,
+            tg=real_tg,
+            state=self.state,
+            now=self.now,
+        )
+        return esc(render(checks, self.now))
 
     # ------------------------------------------------------------------
     # Алерты и служебное

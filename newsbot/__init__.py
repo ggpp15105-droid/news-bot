@@ -11,7 +11,9 @@
     digest      дайджесты и недельный обзор
     telegram    Telegram Bot API
     admin       админ-команды через getUpdates
+    cli         командная строка и ручные операции
+    doctor      preflight-проверки окружения
     bot         оркестрация запуска
 """
 
-__version__ = "2.0.0"
+__version__ = "2.1.0"

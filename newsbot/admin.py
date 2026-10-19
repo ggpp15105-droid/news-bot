@@ -15,6 +15,7 @@ from .text import norm_tokens
 from .util import (
     MSK,
     esc,
+    host_of,
     human_age,
 )
 
@@ -22,6 +23,10 @@ log = logging.getLogger("news-bot.admin")
 
 PostUrlFn = Callable[[str], str]
 ForceDigestFn = Callable[[], str]
+ExplainFn = Callable[[str], str]
+PreviewFn = Callable[[int], str]
+PreviewPostFn = Callable[[str], str]
+DoctorFn = Callable[[], str]
 
 
 HELP = """<b>Команды</b>
@@ -35,6 +40,10 @@ HELP = """<b>Команды</b>
 /post &lt;url&gt; — опубликовать вручную
 /digest — отправить дайджест сейчас
 /recap — отправить недельный обзор
+/why &lt;url|id&gt; — почему новость не вышла
+/preview [N] — очередь публикации
+/test &lt;url&gt; — черновик поста в личку
+/doctor — проверка окружения
 /cache [clear] — кэш переводов
 /config — эффективные настройки
 /version — версия
@@ -44,7 +53,11 @@ HELP = """<b>Команды</b>
 class AdminService:
     def __init__(self, cfg: Config, state: State, tg: TelegramClient, now: float | None = None,
                  post_url: PostUrlFn | None = None, force_digest: ForceDigestFn | None = None,
-                 force_recap: ForceDigestFn | None = None):
+                 force_recap: ForceDigestFn | None = None,
+                 explain: ExplainFn | None = None,
+                 preview: PreviewFn | None = None,
+                 preview_post: PreviewPostFn | None = None,
+                 doctor: DoctorFn | None = None):
         self.cfg = cfg
         self.state = state
         self.tg = tg
@@ -52,6 +65,10 @@ class AdminService:
         self.post_url = post_url
         self.force_digest = force_digest
         self.force_recap = force_recap
+        self.explain = explain
+        self.preview = preview
+        self.preview_post = preview_post
+        self.doctor = doctor
 
     # ------------------------------------------------------------------
     # Poll
@@ -148,6 +165,11 @@ class AdminService:
             "/post": self._cmd_post,
             "/digest": self._cmd_digest,
             "/recap": self._cmd_recap,
+            "/why": self._cmd_why,
+            "/preview": self._cmd_preview,
+            "/queue": self._cmd_preview,
+            "/test": self._cmd_test,
+            "/doctor": self._cmd_doctor,
             "/cache": self._cmd_cache,
             "/config": self._cmd_config,
             "/version": self._cmd_version,
@@ -343,6 +365,42 @@ class AdminService:
             return
         self._reply(chat_id, self.force_recap())
 
+    def _cmd_why(self, chat_id, args: str) -> None:
+        if not args:
+            self._reply(chat_id, "Использование: <code>/why https://…</code> или <code>/why id-кластера</code>")
+            return
+        if not self.explain:
+            self._reply(chat_id, "Команда недоступна")
+            return
+        self._reply(chat_id, self.explain(args))
+
+    def _cmd_preview(self, chat_id, args: str) -> None:
+        if not self.preview:
+            self._reply(chat_id, "Команда недоступна")
+            return
+        limit = 8
+        if args.isdigit():
+            limit = max(1, min(20, int(args)))
+        self._reply(chat_id, self.preview(limit))
+
+    def _cmd_test(self, chat_id, args: str) -> None:
+        if not args.startswith(("http://", "https://")):
+            self._reply(chat_id, "Использование: <code>/test https://…</code>")
+            return
+        if not self.preview_post:
+            self._reply(chat_id, "Команда недоступна")
+            return
+        self._reply(chat_id, "⏳ Готовлю черновик…")
+        draft = self.preview_post(args.strip())
+        self._reply(chat_id, draft)
+
+    def _cmd_doctor(self, chat_id, args: str) -> None:
+        if not self.doctor:
+            self._reply(chat_id, "Команда недоступна")
+            return
+        self._reply(chat_id, "⏳ Проверяю окружение…")
+        self._reply(chat_id, self.doctor())
+
     def _cmd_cache(self, chat_id, args: str) -> None:
         translations = self.state.data.setdefault("translations", {})
         embeddings = self.state.data.setdefault("embeddings", {})
@@ -365,13 +423,14 @@ class AdminService:
             f"Лимит в сутки: {cfg.max_posts_per_day}",
             f"С источника за запуск: {cfg.max_per_source_per_run}",
             f"Тихие часы: {esc('-'.join(map(str, cfg.quiet_hours)) if cfg.quiet_hours else 'выкл')} МСК",
-            f"Дайджесты: {esc(', '.join(map(str, cfg.digest_hours)))} МСК",
+            f"Дайджесты: {esc(', '.join(map(str, cfg.digest_hours)) + ' МСК') if cfg.digest_hours else 'выкл'}",
             f"Свежесть: {cfg.freshness_hours} ч",
             f"Дедуп: containment {cfg.dedup_containment}, jaccard {cfg.dedup_jaccard}",
             f"LLM-саммари: {'да' if cfg.llm_summary and cfg.openai_api_key else 'нет'}",
             f"Эмбеддинги: {'да' if cfg.embedding_model and cfg.openai_api_key else 'нет'}",
             f"Обновления постов: {'да' if cfg.edit_updates else 'нет'}",
             f"Кнопки 👍/👎: {'да' if cfg.feedback_buttons else 'нет'}",
+            f"Кнопки источников: {'да' if cfg.source_buttons else 'нет'}",
             f"Недельный обзор: {'да' if cfg.weekly_recap else 'нет'}",
             f"Состояние: {'Redis' if cfg.state_redis_url else cfg.state_file}",
             f"Лент: {len(cfg.feeds)}",
@@ -381,6 +440,36 @@ class AdminService:
     def _cmd_version(self, chat_id, args: str) -> None:
         from . import __version__
         self._reply(chat_id, f"news-bot <b>{esc(__version__)}</b>")
+
+
+def source_buttons(cluster: dict, limit: int = 4) -> list[list[dict]]:
+    """URL-кнопки на остальные источники кластера (кроме основного).
+
+    Читателю не нужно искать подтверждение в тексте: под постом сразу
+    видны кнопки «🔗 DW», «🔗 Lenta.ru» и т.д.
+    """
+    links = cluster.get("links") or []
+    if len(links) < 2:
+        return []
+    rows: list[list[dict]] = []
+    primary = str(links[0].get("source") or "")
+    seen = {primary.casefold()} if primary else set()
+    for link in links[1:]:
+        url = str(link.get("url") or "")
+        source = str(link.get("source") or host_of(url) or "")
+        if not url or not source:
+            continue
+        key = source.casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        label = f"🔗 {source}"
+        if len(label) > 64:
+            label = label[:63] + "…"
+        rows.append([{"text": label, "url": url}])
+        if len(rows) >= limit:
+            break
+    return rows
 
 
 def feedback_keyboard(cluster_id: str) -> list[list[dict]]:

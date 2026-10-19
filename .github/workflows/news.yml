@@ -3,7 +3,21 @@ name: News Bot
 on:
   schedule:
     - cron: "*/10 * * * *"   # каждые 10 минут; GitHub может задерживать запуск
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "DRY_RUN: собрать новости, но ничего не публиковать"
+        type: boolean
+        default: false
+      digest:
+        description: "Отправить дайджест немедленно"
+        type: boolean
+        default: false
+      post_url:
+        description: "Опубликовать конкретную ссылку (необязательно)"
+        type: string
+        required: false
+        default: ""
   push:
     branches: [main]
     paths:
@@ -112,8 +126,10 @@ jobs:
           PY
 
       - name: Запуск бота
-        run: python news_bot.py
         env:
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+          INPUT_DIGEST: ${{ inputs.digest }}
+          INPUT_POST_URL: ${{ inputs.post_url }}
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
@@ -150,6 +166,7 @@ jobs:
           DEDUP_CONTAINMENT: ${{ vars.DEDUP_CONTAINMENT }}
           DEDUP_JACCARD: ${{ vars.DEDUP_JACCARD }}
           TITLE_TRANSLATE_LIMIT: ${{ vars.TITLE_TRANSLATE_LIMIT }}
+          LLM_TITLE_BUDGET: ${{ vars.LLM_TITLE_BUDGET }}
           EMBEDDING_MIN_SIMILARITY: ${{ vars.EMBEDDING_MIN_SIMILARITY }}
           EDIT_UPDATES: ${{ vars.EDIT_UPDATES }}
           MAX_UPDATES_PER_CLUSTER: ${{ vars.MAX_UPDATES_PER_CLUSTER }}
@@ -157,6 +174,7 @@ jobs:
           CONFIRMATION_LABEL: ${{ vars.CONFIRMATION_LABEL }}
           TRANSLATION_NOTE: ${{ vars.TRANSLATION_NOTE }}
           FEEDBACK_BUTTONS: ${{ vars.FEEDBACK_BUTTONS }}
+          SOURCE_BUTTONS: ${{ vars.SOURCE_BUTTONS }}
           FEEDBACK_WEIGHT: ${{ vars.FEEDBACK_WEIGHT }}
           OPINION_LABEL: ${{ vars.OPINION_LABEL }}
           BREAKING_AT_NIGHT: ${{ vars.BREAKING_AT_NIGHT }}
@@ -177,6 +195,18 @@ jobs:
           HEARTBEAT_URL: ${{ secrets.HEARTBEAT_URL }}
           LOG_LEVEL: ${{ vars.LOG_LEVEL }}
           DRY_RUN: ${{ vars.DRY_RUN }}
+        run: |
+          set -euo pipefail
+          args=()
+          if [ "${INPUT_DRY_RUN:-false}" = "true" ]; then args+=(--dry-run); fi
+          if [ "${INPUT_DIGEST:-false}" = "true" ]; then args+=(--digest); fi
+          if [ -n "${INPUT_POST_URL:-}" ]; then args+=(--post "$INPUT_POST_URL"); fi
+          if [ ${#args[@]} -eq 0 ]; then
+            echo "Обычный запуск по расписанию"
+          else
+            echo "Запуск с опциями: ${args[*]}"
+          fi
+          python news_bot.py "${args[@]}"
 
       - name: Сохранить состояние
         if: always() && github.ref == 'refs/heads/main'
