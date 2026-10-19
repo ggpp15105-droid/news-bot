@@ -1,8 +1,3 @@
-1791813203|https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured?traffic_source=rss|At least 20 injured in northern Israel explosion
-1791813210|https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/12/confronting-the-largest-energy-security?traffic_source=rss|Confronting the ‘largest energy security threat’
-1791813217|https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf|Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
-1791813222|https://news.sky.com/story/former-irish-olympic-swimming-coach-jailed-over-indecent-assaults-13598158|Former Irish Olympic swimming coach jailed over indecent assaults
-1791813228|https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html|Zelenskyy accuses Russia of violating Trump’s energy ceasefire as drone attacks continue
 1791814416|https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss|US detains man accused in multi-billion Venezuelan money laundering scheme
 1791814422|https://www.aljazeera.com/news/2026/10/12/israeli-academic-and-al-jazeera-contributor-ori-goldberg-dies-at-50?traffic_source=rss|Israeli academic and Al Jazeera contributor Ori Goldberg dies at 50
 1791814430|https://www.aljazeera.com/sports/2026/10/12/champions-league-schedule-teams-matches-players?traffic_source=rss|What are the key matches to watch as the UEFA Champions League returns?
@@ -1932,3 +1927,8 @@
 1792416388|https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss|Al Jazeera investigation challenges Israeli account of Heidi Levine attack
 1792416394|https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit|France 'has to assist' Gulf states, diplomat says as Macron makes three-day visit
 1792416402|https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine|Third Ebola case in Kenya highlights US failures amid Trump cuts to key services
+1792418878|https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss|Australian Member of Parliament critically injured after being hit by a car
+1792418884|https://www.aljazeera.com/news/2026/10/19/french-protest-violence-a-christmas-present-for-le-pens-far-right?traffic_source=rss|French protest violence: A ‘Christmas present’ for Le Pen’s far right?
+1792418889|https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss|Doctors describe hospitals shattered by Israel’s genocide in Gaza
+1792418895|https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss|Dozens killed after Houthi strike on military camp in Shabwa
+1792418902|https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss|Russia’s Lavrov discusses US war and regional security in Tehran visit
