@@ -518,3 +518,8 @@
 1792383636|CNBC|«Где дым, там и огонь»: Почему BTIG бьет тревогу по технологиям|https://www.cnbc.com/2026/10/19/tech-semiconductor-chips-ai-stocks.html
 1792383645|Euronews|Экономика Китая растет на 4,5% на фоне сильного экспорта из-за внутренней слабости|https://www.euronews.com/2026/10/19/chinas-economy-grows-45-on-robust-exports-as-domestic-weakness-persists
 1792383652|Euronews|Может ли Испания позволить себе пенсии? Что нужно знать о финансировании перед выборами|https://www.euronews.com/2026/10/19/pensions-become-key-issue-in-spains-election-campaign-are-they-going-bust
+1792385838|BBC World|Правительство Франции находится под давлением после массовых беспорядков в выходные|https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss
+1792385844|Al Jazeera|Папа Римский приветствовал толпу в первом крупном появлении после операции по лечению рака легких|https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss
+1792385850|Al Jazeera|Лула и Болсонару участвуют в первых президентских дебатах в Бразилии|https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss
+1792385855|Sky News|«Кризисный симулятор» спрашивает, что если Россия окажется втянутой в более широкую войну?|https://news.sky.com/story/sky-news-defence-insider-gets-exclusive-access-to-staged-kaliningrad-crisis-simulation-13600825
+1792385861|Euronews|Заработная плата vs цены: Экономическое давление после протестов в Европе|https://www.euronews.com/2026/10/19/wages-vs-prices-the-economic-pressures-behind-europes-protests

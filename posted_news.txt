@@ -1,13 +1,3 @@
-1791779162|https://www.euronews.com/2026/10/12/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire|Stocks rise as oil prices tumble after Trump hails 'energy ceasefire'
-1791779168|https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/china-paraguay-belize-sanctions-taiwan/|China sanctions ministers from Paraguay and Belize over Taiwan ties
-1791779175|https://www.aa.com.tr/en/world/north-koreas-missile-launches-appear-to-be-response-to-south-korea-s-hypersonic-weapon-test-military/4085535|North Korea's missile launches appear to be response to South Korea’s hypersonic weapon test: Military
-1791779185|https://www.aa.com.tr/en/world/morning-briefing-oct-11-2026/4084845|Morning Briefing: Oct. 11, 2026
-1791779190|https://lenta.ru/news/2026/10/12/biolog-predupredil-o-nashestvii-aziatskih-bozhih-korovok-v-moskve/|Биолог предупредил о нашествии азиатских божьих коровок в Москве
-1791780347|https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss|Trump faces growing backlash over plans to import diesel from Russia
-1791780352|https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss|Ethiopian troops enter Adigrat in Tigray, near the Eritrean border
-1791780359|https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html|TikTok CEO sees major scientific breakthroughs from AI within three years
-1791780365|https://www.japantimes.co.jp/news/2026/10/12/japan/crime-legal/tokyo-police-haneda-airport/|Efforts to stop criminals fleeing the country stepped up
-1791780371|https://www.japantimes.co.jp/business/2026/10/12/japan-trade-minister-energy-security/|Japan urges oil stockpiling and development as Mideast risks rise
 1791781417|https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss|Netanyahu demands probe into sources for award-winning Gaza film NAZA
 1791781422|https://www.euronews.com/2026/10/12/which-european-countries-are-hit-the-hardest-by-annual-rent-inflation-and-why|Which European countries are hit the hardest by annual rent inflation and why?
 1791781428|https://www.euronews.com/2026/10/12/lumiere-festival-2026-in-lyon-stars-share-their-first-cinema-memories|Lumière festival 2026 in Lyon: Stars share their first cinema memories
@@ -1987,3 +1977,8 @@
 1792383636|https://www.cnbc.com/2026/10/19/tech-semiconductor-chips-ai-stocks.html|'Where there's smoke there's fire': Why BTIG is sounding the alarm on tech
 1792383644|https://www.euronews.com/2026/10/19/chinas-economy-grows-45-on-robust-exports-as-domestic-weakness-persists|China’s economy grows 4.5% on robust exports as domestic weakness persists
 1792383652|https://www.euronews.com/2026/10/19/pensions-become-key-issue-in-spains-election-campaign-are-they-going-bust|Can Spain afford its pensions? What to know about the funding debate ahead of the election
+1792385838|https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss|France's government under pressure after weekend of widespread violence
+1792385844|https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss|Pope greeted by crowds in first major appearance since lung cancer surgery
+1792385850|https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss|Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate
+1792385854|https://news.sky.com/story/sky-news-defence-insider-gets-exclusive-access-to-staged-kaliningrad-crisis-simulation-13600825|'Crisis simulation' asks what if Russia was pushed into wider war?
+1792385861|https://www.euronews.com/2026/10/19/wages-vs-prices-the-economic-pressures-behind-europes-protests|Wages vs prices: The economic pressures behind Europe's protests
