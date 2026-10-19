@@ -513,3 +513,8 @@
 1792381778|France 24|Бразильская Лула и Болсонару столкнулись в ожесточенных дебатах перед выборами|https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff
 1792381785|Japan Times|Восстановление роста в Китае превысило прогнозы по годовой цели|https://www.japantimes.co.jp/business/2026/10/19/china-economy-growth-rebound/
 1792381793|Japan Times|Рэйс обыграл Стражей в Игре 5, чтобы сделать еще один шаг к Мировой серии|https://www.japantimes.co.jp/sports/2026/10/19/baseball/mlb/rays-alcs-guardians-win/
+1792383622|Al Jazeera|«Это разбило мне сердце»: жители Лимож шатаются после пожара в мэрии|https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss
+1792383628|CNBC|Путин предложил провести саммит с Трампом и Си, чтобы решить судьбу Украины|https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html
+1792383636|CNBC|«Где дым, там и огонь»: Почему BTIG бьет тревогу по технологиям|https://www.cnbc.com/2026/10/19/tech-semiconductor-chips-ai-stocks.html
+1792383645|Euronews|Экономика Китая растет на 4,5% на фоне сильного экспорта из-за внутренней слабости|https://www.euronews.com/2026/10/19/chinas-economy-grows-45-on-robust-exports-as-domestic-weakness-persists
+1792383652|Euronews|Может ли Испания позволить себе пенсии? Что нужно знать о финансировании перед выборами|https://www.euronews.com/2026/10/19/pensions-become-key-issue-in-spains-election-campaign-are-they-going-bust

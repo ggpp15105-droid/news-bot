@@ -1,8 +1,3 @@
-1791777948|https://www.dw.com/en/us-judge-orders-halt-to-taxpayer-funded-promo-ads-of-trump/a-79636117?maca=en-rss-en-all-1573-rdf|US judge orders halt to taxpayer-funded promo ads of Trump
-1791777953|https://lenta.ru/news/2026/10/12/eks-pomoschnik-kuchmy-zabil-trevogu-posle-ischeznoveniya-zelenskogo-iz-sotssetey/|Экс-помощник Кучмы забил тревогу после исчезновения Зеленского из соцсетей
-1791777959|https://lenta.ru/news/2026/10/12/boets-vs-rossii-rasskazal-ob-ispolzovanii-vsu-plennyh-dlya-diversiy/|Боец ВС России рассказал об использовании ВСУ пленных для диверсий
-1791777963|https://lenta.ru/news/2026/10/12/v-rossiyskom-regione-otrazili-nochnuyu-ataku-bpla/|В российском регионе отразили ночную атаку БПЛА
-1791777972|https://lenta.ru/news/2026/10/12/vo-frantsii-potrebovali-otstavki-zelenskogo-posle-slov-trampa/|во Франции потребовали отставки Зеленского после слов Трампа
 1791779162|https://www.euronews.com/2026/10/12/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire|Stocks rise as oil prices tumble after Trump hails 'energy ceasefire'
 1791779168|https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/china-paraguay-belize-sanctions-taiwan/|China sanctions ministers from Paraguay and Belize over Taiwan ties
 1791779175|https://www.aa.com.tr/en/world/north-koreas-missile-launches-appear-to-be-response-to-south-korea-s-hypersonic-weapon-test-military/4085535|North Korea's missile launches appear to be response to South Korea’s hypersonic weapon test: Military
@@ -1987,3 +1982,8 @@
 1792381778|https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff|Brazil's Lula, Bolsonaro clash in bitter debate ahead of election runoff
 1792381785|https://www.japantimes.co.jp/business/2026/10/19/china-economy-growth-rebound/|China’s growth rebound tops forecasts to close in on annual goal
 1792381793|https://www.japantimes.co.jp/sports/2026/10/19/baseball/mlb/rays-alcs-guardians-win/|Rays beat Guardians in Game 5 to take another step toward World Series
+1792383622|https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss|‘It broke my heart’: Limoges residents reel after town hall fire
+1792383628|https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html|Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine
+1792383636|https://www.cnbc.com/2026/10/19/tech-semiconductor-chips-ai-stocks.html|'Where there's smoke there's fire': Why BTIG is sounding the alarm on tech
+1792383644|https://www.euronews.com/2026/10/19/chinas-economy-grows-45-on-robust-exports-as-domestic-weakness-persists|China’s economy grows 4.5% on robust exports as domestic weakness persists
+1792383652|https://www.euronews.com/2026/10/19/pensions-become-key-issue-in-spains-election-campaign-are-they-going-bust|Can Spain afford its pensions? What to know about the funding debate ahead of the election
