@@ -1,13 +1,3 @@
-1791795559|https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa?traffic_source=rss|Steve Smith breaks Test fielding record as Australia dominate South Africa
-1791795565|https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone|Marseille end five-game losing streak to climb out of Ligue 1 relegation zone
-1791795572|https://www.euronews.com/2026/10/12/what-is-pilgra-merch-the-travel-trend-turning-souvenirs-into-trip-inspiration|What is ‘pilgra-merch’? The travel trend turning souvenirs into trip inspiration
-1791795578|https://www.euronews.com/2026/10/12/eu-decries-concerning-trump-putin-deal-insists-sanctions-on-russia-will-continue|EU decries 'concerning' Trump-Putin deal, insists sanctions on Russia will continue
-1791795585|https://www.euronews.com/video/2026/10/12/footage-shows-glucksmann-covered-in-flour-after-winning-french-left-wing-presidential-prim|Footage shows Glucksmann covered in flour after winning French left-wing presidential primary
-1791796507|https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss|Delhi braces for more protests against election chief amid crackdown
-1791796514|https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss|What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?
-1791796519|https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss|Russia introduces drone classes in public schools
-1791796526|https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss|Photos: Gaza mothers endure endless lines as famine fears persist
-1791796533|https://www.euronews.com/2026/10/12/chinese-carmaker-byd-plans-to-open-factory-in-france|Chinese carmaker BYD plans to open factory in France
 1791797905|https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis|Saudi Arabia: Riyadh airport struck again by Yemen's Houthis
 1791797911|https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent|Trump touts surprise 'energy ceasefire' – Zelensky says he hasn't seen details, Moscow silent
 1791797918|https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-diesel-prices.html|Trump turns to Russian diesel ahead of midterms, but analysts see little price relief
@@ -1957,3 +1947,8 @@
 1792399567|https://www.aljazeera.com/video/newsfeed/2026/10/19/elderly-man-forcibly-detained-at-elbit-systems-protest-in-germany?traffic_source=rss|Elderly man forcibly detained at Elbit Systems protest in Germany
 1792399575|https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf|West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats
 1792399584|https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-rdf|Deepfakes, bots and distrust: How AI is shaping Israel's election
+1792401591|https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with?traffic_source=rss|Rubio says there was no US pause in intelligence sharing with Ukraine
+1792401598|https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss|NFL’s Azeez Al-Shaair honours Palestinian children for fifth straight week
+1792401604|https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss|Hezbollah funding plan indicates a new challenge to Lebanon’s government
+1792401610|https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss|France’s Macron declines minister’s resignation after violent protests
+1792401615|https://www.france24.com/en/tv-shows/sports/20261019-ligue-1-lyon-top-standings-after-hard-fought-win-over-ogc-nice|Ligue 1: Lyon top standings after hard-fought win over OGC Nice
