@@ -1,13 +1,3 @@
-1791790622|https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf|How green is Europe's urban public transport? A data-driven reality check
-1791790629|https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf|UK students call for school uniforms to be banned in pornography
-1791790636|https://www.euronews.com/video/2026/10/12/natos-kpi-is-peace-latvias-foreign-minister-says|'NATO's KPI is peace', Latvia's foreign minister says
-1791790643|https://www.euronews.com/2026/10/12/mystery-of-la-navidad-site-of-first-spanish-settlement-in-americas-unknown|Mystery of La Navidad: site of first Spanish settlement in Americas unknown
-1791790648|https://www.aa.com.tr/en/europe/germanys-senior-social-democrat-baerbel-bas-resigns-as-labor-minister/4085596|Germany's senior Social Democrat Baerbel Bas resigns as labor minister
-1791791914|https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss|American ranchers wrestle with soaring costs - and their loyalty to Trump
-1791791920|https://www.dw.com/en/germany-news-söder-demands-cdu-supports-of-the-afd-in-saxony-anhalt-reveal-themselves/live-79636427?maca=en-rss-en-all-1573-rdf|Germany news: Söder demands CDU supports of the AfD in Saxony-Anhalt reveal themselves
-1791791925|https://www.france24.com/en/asia-pacific/20261012-opposition-leaders-and-journalists-allege-police-abuses-as-fresh-protests-break-out-in-india|Opposition leaders and journalists allege police abuses as fresh protests break out in India
-1791791932|https://www.aa.com.tr/en/middle-east/israel-not-expected-to-attack-iran-before-elections-opposition-leader-says/4085710|Israel not expected to attack Iran before elections, opposition leader says
-1791791937|https://www.ign.com/articles/riftbound-radiance-hands-on-preview-and-interview-riftbound-embraces-complexity|Riftbound: Radiance Hands-On Preview and Interview - Riftbound Embraces Complexity
 1791792865|https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss|Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks
 1791792871|https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss|If Netanyahu goes, does anything really change for Palestinians?
 1791792877|https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market|Fire burns down Paris's oldest covered food market
@@ -1967,3 +1957,8 @@
 1792394679|https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf|Germany news: Berlin conference seeks to drum up investment
 1792394686|https://www.france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now|French student protests: 'There's been lack of investment in education for years now'
 1792394693|https://www.france24.com/en/quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to|'Quite horrifying': Afghan economic crisis leaves EU deportees with 'very little' to return to
+1792397365|https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss|Losing Cuba, the global trickster
+1792397371|https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall|World Food Programme to end aid for half a million in Gaza due to funding shortfall
+1792397377|https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine|Russia pounds Kyiv as Rubio urges Ukraine's Zelensky to 'focus' on ending the war
+1792397385|https://www.euronews.com/video/2026/10/19/drone-footage-reveals-scale-of-damage-to-limoges-town-hall-after-protests|Drone footage reveals scale of damage to Limoges town hall after protests
+1792397394|https://www.euronews.com/2026/10/19/amazon-deforestation-hits-record-low-in-brazil-but-el-nino-and-a-tight-election-threaten-t|Amazon deforestation hits record low in Brazil, but El Niño and a tight election threaten progress
