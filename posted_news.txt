@@ -1,8 +1,3 @@
-1791772320|https://www.france24.com/en/environment/20261012-el-nino-pacific-temperature-record-weather|El Nino breaks Pacific temperature record as weather pattern intensifies
-1791772327|https://www.japantimes.co.jp/news/2026/10/12/japan/emperor-empress-japan-games/|Emperor and empress watch table tennis matches at Japan Games
-1791772333|https://www.japantimes.co.jp/news/2026/10/12/japan/society/cram-schools-anti-sexual-assault-certification/|Anti-sexual assault certification set for Japan’s cram schools
-1791772342|https://lenta.ru/news/2026/10/12/glava-mchs-rossii-pribyl-v-kndr-dlya-peregovorov/|Глава МЧС России прибыл в КНДР для переговоров
-1791772351|https://lenta.ru/news/2026/10/12/v-buryatii-za-nedelyu-likvidirovali-desyatki-medvedey-iz-za-ugrozy-lyudyam/|В Бурятии за неделю ликвидировали десятки медведей из-за угрозы людям
 1791773482|https://www.japantimes.co.jp/news/2026/10/12/world/zelenskyy-trump-midterms-pressure/|Zelenskyy risks rupture with Trump as midterms pressure mounts
 1791773487|https://lenta.ru/news/2026/10/12/v-kremle-prokommentirovali-slova-trampa-o-smene-vlasti-na-ukraine/|В Кремле прокомментировали слова Трампа о смене власти на Украине
 1791773491|https://lenta.ru/news/2026/10/12/ataki-vsu-na-rossiyskie-data-tsentry-nazvali-terroristicheskimi/|Атаки ВСУ на российские дата-центры назвали террористическими
@@ -1997,3 +1992,8 @@
 1792376137|https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html|China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround
 1792376144|https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html|France hit by worst unrest in years as attempts to rein in government spending meet citizen ire
 1792376150|https://www.japantimes.co.jp/news/2026/10/19/japan/crime-legal/police-ai-interview/|Japan to boost police investigations with advanced technology
+1792378011|https://www.japantimes.co.jp/news/2026/10/19/japan/japan-language-education-foreign-residents/|Japan to expand language education for foreign residents
+1792378019|https://www.japantimes.co.jp/commentary/2026/10/19/world/zelenskyy-trump-peace-obstacles/|As obstacles to peace go, Zelenskyy ranks below Trump
+1792378026|https://www.aa.com.tr/en/middle-east/us-embassy-in-uae-urges-americans-in-middle-east-to-exercise-heightened-vigilance-/4092957|US Embassy in UAE urges Americans in Middle East to exercise ‘heightened vigilance’
+1792378033|https://www.aa.com.tr/en/middle-east/israeli-opposition-slams-netanyahu-s-new-security-doctrine-as-empty-slogans-ahead-of-elections/4092956|Israeli opposition slams Netanyahu’s new security doctrine as ‘empty slogans’ ahead of elections
+1792378040|https://www.aa.com.tr/en/eurasia/putin-proposes-trilateral-summit-with-trump-and-xi-to-discuss-ukraine-report/4092954|Putin proposes trilateral summit with Trump and Xi to discuss Ukraine: Report

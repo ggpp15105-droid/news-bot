@@ -498,3 +498,8 @@
 1792376138|CNBC|Китайская CXMT видит, что акции упали более чем на 6%, так как инвесторы смотрят на прибыль чипмейкера|https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html
 1792376144|CNBC|Франция пострадала от худших беспорядков за последние годы, поскольку попытки обуздать государственные расходы встречают гнев граждан|https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html
 1792376150|Japan Times|Япония усилит полицейское расследование с помощью передовых технологий|https://www.japantimes.co.jp/news/2026/10/19/japan/crime-legal/police-ai-interview/
+1792378011|Japan Times|Япония расширяет языковое образование для иностранных граждан|https://www.japantimes.co.jp/news/2026/10/19/japan/japan-language-education-foreign-residents/
+1792378019|Japan Times|По мере того, как препятствия на пути к миру уходят, Зеленский занимает место ниже Трампа.|https://www.japantimes.co.jp/commentary/2026/10/19/world/zelenskyy-trump-peace-obstacles/
+1792378026|Anadolu|Посольство США в ОАЭ призвало американцев на Ближнем Востоке проявлять «повышенную бдительность»|https://www.aa.com.tr/en/middle-east/us-embassy-in-uae-urges-americans-in-middle-east-to-exercise-heightened-vigilance-/4092957
+1792378034|Anadolu|Израильская оппозиция назвала новую доктрину безопасности Нетаньяху «пустыми лозунгами» перед выборами|https://www.aa.com.tr/en/middle-east/israeli-opposition-slams-netanyahu-s-new-security-doctrine-as-empty-slogans-ahead-of-elections/4092956
+1792378040|Anadolu|Путин предложил провести трехсторонний саммит с Трампом и Си для обсуждения Украины: доклад|https://www.aa.com.tr/en/eurasia/putin-proposes-trilateral-summit-with-trump-and-xi-to-discuss-ukraine-report/4092954
