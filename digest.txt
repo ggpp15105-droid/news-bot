@@ -493,3 +493,8 @@
 1792374657|Japan Times|Две коалы дебютируют в зоопарке Сайтама, отметив первое прибытие из Австралии за десятилетие.|https://www.japantimes.co.jp/news/2026/10/19/japan/koalas-australia-saitama-zoo/
 1792374664|Japan Times|Япония улучшает условия для персонала SDF на фоне нехватки персонала|https://www.japantimes.co.jp/news/2026/10/19/japan/self-defense-forces-conditions/
 1792374672|Japan Times|"Никс" готов поднять чемпионский баннер, чтобы начать новый сезон НБА|https://www.japantimes.co.jp/sports/2026/10/19/basketball/nba/new-york-knicks-title-banner/
+1792376124|France 24|100-миллионные драгоценности Лувра все еще отсутствуют через год после дерзкого ограбления|https://www.france24.com/en/france/20261019-louvre-100-million-crown-jewels-one-year-heist
+1792376130|CNBC|Экономический рост Китая в третьем квартале ускорится до 4,5% по мере роста экспорта, превзойдя оценки|https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html
+1792376138|CNBC|Китайская CXMT видит, что акции упали более чем на 6%, так как инвесторы смотрят на прибыль чипмейкера|https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html
+1792376144|CNBC|Франция пострадала от худших беспорядков за последние годы, поскольку попытки обуздать государственные расходы встречают гнев граждан|https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html
+1792376150|Japan Times|Япония усилит полицейское расследование с помощью передовых технологий|https://www.japantimes.co.jp/news/2026/10/19/japan/crime-legal/police-ai-interview/
