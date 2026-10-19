@@ -1,8 +1,3 @@
-1791767009|https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss|Iran’s FM urges diplomacy in call with Saudi counterpart
-1791767016|https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss|Hurricane Isaias leaves trail of destruction across the US Gulf Coast
-1791767022|https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss|Ceuta or Sebta? Why one city has two names and a disputed status
-1791767029|https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html|Judge orders Trump admin to stop airing challenged government-funded ads immediately
-1791767036|https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html|Why China is importing a record amount of gold — and what it means for prices
 1791768064|https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen|Fresh Houthi strike hits Riyadh airport a day after deadly attack
 1791768071|https://www.cnbc.com/2026/10/12/tensions-middle-east-and-ukraine-wars-imf-world-bank.html|CNBC Daily Open: Will America open another front in the Middle East? Trump is considering
 1791768075|https://lenta.ru/news/2026/10/12/severnaya-koreya-zapustila-neizvestnyy-snaryad-v-storonu-yaponskogo-morya/|Северная Корея запустила неизвестный снаряд в сторону Японского моря
@@ -1998,3 +1993,8 @@
 1792367347|https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf|Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition
 1792367355|https://www.japantimes.co.jp/news/2026/10/19/japan/politics/yokohama-mayor-election-atsumi-harasawa/|Yokohama elects new mayor after power harassment controversy
 1792367365|https://www.aa.com.tr/en/world/irans-foreign-minister-accuses-netanyahu-of-pushing-us-toward-another-war-to-avoid-prison/4092947|Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison
+1792368245|https://www.aa.com.tr/en/world/israeli-occupiers-injure-2-palestinians-attack-ambulance-in-west-bank/4092949|Israeli occupiers injure 2 Palestinians, attack ambulance in West Bank
+1792368250|https://lenta.ru/news/2026/10/19/rossiyane-budut-otdyhat-bolshe-poloviny-yanvarya-2027-goda/|Россияне будут отдыхать больше половины января 2027 года
+1792368254|https://lenta.ru/news/2026/10/19/v-litve-vstrevozhilis-iz-za-massovogo-ot-ezda-zhiteley/|В Литве встревожились из-за массового отъезда жителей
+1792368259|https://lenta.ru/news/2026/10/19/v-ispanii-vystupili-s-obvineniyami-v-adres-zapadnyh-pokroviteley-kieva/|В Испании выступили с обвинениями в адрес западных покровителей Киева
+1792368264|https://lenta.ru/news/2026/10/19/v-kremle-anonsirovali-pryamuyu-liniyu-putina/|В Кремле анонсировали прямую линию Путина

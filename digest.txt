@@ -474,3 +474,8 @@
 1792367347|DW|Канада: Пожар в Альберте База убивает четверых, оставляет 19 в критическом состоянии|https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf
 1792367355|Japan Times|Иокогама выбрала нового мэра из-за споров о преследовании власти|https://www.japantimes.co.jp/news/2026/10/19/japan/politics/yokohama-mayor-election-atsumi-harasawa/
 1792367366|Anadolu|Министр иностранных дел Ирана обвинил Нетаньяху в подталкивании США к новой войне, чтобы избежать тюрьмы|https://www.aa.com.tr/en/world/irans-foreign-minister-accuses-netanyahu-of-pushing-us-toward-another-war-to-avoid-prison/4092947
+1792368245|Anadolu|Израильские оккупанты ранили 2 палестинца, атаковали скорую помощь на Западном берегу|https://www.aa.com.tr/en/world/israeli-occupiers-injure-2-palestinians-attack-ambulance-in-west-bank/4092949
+1792368250|Lenta.ru|Россияне будут отдыхать больше половины января 2027 года|https://lenta.ru/news/2026/10/19/rossiyane-budut-otdyhat-bolshe-poloviny-yanvarya-2027-goda/
+1792368254|Lenta.ru|В Литве встревожились из-за массового отъезда жителей|https://lenta.ru/news/2026/10/19/v-litve-vstrevozhilis-iz-za-massovogo-ot-ezda-zhiteley/
+1792368259|Lenta.ru|В Испании выступили с обвинениями в адрес западных покровителей Киева|https://lenta.ru/news/2026/10/19/v-ispanii-vystupili-s-obvineniyami-v-adres-zapadnyh-pokroviteley-kieva/
+1792368264|Lenta.ru|В Кремле анонсировали прямую линию Путина|https://lenta.ru/news/2026/10/19/v-kremle-anonsirovali-pryamuyu-liniyu-putina/
