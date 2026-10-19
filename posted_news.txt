@@ -1,13 +1,3 @@
-1791825903|https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss|‘Totally unfair’: Navi Pillay slams US sanctions against ICC
-1791825909|https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss|Blast kills teenager, injures dozens in northern Israel
-1791825916|https://www.dw.com/en/fact-check-viral-videos-falsely-linked-to-riyadh-airport-attack/a-79643037?maca=en-rss-en-all-1573-rdf|Fact check: Viral videos falsely linked to Riyadh airport attack
-1791825923|https://www.dw.com/en/germany-labor-minister-s-resignation-puts-a-spotlight-on-cracks-within-the-government/a-79645823?maca=en-rss-en-all-1573-rdf|Germany: Labor Minister's resignation puts a spotlight on cracks within the government
-1791825928|https://www.france24.com/en/france/20261012-french-presidential-candidate-glucksmann-says-battle-begins-to-unite-fragmented-left|French presidential candidate Glucksmann says 'battle begins' to unite fragmented left
-1791826979|https://www.euronews.com/2026/10/12/eu-china-trade-deal-raises-fears-brussels-will-go-soft-on-beijing|EU-China trade deal raises fears Brussels will go soft on Beijing
-1791826986|https://www.aa.com.tr/en/world/delta-delays-atlanta-riyadh-launch-until-march-2027-after-houthi-airport-attacks/4086519|Delta delays Atlanta-Riyadh launch until March 2027 after Houthi airport attacks
-1791826991|https://www.aa.com.tr/en/science-technology/microsoft-unveils-maia-300-ai-chip-plans-expanded-rollout-from-2027/4086503|Microsoft unveils Maia 300 AI chip, plans expanded rollout from 2027
-1791826997|https://www.aa.com.tr/en/world/un-rights-chief-appalled-by-repeated-houthi-attacks-on-saudi-airports-urges-de-escalation/4086464|UN rights chief ‘appalled’ by repeated Houthi attacks on Saudi airports, urges de-escalation
-1791827003|https://www.ign.com/articles/street-fighter-6-movie-costumes-zangief-code|Street Fighter 6 Reveals Movie Costumes for Zangief, E. Honda and Dhalsim | IGN Fall Fan Fest 2026
 1791827871|https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss|Atletico Madrid vs Manchester United: Champions League – Predictions, teams
 1791827876|https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss|India’s voter list changes sparks fresh protests
 1791827881|https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270|Pope Leo cancels all public events ahead of lung surgery
@@ -1912,3 +1902,8 @@
 1792430579|https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan|Drone attack near market kills 80 in Sudan
 1792430584|https://news.sky.com/story/uefa-writes-to-fifa-demanding-answers-on-trump-infantino-dealings-13601000|UEFA writes to FIFA demanding answers on Trump-Infantino dealings
 1792430589|https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026|King Charles 'sends books about soil' to Aung San Suu Kyi
+1792432283|https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss|Chuck Schumer urges FCC to block AI robocalls before elections
+1792432288|https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss|Can religion help Democrats win in red states? These faith leaders hope so
+1792432293|https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss|12 migrants, including an infant, drown in two incidents off Greece
+1792432299|https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf|Can diplomacy stop another Ethiopia-Eritrea war?
+1792432303|https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting|🔴 France issues curfew for parts of central Paris
