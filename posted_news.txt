@@ -1,13 +1,3 @@
-1791829895|https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss|UK PM Andy Burnham met Man City chairman during time as Manchester mayor
-1791829905|https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss|Stolen Renoir paintings found behind wall in France following arrests
-1791829911|https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss|Ethiopian forces enter strategic Tigray town of Adwa, witnesses say
-1791829917|https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss|Zohran Mamdani orders use-of-force review for New York City police
-1791829924|https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf|Hundreds of French supermarkets hit by a cyberattack that defrosted refrigeration systems
-1791831267|https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss|UK PM says RAF base incidents ‘likely coordinated’ by Iran
-1791831272|https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss|Egypt’s press union chief rejects pressure over detained journalists
-1791831279|https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-all-1573-rdf|Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month
-1791831285|https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks|How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks
-1791831289|https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html|The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging
 1791832132|https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss|Cuba forges ahead with renewable energy plans amid US oil blockade
 1791832137|https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss|UK blames Iran for airbase plot, sanctions two Iranian nationals
 1791832143|https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf|UK: Iran 'highly likely' to be behind RAF Fairford incident
@@ -1902,3 +1892,8 @@
 1792433715|https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html|Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom
 1792433723|https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html|OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn
 1792433729|https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-midday-sndk-mrvl-ddog-clf-amzn.html|Stocks making the biggest moves midday: Sandisk, Marvell, Datadog, Cleveland-Cliffs, Amazon & more
+1792436064|https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss|Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
+1792436069|https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss|Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor
+1792436075|https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss|Netanyahu’s new security doctrine: Regional strategy or election ploy?
+1792436083|https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss|Benny Gantz drops out of Israel’s election race
+1792436089|https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss|Mauritius lifts curfew imposed amid wave of violent protests
