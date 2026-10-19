@@ -1,13 +1,3 @@
-1791818391|https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss|Fridges in French supermarkets hit by cyber attack
-1791818397|https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-omar/a-79643360?maca=en-rss-en-all-1573-rdf|US federal agents search home of Trump critic Omar
-1791818402|https://www.france24.com/en/india-s-opposition-leader-marches-with-thousands-against-election-chief|India's opposition leader marches with thousands against election chief
-1791818407|https://www.france24.com/en/video/20261012-five-people-missing-as-fresh-flash-floods-hit-central-nepal|Five people missing as fresh flash floods hit central Nepal
-1791818412|https://news.sky.com/story/daniel-kinahan-alleged-irish-crime-boss-will-vehemently-defend-himself-in-court-and-apply-for-bail-13598148|Alleged Irish crime boss Daniel Kinahan will 'vehemently defend' himself in court and apply for bail
-1791819727|https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss|Will Ukraine survive the winter?
-1791819732|https://www.france24.com/en/france/20261012-adieu-aux-enfants-rouges-tears-shock-fire-destroys-paris-oldest-covered-food-market|Adieu aux ‘Enfants Rouges’: Tears and shock as fire destroys Paris’s oldest covered food market
-1791819738|https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html|FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks
-1791819744|https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html|Starbucks says it is not buying Chipotle after takeover speculation
-1791819749|https://www.euronews.com/2026/10/12/eu-agrees-new-security-mission-in-lebanon-as-un-peacekeepers-prepare-to-leave|EU agrees new security mission in Lebanon as UN peacekeepers prepare to leave
 1791820804|https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss|France school shooting: Police detain pupil after two injured
 1791820811|https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss|The ICJ’s Rohingya ruling will test the OIC’s promises
 1791820819|https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss|Deadly gold mine air strikes highlight Egypt-Sudan border insecurity
@@ -1927,3 +1917,8 @@
 1792423172|https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss|Albania’s protests explained
 1792423179|https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss|Pakistan suspends Iran border trade, amid violence on both sides
 1792423186|https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf|Canada: Alberta votes on holding independence referendum
+1792425213|https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss|Kenyan court convicts starvation cult leader for murder of 191 people
+1792425220|https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss|Decision on Senegal’s AFCON final appeal to be made by end of November
+1792425228|https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss|Man City’s Semenyo out for up to eight weeks due to knee injury
+1792425236|https://www.dw.com/en/kenya-cult-leader-found-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-rdf|Kenya: Cult leader found guilty of murdering 190 children, 1 adult
+1792425243|https://www.dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435?maca=en-rss-en-all-1573-rdf|Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?
