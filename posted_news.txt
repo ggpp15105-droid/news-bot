@@ -1,13 +1,3 @@
-1791827871|https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss|Atletico Madrid vs Manchester United: Champions League – Predictions, teams
-1791827876|https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss|India’s voter list changes sparks fresh protests
-1791827881|https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270|Pope Leo cancels all public events ahead of lung surgery
-1791827887|https://www.euronews.com/video/2026/10/12/spain-national-day-highlights-territorial-unity-from-barcelona-to-ceuta|Spain: National Day highlights territorial unity from Barcelona to Ceuta
-1791827894|https://www.ign.com/articles/hit-my-line-the-walking-dead-star-chandler-riggs-made-his-own-resident-evil-7-fan-film-and-hed-love-to-work-with-zach-cregger-on-a-sequel|'Hit My Line' — The Walking Dead Star Chandler Riggs Made His Own Resident Evil 7 Fan Film, and He'd Love to Work With Zach Cregger on a Sequel
-1791828546|https://news.sky.com/story/nobel-peace-prize-winner-navi-pillay-criticises-trump-over-negative-and-cruel-attacks-on-international-criminal-court-13598256|Nobel Peace Prize winner criticises Trump over 'negative and cruel' attacks
-1791828553|https://www.euronews.com/2026/10/12/french-investigators-use-dna-and-vehicle-tracking-to-solve-stolen-renoirs-case|French investigators use DNA and vehicle tracking to solve stolen Renoirs case
-1791828561|https://www.ign.com/articles/riftbound-radiance-rarest-cards-riot-games-music-crossovers-dominate-the-set|Riftbound: Radiance Rarest Cards - Riot Games Music Crossovers Dominate the Set
-1791828568|https://www.ign.com/articles/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-release-date-confirmed|He-Man and the Masters of the Universe: Dragon Pearl of Destruction Release Date Confirmed
-1791828576|https://www.ign.com/articles/valor-mortis-review|Valor Mortis Review
 1791829895|https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss|UK PM Andy Burnham met Man City chairman during time as Manchester mayor
 1791829905|https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss|Stolen Renoir paintings found behind wall in France following arrests
 1791829911|https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss|Ethiopian forces enter strategic Tigray town of Adwa, witnesses say
@@ -1907,3 +1897,8 @@
 1792432293|https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss|12 migrants, including an infant, drown in two incidents off Greece
 1792432299|https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf|Can diplomacy stop another Ethiopia-Eritrea war?
 1792432303|https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting|🔴 France issues curfew for parts of central Paris
+1792433661|https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss|Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus
+1792433707|https://news.sky.com/story/object-thought-to-be-amelia-earharts-missing-plane-likely-a-collection-of-large-trees-researchers-find-13601021|Object thought to be Amelia Earhart’s missing plane likely just 'large trees', researchers find
+1792433715|https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html|Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom
+1792433723|https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html|OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn
+1792433729|https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-midday-sndk-mrvl-ddog-clf-amzn.html|Stocks making the biggest moves midday: Sandisk, Marvell, Datadog, Cleveland-Cliffs, Amazon & more

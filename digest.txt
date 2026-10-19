@@ -1,4 +1,4 @@
-#last=2026-10-19-8|1792432260
+#last=2026-10-19-20|1792433636
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -633,3 +633,8 @@
 1792432293|Al Jazeera|12 мигрантов, включая младенца, утонули в двух инцидентах у берегов Греции|https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss
 1792432299|DW|Может ли дипломатия остановить очередную войну между Эфиопией и Эритреей?|https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf
 1792432303|France 24|Франция вводит комендантский час в центральных районах Парижа|https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting
+1792433661|Al Jazeera|Роналду был оштрафован Португалией на 285 долларов за ссору с Иисусом|https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss
+1792433708|Sky News|Объект, который считается пропавшим самолетом Амелии Эрхарт, скорее всего, просто «большие деревья».|https://news.sky.com/story/object-thought-to-be-amelia-earharts-missing-plane-likely-a-collection-of-large-trees-researchers-find-13601021
+1792433716|CNBC|Саудовская Аравия переносит конференцию крупных инвесторов на 2027 год, поскольку поддерживаемые Ираном хуситы усиливают нападения на королевство|https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html
+1792433724|CNBC|OpenAI может представлять опасность для национальной безопасности США, предупреждают федералы|https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html
+1792433730|CNBC|Акции делают самые большие шаги в полдень: Sandisk, Marvell, Datadog, Cleveland-Cliffs, Amazon и многое другое|https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-midday-sndk-mrvl-ddog-clf-amzn.html
