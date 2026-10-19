@@ -44,6 +44,10 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install ruff==0.17.1 pytest==9.1.1
+          # Тестам нужны только лёгкие зависимости: argostranslate тянет
+          # torch и качается минутами, в тестах он не используется.
+          grep -v '^argostranslate' requirements.txt > /tmp/requirements-test.txt
+          pip install -r /tmp/requirements-test.txt
 
       - name: Ruff
         run: ruff check newsbot tests news_bot.py
