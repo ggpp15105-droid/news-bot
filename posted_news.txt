@@ -1,13 +1,3 @@
-1791787703|https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss|India protest live: Opposition to march to Supreme Court over ‘vote theft’
-1791787710|https://www.dw.com/en/germany-bas-quits-as-spd-co-chair-amid-coalition-friction/a-79636869?maca=en-rss-en-all-1573-rdf|Germany: Bas quits as SPD co-chair amid coalition friction
-1791787717|https://www.cnbc.com/2026/10/12/trump-russia-ukraine-saudi-oil.html|CNBC Daily Open: Trump's Russian roulette
-1791787725|https://www.euronews.com/video/2026/10/12/rare-kandinsky-masterpiece-and-hockneys-beloved-dog-painting-head-to-london-auction|Rare Kandinsky masterpiece and Hockney’s beloved dog painting head to London auction
-1791787732|https://www.euronews.com/2026/10/12/trump-turns-the-screws-on-kyiv-as-eu-budget-talks-hit-a-wall|Trump turns the screws on Kyiv as EU budget talks hit a wall
-1791789210|https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations|Melbourne Islamic leader linked to suspected Flydubai hijacker condemns 'false accusations'
-1791789215|https://www.euronews.com/2026/10/12/why-does-the-eu-want-a-european-security-council-take-our-poll|Why does the EU want a European Security Council? Take our poll
-1791789221|https://www.euronews.com/2026/10/12/how-can-a-new-security-council-boost-the-eus-defence-strategy-ask-the-euronews-ai-chatbot|How can a new Security Council boost the EU's defence strategy? Ask the Euronews AI chatbot
-1791789228|https://www.japantimes.co.jp/business/2026/10/12/china-hybrid-eu-curbs/|China’s $7.5 billion EU hybrid boom faces new curbs under deal with EU
-1791789234|https://www.japantimes.co.jp/business/2026/10/12/companies/french-defense-firm-japan-base/|French defense firm Thales to build Japan base, media report says
 1791790622|https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf|How green is Europe's urban public transport? A data-driven reality check
 1791790629|https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf|UK students call for school uniforms to be banned in pornography
 1791790636|https://www.euronews.com/video/2026/10/12/natos-kpi-is-peace-latvias-foreign-minister-says|'NATO's KPI is peace', Latvia's foreign minister says
@@ -1972,3 +1962,8 @@
 1792391423|https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss|The kingmakers who could determine Israel’s election
 1792391429|https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss|China’s economy grows 4.5 percent in Q3, beating forecasts
 1792391437|https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-all-1573-rdf|India news: CJP alleges 'deliberate' delay in leaders' release
+1792394664|https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss|In pro-Palestine hub of Athens, Israeli buyers increase local resentment
+1792394671|https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss|No ‘turmoil’ at the White House
+1792394679|https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf|Germany news: Berlin conference seeks to drum up investment
+1792394686|https://www.france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now|French student protests: 'There's been lack of investment in education for years now'
+1792394693|https://www.france24.com/en/quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to|'Quite horrifying': Afghan economic crisis leaves EU deportees with 'very little' to return to
