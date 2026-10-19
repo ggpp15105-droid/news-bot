@@ -1,8 +1,3 @@
-1791797905|https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis|Saudi Arabia: Riyadh airport struck again by Yemen's Houthis
-1791797911|https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent|Trump touts surprise 'energy ceasefire' – Zelensky says he hasn't seen details, Moscow silent
-1791797918|https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-diesel-prices.html|Trump turns to Russian diesel ahead of midterms, but analysts see little price relief
-1791797926|https://www.euronews.com/2026/10/12/we-still-love-you-nato-envoy-seeks-to-reassure-europe-over-us-military-pullback|‘We still love you’: NATO envoy seeks to reassure Europe over US military pullback
-1791797932|https://www.euronews.com/2026/10/12/zelenskyy-says-russia-ignored-trumps-ceasefire-and-kept-attacking-ukraine|Zelenskyy says Russia ignored Trump’s ceasefire and kept attacking Ukraine
 1791799162|https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss|Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza
 1791799167|https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf|Nobel Prize in Economics goes to pair of US economists
 1791799173|https://www.dw.com/en/india-news-rahul-gandhi-to-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf|India news: Rahul Gandhi to march to Supreme Court
@@ -1952,3 +1947,8 @@
 1792401604|https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss|Hezbollah funding plan indicates a new challenge to Lebanon’s government
 1792401610|https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss|France’s Macron declines minister’s resignation after violent protests
 1792401615|https://www.france24.com/en/tv-shows/sports/20261019-ligue-1-lyon-top-standings-after-hard-fought-win-over-ogc-nice|Ligue 1: Lyon top standings after hard-fought win over OGC Nice
+1792403877|https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss|Alberta heads to polls to decide whether to hold vote on separation from Canada
+1792403883|https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss|Qatar warns global energy shockwaves from Iran war have yet to peak
+1792403892|https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss|How a grass fire at a Canadian military base killed four soldiers
+1792403897|https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871|Australian MP in critical condition after being hit by car - as counter-terror police investigate
+1792403905|https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html|French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall

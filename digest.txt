@@ -558,3 +558,8 @@
 1792401604|Al Jazeera|План финансирования Хезболлы указывает на новый вызов правительству Ливана|https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss
 1792401610|Al Jazeera|Макрон отказался от отставки министра после протестов|https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss
 1792401615|France 24|Лига 1: Лион после упорной победы над OGC Nice|https://www.france24.com/en/tv-shows/sports/20261019-ligue-1-lyon-top-standings-after-hard-fought-win-over-ogc-nice
+1792403877|BBC World|Альберта отправится на выборы, чтобы решить, проводить ли голосование по отделению от Канады|https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss
+1792403883|Al Jazeera|Катар предупреждает, что глобальные энергетические ударные волны от иранской войны еще не достигли пика|https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss
+1792403892|Al Jazeera|Пожар на канадской военной базе унес жизни четырех солдат|https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss
+1792403898|Sky News|Австралийский депутат находится в критическом состоянии после того, как его сбила машина - как расследует контртеррористическая полиция|https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871
+1792403906|CNBC|Французские беспорядки усугубляют опасения долгового кризиса. Акции, облигации и падение евро|https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html
