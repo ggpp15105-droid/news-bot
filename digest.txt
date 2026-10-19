@@ -528,3 +528,8 @@
 1792387532|France 24|Миссия МКС: «Очень интересно наблюдать за обновлением французских женщин в космосе»|https://www.france24.com/en/iss-mission-it-s-really-exciting-to-see-this-renewal-of-french-women-in-space
 1792387540|Euronews|Более 200 человек арестованы во второй день уличных столкновений против стоимости жизни в Милане|https://www.euronews.com/2026/10/19/more-than-200-arrested-in-second-day-of-street-clashes-against-cost-of-living-in-milan
 1792387547|Euronews|Кожаные черепахи быстро сокращаются. Может ли сеть «океанских святилищ» спасти их?|https://www.euronews.com/2026/10/19/leatherback-turtles-are-declining-rapidly-could-a-network-of-ocean-sanctuaries-save-them
+1792389470|DW|Франция: Эммануэль Макрон раскритиковал «провалы» из-за протестов|https://www.dw.com/en/france-emmanuel-macron-slams-failures-over-protest-unrest/a-79695496?maca=en-rss-en-all-1573-rdf
+1792389477|DW|Что означает шестое массовое вымирание на Земле для людей|https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-rdf
+1792389483|Euronews|Альбертанцы голосуют за независимость, пока Карни борется за единство Канады|https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united
+1792389491|Euronews|Как 5-миллиардное газовое кольцо может укрепить энергетическую безопасность Центральной Азии|https://www.euronews.com/2026/10/19/gas-ring-5-billion-proposal-aims-to-strengthen-central-asias-energy-security
+1792389499|Japan Times|Леброн Джеймс готовится к еще одному титулу в возрасте 41 года с 76-летними|https://www.japantimes.co.jp/sports/2026/10/19/basketball/nba/lebron-james-title-chase/
