@@ -1,13 +1,3 @@
-1791773482|https://www.japantimes.co.jp/news/2026/10/12/world/zelenskyy-trump-midterms-pressure/|Zelenskyy risks rupture with Trump as midterms pressure mounts
-1791773487|https://lenta.ru/news/2026/10/12/v-kremle-prokommentirovali-slova-trampa-o-smene-vlasti-na-ukraine/|В Кремле прокомментировали слова Трампа о смене власти на Украине
-1791773491|https://lenta.ru/news/2026/10/12/ataki-vsu-na-rossiyskie-data-tsentry-nazvali-terroristicheskimi/|Атаки ВСУ на российские дата-центры назвали террористическими
-1791773496|https://lenta.ru/news/2026/10/12/otnoshenie-trampa-k-evrope-i-ukraine-ob-yasnili-mestyu/|Отношение Трампа к Европе и Украине объяснили местью
-1791773500|https://lenta.ru/news/2026/10/12/v-minoborony-raskryli-podrobnosti-vzyatiya-annopolya-v-harkovskoy-oblasti/|В Минобороны раскрыли подробности взятия Аннополья в Харьковской области
-1791774349|https://lenta.ru/news/2026/10/12/muzhchina-sobralsya-vo-vtoroy-raz-zhenitsya-na-otrezavshey-emu-penis-zhenschine/|Мужчина собрался во второй раз жениться на отрезавшей ему пенис женщине
-1791774357|https://lenta.ru/news/2026/10/12/hobbi-zavzyatoy-dolzhnitsy-vyzvalo-stalo-kamnem-pretknoveniya-v-ee-otnosheniyah-s-muzhem/|Хобби завзятой должницы стало камнем преткновения в ее отношениях с мужем
-1791774362|https://lenta.ru/news/2026/10/12/na-ukraine-zayavili-o-gryaduschey-katastrofe-v-sluchae-prodolzheniya-boevyh-deystviy/|На Украине заявили о грядущей катастрофе в случае продолжения боевых действий
-1791774367|https://lenta.ru/news/2026/10/12/v-prokurature-raskryli-chislo-postradavshih-pri-dobyche-zolota-na-kamchatke/|В прокуратуре раскрыли число пострадавших при добыче золота на Камчатке
-1791774371|https://www.kommersant.ru/doc/9024273|КНДР провела испытания неопознанных ракет над Японским морем
 1791775592|https://www.euronews.com/2026/10/12/energy-ceasefire-confusion-in-kyiv-support-from-allies-silence-from-moscow-and-fresh-strik|Energy ceasefire: confusion in Kyiv, support from allies, silence from Moscow and fresh strikes
 1791775601|https://www.japantimes.co.jp/sports/2026/10/12/tennis/nishikori-retirement-event/|Nishikori appears alongside Federer at retirement event
 1791775606|https://lenta.ru/news/2026/10/12/v-ssha-prizvali-rassledovat-rol-starlink-v-atake-na-kolledzh-v-starobelske/|В США призвали расследовать роль Starlink в атаке на колледж в Старобельске
@@ -1997,3 +1987,8 @@
 1792378026|https://www.aa.com.tr/en/middle-east/us-embassy-in-uae-urges-americans-in-middle-east-to-exercise-heightened-vigilance-/4092957|US Embassy in UAE urges Americans in Middle East to exercise ‘heightened vigilance’
 1792378033|https://www.aa.com.tr/en/middle-east/israeli-opposition-slams-netanyahu-s-new-security-doctrine-as-empty-slogans-ahead-of-elections/4092956|Israeli opposition slams Netanyahu’s new security doctrine as ‘empty slogans’ ahead of elections
 1792378040|https://www.aa.com.tr/en/eurasia/putin-proposes-trilateral-summit-with-trump-and-xi-to-discuss-ukraine-report/4092954|Putin proposes trilateral summit with Trump and Xi to discuss Ukraine: Report
+1792379698|https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss|Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze
+1792379704|https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html|Indonesian stocks plunge to six-year low as MSCI downgrade fears mount
+1792379711|https://www.japantimes.co.jp/business/2026/10/19/markets/takaichi-foreign-investors-english/|Japan aims to soothe world traders’ fiscal anxiety with outreach in English
+1792379717|https://www.japantimes.co.jp/business/2026/10/19/companies/kioxia-downward-pressure/|Kioxia shares face headwinds from margin-buying gone wrong
+1792379723|https://www.japantimes.co.jp/business/2026/10/19/nidec-founder-civil-liability-for-damages/|Nidec legal reckoning reaches founder and shares drop to decade low

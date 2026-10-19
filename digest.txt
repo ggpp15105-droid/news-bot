@@ -503,3 +503,8 @@
 1792378026|Anadolu|Посольство США в ОАЭ призвало американцев на Ближнем Востоке проявлять «повышенную бдительность»|https://www.aa.com.tr/en/middle-east/us-embassy-in-uae-urges-americans-in-middle-east-to-exercise-heightened-vigilance-/4092957
 1792378034|Anadolu|Израильская оппозиция назвала новую доктрину безопасности Нетаньяху «пустыми лозунгами» перед выборами|https://www.aa.com.tr/en/middle-east/israeli-opposition-slams-netanyahu-s-new-security-doctrine-as-empty-slogans-ahead-of-elections/4092956
 1792378040|Anadolu|Путин предложил провести трехсторонний саммит с Трампом и Си для обсуждения Украины: доклад|https://www.aa.com.tr/en/eurasia/putin-proposes-trilateral-summit-with-trump-and-xi-to-discuss-ukraine-report/4092954
+1792379698|Al Jazeera|Украина запускает более 1000 беспилотников в России, поджигая нефтяные объекты|https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss
+1792379704|CNBC|Индонезийские акции упали до шестилетнего минимума, поскольку опасения по снижению MSCI растут|https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html
+1792379711|Japan Times|Япония стремится успокоить финансовую тревогу мировых трейдеров с помощью аутрич на английском языке|https://www.japantimes.co.jp/business/2026/10/19/markets/takaichi-foreign-investors-english/
+1792379717|Japan Times|Акции Kioxia столкнулись с встречным ветром из-за неправильной покупки маржи|https://www.japantimes.co.jp/business/2026/10/19/companies/kioxia-downward-pressure/
+1792379723|Japan Times|Юридический расчет Nidec достиг основателя, а акции упали до десятилетнего минимума|https://www.japantimes.co.jp/business/2026/10/19/nidec-founder-civil-liability-for-damages/
