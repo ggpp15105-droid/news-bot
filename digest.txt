@@ -1,4 +1,4 @@
-#last=2026-10-19-8|1792387494
+#last=2026-10-19-20|1792430411
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -623,3 +623,8 @@
 1792428999|Al Jazeera|Газа столкнулась с обострением голода из-за сокращения продовольственной помощи|https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss
 1792429005|Al Jazeera|Трамп одобрил Нетаниягу перед выборами|https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss
 1792429011|France 24|Франция: комендантский час объявлен после выходных|https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence
+1792430564|Al Jazeera|Поиски четырех солдат, пропавших без вести после нападения банды на Гаити|https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss
+1792430572|The Guardian|Лидер кенийского культа голода виновен в убийстве 190 детей и одного взрослого|https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children
+1792430579|The Guardian|Атака дронов возле рынка убила 80 человек в Судане|https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan
+1792430585|Sky News|УЕФА пишет в ФИФА с требованием ответов на сделки Трампа и Инфантино|https://news.sky.com/story/uefa-writes-to-fifa-demanding-answers-on-trump-infantino-dealings-13601000
+1792430590|Sky News|Король Чарльз «отправляет книги о земле» Аун Сан Су Чжи|https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026

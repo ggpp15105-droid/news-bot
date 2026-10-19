@@ -1,8 +1,3 @@
-1791824739|https://news.sky.com/story/congresswoman-insists-she-will-not-be-silenced-after-federal-agents-raid-her-home-13598219|Congresswoman insists she will not be 'silenced' after federal agents raid her home
-1791824744|https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html|Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks
-1791824750|https://www.euronews.com/2026/10/12/blindsided-again-by-trump-europe-puts-on-a-brave-face-and-rallies-behind-ukraine|Blindsided again by Trump, Europe puts on a brave face and rallies behind Ukraine
-1791824756|https://www.euronews.com/2026/10/12/eu-struggles-to-ramp-up-red-sea-mission-as-houthis-escalate-attacks|EU struggles to ramp up Red Sea mission as Houthis escalate attacks
-1791824762|https://www.euronews.com/2026/10/12/uk-pm-burnham-says-status-quo-with-brussels-not-good-enough-as-he-details-upcoming-eu-summ|UK PM Burnham says 'status quo' with Brussels 'not good enough' as he details upcoming EU summit
 1791825903|https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss|‘Totally unfair’: Navi Pillay slams US sanctions against ICC
 1791825909|https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss|Blast kills teenager, injures dozens in northern Israel
 1791825916|https://www.dw.com/en/fact-check-viral-videos-falsely-linked-to-riyadh-airport-attack/a-79643037?maca=en-rss-en-all-1573-rdf|Fact check: Viral videos falsely linked to Riyadh airport attack
@@ -1912,3 +1907,8 @@
 1792428999|https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss|Gaza faces worsening hunger as WFP announces food aid cuts
 1792429005|https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss|Trump endorses Netanyhu ahead of elections
 1792429010|https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence|France: ‘localised’ curfews announced after weekend of violence
+1792430564|https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss|Search under way for four soldiers missing after gang attack in Haiti
+1792430571|https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children|Kenyan starvation cult leader guilty of murder of 190 children and one adult
+1792430579|https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan|Drone attack near market kills 80 in Sudan
+1792430584|https://news.sky.com/story/uefa-writes-to-fifa-demanding-answers-on-trump-infantino-dealings-13601000|UEFA writes to FIFA demanding answers on Trump-Infantino dealings
+1792430589|https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026|King Charles 'sends books about soil' to Aung San Suu Kyi
