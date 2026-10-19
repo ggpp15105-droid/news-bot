@@ -613,3 +613,8 @@
 1792425228|Al Jazeera|Семеньо из «Ман Сити» выбыл на восемь недель из-за травмы колена|https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss
 1792425236|DW|Лидер культа Кении признан виновным в убийстве 190 детей и 1 взрослого|https://www.dw.com/en/kenya-cult-leader-found-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-rdf
 1792425244|DW|Может ли дипломатия предотвратить войну между Эфиопией и Эритреей, когда Тигрей получит новую администрацию?|https://www.dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435?maca=en-rss-en-all-1573-rdf
+1792426750|DW|Лидер кенийского культа Пол Маккензи признан виновным в 191 голодной смерти|https://www.dw.com/en/kenyan-cult-leader-paul-mackenzie-found-guilty-over-191-starvation-deaths/a-79706279?maca=en-rss-en-all-1573-rdf
+1792426757|DW|Новости Германии: Чрезвычайная ситуация в аэропорту Лейпцига вызвана начинающим водителем|https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf
+1792426763|France 24|Суд по делу об убийстве мафии начнется недалеко от Марселя|https://www.france24.com/en/video/20261019-dz-mafia-murder-trial-set-to-begin-near-marseille
+1792426769|France 24|Украина развернула беспилотник для переброски раненых солдат в рамках первой в мире операции|https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation
+1792426774|France 24|Франция хочет ввести комендантский час в некоторых районах после выходных беспорядков|https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots
