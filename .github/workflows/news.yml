@@ -2,73 +2,214 @@ name: News Bot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # каждые 5 минут
-  workflow_dispatch: {}      # кнопка ручного запуска
+    - cron: "*/10 * * * *"   # каждые 10 минут; GitHub может задерживать запуск
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "newsbot/**"
+      - "tests/**"
+      - "news_bot.py"
+      - "requirements*.txt"
+      - "pyproject.toml"
+      - ".github/workflows/news.yml"
+  pull_request:
+    paths:
+      - "newsbot/**"
+      - "tests/**"
+      - "news_bot.py"
+      - "requirements*.txt"
+      - "pyproject.toml"
 
 permissions:
   contents: write
 
-concurrency:
-  group: news-bot
-  cancel-in-progress: false
-
 jobs:
-  run:
+  checks:
+    # Линтер и тесты без сети: блокируют запуск бота при регрессии.
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
 
-      - uses: actions/setup-python@v5
+      - name: Python 3.11
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97  # v7.0.0
         with:
           python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Зависимости для проверок
+        run: |
+          python -m pip install --upgrade pip
+          pip install ruff==0.17.1 pytest==9.1.1
+
+      - name: Ruff
+        run: ruff check newsbot tests news_bot.py
+
+      - name: Тесты
+        run: python -m pytest
+
+  run:
+    needs: checks
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    # Запуски бота не должны идти параллельно: иначе два процесса
+    # прочитают один state.json и опубликуют дубли.
+    concurrency:
+      group: news-bot
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Python 3.11
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97  # v7.0.0
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: |
+            requirements.txt
+            requirements-dev.txt
 
       - name: Кэш pip
-        uses: actions/cache@v4
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9  # v6.1.0
         with:
           path: ~/.cache/pip
-          key: pip-newsbot-v2
+          key: pip-newsbot-v3
 
-      - name: Кэш модели перевода
-        uses: actions/cache@v4
+      - name: Кэш модели Argos
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9  # v6.1.0
         with:
           path: ~/.local/share/argos-translate
           key: argos-en-ru-v1
 
-      - name: Установка зависимостей
+      - name: Зависимости
         run: |
+          python -m pip install --upgrade pip
           pip install torch --index-url https://download.pytorch.org/whl/cpu
-          pip install argostranslate feedparser requests trafilatura deep-translator
+          pip install -r requirements.txt
 
-      - name: Установка модели перевода en→ru
+      - name: Модель перевода en→ru (fallback)
         run: |
-          python - <<'EOF'
+          python - <<'PY'
           from argostranslate import package
           installed = {(p.from_code, p.to_code) for p in package.get_installed_packages()}
           if ("en", "ru") not in installed:
-              print("Скачиваю модель en→ru (~100 МБ, только при первом запуске)...")
+              print("Скачиваю модель en→ru (~100 МБ, один раз)...")
               package.update_package_index()
               for pkg in package.get_available_packages():
                   if pkg.from_code == "en" and pkg.to_code == "ru":
                       package.install_from_path(pkg.download())
                       break
-          print("Модель перевода готова")
-          EOF
+          print("Модель готова")
+          PY
 
       - name: Запуск бота
         run: python news_bot.py
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
-          MM_EMAIL: ${{ secrets.MM_EMAIL }}
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
+          MM_EMAIL: ${{ secrets.MM_EMAIL }}
+
+          # Перевод и LLM
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL }}
+          SUMMARY_MODEL: ${{ vars.SUMMARY_MODEL }}
+          EMBEDDING_MODEL: ${{ vars.EMBEDDING_MODEL }}
+          LLM_SUMMARY: ${{ vars.LLM_SUMMARY }}
+          TRANSLATE_CHAIN: ${{ vars.TRANSLATE_CHAIN }}
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          YANDEX_API_KEY: ${{ secrets.YANDEX_API_KEY }}
+          YANDEX_FOLDER_ID: ${{ secrets.YANDEX_FOLDER_ID }}
+          GLOSSARY_FILE: ${{ vars.GLOSSARY_FILE }}
+
+          # Расписание и объём
           DIGEST_HOURS: ${{ vars.DIGEST_HOURS }}
+          QUIET_HOURS: ${{ vars.QUIET_HOURS }}
+          WEEKLY_RECAP: ${{ vars.WEEKLY_RECAP }}
+          WEEKLY_RECAP_DAY: ${{ vars.WEEKLY_RECAP_DAY }}
+          WEEKLY_RECAP_HOUR: ${{ vars.WEEKLY_RECAP_HOUR }}
+          MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN }}
+          MAX_POSTS_PER_HOUR: ${{ vars.MAX_POSTS_PER_HOUR }}
+          MAX_POSTS_PER_DAY: ${{ vars.MAX_POSTS_PER_DAY }}
+          MAX_PER_SOURCE_PER_RUN: ${{ vars.MAX_PER_SOURCE_PER_RUN }}
+          MAX_PER_SOURCE_PER_DAY: ${{ vars.MAX_PER_SOURCE_PER_DAY }}
+          MAX_PER_CATEGORY_PER_RUN: ${{ vars.MAX_PER_CATEGORY_PER_RUN }}
+          FRESHNESS_HOURS: ${{ vars.FRESHNESS_HOURS }}
+
+          # Дедупликация и качество
+          DEDUP_CONTAINMENT: ${{ vars.DEDUP_CONTAINMENT }}
+          DEDUP_JACCARD: ${{ vars.DEDUP_JACCARD }}
+          TITLE_TRANSLATE_LIMIT: ${{ vars.TITLE_TRANSLATE_LIMIT }}
+          EMBEDDING_MIN_SIMILARITY: ${{ vars.EMBEDDING_MIN_SIMILARITY }}
+          EDIT_UPDATES: ${{ vars.EDIT_UPDATES }}
+          MAX_UPDATES_PER_CLUSTER: ${{ vars.MAX_UPDATES_PER_CLUSTER }}
+          UPDATE_MIN_INTERVAL_MIN: ${{ vars.UPDATE_MIN_INTERVAL_MIN }}
+          CONFIRMATION_LABEL: ${{ vars.CONFIRMATION_LABEL }}
+          TRANSLATION_NOTE: ${{ vars.TRANSLATION_NOTE }}
+          FEEDBACK_BUTTONS: ${{ vars.FEEDBACK_BUTTONS }}
+          FEEDBACK_WEIGHT: ${{ vars.FEEDBACK_WEIGHT }}
+          OPINION_LABEL: ${{ vars.OPINION_LABEL }}
+          BREAKING_AT_NIGHT: ${{ vars.BREAKING_AT_NIGHT }}
+
+          # Ленты и маршрутизация
+          EXTRA_FEEDS: ${{ vars.EXTRA_FEEDS }}
+          DISABLED_FEEDS: ${{ vars.DISABLED_FEEDS }}
+          SOURCE_WEIGHTS: ${{ vars.SOURCE_WEIGHTS }}
+          CHANNEL_ROUTES: ${{ vars.CHANNEL_ROUTES }}
+          SKIP_PATTERNS: ${{ vars.SKIP_PATTERNS }}
+
+          # Состояние
+          STATE_FILE: state.json
+          STATE_REDIS_URL: ${{ secrets.STATE_REDIS_URL }}
+          STATE_REDIS_TOKEN: ${{ secrets.STATE_REDIS_TOKEN }}
+
+          # Прочее
+          HEARTBEAT_URL: ${{ secrets.HEARTBEAT_URL }}
+          LOG_LEVEL: ${{ vars.LOG_LEVEL }}
+          DRY_RUN: ${{ vars.DRY_RUN }}
 
       - name: Сохранить состояние
-        if: always()
+        if: always() && github.ref == 'refs/heads/main'
         run: |
+          set -e
+          [ -f state.json ] || { echo "state.json не создан"; exit 0; }
           git config user.name "news-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add posted_news.txt digest.txt
-          git diff --cached --quiet || git commit -m "update state [skip ci]"
-          git pull --rebase origin main
-          git push
+          git add state.json
+          if git diff --cached --quiet; then
+            echo "Состояние не изменилось"
+            exit 0
+          fi
+          git commit -m "update state [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push; then
+              echo "Состояние сохранено"
+              exit 0
+            fi
+            git rebase --abort || true
+            sleep $((attempt * 5))
+          done
+          echo "Не удалось сохранить состояние после 3 попыток"
+          exit 1
+
+      - name: Алерт при падении
+        if: failure()
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ADMIN_ID: ${{ secrets.ADMIN_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$ADMIN_ID" ] || [ -z "$BOT_TOKEN" ]; then
+            echo "ADMIN_ID или BOT_TOKEN не заданы — алерт пропущен"
+            exit 0
+          fi
+          curl -sS --max-time 20 -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${ADMIN_ID}" \
+            --data-urlencode "text=🚨 News Bot: workflow завершился с ошибкой. ${RUN_URL}" \
+            >/dev/null || true

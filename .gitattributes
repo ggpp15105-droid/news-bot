@@ -1,1 +1,16 @@
+* text=auto eol=lf
+
+# state.json — компактный однострочный JSON: union-merge его бы испортил,
+# поэтому оставляем обычное слияние (workflow сериализует запуски
+# через concurrency-группу).
+
+# Легаси-формат posted_news.txt — по строке на новость, слияние безопасно.
 posted_news.txt merge=union
+
+# Бинарные файлы
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.mp4 binary
