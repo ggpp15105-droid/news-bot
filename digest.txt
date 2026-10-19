@@ -508,3 +508,8 @@
 1792379711|Japan Times|Япония стремится успокоить финансовую тревогу мировых трейдеров с помощью аутрич на английском языке|https://www.japantimes.co.jp/business/2026/10/19/markets/takaichi-foreign-investors-english/
 1792379717|Japan Times|Акции Kioxia столкнулись с встречным ветром из-за неправильной покупки маржи|https://www.japantimes.co.jp/business/2026/10/19/companies/kioxia-downward-pressure/
 1792379723|Japan Times|Юридический расчет Nidec достиг основателя, а акции упали до десятилетнего минимума|https://www.japantimes.co.jp/business/2026/10/19/nidec-founder-civil-liability-for-damages/
+1792381766|Al Jazeera|Трамп защищает облегчение санкций России, набрасывается на Зеленского|https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss
+1792381772|Al Jazeera|Пожар на траве вызвал трагедию на военной базе Канады|https://www.aljazeera.com/video/newsfeed/2026/10/19/fast-moving-grass-fire-caused-canadas-military-base-tragedy?traffic_source=rss
+1792381778|France 24|Бразильская Лула и Болсонару столкнулись в ожесточенных дебатах перед выборами|https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff
+1792381785|Japan Times|Восстановление роста в Китае превысило прогнозы по годовой цели|https://www.japantimes.co.jp/business/2026/10/19/china-economy-growth-rebound/
+1792381793|Japan Times|Рэйс обыграл Стражей в Игре 5, чтобы сделать еще один шаг к Мировой серии|https://www.japantimes.co.jp/sports/2026/10/19/baseball/mlb/rays-alcs-guardians-win/
