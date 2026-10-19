@@ -479,3 +479,8 @@
 1792368254|Lenta.ru|В Литве встревожились из-за массового отъезда жителей|https://lenta.ru/news/2026/10/19/v-litve-vstrevozhilis-iz-za-massovogo-ot-ezda-zhiteley/
 1792368259|Lenta.ru|В Испании выступили с обвинениями в адрес западных покровителей Киева|https://lenta.ru/news/2026/10/19/v-ispanii-vystupili-s-obvineniyami-v-adres-zapadnyh-pokroviteley-kieva/
 1792368264|Lenta.ru|В Кремле анонсировали прямую линию Путина|https://lenta.ru/news/2026/10/19/v-kremle-anonsirovali-pryamuyu-liniyu-putina/
+1792370560|BBC World|Внутри мрачного мира антипутинского саботажа из России|https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss
+1792370567|Al Jazeera|Иранская война жива: Тегеран говорит, что Нетаньяху стремится к еще большей войне; Йемен борется с вспышками|https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss
+1792370574|DW|Трамп защищает отказ России от санкций, обвиняет Зеленского в «продлении войны»|https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf
+1792370581|Anadolu|Атака RSF убила 11 человек в лагере для перемещенных лиц в Западном Дарфуре Судана|https://www.aa.com.tr/en/africa/rsf-attack-kills-11-at-displacement-camp-in-sudan-s-west-darfur-official/4092951
+1792370589|Lenta.ru|НЛО рядом с украинской границей напугал поляков|https://lenta.ru/news/2026/10/19/priletevshiy-so-storony-ukrainy-nlo-napugal-polyakov/
