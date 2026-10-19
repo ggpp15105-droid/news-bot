@@ -1,13 +1,3 @@
-1791809076|https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss|Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?
-1791809083|https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss|Which banners did Liverpool fans display at Anfield against Man City?
-1791809090|https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss|Far right surges as crises threaten Sanchez: Could Vox lead Spain?
-1791809097|https://www.aljazeera.com/video/witness/2026/10/12/gaza-still-reporting?traffic_source=rss|Gaza: Still Reporting
-1791809103|https://www.france24.com/en/replay-nato-s-top-military-commander-warns-russia-over-alleged-sabotage|REPLAY: NATO's top military commander warns Russia over alleged sabotage
-1791811275|https://www.dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352?maca=en-rss-en-all-1573-rdf|Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?
-1791811281|https://www.dw.com/en/cyprus-closer-than-ever-to-joining-schengen-but-political-hurdles-relating-to-the-green-line-and-british-sovereign-base-areas-remain/a-79641488?maca=en-rss-en-all-1573-rdf|Cyprus closer than ever to joining Schengen but political hurdles relating to the Green Line and British Sovereign Base Areas remain
-1791811286|https://www.france24.com/en/ukraine-zelensky-says-learned-of-trump-s-energy-ceasefire-through-media|Ukraine: Zelensky says learned of Trump's 'energy ceasefire' through media
-1791811294|https://www.france24.com/en/video/20261012-citro%C3%ABn-bets-on-nostalgia-at-paris-motor-show-amis-struggling-french-sales|Citroën bets on nostalgia at Paris motor show amis struggling French sales
-1791811299|https://www.france24.com/en/striking-images-show-new-flash-floods-hitting-central-nepal|Striking images show new flash floods hitting central Nepal
 1791813203|https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured?traffic_source=rss|At least 20 injured in northern Israel explosion
 1791813210|https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/12/confronting-the-largest-energy-security?traffic_source=rss|Confronting the ‘largest energy security threat’
 1791813217|https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf|Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
@@ -1937,3 +1927,8 @@
 1792413821|https://www.france24.com/en/video/20261019-italy-hit-by-violent-cost-of-living-protests-mostly-minors-arrested|Italy hit by violent cost-of-living protests, mostly minors arrested
 1792413828|https://www.france24.com/en/video/20261019-replay-french-pm-speaks-after-crisis-meeting|REPLAY: French PM speaks after crisis meeting
 1792413834|https://www.france24.com/en/tv-shows/focus/20261019-inflation-squeezes-households-as-lebanon-s-economic-crisis-persists|Inflation squeezes households as Lebanon's economic crisis persists
+1792416373|https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss|At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa
+1792416380|https://www.aljazeera.com/features/2026/10/19/the-night-watch-palestinians-protecting-their-homes-from-settler-pogroms?traffic_source=rss|The night watch: Palestinians protecting their homes from settler pogroms
+1792416388|https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss|Al Jazeera investigation challenges Israeli account of Heidi Levine attack
+1792416394|https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit|France 'has to assist' Gulf states, diplomat says as Macron makes three-day visit
+1792416402|https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine|Third Ebola case in Kenya highlights US failures amid Trump cuts to key services
