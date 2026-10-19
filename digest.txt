@@ -533,3 +533,8 @@
 1792389483|Euronews|Альбертанцы голосуют за независимость, пока Карни борется за единство Канады|https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united
 1792389491|Euronews|Как 5-миллиардное газовое кольцо может укрепить энергетическую безопасность Центральной Азии|https://www.euronews.com/2026/10/19/gas-ring-5-billion-proposal-aims-to-strengthen-central-asias-energy-security
 1792389499|Japan Times|Леброн Джеймс готовится к еще одному титулу в возрасте 41 года с 76-летними|https://www.japantimes.co.jp/sports/2026/10/19/basketball/nba/lebron-james-title-chase/
+1792391407|BBC World|Нехватка финансирования вынудила Всемирную продовольственную программу сократить помощь Газе|https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss
+1792391416|Al Jazeera|Мбаппе забил два, Гулер один, так как «Реал Мадрид» обрел форму до Эль-Класико.|https://www.aljazeera.com/sports/2026/10/19/mbappe-scores-two-guler-one-as-real-madrid-find-form-before-el-clasico?traffic_source=rss
+1792391423|Al Jazeera|Цари, которые могут определить выборы в Израиле|https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss
+1792391429|Al Jazeera|Экономика Китая выросла на 4,5% в 3 квартале, превзойдя прогнозы|https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss
+1792391437|DW|Новости Индии: CJP заявляет о «преднамеренной» задержке освобождения лидеров|https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-all-1573-rdf
