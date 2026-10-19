@@ -1,13 +1,3 @@
-1791822885|https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss|Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
-1791822891|https://www.france24.com/en/thousands-of-indians-march-to-supreme-court-to-oust-election-chief|Thousands of Indians march to Supreme Court to oust election chief
-1791822897|https://www.france24.com/en/chinese-cars-vs-europe-who-will-win-the-battle-for-the-market|Chinese cars vs Europe: Who will win the battle for the market?
-1791822902|https://www.france24.com/en/video/20261012-the-revival-of-a-classic-citro%C3%ABn-unveils-new-electric-version-of-its-2cv|The revival of a classic: Citroën unveils new electric version of its 2CV
-1791822909|https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html|Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'
-1791824027|https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss|Photos: Protests over voter lists escalate in India’s capital
-1791824033|https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss|Pope Leo continues working after lung surgery announcement
-1791824040|https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss|UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU
-1791824048|https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-rdf|Germany news: Merz says Trump's Russia diesel deal 'out of question' for Europe
-1791824053|https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252|Hackers heat French supermarket fridges to 50C in 'large-scale' cyber attack
 1791824739|https://news.sky.com/story/congresswoman-insists-she-will-not-be-silenced-after-federal-agents-raid-her-home-13598219|Congresswoman insists she will not be 'silenced' after federal agents raid her home
 1791824744|https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html|Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks
 1791824750|https://www.euronews.com/2026/10/12/blindsided-again-by-trump-europe-puts-on-a-brave-face-and-rallies-behind-ukraine|Blindsided again by Trump, Europe puts on a brave face and rallies behind Ukraine
@@ -1917,3 +1907,8 @@
 1792426763|https://www.france24.com/en/video/20261019-dz-mafia-murder-trial-set-to-begin-near-marseille|DZ Mafia murder trial set to begin near Marseille
 1792426768|https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation|Ukraine deploys drone to airlift wounded soldier in 'world-first' operation
 1792426774|https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots|France wants curfews in some areas after weekend of riots
+1792428988|https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss|Ex-OpenAI worker accused of planting device had Saudi support says court filing
+1792428994|https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss|Iran War backlash threatens Republican control of Congress
+1792428999|https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss|Gaza faces worsening hunger as WFP announces food aid cuts
+1792429005|https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss|Trump endorses Netanyhu ahead of elections
+1792429010|https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence|France: ‘localised’ curfews announced after weekend of violence

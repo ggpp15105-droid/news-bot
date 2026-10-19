@@ -618,3 +618,8 @@
 1792426763|France 24|Суд по делу об убийстве мафии начнется недалеко от Марселя|https://www.france24.com/en/video/20261019-dz-mafia-murder-trial-set-to-begin-near-marseille
 1792426769|France 24|Украина развернула беспилотник для переброски раненых солдат в рамках первой в мире операции|https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation
 1792426774|France 24|Франция хочет ввести комендантский час в некоторых районах после выходных беспорядков|https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots
+1792428988|BBC World|Экс-работник OpenAI , обвиняемый в посадке устройства, получил поддержку Саудовской Аравии|https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss
+1792428994|Al Jazeera|Иранская война угрожает республиканскому контролю над Конгрессом|https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss
+1792428999|Al Jazeera|Газа столкнулась с обострением голода из-за сокращения продовольственной помощи|https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss
+1792429005|Al Jazeera|Трамп одобрил Нетаниягу перед выборами|https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss
+1792429011|France 24|Франция: комендантский час объявлен после выходных|https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence
