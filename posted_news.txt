@@ -1,13 +1,3 @@
-1791799162|https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss|Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza
-1791799167|https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf|Nobel Prize in Economics goes to pair of US economists
-1791799173|https://www.dw.com/en/india-news-rahul-gandhi-to-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf|India news: Rahul Gandhi to march to Supreme Court
-1791799180|https://www.dw.com/en/germany-s-women-ena-mahmutovic-makes-her-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf|Germany's women: Ena Mahmutovic makes her case to become Germany's next No.1 goalkeeper
-1791799184|https://www.france24.com/en/europe/20261012-americans-robert-e-hall-and-michael-woodford-win-nobel-prize-in-economics|🔴 Americans Robert E. Hall and Michael Woodford win Nobel Prize in Economics
-1791800057|https://www.aljazeera.com/video/newsfeed/2026/10/12/10-12-dhruv-rathee-india-protests-sv?traffic_source=rss|Indian YouTuber Dhruv Rathee alleges abduction ahead of Delhi protests
-1791800062|https://www.france24.com/en/tv-shows/a-week-in-france/20261012-france-scrambles-to-deploy-supply-teachers-but-will-it-be-enough-to-quell-student-anger|France scrambles to deploy supply teachers, but will it be enough to quell student anger?
-1791800067|https://www.france24.com/en/france-founder-of-small-centre-left-party-wins-presidential-primary|France: Founder of small centre-left party wins presidential primary
-1791800072|https://www.france24.com/en/france/20261012-french-police-arrest-14-year-old-after-two-teaching-staff-wounded-by-hunting-rifle-fire|French police arrest 14-year-old after two teaching staff wounded by hunting rifle fire
-1791800077|https://news.sky.com/story/staff-shot-at-school-near-marseille-13598028|Pupil detained after staff shot at school near Marseille
 1791801348|https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss|Melbourne man linked to flydubai attack suspect rejects ‘false accusations’
 1791801354|https://www.france24.com/en/fire-destroys-historic-french-market-of-enfants-rouges-in-paris|Fire destroys historic French market of Enfants-Rouges in Paris
 1791801360|https://www.france24.com/en/are-european-automakers-capable-of-withstanding-chinese-competition|Are European automakers capable of withstanding Chinese competition?
@@ -1952,3 +1942,8 @@
 1792403892|https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss|How a grass fire at a Canadian military base killed four soldiers
 1792403897|https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871|Australian MP in critical condition after being hit by car - as counter-terror police investigate
 1792403905|https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html|French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall
+1792405634|https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss|Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers
+1792405641|https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss|WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages
+1792405647|https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss|Mexican protesters demanding clean water storm state congress
+1792405655|https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504?maca=en-rss-en-all-1573-rdf|Greece: At least 12 die in migrant drownings overnight
+1792405662|https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf|Australian MP seriously hurt in suspected car attack

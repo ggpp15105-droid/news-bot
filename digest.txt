@@ -563,3 +563,8 @@
 1792403892|Al Jazeera|Пожар на канадской военной базе унес жизни четырех солдат|https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss
 1792403898|Sky News|Австралийский депутат находится в критическом состоянии после того, как его сбила машина - как расследует контртеррористическая полиция|https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871
 1792403906|CNBC|Французские беспорядки усугубляют опасения долгового кризиса. Акции, облигации и падение евро|https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html
+1792405634|BBC World|Возможные обломки самолета Амелии Эрхарт могут быть деревьями, говорят исследователи|https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss
+1792405641|Al Jazeera|ВПП ООН сократила помощь 500 тысячам палестинцев в Газе из-за нехватки финансирования|https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss
+1792405647|Al Jazeera|Мексиканские протестующие требуют от Конгресса штата провести чистую воду|https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss
+1792405655|DW|Греция: 12 человек погибли в результате утопления мигрантов|https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504?maca=en-rss-en-all-1573-rdf
+1792405662|DW|Австралийский депутат серьезно пострадал при подозрении на автомобильную атаку|https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf
