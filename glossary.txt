@@ -1,0 +1,41 @@
+# Глоссарий для перевода. Формат: оригинал => перевод
+# Строки с # игнорируются. Термины подставляются после перевода,
+# поэтому их не нужно переводить заново.
+
+The White House => Белый дом
+Kremlin => Кремль
+Downing Street => Даунинг-стрит
+European Commission => Евросоюз
+European Union => Евросоюз
+NATO => НАТО
+UN => ООН
+WHO => ВОЗ
+IMF => МВФ
+OPEC => ОПЕК
+FIFA => ФИФА
+UEFA => УЕФА
+
+prime minister => премьер-министр
+foreign minister => глава МИД
+defence minister => министр обороны
+attorney general => генеральный прокурор
+secretary of state => госсекретарь
+
+ceasefire => перемирие
+airstrike => авиаудар
+drone strike => удар беспилотника
+hostage => заложник
+sanctions => санкции
+referendum => референдум
+inflation => инфляция
+interest rate => ключевая ставка
+stock market => фондовый рынок
+breaking news => срочная новость
+artificial intelligence => искусственный интеллект
+machine learning => машинное обучение
+semiconductor => полупроводник
+graphics card => видеокарта
+video game => видеоигра
+early access => ранний доступ
+release date => дата выхода
+box office => кассовые сборы
