@@ -1,4 +1,4 @@
-#last=2026-10-18-20|1792357035
+#last=2026-10-19-8|1792387494
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -523,3 +523,8 @@
 1792385850|Al Jazeera|Лула и Болсонару участвуют в первых президентских дебатах в Бразилии|https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss
 1792385855|Sky News|«Кризисный симулятор» спрашивает, что если Россия окажется втянутой в более широкую войну?|https://news.sky.com/story/sky-news-defence-insider-gets-exclusive-access-to-staged-kaliningrad-crisis-simulation-13600825
 1792385861|Euronews|Заработная плата vs цены: Экономическое давление после протестов в Европе|https://www.euronews.com/2026/10/19/wages-vs-prices-the-economic-pressures-behind-europes-protests
+1792387520|France 24|«Не проблема краткосрочных решений»: Французские студенты требуют структурных изменений|https://www.france24.com/en/not-a-problem-of-short-term-solutions-french-students-demand-structural-change-better-conditions
+1792387524|France 24|Макрон отверг отставку министра внутренних дел Франции после выходных беспорядков|https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest
+1792387532|France 24|Миссия МКС: «Очень интересно наблюдать за обновлением французских женщин в космосе»|https://www.france24.com/en/iss-mission-it-s-really-exciting-to-see-this-renewal-of-french-women-in-space
+1792387540|Euronews|Более 200 человек арестованы во второй день уличных столкновений против стоимости жизни в Милане|https://www.euronews.com/2026/10/19/more-than-200-arrested-in-second-day-of-street-clashes-against-cost-of-living-in-milan
+1792387547|Euronews|Кожаные черепахи быстро сокращаются. Может ли сеть «океанских святилищ» спасти их?|https://www.euronews.com/2026/10/19/leatherback-turtles-are-declining-rapidly-could-a-network-of-ocean-sanctuaries-save-them

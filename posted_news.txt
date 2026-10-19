@@ -1,13 +1,3 @@
-1791781417|https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss|Netanyahu demands probe into sources for award-winning Gaza film NAZA
-1791781422|https://www.euronews.com/2026/10/12/which-european-countries-are-hit-the-hardest-by-annual-rent-inflation-and-why|Which European countries are hit the hardest by annual rent inflation and why?
-1791781428|https://www.euronews.com/2026/10/12/lumiere-festival-2026-in-lyon-stars-share-their-first-cinema-memories|Lumière festival 2026 in Lyon: Stars share their first cinema memories
-1791781434|https://www.japantimes.co.jp/sports/2026/10/12/more-sports/49ers-seahawks-vikings/|Unbeaten 49ers edge Seahawks while Vikings stay perfect
-1791781443|https://lenta.ru/news/2026/10/12/cellular/|Раскрыт способ сэкономить интернет на iPhone
-1791782593|https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss|Documents falsified to evade tax on Abramovich's wealth
-1791782599|https://www.dw.com/en/how-iran-s-elite-forces-mold-the-minds-of-the-young-cadets/a-79609734?maca=en-rss-en-all-1573-rdf|How Iran's elite forces 'mold the minds of the young cadets'
-1791782604|https://www.euronews.com/2026/10/12/ikea-has-just-launched-another-second-hand-marketplace-but-will-it-stop-producing-fast-fur|IKEA has just launched another second-hand marketplace. But will it stop producing ‘fast furniture’?
-1791782610|https://www.euronews.com/2026/10/12/rockies-route-66-and-railway-hotels-why-2027-is-the-year-to-explore-the-us-by-train|Rockies, Route 66 and railway hotels: Why 2027 is the year to explore the US by train
-1791782615|https://www.japantimes.co.jp/sports/2026/10/12/baseball/brewers-dodgers-nlcs/|Brewers edge Dodgers 2-1 in National League Championship Series opener
 1791783761|https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss|Clashes reported in Yemen as Houthis advance towards Taiz
 1791783767|https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire|Live: Oil prices fall after Trump unilaterally announces Russia-Ukraine 'energy ceasefire'
 1791783774|https://www.euronews.com/2026/10/12/north-korea-fires-several-ballistic-missiles-into-sea-of-japan-seouls-military-says|North Korea fires 'several ballistic missiles' into Sea of Japan, Seoul's military says
@@ -1982,3 +1972,8 @@
 1792385850|https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss|Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate
 1792385854|https://news.sky.com/story/sky-news-defence-insider-gets-exclusive-access-to-staged-kaliningrad-crisis-simulation-13600825|'Crisis simulation' asks what if Russia was pushed into wider war?
 1792385861|https://www.euronews.com/2026/10/19/wages-vs-prices-the-economic-pressures-behind-europes-protests|Wages vs prices: The economic pressures behind Europe's protests
+1792387520|https://www.france24.com/en/not-a-problem-of-short-term-solutions-french-students-demand-structural-change-better-conditions|‘Not a problem of short-term solutions’: French students demand structural change, better conditions
+1792387524|https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest|🔴 Live: Macron rejects French interior minister's resignation after weekend of unrest
+1792387531|https://www.france24.com/en/iss-mission-it-s-really-exciting-to-see-this-renewal-of-french-women-in-space|ISS mission: 'It's really exciting to see this renewal of French women in space'
+1792387539|https://www.euronews.com/2026/10/19/more-than-200-arrested-in-second-day-of-street-clashes-against-cost-of-living-in-milan|More than 200 arrested in second day of street clashes against cost of living in Milan
+1792387547|https://www.euronews.com/2026/10/19/leatherback-turtles-are-declining-rapidly-could-a-network-of-ocean-sanctuaries-save-them|Leatherback turtles are declining rapidly. Could a network of ‘ocean sanctuaries’ save them?
