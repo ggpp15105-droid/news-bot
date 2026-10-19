@@ -1,13 +1,3 @@
-1791792865|https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss|Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks
-1791792871|https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss|If Netanyahu goes, does anything really change for Palestinians?
-1791792877|https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market|Fire burns down Paris's oldest covered food market
-1791792883|https://www.euronews.com/video/2026/10/12/frances-main-problem-is-its-inability-to-reduce-public-debt-economist-says|France’s main problem is its inability to reduce public debt, economist says
-1791792890|https://www.euronews.com/video/2026/10/12/tens-of-thousands-march-in-brussels-demanding-urgent-climate-action|Tens of thousands march in Brussels demanding urgent climate action
-1791794312|https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss|India opposition plans New Delhi protest to demand election chief resign
-1791794319|https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-all-1573-rdf|Frankfurt Book Fair: Rights lawyer Sands awarded peace prize
-1791794325|https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html|Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck
-1791794331|https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html|Stellantis CEO urges incentives for carmakers who build in Europe as Chinese rivals gain ground
-1791794337|https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html|World Bank jobs council urges 'crisis-era' support measures as IMF warns of AI ‘tsunami’ hit
 1791795559|https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa?traffic_source=rss|Steve Smith breaks Test fielding record as Australia dominate South Africa
 1791795565|https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone|Marseille end five-game losing streak to climb out of Ligue 1 relegation zone
 1791795572|https://www.euronews.com/2026/10/12/what-is-pilgra-merch-the-travel-trend-turning-souvenirs-into-trip-inspiration|What is ‘pilgra-merch’? The travel trend turning souvenirs into trip inspiration
@@ -1962,3 +1952,8 @@
 1792397377|https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine|Russia pounds Kyiv as Rubio urges Ukraine's Zelensky to 'focus' on ending the war
 1792397385|https://www.euronews.com/video/2026/10/19/drone-footage-reveals-scale-of-damage-to-limoges-town-hall-after-protests|Drone footage reveals scale of damage to Limoges town hall after protests
 1792397394|https://www.euronews.com/2026/10/19/amazon-deforestation-hits-record-low-in-brazil-but-el-nino-and-a-tight-election-threaten-t|Amazon deforestation hits record low in Brazil, but El Niño and a tight election threaten progress
+1792399554|https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss|Kenya pastor accused of ordering parents to starve their children to death faces verdict
+1792399561|https://www.aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw?traffic_source=rss|Mali’s military and armed groups committing abuses against civilians: HRW
+1792399567|https://www.aljazeera.com/video/newsfeed/2026/10/19/elderly-man-forcibly-detained-at-elbit-systems-protest-in-germany?traffic_source=rss|Elderly man forcibly detained at Elbit Systems protest in Germany
+1792399575|https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf|West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats
+1792399584|https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-rdf|Deepfakes, bots and distrust: How AI is shaping Israel's election
