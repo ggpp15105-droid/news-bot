@@ -1,8 +1,3 @@
-1791832132|https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss|Cuba forges ahead with renewable energy plans amid US oil blockade
-1791832137|https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss|UK blames Iran for airbase plot, sanctions two Iranian nationals
-1791832143|https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf|UK: Iran 'highly likely' to be behind RAF Fairford incident
-1791832148|https://www.euronews.com/2026/10/12/citroens-iconic-2cv-returns-as-an-all-electric-model|Citroën's iconic 2CV returns as an all-electric model
-1791832155|https://www.ign.com/articles/3-for-2-board-game-puzzle-sale-live-amazon-target-october-2026|A New '3 for 2' Board Game Sale Is Now Live at Amazon and Target
 1791833225|https://www.gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight/|Sorry, Street Fighter Movie, But Mondo Just Won The Poster Fight
 1791833231|https://www.gamespot.com/articles/nintendo-says-it-has-no-plans-to-ditch-physical-games-yet/|Nintendo Says It Has No Plans To Ditch Physical Games Yet
 1791833237|https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/|Baki’s Yujiro Hanma Is About To Turn Tekken 8 Into A Full-Blown Muscle Appreciation Simulator
@@ -1897,3 +1892,8 @@
 1792436075|https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss|Netanyahu’s new security doctrine: Regional strategy or election ploy?
 1792436083|https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss|Benny Gantz drops out of Israel’s election race
 1792436089|https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss|Mauritius lifts curfew imposed amid wave of violent protests
+1792437865|https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss|Protesters block Louvre in support of French student movement
+1792437873|https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf|France: Curfews issued in Paris, Nice after unrest
+1792437886|https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf|Bulgaria seeks suspects in Germany after Starlink sabotage
+1792437893|https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html|Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop
+1792437901|https://www.euronews.com/2026/10/19/lavrov-backs-iran-hours-after-trump-says-russia-doing-very-little-to-help-tehran|Lavrov backs Iran, hours after Trump says Russia doing 'very little' to help Tehran

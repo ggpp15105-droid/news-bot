@@ -1,4 +1,4 @@
-#last=2026-10-19-8|1792436043
+#last=2026-10-19-20|1792437843
 1790857553|Al Jazeera|ОАЭ расследуют возможную «террористическую» связь при нападении на рейс в Израиль|https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 1790857566|Euronews|Власти Финляндии расследуют предполагаемые взломы в нескольких домах депутатов|https://www.euronews.com/2026/10/01/finland-investigates-suspected-break-ins-at-several-mps-homes-authorities-say
 1790857591|Euronews|Наблюдатели ЕС сомневаются в Binance из-за нелицензированных европейских операций|https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations
@@ -643,3 +643,8 @@
 1792436075|Al Jazeera|Новая доктрина безопасности Нетаньяху: региональная стратегия или предвыборная уловка?|https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss
 1792436083|Al Jazeera|Бенни Ганц выбыл из предвыборной гонки в Израиле|https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss
 1792436089|Al Jazeera|Маврикий отменил комендантский час на фоне волны протестов|https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss
+1792437865|Al Jazeera|Протестующие блокируют Лувр в поддержку французского студенческого движения|https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss
+1792437873|DW|Франция: комендантский час в Париже, Ницца после беспорядков|https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf
+1792437886|DW|Болгария ищет подозреваемых в Германии после саботажа Starlink|https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf
+1792437894|CNBC|Apple объявляет о запуске продукта 28 октября. Аналитики ожидают сенсорный ноутбук|https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html
+1792437901|Euronews|Лавров поддержал Иран спустя несколько часов после того, как Трамп заявил, что Россия делает «очень мало», чтобы помочь Тегерану|https://www.euronews.com/2026/10/19/lavrov-backs-iran-hours-after-trump-says-russia-doing-very-little-to-help-tehran
