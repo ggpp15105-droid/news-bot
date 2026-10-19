@@ -598,3 +598,8 @@
 1792418889|Al Jazeera|Врачи описывают больницы, разрушенные геноцидом Израиля в Газе|https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss
 1792418895|Al Jazeera|Десятки убитых после удара хуситов по военному лагерю в Шабве|https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss
 1792418902|Al Jazeera|Лавров обсудил войну США и региональную безопасность в Тегеране|https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss
+1792420977|BBC World|Бывший президент Каталонии может вернуться в Испанию|https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss
+1792420984|Al Jazeera|Матч "ПСЖ" против "Барселоны" не будет отложен, несмотря на протесты: премьер Франции|https://www.aljazeera.com/sports/2026/10/19/psg-vs-barcelona-match-will-not-be-postponed-despite-protests-french-pm?traffic_source=rss
+1792420991|DW|Удар хуситов по военному лагерю правительства Йемена унес жизни не менее 50 человек|https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf
+1792420998|France 24|Премьер Франции заявил, что «ультралевые» стремятся к «глубоким беспорядкам» в преддверии выборов|https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election
+1792421005|France 24|Суд Бразилии обязал Meta доказать, что она дает Луле и Болсонару равное отношение к контенту кампании|https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment

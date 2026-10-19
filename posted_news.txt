@@ -1,13 +1,3 @@
-1791814416|https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss|US detains man accused in multi-billion Venezuelan money laundering scheme
-1791814422|https://www.aljazeera.com/news/2026/10/12/israeli-academic-and-al-jazeera-contributor-ori-goldberg-dies-at-50?traffic_source=rss|Israeli academic and Al Jazeera contributor Ori Goldberg dies at 50
-1791814430|https://www.aljazeera.com/sports/2026/10/12/champions-league-schedule-teams-matches-players?traffic_source=rss|What are the key matches to watch as the UEFA Champions League returns?
-1791814436|https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-settlers-abuse-and-reportedly-poison-goats-in-palestinian-village?traffic_source=rss|Israeli settlers abuse and reportedly poison goats in Palestinian village
-1791814442|https://www.france24.com/en/europe/20261012-eu-warns-online-platforms-over-livestreaming-us-execution-planned-by-pentagon|EU warns online platforms over livestreaming US execution planned by Pentagon
-1791815871|https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss|South Africa's deputy police chief resigns after being charged with sexual offences
-1791815879|https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss|Zizou Bergs stuns Alcaraz in Shanghai as Zverev claims year-end top ranking
-1791815886|https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf|Pope lung nodule: Could it be cancer?
-1791815893|https://www.france24.com/en/tv-shows/business/20261012-2026-paris-motor-show-western-carmakers-face-steep-competition-from-chinese-rivals|2026 Paris Motor Show: Western carmakers face steep competition from Chinese rivals
-1791815900|https://www.france24.com/en/tv-shows/arts24/20261012-sarab-pay-homage-to-war-victims-in-syria-gaza-on-new-album|SARAB pay homage to war victims in Syria, Gaza on new album
 1791817269|https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss|Immigration agents search Congresswoman Ilhan Omar's home
 1791817275|https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss|Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?
 1791817280|https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss|Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz
@@ -1932,3 +1922,8 @@
 1792418889|https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss|Doctors describe hospitals shattered by Israel’s genocide in Gaza
 1792418895|https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss|Dozens killed after Houthi strike on military camp in Shabwa
 1792418902|https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss|Russia’s Lavrov discusses US war and regional security in Tehran visit
+1792420977|https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss|Catalonia's former rebel president can return to Spain, court rules
+1792420984|https://www.aljazeera.com/sports/2026/10/19/psg-vs-barcelona-match-will-not-be-postponed-despite-protests-french-pm?traffic_source=rss|PSG vs Barcelona match will not be postponed despite protests: French PM
+1792420991|https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf|Houthi strike on Yemen government military camp kills at least 50
+1792420997|https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election|French PM says 'ultra-left' seeking 'deep unrest' ahead of election
+1792421004|https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment|Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment
