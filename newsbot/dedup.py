@@ -197,7 +197,7 @@ class Deduper:
     # Создание / обновление кластера
     # ------------------------------------------------------------------
 
-    def create(self, candidate: Candidate, force_id: str = "") -> dict:
+    def create(self, candidate: Candidate, force_id: str = "", register: bool = True) -> dict:
         cid = force_id or stable_hash("cluster", candidate.canonical or candidate.url, length=20)
         cluster = {
             "id": cid,
@@ -219,7 +219,8 @@ class Deduper:
             "media": {"image": candidate.image, "video": candidate.video},
         }
         self._append_link(cluster, candidate)
-        self.state.add_cluster(cluster)
+        if register:
+            self.state.add_cluster(cluster)
         self._cluster_tokens.pop(cid, None)
         return cluster
 

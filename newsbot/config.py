@@ -341,6 +341,7 @@ class Config:
     translation_note: bool = True
     feedback_buttons: bool = False
     feedback_weight: float = 0.10
+    source_buttons: bool = True
     opinion_label: bool = True
 
     breaking_at_night: bool = False
@@ -466,6 +467,8 @@ def _as_hours(env: Mapping[str, str], name: str, default: tuple[int, ...],
     raw = _env(env, name)
     if not raw:
         return default
+    if raw.lower() in {"off", "none", "нет", "0", "выкл"}:
+        return ()
     hours: list[int] = []
     for part in raw.split(","):
         part = part.strip()
@@ -641,6 +644,7 @@ def load_config(env: Mapping[str, str] | None = None) -> Config:
         confirmation_label=_as_bool(env, "CONFIRMATION_LABEL", True),
         translation_note=_as_bool(env, "TRANSLATION_NOTE", True),
         feedback_buttons=_as_bool(env, "FEEDBACK_BUTTONS", False),
+        source_buttons=_as_bool(env, "SOURCE_BUTTONS", True),
         feedback_weight=_as_float(env, "FEEDBACK_WEIGHT", 0.10, 0.0, 1.0, warns),
         opinion_label=_as_bool(env, "OPINION_LABEL", True),
 

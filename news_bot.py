@@ -1,10 +1,10 @@
 """Точка входа: ``python news_bot.py``.
 
-Вся логика — в пакете ``newsbot``. Этот файл оставлен для совместимости
-с workflow и привычной команды запуска.
+Вся логика — в пакете ``newsbot``. Опции командной строки описаны в
+``newsbot/cli.py`` (``--doctor``, ``--dry-run``, ``--post``, ``--digest``).
 """
 
-from newsbot.bot import entrypoint
+from newsbot.cli import main
 
 if __name__ == "__main__":
-    entrypoint()
+    raise SystemExit(main())

@@ -351,6 +351,12 @@ class TelegramClient:
         resp = self._api("getChat", {"chat_id": chat_id}, retries=1)
         return (resp.data.get("result") or None) if resp.ok else None
 
+    def get_chat_member(self, chat_id: str, user_id: int | str) -> dict[str, Any] | None:
+        resp = self._api("getChatMember", {
+            "chat_id": chat_id, "user_id": user_id,
+        }, retries=1)
+        return (resp.data.get("result") or None) if resp.ok else None
+
     def get_updates(self, offset: int, timeout: int = 0) -> list[dict[str, Any]]:
         if self.dry_run:
             return []
