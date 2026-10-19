@@ -488,3 +488,8 @@
 1792372845|CNBC|CNBC Daily Open: тысяча беспилотников и один напряженный американо-украинский альянс|https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html
 1792372852|Japan Times|Anthropic инвестирует 5% в новый «фонд общественных благ»|https://www.japantimes.co.jp/business/2026/10/19/anthropic-public-benefit-fund-ai/
 1792372860|Japan Times|Папа Лев обещает постепенное возвращение к обязанностям в первом случае после операции на раке|https://www.japantimes.co.jp/news/2026/10/19/world/pope-leo-cancer-surgery-duties/
+1792374642|Al Jazeera|Кения подтвердила восьмой случай Эболы на фоне растущей региональной вспышки|https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss
+1792374649|Japan Times|Японский пивоваренный «картель» недостаточно сговорился|https://www.japantimes.co.jp/commentary/2026/10/19/japan/japans-brewery-cartel-missed-chance/
+1792374657|Japan Times|Две коалы дебютируют в зоопарке Сайтама, отметив первое прибытие из Австралии за десятилетие.|https://www.japantimes.co.jp/news/2026/10/19/japan/koalas-australia-saitama-zoo/
+1792374664|Japan Times|Япония улучшает условия для персонала SDF на фоне нехватки персонала|https://www.japantimes.co.jp/news/2026/10/19/japan/self-defense-forces-conditions/
+1792374672|Japan Times|"Никс" готов поднять чемпионский баннер, чтобы начать новый сезон НБА|https://www.japantimes.co.jp/sports/2026/10/19/basketball/nba/new-york-knicks-title-banner/
