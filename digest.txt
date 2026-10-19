@@ -484,3 +484,7 @@
 1792370574|DW|Трамп защищает отказ России от санкций, обвиняет Зеленского в «продлении войны»|https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf
 1792370581|Anadolu|Атака RSF убила 11 человек в лагере для перемещенных лиц в Западном Дарфуре Судана|https://www.aa.com.tr/en/africa/rsf-attack-kills-11-at-displacement-camp-in-sudan-s-west-darfur-official/4092951
 1792370589|Lenta.ru|НЛО рядом с украинской границей напугал поляков|https://lenta.ru/news/2026/10/19/priletevshiy-so-storony-ukrainy-nlo-napugal-polyakov/
+1792372838|Al Jazeera|Семья и слежка: возвращение сомалийского пиратства|https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss
+1792372845|CNBC|CNBC Daily Open: тысяча беспилотников и один напряженный американо-украинский альянс|https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html
+1792372852|Japan Times|Anthropic инвестирует 5% в новый «фонд общественных благ»|https://www.japantimes.co.jp/business/2026/10/19/anthropic-public-benefit-fund-ai/
+1792372860|Japan Times|Папа Лев обещает постепенное возвращение к обязанностям в первом случае после операции на раке|https://www.japantimes.co.jp/news/2026/10/19/world/pope-leo-cancer-surgery-duties/

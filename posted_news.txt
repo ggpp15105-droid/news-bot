@@ -1,7 +1,3 @@
-1791769338|https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss|UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote
-1791769346|https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/|Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027
-1791769351|https://lenta.ru/news/2026/10/12/yurist-predupredil-o-posledstviyah-iz-yatiya-evropoy-rossiyskih-aktivov/|Юрист предупредил о последствиях изъятия Европой российских активов
-1791769355|https://lenta.ru/news/2026/10/12/zelenskiy-vvel-novye-sanktsii-protiv-rossiyskih-fizlits-i-kompaniy/|Зеленский ввел новые санкции против российских физлиц и компаний
 1791769360|https://lenta.ru/news/2026/10/12/nazvany-rossiyskie-goroda-s-samymi-vysokimi-zarplatami/|Названы российские города с самым высоким уровнем зарплат
 1791770346|https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss|Bridge washed away by torrent of water in Nepal
 1791770352|https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul|North Korea fires multiple ballistic missiles off east coast, Seoul says
@@ -1998,3 +1994,7 @@
 1792370574|https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf|Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'
 1792370581|https://www.aa.com.tr/en/africa/rsf-attack-kills-11-at-displacement-camp-in-sudan-s-west-darfur-official/4092951|RSF attack kills 11 at displacement camp in Sudan’s West Darfur: Official
 1792370589|https://lenta.ru/news/2026/10/19/priletevshiy-so-storony-ukrainy-nlo-napugal-polyakov/|НЛО рядом с украинской границей напугал поляков
+1792372838|https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss|Kinship and surveillance: The return of Somali piracy
+1792372845|https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html|CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance
+1792372851|https://www.japantimes.co.jp/business/2026/10/19/anthropic-public-benefit-fund-ai/|Anthropic to commit 5% stake to new ‘public benefit fund’
+1792372859|https://www.japantimes.co.jp/news/2026/10/19/world/pope-leo-cancer-surgery-duties/|Pope Leo pledges gradual return to duties in first event since cancer surgery
