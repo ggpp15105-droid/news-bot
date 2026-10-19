@@ -1,8 +1,3 @@
-1791806892|https://www.dw.com/en/ukraine-zelenskyy-accuses-russia-of-ceasefire-violations/a-79640911?maca=en-rss-en-all-1573-rdf|Ukraine: Zelenskyy accuses Russia of ceasefire violations
-1791806899|https://www.euronews.com/2026/10/12/what-to-know-about-pope-leo-xivs-upcoming-lung-surgery|What to know about Pope Leo XIV's upcoming lung surgery
-1791806906|https://www.euronews.com/2026/10/12/miriam-gonzalez-launches-new-party-to-take-on-spains-big-two-in-snap-election|Miriam González launches new party to take on Spain’s big two in snap election
-1791806912|https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/mdoi-power-playbook/|Crackdown exposes limits of Modi’s playbook for maintaining power
-1791806919|https://www.japantimes.co.jp/business/2026/10/12/war-geography-power/|War is forcing the world to reckon with geography’s power
 1791809076|https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss|Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?
 1791809083|https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss|Which banners did Liverpool fans display at Anfield against Man City?
 1791809090|https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss|Far right surges as crises threaten Sanchez: Could Vox lead Spain?
@@ -1937,3 +1932,8 @@
 1792411481|https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss|On Iran, Israel’s opposition is even more hawkish than Netanyahu
 1792411488|https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future|Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'
 1792411494|https://www.france24.com/en/video/20261019-marseille-cleans-up-after-looting-and-vandalism-in-protest|Marseille cleans up after looting and vandalism in protest
+1792413807|https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf|'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program
+1792413815|https://www.dw.com/en/marco-rubio-visits-india-this-week-with-a-visit-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf|Marco Rubio visits India this week, with a visit to the world's largest oil refinery topping the agenda
+1792413821|https://www.france24.com/en/video/20261019-italy-hit-by-violent-cost-of-living-protests-mostly-minors-arrested|Italy hit by violent cost-of-living protests, mostly minors arrested
+1792413828|https://www.france24.com/en/video/20261019-replay-french-pm-speaks-after-crisis-meeting|REPLAY: French PM speaks after crisis meeting
+1792413834|https://www.france24.com/en/tv-shows/focus/20261019-inflation-squeezes-households-as-lebanon-s-economic-crisis-persists|Inflation squeezes households as Lebanon's economic crisis persists
