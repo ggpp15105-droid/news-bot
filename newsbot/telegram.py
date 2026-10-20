@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import itertools
+import json
 import logging
 import re
 import time
@@ -17,6 +18,20 @@ from .util import mask_secret, strip_tags
 log = logging.getLogger("news-bot.telegram")
 
 _TAG_SPLIT_RE = re.compile(r"(<[^>]+>)")
+
+
+def form_value(value: Any) -> Any:
+    """Значения для multipart/form-data: словари и списки — в JSON.
+
+    Без этого requests сериализует ``reply_markup`` питоновским repr
+    с одинарными кавычками, и Telegram отвечает «can't parse reply
+    keyboard markup». Из-за этого фото с кнопками не отправлялись.
+    """
+    if isinstance(value, (dict, list, tuple)):
+        return json.dumps(value, ensure_ascii=False, separators=(",", ":"))
+    if isinstance(value, bool):
+        return "true" if value else "false"
+    return value
 _OPEN_TAGS = {"b", "strong", "i", "em", "u", "s", "code", "pre", "blockquote", "a"}
 
 
@@ -144,7 +159,8 @@ class TelegramClient:
         for attempt in range(retries):
             try:
                 if files:
-                    r = self.session.post(url, data=payload, files=files, timeout=timeout)
+                    form = {key: form_value(value) for key, value in (payload or {}).items()}
+                    r = self.session.post(url, data=form, files=files, timeout=timeout)
                 else:
                     r = self.session.post(url, json=payload or {}, timeout=timeout)
             except Exception as exc:
@@ -287,10 +303,11 @@ class TelegramClient:
     # Медиа
     # ------------------------------------------------------------------
 
-    def _send_media(self, method: str, chat_id: str, field: str,
-                    data: bytes | None, url: str, filename: str,
-                    mime: str, caption: str, buttons: list[list[dict]] | None,
-                    timeout: int, silent: bool = False) -> SendResult:
+    def _send_media_once(self, method: str, chat_id: str, field: str,
+                         *, data: bytes | None, url: str, filename: str,
+                         mime: str, caption: str,
+                         buttons: list[list[dict]] | None,
+                         timeout: int, silent: bool) -> SendResult:
         payload: dict[str, Any] = {
             "chat_id": chat_id,
             "caption": caption[: self.cfg.caption_limit],
@@ -312,6 +329,59 @@ class TelegramClient:
             return SendResult(False, error=resp.error, chat_id=chat_id)
         result = resp.data.get("result") or {}
         return SendResult(True, int(result.get("message_id") or 0) or None, chat_id)
+
+    def _send_media(self, method: str, chat_id: str, field: str,
+                    data: bytes | None, url: str, filename: str,
+                    mime: str, caption: str, buttons: list[list[dict]] | None,
+                    timeout: int, silent: bool = False) -> SendResult:
+        """Отправляет медиа с несколькими резервами.
+
+        Порядок попыток:
+          1. прямая ссылка — Telegram скачивает сам (так работала
+             исходная версия бота и это самый быстрый путь);
+          2. загрузка файла, если он уже скачан;
+          3. то же, но с подписью без HTML (на случай «can't parse
+             entities»).
+        """
+        caption = (caption or "").strip()
+        attempts: list[tuple[bool, str, str]] = []      # (upload, url, caption)
+        seen: set[tuple[bool, str, str]] = set()
+
+        def add(upload: bool, link: str, cap: str) -> None:
+            key = (upload, link, cap)
+            if key in seen:
+                return
+            if upload and not data:
+                return
+            if not upload and not link:
+                return
+            seen.add(key)
+            attempts.append(key)
+
+        for cap in (caption, strip_tags(caption) if "<" in caption else ""):
+            if not cap:
+                continue
+            if url:
+                add(False, url, cap)
+            if data:
+                add(True, "", cap)
+
+        last = SendResult(False, error="нет медиа для отправки", chat_id=chat_id)
+        for upload, link, cap in attempts:
+            result = self._send_media_once(
+                method, chat_id, field,
+                data=data if upload else None,
+                url="" if upload else link,
+                filename=filename, mime=mime, caption=cap,
+                buttons=buttons, timeout=timeout, silent=silent,
+            )
+            if result.ok:
+                return result
+            last = result
+            log.warning("%s: %s (%s)", method, result.error, "upload" if upload else "url")
+            # 403/404 по ссылке — сразу переходим к следующей попытке,
+            # 429/5xx уже отработаны ретраями внутри _api.
+        return last
 
     def send_photo(self, chat_id: str, caption: str, *, data: bytes | None = None,
                    url: str = "", filename: str = "photo.jpg", mime: str = "image/jpeg",

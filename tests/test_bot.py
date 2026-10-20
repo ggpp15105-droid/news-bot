@@ -342,3 +342,84 @@ def test_doctor_report_works(cfg, now, monkeypatch, tmp_path):
     )
     text = bot.doctor_report()
     assert "Проверка news-bot" in text
+
+
+def test_photo_uses_second_image_when_first_fails(cfg, now, monkeypatch, tmp_path):
+    """Если Telegram не смог взять первую картинку, пробуем следующую."""
+    cfg = cfg.with_overrides(state_file=str(tmp_path / "state.json"), max_posts_per_run=1)
+    bot = NewsBot(cfg, now)
+    patch_bot(bot, monkeypatch)
+    monkeypatch.setattr(bot_module, "fetch_article", lambda *a, **k: Article(
+        body="Тело статьи. " * 30,
+        image="https://bad.example/broken.jpg",
+        images=("https://good.example/works.jpg",),
+        title="Title",
+    ))
+    attempts = []
+
+    def send_photo(chat_id, caption, **kwargs):
+        url = kwargs.get("url") or ""
+        attempts.append(url or "upload")
+        if "bad.example" in url:
+            return SendResult(False, error="Bad Request: failed to get HTTP URL content")
+        return SendResult(True, 42, chat_id)
+
+    bot.tg.send_photo = send_photo
+    bot.tg.send_text = lambda chat_id, text, **kw: SendResult(True, 43, chat_id)
+
+    bot.process_items([RawItem(
+        source="BBC World", link="https://example.com/a",
+        title="Wildfire forces evacuations in Spain",
+        summary="", published_ts=now - 60,
+        image="https://bad.example/broken.jpg",
+    )])
+    bot.post_pending()
+
+    cluster = list(bot.state.clusters.values())[0]
+    assert cluster["messages"]["@test_channel"]["kind"] == "photo"
+    assert cluster["media"]["image"] == "https://good.example/works.jpg"
+    assert attempts[0] == "https://bad.example/broken.jpg"
+    assert "https://good.example/works.jpg" in attempts
+
+
+def test_photo_tries_url_before_download(cfg, now, monkeypatch, tmp_path):
+    """Ссылку отдаём Telegram сразу — как в исходной версии бота."""
+    cfg = cfg.with_overrides(state_file=str(tmp_path / "state.json"), max_posts_per_run=1)
+    bot = NewsBot(cfg, now)
+    patch_bot(bot, monkeypatch)
+
+    def boom(*args, **kwargs):
+        raise AssertionError("скачивать картинку не нужно, если ссылка сработала")
+
+    monkeypatch.setattr(bot_module, "download_image", boom)
+    bot.tg.send_photo = lambda chat_id, caption, **kw: SendResult(True, 11, chat_id)
+    bot.tg.send_text = lambda chat_id, text, **kw: SendResult(True, 12, chat_id)
+
+    bot.process_items([RawItem(
+        source="BBC World", link="https://example.com/b",
+        title="Wildfire forces evacuations in Spain",
+        summary="", published_ts=now - 60,
+        image="https://cdn.example.com/photo.jpg",
+    )])
+    bot.post_pending()
+    cluster = list(bot.state.clusters.values())[0]
+    assert cluster["messages"]["@test_channel"]["kind"] == "photo"
+
+
+def test_no_image_falls_back_to_text(cfg, now, monkeypatch, tmp_path):
+    cfg = cfg.with_overrides(state_file=str(tmp_path / "state.json"), max_posts_per_run=1)
+    bot = NewsBot(cfg, now)
+    patch_bot(bot, monkeypatch)
+    bot.tg.send_photo = lambda chat_id, caption, **kw: SendResult(
+        False, error="wrong file identifier/HTTP URL specified")
+    bot.tg.send_text = lambda chat_id, text, **kw: SendResult(True, 77, chat_id)
+
+    bot.process_items([RawItem(
+        source="BBC World", link="https://example.com/c",
+        title="Wildfire forces evacuations in Spain",
+        summary="", published_ts=now - 60,
+        image="https://cdn.example.com/broken.jpg",
+    )])
+    bot.post_pending()
+    cluster = list(bot.state.clusters.values())[0]
+    assert cluster["messages"]["@test_channel"]["kind"] == "text"
