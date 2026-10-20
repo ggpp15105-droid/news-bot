@@ -61,6 +61,7 @@ class Composed:
     chat_id: str
     caption: str
     article: Article
+    image_candidates: tuple[str, ...] = ()
 
 
 @dataclass
@@ -564,6 +565,22 @@ class NewsBot:
             media["image"] = article.image
         if article.video:
             media["video"] = article.video
+        # Все известные картинки: RSS, og:image из статьи, <img> со страницы.
+        # При публикации пробуем их по очереди — если первая не отдаётся
+        # Telegram, пост всё равно выйдет с картинкой.
+        candidates: list[str] = []
+        for candidate_image in (
+            article.image,
+            media.get("image"),
+            *article.images,
+            media.get("secondary_image"),
+        ):
+            value = str(candidate_image or "").strip()
+            if value and value not in candidates:
+                candidates.append(value)
+        if candidates:
+            media["image"] = candidates[0]
+            media["image_candidates"] = candidates[:4]
 
         caption = build_caption(self.cfg, cluster, lead=lead_ru, translated=translated)
         return Composed(
@@ -573,6 +590,7 @@ class NewsBot:
             chat_id=chat_id,
             caption=caption,
             article=article,
+            image_candidates=tuple(media.get("image_candidates") or ()),
         )
 
     def _buttons(self, cluster: dict) -> list[list[dict]] | None:
@@ -605,35 +623,41 @@ class NewsBot:
 
         video_url = str(media.get("video") or "")
         if video_url:
-            downloaded = download_video(self.cfg, self.session, video_url)
-            if downloaded:
-                data, filename, ctype = downloaded
-                result = self.tg.send_video(chat_id, caption, data=data, filename=filename,
-                                            mime=ctype, buttons=buttons, silent=silent)
-            else:
-                result = self.tg.send_video(chat_id, caption, url=video_url, buttons=buttons,
-                                            silent=silent)
+            # Сначала отдаём ссылку Telegram (так работала исходная версия),
+            # при ошибке — скачиваем и загружаем файлом.
+            result = self.tg.send_video(chat_id, caption, url=video_url, buttons=buttons,
+                                        silent=silent)
+            if not result.ok:
+                downloaded = download_video(self.cfg, self.session, video_url)
+                if downloaded:
+                    data, filename, ctype = downloaded
+                    result = self.tg.send_video(chat_id, caption, data=data, url=video_url,
+                                                filename=filename, mime=ctype,
+                                                buttons=buttons, silent=silent)
             if result.ok:
                 sent_kind, message_id = "video", result.message_id
             else:
                 errors.append(f"video: {result.error}")
+                log.warning("Видео не отправлено (%s): %s", video_url[:80], result.error)
 
         if not sent_kind:
-            image_url = str(media.get("image") or "")
-            if image_url:
-                downloaded = download_image(self.cfg, self.session, image_url)
-                if downloaded:
-                    data, filename, ctype = downloaded
-                    result = self.tg.send_photo(chat_id, caption, data=data,
-                                                filename=filename, mime=ctype, buttons=buttons,
-                                                silent=silent)
-                else:
-                    result = self.tg.send_photo(chat_id, caption, url=image_url, buttons=buttons,
-                                                silent=silent)
+            for image_url in composed.image_candidates:
+                result = self.tg.send_photo(chat_id, caption, url=image_url,
+                                            buttons=buttons, silent=silent)
+                if not result.ok:
+                    downloaded = download_image(self.cfg, self.session, image_url)
+                    if downloaded:
+                        data, filename, ctype = downloaded
+                        result = self.tg.send_photo(chat_id, caption, data=data,
+                                                    url=image_url, filename=filename,
+                                                    mime=ctype, buttons=buttons,
+                                                    silent=silent)
                 if result.ok:
                     sent_kind, message_id = "photo", result.message_id
-                else:
-                    errors.append(f"photo: {result.error}")
+                    media["image"] = image_url
+                    break
+                errors.append(f"photo: {result.error}")
+                log.warning("Фото не отправлено (%s): %s", image_url[:80], result.error)
 
         if not sent_kind:
             text = build_full_text(self.cfg, cluster, lead=lead_ru, translated=translated)

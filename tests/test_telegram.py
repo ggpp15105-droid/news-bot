@@ -85,3 +85,82 @@ def test_media_payload(cfg, monkeypatch):
     assert seen["payload"]["photo"] == "attach://upload"
     assert seen["payload"]["disable_notification"] is True
     assert seen["files"]["upload"][2] == "image/png"
+
+
+def test_form_value_encodes_json(cfg):
+    from newsbot.telegram import form_value
+
+    buttons = [[{"text": "🔗 DW", "url": "https://example.com"}]]
+    encoded = form_value({"inline_keyboard": buttons})
+    assert isinstance(encoded, str)
+    assert '"inline_keyboard"' in encoded and "'" not in encoded
+    assert form_value(True) == "true"
+
+
+def test_media_upload_sends_json_reply_markup(cfg):
+    """Фото с кнопками раньше падало: reply_markup уходил питоновским repr."""
+    client = TelegramClient(cfg, session=None, dry_run=False)
+    captured = {}
+
+    class Resp:
+        status_code = 200
+        text = ""
+
+        @staticmethod
+        def json():
+            return {"ok": True, "result": {"message_id": 5}}
+
+    class Session:
+        def post(self, url, data=None, files=None, timeout=None, json=None):
+            captured["data"] = data
+            captured["files"] = files
+            return Resp()
+
+    client.session = Session()
+    buttons = [[{"text": "🔗 DW", "url": "https://example.com"}]]
+    result = client.send_photo("@test", "<b>Заголовок</b>", data=b"x" * 1000,
+                               mime="image/jpeg", buttons=buttons)
+    assert result.ok
+    assert captured["files"], "файл должен уходить multipart"
+    markup = captured["data"]["reply_markup"]
+    assert isinstance(markup, str)
+    assert markup.startswith("{") and '"inline_keyboard"' in markup
+
+
+def test_media_url_then_upload_fallback(cfg):
+    """Если Telegram не смог скачать картинку по ссылке, грузим файлом."""
+    client = TelegramClient(cfg, session=None, dry_run=False)
+    calls = []
+
+    def fake_api(method, payload=None, timeout=None, files=None, retries=3):
+        calls.append("upload" if files else "url")
+        if files:
+            return TgResponse(True, {"ok": True, "result": {"message_id": 7}})
+        return TgResponse(False, {"ok": False, "description": "failed to get HTTP URL content"},
+                          status=400)
+
+    client._api = fake_api
+    result = client.send_photo(
+        "@test", "подпись", url="https://example.com/broken.jpg",
+        data=b"x" * 1000, mime="image/jpeg",
+    )
+    assert result.ok and result.message_id == 7
+    assert calls == ["url", "upload"]
+
+
+def test_media_plain_caption_fallback(cfg):
+    client = TelegramClient(cfg, session=None, dry_run=False)
+    captions = []
+
+    def fake_api(method, payload=None, timeout=None, files=None, retries=3):
+        captions.append(payload["caption"])
+        if "can't parse entities" in payload["caption"] or "<" in payload["caption"]:
+            return TgResponse(False, {"ok": False,
+                                      "description": "Bad Request: can't parse entities"},
+                              status=400)
+        return TgResponse(True, {"ok": True, "result": {"message_id": 9}})
+
+    client._api = fake_api
+    result = client.send_photo("@test", "<b>заголовок</b>", url="https://example.com/i.jpg")
+    assert result.ok
+    assert any("<" not in cap for cap in captions)

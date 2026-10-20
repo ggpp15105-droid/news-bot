@@ -2,9 +2,11 @@
 
 from __future__ import annotations
 
+import html as html_lib
 import logging
+import re
 from dataclasses import dataclass
-from urllib.parse import urlsplit
+from urllib.parse import urljoin, urlsplit
 
 import requests
 
@@ -21,12 +23,66 @@ log = logging.getLogger("news-bot.article")
 
 _MAX_PAGE_BYTES = 8 * 1024 * 1024
 
+_IMG_TAG_RE = re.compile(r"<img\b[^>]*>", re.I)
+_ATTR_RE = re.compile(r"""([a-zA-Z_:][-a-zA-Z0-9_:.]*)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))""")
+_BAD_IMAGE_PARTS = ("logo", "icon", "sprite", "avatar", "placeholder", "pixel",
+                    "spacer", "blank.", "favicon", "/emoji/", "badge")
+
+
+def _attrs(tag: str) -> dict[str, str]:
+    out: dict[str, str] = {}
+    for match in _ATTR_RE.finditer(tag):
+        name = match.group(1).lower()
+        value = match.group(2) or match.group(3) or match.group(4) or ""
+        out.setdefault(name, html_lib.unescape(value.strip()))
+    return out
+
+
+def _looks_like_content_image(url: str, attrs: dict[str, str]) -> bool:
+    if not url or url.startswith("data:"):
+        return False
+    lower = url.lower()
+    if lower.endswith(".svg") or ".svg?" in lower:
+        return False
+    if any(part in lower for part in _BAD_IMAGE_PARTS):
+        return False
+    for key in ("width", "height"):
+        value = attrs.get(key, "")
+        if value.isdigit() and int(value) <= 120:
+            return False
+    return True
+
+
+def page_images(page: str, base_url: str = "", limit: int = 4) -> list[str]:
+    """Картинки со страницы: og:image уже приходит отдельно, здесь — <img>.
+
+    Нужен как резерв для сайтов без og:image (например, ТАСС): если
+    основная картинка не отдаётся Telegram, пробуем следующую.
+    """
+    found: list[str] = []
+    for tag in _IMG_TAG_RE.finditer(page or ""):
+        attrs = _attrs(tag.group(0))
+        raw = attrs.get("src") or attrs.get("data-src") or attrs.get("data-original") or ""
+        if not raw and attrs.get("srcset"):
+            raw = attrs["srcset"].split(",")[0].strip().split(" ")[0]
+        url = urljoin(base_url, raw) if base_url and raw else raw
+        if not url.startswith(("http://", "https://")):
+            continue
+        if not _looks_like_content_image(url, attrs):
+            continue
+        if url not in found:
+            found.append(url)
+        if len(found) >= limit:
+            break
+    return found
+
 
 @dataclass
 class Article:
     body: str = ""
     image: str = ""
     video: str = ""
+    images: tuple[str, ...] = ()
     title: str = ""
     description: str = ""
     status: int = 0
@@ -93,10 +149,13 @@ def fetch_article(cfg: Config, session: requests.Session, url: str) -> Article:
     description = clean_html(meta.get("description", ""))[:2000]
     if not body:
         body = description
+    primary_image = meta.get("image", "")
+    extra_images = [url for url in page_images(page, final_url) if url != primary_image]
     return Article(
         body=body,
-        image=meta.get("image", ""),
+        image=primary_image or (extra_images[0] if extra_images else ""),
         video=meta.get("video", ""),
+        images=tuple(extra_images[:3]),
         title=collapse_ws(meta.get("title", "")),
         description=description,
         status=200,
