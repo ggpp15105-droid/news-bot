@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from newsbot.article import Article, page_images
+from newsbot.article import Article, jsonld_images, link_image, page_images
 
 
 def test_page_images_filters_logos_and_small():
@@ -48,3 +48,42 @@ def test_article_defaults_have_images_field():
     article = Article()
     assert article.images == ()
     assert article.image == ""
+
+
+def test_jsonld_images_dict_list_and_url():
+    html = """
+    <script type="application/ld+json">
+    {"@type":"NewsArticle","image":{"@type":"ImageObject","url":"https://cdn.example.com/a.jpg"}}
+    </script>
+    <script type="application/ld+json">
+    {"@graph":[{"image":["https://cdn.example.com/b.jpg","https://cdn.example.com/c.jpg"]}]}
+    </script>
+    """
+    images = jsonld_images(html, "https://example.com/news/3")
+    assert "https://cdn.example.com/a.jpg" in images
+    assert "https://cdn.example.com/b.jpg" in images
+
+
+def test_jsonld_images_broken_and_relative():
+    html = '<script type="application/ld+json">{битый json</script>'
+    assert jsonld_images(html) == []
+    html_rel = '<script type="application/ld+json">{"image":"/media/x.jpg"}</script>'
+    assert jsonld_images(html_rel, "https://example.com/news/4") == [
+        "https://example.com/media/x.jpg"
+    ]
+
+
+def test_link_image_rel():
+    html = '<link rel="image_src" href="https://cdn.example.com/preview.png">'
+    assert link_image(html) == "https://cdn.example.com/preview.png"
+    assert link_image('<link rel="image_src" href="/i.png">', "https://site.ru/a") == "https://site.ru/i.png"
+    assert link_image("") == ""
+
+
+def test_page_images_skips_counters_and_banners():
+    html = """
+    <img src="https://top-fwz1.mail.ru/counter?id=1">
+    <img src="https://cdn.example.com/banner.jpg" width="900">
+    <img src="https://cdn.example.com/story.jpg" width="900">
+    """
+    assert page_images(html) == ["https://cdn.example.com/story.jpg"]

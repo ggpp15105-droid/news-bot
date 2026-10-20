@@ -3,9 +3,11 @@
 from __future__ import annotations
 
 import html as html_lib
+import json
 import logging
 import re
 from dataclasses import dataclass
+from typing import Any
 from urllib.parse import urljoin, urlsplit
 
 import requests
@@ -26,7 +28,16 @@ _MAX_PAGE_BYTES = 8 * 1024 * 1024
 _IMG_TAG_RE = re.compile(r"<img\b[^>]*>", re.I)
 _ATTR_RE = re.compile(r"""([a-zA-Z_:][-a-zA-Z0-9_:.]*)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))""")
 _BAD_IMAGE_PARTS = ("logo", "icon", "sprite", "avatar", "placeholder", "pixel",
-                    "spacer", "blank.", "favicon", "/emoji/", "badge")
+                    "spacer", "blank.", "favicon", "/emoji/", "badge", "counter",
+                    "subscribe", "newsletter", "banner", "/ads/", "advert", "tracking")
+
+_LD_JSON_RE = re.compile(
+    r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+    re.I | re.S,
+)
+_LINK_IMAGE_RE = re.compile(
+    r'<link\b[^>]*rel=["\'](?:image_src|apple-touch-icon)["\'][^>]*>', re.I
+)
 
 
 def _attrs(tag: str) -> dict[str, str]:
@@ -51,6 +62,59 @@ def _looks_like_content_image(url: str, attrs: dict[str, str]) -> bool:
         if value.isdigit() and int(value) <= 120:
             return False
     return True
+
+
+def jsonld_images(page: str, base_url: str = "", limit: int = 4) -> list[str]:
+    """Картинки из schema.org разметки (JSON-LD).
+
+    Многие новостные сайты (в том числе российские) не отдают og:image,
+    но кладут обложку в ``"image"`` JSON-LD.
+    """
+    found: list[str] = []
+
+    def push(value: Any) -> None:
+        if isinstance(value, str) and value:
+            url = urljoin(base_url, value) if base_url else value
+            if url.startswith(("http://", "https://")) and url not in found:
+                found.append(url)
+        elif isinstance(value, dict):
+            push(value.get("url") or value.get("contentUrl"))
+        elif isinstance(value, list):
+            for entry in value:
+                push(entry)
+
+    for block in _LD_JSON_RE.findall(page or ""):
+        raw = html_lib.unescape(block).strip()
+        if not raw:
+            continue
+        try:
+            data = json.loads(raw)
+        except Exception:
+            continue
+        stack: list[Any] = [data]
+        while stack and len(found) < limit:
+            item = stack.pop()
+            if isinstance(item, list):
+                stack.extend(item)
+            elif isinstance(item, dict):
+                if "image" in item:
+                    push(item["image"])
+                for key, value in item.items():
+                    if key != "image" and isinstance(value, (dict, list)):
+                        stack.append(value)
+    return found[:limit]
+
+
+def link_image(page: str, base_url: str = "") -> str:
+    """``<link rel="image_src">`` — ещё один старый способ отдать обложку."""
+    for tag in _LINK_IMAGE_RE.finditer(page or ""):
+        attrs = _attrs(tag.group(0))
+        href = attrs.get("href", "")
+        if href.startswith(("http://", "https://")):
+            return href
+        if href and base_url:
+            return urljoin(base_url, href)
+    return ""
 
 
 def page_images(page: str, base_url: str = "", limit: int = 4) -> list[str]:
@@ -149,8 +213,12 @@ def fetch_article(cfg: Config, session: requests.Session, url: str) -> Article:
     description = clean_html(meta.get("description", ""))[:2000]
     if not body:
         body = description
-    primary_image = meta.get("image", "")
-    extra_images = [url for url in page_images(page, final_url) if url != primary_image]
+    primary_image = meta.get("image", "") or link_image(page, final_url) \
+        or next(iter(jsonld_images(page, final_url, limit=1)), "")
+    extra_images: list[str] = []
+    for url in (*jsonld_images(page, final_url), *page_images(page, final_url)):
+        if url != primary_image and url not in extra_images:
+            extra_images.append(url)
     return Article(
         body=body,
         image=primary_image or (extra_images[0] if extra_images else ""),
