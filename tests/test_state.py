@@ -58,6 +58,27 @@ def test_alert_cooldown(cfg, state, now):
     assert state.alert_allowed("feed-x", now + 7 * 3600, cooldown_hours=6)
 
 
+def test_chat_id_not_persisted(cfg, state, now):
+    """Идентификатор канала не должен утекать в публичный state.json."""
+    record = {
+        "ts": int(now),
+        "url": "https://example.com/secret",
+        "canonical": "https://example.com/secret",
+        "source": "BBC World",
+        "category": "мир",
+        "chat_id": "-1001234567890",
+    }
+    state.add_posted(record, now)
+    assert "chat_id" not in record
+
+    state.posted["https://example.com/legacy"] = {
+        "ts": int(now), "url": "https://example.com/legacy", "chat_id": "-1001234567890",
+    }
+    state.save(now)
+    saved = json.load(open(cfg.state_file, encoding="utf-8"))
+    assert all("chat_id" not in rec for rec in saved["posted"].values())
+
+
 def test_prune_removes_old(cfg, state, now):
     old = now - (cfg.keep_days + 1) * 86400
     state.posted["https://example.com/old"] = {"ts": int(old), "source": "X"}

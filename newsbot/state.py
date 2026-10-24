@@ -337,6 +337,11 @@ class State:
         cutoff = now - self.cfg.keep_days * 86400
 
         posted: dict[str, dict] = self.data.get("posted", {})
+        # chat_id в записях о постах нигде не читается, а state.json лежит
+        # в публичном репозитории — идентификатор канала там не нужен.
+        for record in posted.values():
+            if isinstance(record, dict):
+                record.pop("chat_id", None)
         kept = {k: v for k, v in posted.items() if int(v.get("ts", 0)) >= cutoff}
         if len(kept) > self.cfg.max_state_posts:
             newest = sorted(kept.items(), key=lambda kv: int(kv[1].get("ts", 0)), reverse=True)
@@ -465,6 +470,7 @@ class State:
         return self.posts_today_by_source(now).get(source, 0) >= self.cfg.max_per_source_per_day
 
     def add_posted(self, record: dict, now: float) -> None:
+        record.pop("chat_id", None)
         canon = record.get("canonical") or canonical_url(record.get("url", ""))
         record["ts"] = int(record.get("ts", now))
         self.posted[canon] = record
