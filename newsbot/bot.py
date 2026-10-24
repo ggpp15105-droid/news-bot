@@ -688,7 +688,6 @@ class NewsBot:
             "category": category,
             "cluster": cluster.get("id", ""),
             "message_id": message_id,
-            "chat_id": chat_id,
             "kind": sent_kind,
             "score": float(cluster.get("score", 0)),
             "translated": translated,
