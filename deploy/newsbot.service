@@ -1,0 +1,31 @@
+[Unit]
+Description=News Bot — RSS → перевод → Telegram
+Documentation=https://github.com/ggpp15105-droid/news-bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=newsbot
+Group=newsbot
+WorkingDirectory=/opt/newsbot
+EnvironmentFile=/etc/newsbot.env
+Environment=PYTHONUNBUFFERED=1
+Environment=TZ=Europe/Moscow
+Environment=STATE_FILE=/opt/newsbot/data/state.json
+ExecStart=/opt/newsbot/.venv/bin/python /opt/newsbot/news_bot.py --loop 600
+Restart=always
+RestartSec=30
+# Мягкая остановка: бот дорабатывает текущий пост, потом выходит.
+KillSignal=SIGTERM
+TimeoutStopSec=180
+
+# Минимальные права: пишем только в свой каталог.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ReadWritePaths=/opt/newsbot/data
+
+[Install]
+WantedBy=multi-user.target
