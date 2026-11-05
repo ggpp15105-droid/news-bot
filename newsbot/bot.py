@@ -101,11 +101,14 @@ class NewsBot:
             preview=self.preview_candidates,
             preview_post=self.preview_post,
             doctor=self.doctor_report,
+            run_cap=self.run_cap,
         )
         self.alerts: list[str] = []
         self.stats = RunStats()
         self._feedback: dict[str, float] = self.state.feedback_by_source()
         self._run_ok = True
+        # Время предыдущего запуска — по нему считается адаптивный темп.
+        self._prev_run_ts = int(self.state.stats.get("last_run_ts", 0) or 0)
 
     # ------------------------------------------------------------------
     # Запуск
@@ -114,9 +117,21 @@ class NewsBot:
     def run(self) -> int:
         start = time.time()
         self.now = start
+        prev_run_ts = int(self.state.stats.get("last_run_ts", 0) or 0)
+        self._prev_run_ts = prev_run_ts
         self.state.stats["runs"] = int(self.state.stats.get("runs", 0)) + 1
         self.state.stats["last_run_ts"] = int(start)
         log.info("Запуск news-bot %s", self.cfg.state_file)
+
+        gap_hours = (start - prev_run_ts) / 3600.0 if prev_run_ts else 0.0
+        if gap_hours >= self.cfg.scheduler_stale_hours:
+            log.warning("Простой %.1f ч: похоже, GitHub режет schedule", gap_hours)
+            # Текст без цифр: иначе ключ алерта меняется каждый запуск
+            # и кулдаун alert_cooldown_hours не срабатывает.
+            self.add_alert(
+                "GitHub перестал запускать бота по расписанию (schedule срезан). "
+                "Нужен внешний пингер — инструкция в README."
+            )
 
         if not self.cfg.dry_run:
             me = self.tg.get_me()
@@ -418,8 +433,32 @@ class NewsBot:
         eligible.sort(key=lambda c: -self._cluster_rank(c, now))
         return eligible
 
-    def _pick(self, pool: list[dict], now: float) -> tuple[list[dict], dict[str, str]]:
+    def run_cap(self, now: float | None = None) -> int:
+        """Сколько постов можно выпустить за этот запуск.
+
+        Базовый лимит — ``MAX_POSTS_PER_RUN``. Если включён адаптивный режим,
+        к нему добавляется «накопленное» время простоя: за каждый час с
+        прошлого запуска капает ``POSTS_PER_HOUR_TARGET`` постов. Так редкие
+        запуски (GitHub режет schedule до 3–4 раз в сутки) не превращают
+        канал в молчащий.
+        """
+        base = self.cfg.max_posts_per_run
+        if not self.cfg.adaptive_posting:
+            return max(0, base)
+        now = self.now if now is None else now
+        prev = int(self._prev_run_ts or 0)
+        gap_hours = max(0.0, (now - prev) / 3600.0) if prev else 0.0
+        accrued = int(gap_hours * self.cfg.posts_per_hour_target)
+        cap = min(base + accrued, max(base, self.cfg.max_posts_per_run_hard))
+        # Часовой и суточный лимиты важнее адаптивного темпа.
+        left_hour = self.cfg.max_posts_per_hour - self._hourly_posts(now)
+        left_day = self.cfg.max_posts_per_day - self.state.posts_today(now)
+        return max(0, min(cap, left_hour, left_day))
+
+    def _pick(self, pool: list[dict], now: float,
+              cap: int | None = None) -> tuple[list[dict], dict[str, str]]:
         """Отбирает посты по квотам. Возвращает выбранные и причины пропуска."""
+        limit = self.run_cap(now) if cap is None else cap
         selected: list[dict] = []
         reasons: dict[str, str] = {}
         per_source: dict[str, int] = {}
@@ -428,8 +467,8 @@ class NewsBot:
             cid = str(cluster.get("id", ""))
             source = str(cluster.get("source", ""))
             category = str(cluster.get("category", "мир"))
-            if len(selected) >= self.cfg.max_posts_per_run:
-                reasons[cid] = f"лимит {self.cfg.max_posts_per_run} постов за запуск"
+            if len(selected) >= limit:
+                reasons[cid] = f"лимит {limit} постов за запуск"
                 continue
             if per_source.get(source, 0) >= self.cfg.max_per_source_per_run:
                 reasons[cid] = (
@@ -457,7 +496,11 @@ class NewsBot:
             return
 
         eligible = self._eligible_pool(now)
-        selected, _ = self._pick(eligible, now)
+        cap = self.run_cap(now)
+        if cap != self.cfg.max_posts_per_run:
+            gap_h = (now - self._prev_run_ts) / 3600.0 if self._prev_run_ts else 0.0
+            log.info("Адаптивный лимит: %d постов за запуск (простой %.1f ч)", cap, gap_h)
+        selected, _ = self._pick(eligible, now, cap)
         quiet = self._is_quiet(now)
 
         if not selected:
@@ -771,7 +814,11 @@ class NewsBot:
     # ------------------------------------------------------------------
 
     def _send_digest(self, chat_id: str, text: str) -> bool:
-        return self.tg.send_text(chat_id, text, preview=False).ok
+        # Дайджест может приехать поздно (GitHub режет schedule).
+        # В тихие часы отправляем без звука, чтобы не будить подписчиков.
+        return self.tg.send_text(
+            chat_id, text, preview=False, silent=self._is_quiet(self.now)
+        ).ok
 
     def _digest_text(self, weekly: bool = False) -> tuple[str, int]:
         """Текст дайджеста без отправки: (html, сколько новостей)."""
@@ -965,10 +1012,10 @@ class NewsBot:
         cid = str(cluster.get("id", ""))
         if cid in ids:
             position = ids.index(cid) + 1
-            if position > self.cfg.max_posts_per_run:
+            cap = self.run_cap(now)
+            if position > cap:
                 reasons.append(
-                    f"в очереди {position}-е место, за запуск выходит "
-                    f"{self.cfg.max_posts_per_run}"
+                    f"в очереди {position}-е место, за запуск выходит {cap}"
                 )
         return reasons
 
@@ -1091,7 +1138,7 @@ class NewsBot:
         else:
             lines.append(
                 f"Сейчас выйдет {len(selected)} из {len(pool)} "
-                f"(лимит {self.cfg.max_posts_per_run} за запуск)"
+                f"(лимит {self.run_cap(now)} за запуск)"
             )
         lines.append("")
         if not pool:

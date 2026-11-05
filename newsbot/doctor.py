@@ -322,7 +322,8 @@ def check_state(cfg: Config, state: State, now: float | None = None) -> list[Che
     return checks
 
 
-def check_schedule(cfg: Config, now: float | None = None) -> list[Check]:
+def check_schedule(cfg: Config, now: float | None = None,
+                   state: State | None = None) -> list[Check]:
     now = time.time() if now is None else now
     local = datetime.fromtimestamp(now, MSK)
     checks: list[Check] = []
@@ -365,6 +366,19 @@ def check_schedule(cfg: Config, now: float | None = None) -> list[Check]:
             + (f" (следующий в {next_hour:%H:%M})" if next_hour else " (сегодня уже прошли)"),
         ))
 
+    last_run = int(state.stats.get("last_run_ts", 0) or 0) if state is not None else 0
+    if last_run:
+        gap_h = max(0.0, (now - last_run) / 3600.0)
+        if gap_h >= cfg.scheduler_stale_hours:
+            checks.append(Check(
+                "Расписание",
+                WARN,
+                f"последний запуск {gap_h:.1f} ч назад — похоже, GitHub срезал schedule",
+                "внешний пингер: раздел README «GitHub режет расписание schedule»",
+            ))
+        else:
+            checks.append(Check("Расписание", OK, f"последний запуск {gap_h:.1f} ч назад"))
+
     if cfg.weekly_recap:
         days = ["пн", "вт", "ср", "чт", "пт", "сб", "вс"]
         checks.append(Check(
@@ -397,7 +411,7 @@ def run(cfg: Config, *, session=None, tg: TelegramClient | None = None,
         ("providers", lambda: check_providers(cfg)),
         ("glossary", lambda: check_glossary(cfg)),
         ("state", lambda: check_state(cfg, state, now)),
-        ("schedule", lambda: check_schedule(cfg, now)),
+        ("schedule", lambda: check_schedule(cfg, now, state)),
     ]
     if with_feeds:
         steps.append(("feeds", lambda: check_feeds(cfg, session, state, now)))

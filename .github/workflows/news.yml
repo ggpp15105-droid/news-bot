@@ -161,6 +161,11 @@ jobs:
           MAX_PER_SOURCE_PER_DAY: ${{ vars.MAX_PER_SOURCE_PER_DAY }}
           MAX_PER_CATEGORY_PER_RUN: ${{ vars.MAX_PER_CATEGORY_PER_RUN }}
           FRESHNESS_HOURS: ${{ vars.FRESHNESS_HOURS }}
+          # Адаптивный темп: за редкий запуск выходит больше постов
+          ADAPTIVE_POSTING: ${{ vars.ADAPTIVE_POSTING }}
+          POSTS_PER_HOUR_TARGET: ${{ vars.POSTS_PER_HOUR_TARGET }}
+          MAX_POSTS_PER_RUN_HARD: ${{ vars.MAX_POSTS_PER_RUN_HARD }}
+          SCHEDULER_STALE_HOURS: ${{ vars.SCHEDULER_STALE_HOURS }}
 
           # Дедупликация и качество
           DEDUP_CONTAINMENT: ${{ vars.DEDUP_CONTAINMENT }}

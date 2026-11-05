@@ -318,6 +318,15 @@ class Config:
     min_score: float = 0.0
     post_delay: float = 3.0
 
+    # GitHub Actions не гарантирует частоту schedule: при высокой нагрузке
+    # запуски режутся с 10 минут до нескольких часов. Чтобы канал не замолкал,
+    # за редкий запуск выходит больше постов — по темпу, который копится
+    # с прошлого запуска.
+    adaptive_posting: bool = True
+    posts_per_hour_target: float = 1.5   # сколько постов «капает» в час
+    max_posts_per_run_hard: int = 8      # потолок на один запуск
+    scheduler_stale_hours: float = 3.0   # после какого простоя предупреждать
+
     keep_days: int = 7
     max_state_posts: int = 5000
     title_window_hours: int = 48
@@ -614,6 +623,10 @@ def load_config(env: Mapping[str, str] | None = None) -> Config:
         max_posts_per_run=_as_int(env, "MAX_POSTS_PER_RUN", 2, 0, 10, warns),
         max_per_source_per_run=_as_int(env, "MAX_PER_SOURCE_PER_RUN", 1, 1, 5, warns),
         max_per_category_per_run=_as_int(env, "MAX_PER_CATEGORY_PER_RUN", 2, 1, 5, warns),
+        adaptive_posting=_as_bool(env, "ADAPTIVE_POSTING", True),
+        posts_per_hour_target=_as_float(env, "POSTS_PER_HOUR_TARGET", 1.5, 0.0, 20.0, warns),
+        max_posts_per_run_hard=_as_int(env, "MAX_POSTS_PER_RUN_HARD", 8, 1, 30, warns),
+        scheduler_stale_hours=_as_float(env, "SCHEDULER_STALE_HOURS", 3.0, 0.0, 48.0, warns),
         max_posts_per_day=_as_int(env, "MAX_POSTS_PER_DAY", 60, 0, 500, warns),
         max_posts_per_hour=_as_int(env, "MAX_POSTS_PER_HOUR", 6, 0, 100, warns),
         max_per_source_per_day=_as_int(env, "MAX_PER_SOURCE_PER_DAY", 12, 0, 100, warns),
