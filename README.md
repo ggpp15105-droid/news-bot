@@ -118,6 +118,10 @@ DRY_RUN=1 python news_bot.py   # полный цикл без публикаци
 | `MAX_POSTS_PER_HOUR` | `6` | Часовой лимит |
 | `MAX_PER_SOURCE_PER_DAY` | `12` | Суточный лимит на источник |
 | `MAX_PER_SOURCE_FETCH` | `8` | Сколько свежих записей брать из ленты |
+| `ADAPTIVE_POSTING` | `true` | Больше постов за запуск, если прошлый был давно (см. ниже) |
+| `POSTS_PER_HOUR_TARGET` | `1.5` | Сколько постов «капает» в час для адаптивного темпа |
+| `MAX_POSTS_PER_RUN_HARD` | `8` | Потолок на один запуск в адаптивном режиме |
+| `SCHEDULER_STALE_HOURS` | `3` | Простой, после которого бот пишет алерт о срезанном расписании |
 | `FRESHNESS_HOURS` | `30` | Максимальный возраст новости |
 | `MIN_SCORE` | `0.0` | Минимальный скор для публикации |
 | `POST_DELAY` | `3.0` | Пауза между постами, секунды |
@@ -294,12 +298,69 @@ CI-workflow `checks` (ruff + pytest) запускается на push/PR и пе
 6. **Эмбеддинги** — при заданном `EMBEDDING_MODEL` сравниваются векторы
    (порог `EMBEDDING_MIN_SIMILARITY`), если текстовых признаков мало.
 
+## GitHub режет расписание schedule
+
+GitHub не гарантирует частоту `schedule`: при высокой нагрузке запуски
+пропускаются. Обычно `*/10` даёт 30–45 запусков в сутки, но бывают периоды,
+когда остаётся 3–5 в сутки — тогда посты выходят редко, а дайджесты опаздывают
+на несколько часов. Код бота тут ни при чём, лечится снаружи.
+
+**Как проверить:**
+
+```bash
+gh run list --workflow news.yml --limit 40 \
+  --json createdAt,event --jq '.[] | select(.event=="schedule") | .createdAt'
+```
+
+Если между запусками по 5–8 часов, а в YAML стоит `*/10` — это оно.
+
+**Что бот делает сам:**
+
+- `ADAPTIVE_POSTING` — за редкий запуск выходит больше постов:
+  `MAX_POSTS_PER_RUN + часы простоя × POSTS_PER_HOUR_TARGET`, но не больше
+  `MAX_POSTS_PER_RUN_HARD`, часовой (`MAX_POSTS_PER_HOUR`) и суточной квот.
+  С настройками по умолчанию после 8-часовой паузы выйдет до 6 постов вместо
+  2 — больше не даст часовой лимит.
+- Если простой больше `SCHEDULER_STALE_HOURS`, бот пишет в личку алерт
+  «GitHub не запускал бота N ч». То же видно в `/status`.
+- Дайджест, приехавший в тихие часы, уходит без звука.
+
+**Как вернуть частые запуски — внешний пингер (5 минут):**
+
+1. Создать fine-grained token: GitHub → Settings → Developer settings →
+   Personal access tokens → Fine-grained tokens. Repository access — только
+   `news-bot`, Permissions → Actions: **Read and write**.
+2. Зарегистрироваться на [cron-job.org](https://cron-job.org) (бесплатно) и
+   создать задачу с расписанием «каждые 10 минут»:
+   - URL: `https://api.github.com/repos/ggpp15105-droid/news-bot/actions/workflows/news.yml/dispatches`
+   - Method: `POST`
+   - Headers:
+     `Authorization: Bearer <токен>`,
+     `Accept: application/vnd.github+json`
+   - Body: `{"ref":"main"}`
+3. Проверить: в Actions появится запуск с событием `workflow_dispatch`.
+
+Проверка вручную из терминала:
+
+```bash
+curl -X POST \
+  -H "Authorization: Bearer $GITHUB_TOKEN" \
+  -H "Accept: application/vnd.github+json" \
+  https://api.github.com/repos/ggpp15105-droid/news-bot/actions/workflows/news.yml/dispatches \
+  -d '{"ref":"main"}'
+```
+
+Токен хранится только в пингере — в репозиторий его класть не нужно.
+`schedule` при этом можно оставить как страховку: лишние запуски бот
+спокойно переносит, повторов не будет.
+
 ## Траблшутинг
 
 | Симптом | Что делать |
 |---|---|
 | `exit 2` при старте | Проверить `BOT_TOKEN` и `CHANNEL_ID` — в логе перечислены все проблемы |
 | Бот молчит | Проверить `QUIET_HOURS`, `paused_until` (`/status`), лимиты `MAX_POSTS_*` |
+| Посты и дайджесты приходят редко/с опозданием | GitHub срезал `schedule` — см. раздел «GitHub режет расписание schedule» |
 | В постах нет картинок | Бот берёт `og:image` / JSON-LD / `image_src` → `<img>` со страницы → картинку из RSS. Ссылку отдаёт Telegram сразу, при ошибке скачивает и грузит файлом, а если картинка не открылась — пробует следующую. Если у источника картинок нет вообще, пост выйдет текстом. Проверить формат: `/test <url>` |
 | Дубли в канале | Понизить `DEDUP_CONTAINMENT`/`DEDUP_JACCARD` нельзя — это увеличит склейку; наоборот, **повысить** пороги. Проверить `TRANSLATE_CHAIN` — без перевода EN/RU-дубли не находятся |
 | Перевод не работает | Бот сам пропускает упавший провайдер после 2 ошибок; смотреть `WARNING` в логе, проверить ключи, поставить `TRANSLATE_CHAIN=google,mymemory,argos` |

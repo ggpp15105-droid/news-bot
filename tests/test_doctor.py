@@ -199,3 +199,28 @@ def test_report_for_admin_returns_text(tmp_path, monkeypatch):
     monkeypatch.setattr(doctor, "run", lambda *a, **k: [doctor.Check("X", doctor.OK, "ok")])
     text = doctor.report_for_admin(cfg)
     assert "Проверка news-bot" in text
+
+
+def test_schedule_warns_when_github_starved_runs(tmp_path):
+    from newsbot.state import State
+
+    cfg = make_cfg(tmp_path)
+    now = time.time()
+    state = State.load(cfg, now)
+    state.stats["last_run_ts"] = int(now - 7.5 * 3600)
+    checks = doctor.check_schedule(cfg, now, state)
+    schedule = [c for c in checks if c.name == "Расписание"]
+    assert schedule and schedule[0].status == doctor.WARN
+    assert "7.5" in schedule[0].detail
+
+
+def test_schedule_ok_when_runs_are_frequent(tmp_path):
+    from newsbot.state import State
+
+    cfg = make_cfg(tmp_path)
+    now = time.time()
+    state = State.load(cfg, now)
+    state.stats["last_run_ts"] = int(now - 40 * 60)
+    checks = doctor.check_schedule(cfg, now, state)
+    schedule = [c for c in checks if c.name == "Расписание"]
+    assert schedule and schedule[0].status == doctor.OK

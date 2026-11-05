@@ -423,3 +423,79 @@ def test_no_image_falls_back_to_text(cfg, now, monkeypatch, tmp_path):
     bot.post_pending()
     cluster = list(bot.state.clusters.values())[0]
     assert cluster["messages"]["@test_channel"]["kind"] == "text"
+
+
+# --- адаптивный темп под редкие запуски (GitHub режет schedule) ------------
+
+
+def test_run_cap_is_base_when_runs_are_frequent(cfg, now):
+    bot = NewsBot(cfg, now)
+    bot._prev_run_ts = int(now - 20 * 60)          # 20 минут назад
+    assert bot.run_cap(now) == cfg.max_posts_per_run == 2
+
+
+def test_run_cap_grows_with_scheduler_gap(cfg, now):
+    bot = NewsBot(cfg, now)
+    bot._prev_run_ts = int(now - 6 * 3600)         # 6 часов простоя
+    # 2 + 6*1.5 = 11, потолок запуска — 8, но часовой лимит — 6
+    assert bot.run_cap(now) == 6
+
+
+def test_run_cap_respects_daily_quota(cfg, now):
+    cfg = cfg.with_overrides(max_posts_per_day=3)
+    bot = NewsBot(cfg, now)
+    bot._prev_run_ts = int(now - 10 * 3600)
+    for i in range(2):
+        bot.state.add_posted({
+            "ts": int(now), "url": f"https://example.com/{i}",
+            "canonical": f"https://example.com/{i}", "source": f"S{i}",
+            "category": "мир",
+        }, now)
+    assert bot.run_cap(now) == 1
+
+
+def test_run_cap_can_be_disabled(cfg, now):
+    cfg = cfg.with_overrides(adaptive_posting=False)
+    bot = NewsBot(cfg, now)
+    bot._prev_run_ts = int(now - 10 * 3600)
+    assert bot.run_cap(now) == 2
+
+
+def test_pick_uses_adaptive_cap(cfg, now):
+    cfg = cfg.with_overrides(max_posts_per_hour=10)
+    bot = NewsBot(cfg, now)
+    bot._prev_run_ts = int(now - 6 * 3600)
+    pool = [
+        {"id": f"c{i}", "source": f"S{i}", "category": f"cat{i}"}
+        for i in range(10)
+    ]
+    selected, _ = bot._pick(pool, now)
+    assert len(selected) == 8
+
+
+def test_digest_is_silent_in_quiet_hours(cfg):
+    night = datetime(2026, 10, 20, 23, 40, tzinfo=MSK).timestamp()
+    cfg = cfg.with_overrides(quiet_hours=(23, 8))
+    bot = NewsBot(cfg, night)
+    seen = {}
+
+    def fake_send(chat_id, text, **kwargs):
+        seen.update(kwargs)
+        return SendResult(True, 1, chat_id)
+
+    bot.tg.send_text = fake_send
+    bot._send_digest("@test_channel", "Дайджест")
+    assert seen.get("silent") is True
+
+
+def test_digest_is_loud_outside_quiet_hours(cfg, now):
+    bot = NewsBot(cfg, now)
+    seen = {}
+
+    def fake_send(chat_id, text, **kwargs):
+        seen.update(kwargs)
+        return SendResult(True, 1, chat_id)
+
+    bot.tg.send_text = fake_send
+    bot._send_digest("@test_channel", "Дайджест")
+    assert seen.get("silent") is False

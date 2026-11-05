@@ -27,6 +27,7 @@ ExplainFn = Callable[[str], str]
 PreviewFn = Callable[[int], str]
 PreviewPostFn = Callable[[str], str]
 DoctorFn = Callable[[], str]
+RunCapFn = Callable[[], int]
 
 
 HELP = """<b>Команды</b>
@@ -57,7 +58,8 @@ class AdminService:
                  explain: ExplainFn | None = None,
                  preview: PreviewFn | None = None,
                  preview_post: PreviewPostFn | None = None,
-                 doctor: DoctorFn | None = None):
+                 doctor: DoctorFn | None = None,
+                 run_cap: RunCapFn | None = None):
         self.cfg = cfg
         self.state = state
         self.tg = tg
@@ -69,6 +71,7 @@ class AdminService:
         self.preview = preview
         self.preview_post = preview_post
         self.doctor = doctor
+        self.run_cap = run_cap or (lambda: cfg.max_posts_per_run)
 
     # ------------------------------------------------------------------
     # Poll
@@ -204,9 +207,16 @@ class AdminService:
             f"Последний запуск: {esc(human_age(self.now - last_run)) if last_run else '—'} назад",
             f"Кластеров в памяти: {len(self.state.clusters)}",
             f"Дайджест: слот {esc(self.state.digest_meta.get('slot') or '—')}",
+            f"Лимит этого запуска: {self.run_cap()} постов",
             f"Переводчики: {esc(self.translator_report())}",
             f"Кэш переводов: {len(self.state.data.get('translations', {}))}",
         ]
+        gap_h = (self.now - last_run) / 3600.0 if last_run else 0.0
+        if gap_h >= self.cfg.scheduler_stale_hours:
+            lines.append(
+                f"⚠️ GitHub режет расписание: простой {gap_h:.1f} ч. "
+                "Нужен внешний пингер (см. README)."
+            )
         disabled = self.state.disabled_feeds()
         if disabled:
             lines.append(f"Выключены вручную: {esc(', '.join(sorted(disabled)))}")
