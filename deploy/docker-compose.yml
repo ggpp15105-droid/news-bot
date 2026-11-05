@@ -1,0 +1,20 @@
+services:
+  newsbot:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    image: newsbot:latest
+    container_name: newsbot
+    restart: unless-stopped
+    env_file:
+      - ../.env
+    environment:
+      STATE_FILE: /data/state.json
+      TZ: Europe/Moscow
+    volumes:
+      - ./data:/data
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

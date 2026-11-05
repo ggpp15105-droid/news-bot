@@ -152,3 +152,45 @@ def test_default_runs_bot(env, monkeypatch):
 
     monkeypatch.setattr("newsbot.bot.NewsBot", FakeBot)
     assert cli.main([]) == 0
+
+
+# --- режим демона для VPS/Docker -------------------------------------------
+
+
+def test_loop_flag_default_interval():
+    assert cli.parse_args(["--loop"]).loop == 600
+    assert cli.parse_args(["--loop", "120"]).loop == 120
+    assert cli.parse_args([]).loop == 0
+
+
+def test_run_loop_makes_requested_iterations(cfg):
+    calls = []
+
+    class FakeBot:
+        def __init__(self, config):
+            self.cfg = config
+
+        def run(self):
+            calls.append(1)
+            return 0
+
+    from newsbot.cli import run_loop
+    code = run_loop(cfg, interval=0, max_runs=3, bot_factory=FakeBot)
+    assert code == 0
+    assert len(calls) == 3
+
+
+def test_run_loop_survives_failed_run(cfg):
+    calls = []
+
+    class FlakyBot:
+        def __init__(self, config):
+            self.cfg = config
+
+        def run(self):
+            calls.append(1)
+            raise RuntimeError("Telegram недоступен")
+
+    from newsbot.cli import run_loop
+    assert run_loop(cfg, interval=0, max_runs=4, bot_factory=FlakyBot) == 0
+    assert len(calls) == 4      # демон пережил все падения

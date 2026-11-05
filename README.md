@@ -46,6 +46,7 @@ DRY_RUN=1 python news_bot.py   # полный цикл без публикаци
 | `python news_bot.py --post URL` | опубликовать конкретную ссылку (с `--dry-run` — показать черновик) |
 | `python news_bot.py --digest` | отправить дайджест немедленно |
 | `python news_bot.py --recap` | отправить недельный обзор |
+| `python news_bot.py --loop [SEC]` | работать демоном: запуск раз в SEC секунд (по умолчанию 600). Нужен на VPS/Docker без GitHub Actions |
 | `python news_bot.py --version` | версия |
 
 Флаг `--dry-run` перекрывает `DRY_RUN` из окружения в обе стороны: удобно
@@ -240,6 +241,8 @@ news_bot.py            # тонкий entrypoint → newsbot.cli
 newsbot/
   cli.py               # --doctor/--dry-run/--post/--digest/--recap
   doctor.py            # preflight-проверки окружения
+
+deploy/                # запуск вне GitHub Actions (Docker, systemd)
   config.py            # Config dataclass, парсинг env, фиды, категории
   util.py              # МСК-время, безопасный HTTP (SSRF-защита), хэши, escape
   state.py             # State: state.json / Upstash Redis, миграция, prune, квоты
@@ -353,6 +356,37 @@ curl -X POST \
 Токен хранится только в пингере — в репозиторий его класть не нужно.
 `schedule` при этом можно оставить как страховку: лишние запуски бот
 спокойно переносит, повторов не будет.
+
+## Работа совсем без GitHub Actions
+
+Если хочется уйти с GitHub на обычный сервер, бот это умеет: `--loop` крутит
+обычные запуски с заданным интервалом, состояние живёт в файле на диске и
+больше не коммитится в репозиторий.
+
+Готовые файлы — в каталоге [`deploy/`](deploy/README.md):
+
+| Файл | Для чего |
+|---|---|
+| `deploy/Dockerfile` | образ без `argostranslate` (torch ~800 МБ не нужен на сервере) |
+| `deploy/docker-compose.yml` | запуск одной командой, автоперезапуск, состояние в `deploy/data/` |
+| `deploy/newsbot.service` | unit для systemd, если Docker не нужен |
+| `deploy/README.md` | пошагово: Oracle Cloud Always Free, GCP e2-micro, мониторинг, бэкап |
+
+Короткая версия:
+
+```bash
+docker compose -f deploy/docker-compose.yml up -d --build
+docker compose -f deploy/docker-compose.yml logs -f
+```
+
+Бесплатные площадки, которые действительно подходят: **Oracle Cloud Always
+Free** (ARM 2 OCPU / 12 ГБ, с июня 2026 — было 4/24), **Google Cloud e2-micro**
+(1 ГБ, тесновато без argos), домашний ПК или Raspberry Pi. Vercel/Netlify дают
+cron только раз в сутки, Render — только платный cron, Cloudflare Workers не
+потянет `lxml`/`trafilatura`.
+
+**Перед переездом отключите GitHub-расписание** (Actions → News Bot →
+Disable workflow): два экземпляра с разными состояниями опубликуют дубли.
 
 ## Траблшутинг
 

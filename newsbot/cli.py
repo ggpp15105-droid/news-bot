@@ -9,6 +9,7 @@
     --recap           отправить недельный обзор сейчас
     --version         версия бота
     --verbose         подробный лог (DEBUG)
+    --loop [SEC]      работать демоном: запуск раз в SEC секунд (по умолчанию 600)
 
 Без опций поведение прежнее: один обычный запуск бота.
 """
@@ -18,7 +19,9 @@ from __future__ import annotations
 import argparse
 import logging
 import os
+import signal
 import sys
+import time
 from typing import Sequence
 
 from . import __version__
@@ -45,6 +48,8 @@ def build_parser() -> argparse.ArgumentParser:
                         help="отправить недельный обзор немедленно")
     parser.add_argument("--version", action="store_true", help="показать версию")
     parser.add_argument("--verbose", action="store_true", help="лог уровня DEBUG")
+    parser.add_argument("--loop", nargs="?", const=600, type=int, default=0, metavar="SEC",
+                        help="работать демоном: запуск раз в SEC секунд (для VPS, без GitHub Actions)")
     return parser
 
 
@@ -120,6 +125,8 @@ def main(argv: Sequence[str] | None = None) -> int:
             return 1
         return 0
 
+    if args.loop:
+        return run_loop(cfg, args.loop)
     try:
         return bot.run()
     except Exception as exc:
@@ -131,3 +138,56 @@ def main(argv: Sequence[str] | None = None) -> int:
         except Exception:
             pass
         return 1
+
+
+# ---------------------------------------------------------------------------
+# Режим демона (VPS / Docker): без GitHub Actions и его schedule
+# ---------------------------------------------------------------------------
+
+def run_loop(cfg: Config, interval: int, max_runs: int = 0,
+             bot_factory=None) -> int:
+    """Крутит обычный запуск бота каждые ``interval`` секунд.
+
+    Нужен для площадок, где есть постоянно работающий процесс (VPS, Docker,
+    Raspberry Pi), но нет надёжного планировщика. Каждая итерация создаёт
+    новый ``NewsBot``: состояние перечитывается с диска, кэши не растут.
+
+    ``max_runs`` ограничивает число итераций (используется в тестах),
+    ``bot_factory`` позволяет подменить класс бота.
+    """
+    interval = max(0, int(interval))
+    stop = {"flag": False}
+
+    def _handle(signum, _frame):
+        log.info("Получен сигнал %s — останавливаюсь после текущего шага", signum)
+        stop["flag"] = True
+
+    for sig in (signal.SIGTERM, signal.SIGINT):
+        try:
+            signal.signal(sig, _handle)
+        except (ValueError, OSError):  # не в главном потоке или нет прав
+            pass
+
+    log.info("Режим демона: запуск каждые %d с (Ctrl+C — остановка)", interval)
+    runs = 0
+    while not stop["flag"]:
+        started = time.time()
+        try:
+            if bot_factory is not None:
+                bot = bot_factory(cfg)
+            else:
+                from .bot import NewsBot
+                bot = NewsBot(cfg)
+            bot.run()
+        except Exception:
+            # Один упавший запуск не должен убивать демон.
+            log.exception("Запуск упал, продолжаю через %d с", interval)
+        runs += 1
+        if max_runs and runs >= max_runs:
+            break
+        remaining = interval - (time.time() - started)
+        while remaining > 0 and not stop["flag"]:
+            time.sleep(min(5, remaining))
+            remaining = interval - (time.time() - started)
+    log.info("Демон остановлен, итераций: %d", runs)
+    return 0
